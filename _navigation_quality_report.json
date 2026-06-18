@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-18T00:33:30.564494Z",
+  "summary": {
+    "total_pages_with_permalink": 212,
+    "visible_pages": 183,
+    "hidden_pages": 29,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1255,
+    "inline_internal_target_page_count": 183,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 183,
+    "average_inline_inbound_links_per_visible_page": 6.86,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_blue_book_unidentifi_26be24",
+        "title": "Unidentified",
+        "permalink": "/unidentified/",
+        "inline_inbound_count": 113
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6",
+        "title": "Radar",
+        "permalink": "/radar/",
+        "inline_inbound_count": 94
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79",
+        "title": "Reporting",
+        "permalink": "/reporting/",
+        "inline_inbound_count": 81
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18",
+        "title": "What Really Links UFOs And Nukes?",
+        "permalink": "/ufos-and-nuclear-weapons/",
+        "inline_inbound_count": 75
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_unresolved_meaning_12b05d",
+        "title": "Unresolved",
+        "permalink": "/unresolved/",
+        "inline_inbound_count": 68
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884",
+        "title": "Failures",
+        "permalink": "/failures/",
+        "inline_inbound_count": 43
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175",
+        "title": "Secrecy",
+        "permalink": "/secrecy/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e",
+        "title": "Airspace",
+        "permalink": "/airspace/",
+        "inline_inbound_count": 41
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262",
+        "title": "Blue Book",
+        "permalink": "/blue-book/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "title": "Salas",
+        "permalink": "/salas/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptical_reactions_1f886e",
+        "title": "Sceptics",
+        "permalink": "/sceptics/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "title": "AARO",
+        "permalink": "/aaro/",
+        "inline_inbound_count": 31
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb",
+        "title": "Missile Fields",
+        "permalink": "/missile-fields/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_missile_field_corrob_b48887",
+        "title": "Corroboration",
+        "permalink": "/corroboration/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+        "title": "Drones",
+        "permalink": "/drones/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0",
+        "title": "Radar return",
+        "permalink": "/radar-return/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57",
+        "title": "Rendlesham",
+        "permalink": "/rendlesham/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20",
+        "title": "Witnesses",
+        "permalink": "/witnesses/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8",
+        "title": "2010 Event",
+        "permalink": "/2010-event/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_drone_detection_laye_bee5ac",
+        "title": "Detection",
+        "permalink": "/detection/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c",
+        "title": "Misidentification",
+        "permalink": "/misidentification/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+        "title": "Custody",
+        "permalink": "/custody/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4",
+        "title": "Silos",
+        "permalink": "/silos/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_storage_security_log_671c19",
+        "title": "Security Logs",
+        "permalink": "/security-logs/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a",
+        "title": "Ellsworth",
+        "permalink": "/ellsworth/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_reentry_decoys_ufo_a_a2f071",
+        "title": "Decoys",
+        "permalink": "/decoys/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_bentwaters_nuclear_c_a232cb",
+        "title": "Bentwaters",
+        "permalink": "/bentwaters/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a",
+        "title": "Logic Coupler",
+        "permalink": "/logic-coupler/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b",
+        "title": "Readiness",
+        "permalink": "/readiness-b2cf50/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca",
+        "title": "Secret Tests",
+        "permalink": "/secret-tests/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_radiation_readings_68dd0e",
+        "title": "Radiation",
+        "permalink": "/radiation/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6",
+        "title": "Storage Sites",
+        "permalink": "/storage-sites/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6",
+        "title": "Robertson Panel",
+        "permalink": "/robertson-panel/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_false_radar_targets_b44d51",
+        "title": "False Targets",
+        "permalink": "/false-targets/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "title": "Test Ranges",
+        "permalink": "/test-ranges/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_service_member_stora_56fadf",
+        "title": "Witness Claims",
+        "permalink": "/witness-claims/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_vandenberg_missing_f_952d98",
+        "title": "Missing Film",
+        "permalink": "/missing-film/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_situation4_security_16dfe8",
+        "title": "Alarm response",
+        "permalink": "/alarm-response/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_echo_noise_pulse_f1bdcd",
+        "title": "Noise Pulse",
+        "permalink": "/noise-pulse/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+        "title": "Malmstrom",
+        "permalink": "/malmstrom/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_blue_book_public_mis_081b20",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_alien_claim_proof_th_a1831a",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_malmstrom_causation_fae75e",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_index",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18",
+        "to": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18",
+        "type": "parent"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_blue_book_public_mis_081b20",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_alien_claim_proof_th_a1831a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_malmstrom_causation_fae75e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_echo_flight_filters_75e527",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_echo_noise_pulse_f1bdcd",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_index",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_malmstrom_emp_test_c_2edb37",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "to": "UFOs_and_nuclear_wea_3f6b18",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18",
+        "type": "parent"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_blue_book_public_mis_081b20",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_alien_claim_proof_th_a1831a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_malmstrom_causation_fae75e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_vs_older_archiv_3b8df9",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_index",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_unresolved_meaning_12b05d",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_vandenberg_missing_f_952d98",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "to": "UFOs_and_nuclear_wea_3f6b18",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18",
+        "type": "parent"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_blue_book_public_mis_081b20",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_alien_claim_proof_th_a1831a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_malmstrom_causation_fae75e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_blue_book_range_limi_16297c",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_index",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_los_alamos_green_fir_4c5165",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_reentry_decoys_ufo_a_a2f071",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_vandenberg_launch_sc_26cbef",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_white_sands_ufo_fact_bac92f",
+        "type": "child"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+        "to": "UFOs_and_nuclear_wea_3f6b18",
+        "type": "ancestor"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18",
+        "type": "parent"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_blue_book_public_mis_081b20",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_alien_claim_proof_th_a1831a",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_malmstrom_causation_fae75e",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+        "to": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6",
+        "type": "sibling"
+      }
+    ]
+  }
+}

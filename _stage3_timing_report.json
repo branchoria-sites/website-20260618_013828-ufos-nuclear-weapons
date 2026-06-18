@@ -1,0 +1,3011 @@
+{
+  "version": 1,
+  "page_count": 183,
+  "total_page_seconds": 24052.6431,
+  "average_page_seconds": 131.4352,
+  "phase_totals_seconds": {
+    "preparation": 23160.3487,
+    "youtube": 596.4381,
+    "monetization": 132.2854,
+    "media_svg": 97.3037,
+    "content_assembly": 60.129,
+    "quality_write": 6.138
+  },
+  "slowest_pages": [
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 347.6876,
+      "phases": {
+        "preparation": 331.7537,
+        "media_svg": 0.1221,
+        "youtube": 15.2407,
+        "content_assembly": 0.4553,
+        "monetization": 0.0674,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 274.9105,
+      "phases": {
+        "preparation": 251.7857,
+        "media_svg": 0.0996,
+        "youtube": 22.4622,
+        "content_assembly": 0.4559,
+        "monetization": 0.0595,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 271.6727,
+      "phases": {
+        "preparation": 266.6807,
+        "media_svg": 0.1065,
+        "youtube": 4.317,
+        "content_assembly": 0.4659,
+        "monetization": 0.0566,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 250.4518,
+      "phases": {
+        "preparation": 244.9289,
+        "media_svg": 0.1275,
+        "youtube": 4.8122,
+        "content_assembly": 0.4678,
+        "monetization": 0.0664,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 246.105,
+      "phases": {
+        "preparation": 237.6383,
+        "media_svg": 0.1465,
+        "youtube": 1.4708,
+        "content_assembly": 0.5651,
+        "monetization": 6.2161,
+        "quality_write": 0.0681
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 245.3326,
+      "phases": {
+        "preparation": 235.4955,
+        "media_svg": 0.2663,
+        "youtube": 4.289,
+        "content_assembly": 0.4468,
+        "monetization": 4.7879,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 237.6328,
+      "phases": {
+        "preparation": 228.1712,
+        "media_svg": 0.115,
+        "youtube": 4.0091,
+        "content_assembly": 0.445,
+        "monetization": 4.8463,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 225.4009,
+      "phases": {
+        "preparation": 224.1848,
+        "media_svg": 0.1056,
+        "youtube": 0.5648,
+        "content_assembly": 0.4395,
+        "monetization": 0.0635,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 225.352,
+      "phases": {
+        "preparation": 224.7533,
+        "media_svg": 0.0598,
+        "youtube": 0.0111,
+        "content_assembly": 0.4453,
+        "monetization": 0.0364,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 217.5107,
+      "phases": {
+        "preparation": 216.2807,
+        "media_svg": 0.1234,
+        "youtube": 0.5672,
+        "content_assembly": 0.4402,
+        "monetization": 0.0548,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 216.3768,
+      "phases": {
+        "preparation": 212.2825,
+        "media_svg": 0.1295,
+        "youtube": 3.439,
+        "content_assembly": 0.4258,
+        "monetization": 0.0564,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 211.0084,
+      "phases": {
+        "preparation": 209.8136,
+        "media_svg": 0.1243,
+        "youtube": 0.5588,
+        "content_assembly": 0.4144,
+        "monetization": 0.0562,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 210.9189,
+      "phases": {
+        "preparation": 168.0082,
+        "media_svg": 0.1845,
+        "youtube": 36.8158,
+        "content_assembly": 0.4396,
+        "monetization": 5.4277,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 206.371,
+      "phases": {
+        "preparation": 202.9112,
+        "media_svg": 0.1503,
+        "youtube": 0.5649,
+        "content_assembly": 0.4257,
+        "monetization": 2.2708,
+        "quality_write": 0.048
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 203.8354,
+      "phases": {
+        "preparation": 194.3921,
+        "media_svg": 0.1404,
+        "youtube": 0.5661,
+        "content_assembly": 0.4295,
+        "monetization": 8.2645,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 202.8593,
+      "phases": {
+        "preparation": 197.0855,
+        "media_svg": 0.1251,
+        "youtube": 5.0849,
+        "content_assembly": 0.4463,
+        "monetization": 0.0732,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 197.5051,
+      "phases": {
+        "preparation": 183.8078,
+        "media_svg": 0.1653,
+        "youtube": 7.4407,
+        "content_assembly": 0.4082,
+        "monetization": 5.6413,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 195.5652,
+      "phases": {
+        "preparation": 191.6088,
+        "media_svg": 0.0609,
+        "youtube": 3.3668,
+        "content_assembly": 0.4328,
+        "monetization": 0.0504,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 192.4014,
+      "phases": {
+        "preparation": 184.1836,
+        "media_svg": 0.1381,
+        "youtube": 7.5298,
+        "content_assembly": 0.4483,
+        "monetization": 0.0583,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 190.823,
+      "phases": {
+        "preparation": 189.6357,
+        "media_svg": 0.1053,
+        "youtube": 0.5621,
+        "content_assembly": 0.4169,
+        "monetization": 0.0595,
+        "quality_write": 0.0435
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 210.9189,
+      "phases": {
+        "preparation": 168.0082,
+        "media_svg": 0.1845,
+        "youtube": 36.8158,
+        "content_assembly": 0.4396,
+        "monetization": 5.4277,
+        "quality_write": 0.043
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 246.105,
+      "phases": {
+        "preparation": 237.6383,
+        "media_svg": 0.1465,
+        "youtube": 1.4708,
+        "content_assembly": 0.5651,
+        "monetization": 6.2161,
+        "quality_write": 0.0681
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 148.0556,
+      "phases": {
+        "preparation": 143.2247,
+        "media_svg": 0.0646,
+        "youtube": 4.2184,
+        "content_assembly": 0.4705,
+        "monetization": 0.036,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 250.4518,
+      "phases": {
+        "preparation": 244.9289,
+        "media_svg": 0.1275,
+        "youtube": 4.8122,
+        "content_assembly": 0.4678,
+        "monetization": 0.0664,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 138.0221,
+      "phases": {
+        "preparation": 136.8908,
+        "media_svg": 0.0895,
+        "youtube": 0.5474,
+        "content_assembly": 0.4148,
+        "monetization": 0.0378,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 195.5652,
+      "phases": {
+        "preparation": 191.6088,
+        "media_svg": 0.0609,
+        "youtube": 3.3668,
+        "content_assembly": 0.4328,
+        "monetization": 0.0504,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 237.6328,
+      "phases": {
+        "preparation": 228.1712,
+        "media_svg": 0.115,
+        "youtube": 4.0091,
+        "content_assembly": 0.445,
+        "monetization": 4.8463,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 203.8354,
+      "phases": {
+        "preparation": 194.3921,
+        "media_svg": 0.1404,
+        "youtube": 0.5661,
+        "content_assembly": 0.4295,
+        "monetization": 8.2645,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 206.371,
+      "phases": {
+        "preparation": 202.9112,
+        "media_svg": 0.1503,
+        "youtube": 0.5649,
+        "content_assembly": 0.4257,
+        "monetization": 2.2708,
+        "quality_write": 0.048
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 142.8489,
+      "phases": {
+        "preparation": 141.237,
+        "media_svg": 0.1256,
+        "youtube": 0.9636,
+        "content_assembly": 0.4202,
+        "monetization": 0.0619,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 274.9105,
+      "phases": {
+        "preparation": 251.7857,
+        "media_svg": 0.0996,
+        "youtube": 22.4622,
+        "content_assembly": 0.4559,
+        "monetization": 0.0595,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 150.5295,
+      "phases": {
+        "preparation": 138.8611,
+        "media_svg": 0.1128,
+        "youtube": 11.0065,
+        "content_assembly": 0.4491,
+        "monetization": 0.0562,
+        "quality_write": 0.0438
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 216.3768,
+      "phases": {
+        "preparation": 212.2825,
+        "media_svg": 0.1295,
+        "youtube": 3.439,
+        "content_assembly": 0.4258,
+        "monetization": 0.0564,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 225.4009,
+      "phases": {
+        "preparation": 224.1848,
+        "media_svg": 0.1056,
+        "youtube": 0.5648,
+        "content_assembly": 0.4395,
+        "monetization": 0.0635,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 211.0084,
+      "phases": {
+        "preparation": 209.8136,
+        "media_svg": 0.1243,
+        "youtube": 0.5588,
+        "content_assembly": 0.4144,
+        "monetization": 0.0562,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 245.3326,
+      "phases": {
+        "preparation": 235.4955,
+        "media_svg": 0.2663,
+        "youtube": 4.289,
+        "content_assembly": 0.4468,
+        "monetization": 4.7879,
+        "quality_write": 0.0472
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 157.3322,
+      "phases": {
+        "preparation": 156.2028,
+        "media_svg": 0.0766,
+        "youtube": 0.5554,
+        "content_assembly": 0.3984,
+        "monetization": 0.057,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 162.8218,
+      "phases": {
+        "preparation": 157.5266,
+        "media_svg": 0.1018,
+        "youtube": 0.5702,
+        "content_assembly": 0.4205,
+        "monetization": 4.1609,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 225.352,
+      "phases": {
+        "preparation": 224.7533,
+        "media_svg": 0.0598,
+        "youtube": 0.0111,
+        "content_assembly": 0.4453,
+        "monetization": 0.0364,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 197.5051,
+      "phases": {
+        "preparation": 183.8078,
+        "media_svg": 0.1653,
+        "youtube": 7.4407,
+        "content_assembly": 0.4082,
+        "monetization": 5.6413,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 202.8593,
+      "phases": {
+        "preparation": 197.0855,
+        "media_svg": 0.1251,
+        "youtube": 5.0849,
+        "content_assembly": 0.4463,
+        "monetization": 0.0732,
+        "quality_write": 0.0443
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 192.4014,
+      "phases": {
+        "preparation": 184.1836,
+        "media_svg": 0.1381,
+        "youtube": 7.5298,
+        "content_assembly": 0.4483,
+        "monetization": 0.0583,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 217.5107,
+      "phases": {
+        "preparation": 216.2807,
+        "media_svg": 0.1234,
+        "youtube": 0.5672,
+        "content_assembly": 0.4402,
+        "monetization": 0.0548,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 159.9393,
+      "phases": {
+        "preparation": 158.7328,
+        "media_svg": 0.1385,
+        "youtube": 0.5564,
+        "content_assembly": 0.4237,
+        "monetization": 0.0427,
+        "quality_write": 0.0452
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 347.6876,
+      "phases": {
+        "preparation": 331.7537,
+        "media_svg": 0.1221,
+        "youtube": 15.2407,
+        "content_assembly": 0.4553,
+        "monetization": 0.0674,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 271.6727,
+      "phases": {
+        "preparation": 266.6807,
+        "media_svg": 0.1065,
+        "youtube": 4.317,
+        "content_assembly": 0.4659,
+        "monetization": 0.0566,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 164.827,
+      "phases": {
+        "preparation": 163.5828,
+        "media_svg": 0.1293,
+        "youtube": 0.5841,
+        "content_assembly": 0.4115,
+        "monetization": 0.0781,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 184.4215,
+      "phases": {
+        "preparation": 179.8129,
+        "media_svg": 0.2585,
+        "youtube": 3.7442,
+        "content_assembly": 0.5058,
+        "monetization": 0.0563,
+        "quality_write": 0.0439
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 190.823,
+      "phases": {
+        "preparation": 189.6357,
+        "media_svg": 0.1053,
+        "youtube": 0.5621,
+        "content_assembly": 0.4169,
+        "monetization": 0.0595,
+        "quality_write": 0.0435
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_echo_noise_pulse_f1bdcd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 79.6207,
+      "phases": {
+        "preparation": 74.4846,
+        "media_svg": 0.7156,
+        "youtube": 4.0327,
+        "content_assembly": 0.2943,
+        "monetization": 0.065,
+        "quality_write": 0.0285
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_osi_briefing_nda_007e60",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 80.1438,
+      "phases": {
+        "preparation": 78.9022,
+        "media_svg": 0.3222,
+        "youtube": 0.5585,
+        "content_assembly": 0.2874,
+        "monetization": 0.0455,
+        "quality_write": 0.028
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 153.0659,
+      "phases": {
+        "preparation": 138.7915,
+        "media_svg": 0.7158,
+        "youtube": 13.1557,
+        "content_assembly": 0.3159,
+        "monetization": 0.0549,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_unresolved_meaning_12b05d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 115.0207,
+      "phases": {
+        "preparation": 113.828,
+        "media_svg": 0.269,
+        "youtube": 0.5571,
+        "content_assembly": 0.3008,
+        "monetization": 0.0345,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_lost_ufo_film_54ee4c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 111.1249,
+      "phases": {
+        "preparation": 109.4929,
+        "media_svg": 0.6784,
+        "youtube": 0.5723,
+        "content_assembly": 0.2851,
+        "monetization": 0.0688,
+        "quality_write": 0.0274
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_echo_flight_filters_75e527",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 83.4768,
+      "phases": {
+        "preparation": 81.8495,
+        "media_svg": 0.6721,
+        "youtube": 0.5737,
+        "content_assembly": 0.2977,
+        "monetization": 0.0529,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_jag31_comms_gap_344d15",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 108.6014,
+      "phases": {
+        "preparation": 104.2929,
+        "media_svg": 0.2654,
+        "youtube": 3.681,
+        "content_assembly": 0.286,
+        "monetization": 0.0467,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_fred_meiwald_role_0bc5d0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 90.2141,
+      "phases": {
+        "preparation": 87.4302,
+        "media_svg": 1.795,
+        "youtube": 0.618,
+        "content_assembly": 0.3015,
+        "monetization": 0.0402,
+        "quality_write": 0.0292
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 62.3694,
+      "phases": {
+        "preparation": 60.7386,
+        "media_svg": 0.6757,
+        "youtube": 0.5827,
+        "content_assembly": 0.2867,
+        "monetization": 0.0566,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_malmstrom_emp_test_c_2edb37",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 104.5907,
+      "phases": {
+        "preparation": 101.7781,
+        "media_svg": 0.6331,
+        "youtube": 0.0113,
+        "content_assembly": 0.2856,
+        "monetization": 1.8538,
+        "quality_write": 0.0288
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 91.9279,
+      "phases": {
+        "preparation": 90.3127,
+        "media_svg": 0.6781,
+        "youtube": 0.5581,
+        "content_assembly": 0.295,
+        "monetization": 0.0536,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 62.8335,
+      "phases": {
+        "preparation": 62.2035,
+        "media_svg": 0.2705,
+        "youtube": 0.0089,
+        "content_assembly": 0.2756,
+        "monetization": 0.046,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 116.8744,
+      "phases": {
+        "preparation": 107.04,
+        "media_svg": 0.6912,
+        "youtube": 3.6999,
+        "content_assembly": 0.3031,
+        "monetization": 5.1107,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 104.9538,
+      "phases": {
+        "preparation": 101.5517,
+        "media_svg": 0.2792,
+        "youtube": 0.5617,
+        "content_assembly": 0.2959,
+        "monetization": 2.2329,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_minot_radar_test_1a6a6d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 145.2281,
+      "phases": {
+        "preparation": 143.6046,
+        "media_svg": 0.661,
+        "youtube": 0.5768,
+        "content_assembly": 0.2979,
+        "monetization": 0.0557,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 90.9677,
+      "phases": {
+        "preparation": 88.3393,
+        "media_svg": 0.1635,
+        "youtube": 0.5708,
+        "content_assembly": 0.2964,
+        "monetization": 1.5636,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_vs_older_archiv_3b8df9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.3496,
+      "phases": {
+        "preparation": 143.3528,
+        "media_svg": 0.2652,
+        "youtube": 6.3439,
+        "content_assembly": 0.318,
+        "monetization": 0.0382,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 111.6927,
+      "phases": {
+        "preparation": 110.4821,
+        "media_svg": 0.2669,
+        "youtube": 0.5672,
+        "content_assembly": 0.3045,
+        "monetization": 0.0401,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_vandenberg_missing_f_952d98",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 77.6372,
+      "phases": {
+        "preparation": 76.4296,
+        "media_svg": 0.2826,
+        "youtube": 0.5729,
+        "content_assembly": 0.288,
+        "monetization": 0.0354,
+        "quality_write": 0.0287
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_radarscope_photos_54523a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 98.2958,
+      "phases": {
+        "preparation": 96.8288,
+        "media_svg": 0.2729,
+        "youtube": 0.0084,
+        "content_assembly": 0.2896,
+        "monetization": 0.8644,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_guard_calls_hearsay_f7738f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 83.1368,
+      "phases": {
+        "preparation": 81.8506,
+        "media_svg": 0.2723,
+        "youtube": 0.5818,
+        "content_assembly": 0.3589,
+        "monetization": 0.0431,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_los_alamos_green_fir_4c5165",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 112.5256,
+      "phases": {
+        "preparation": 107.7067,
+        "media_svg": 0.6699,
+        "youtube": 3.7674,
+        "content_assembly": 0.2931,
+        "monetization": 0.0567,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_blue_book_range_limi_16297c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 136.5417,
+      "phases": {
+        "preparation": 134.889,
+        "media_svg": 0.6989,
+        "youtube": 0.5697,
+        "content_assembly": 0.2999,
+        "monetization": 0.0532,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_reentry_decoys_ufo_a_a2f071",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.0586,
+      "phases": {
+        "preparation": 122.3895,
+        "media_svg": 0.7074,
+        "youtube": 0.5719,
+        "content_assembly": 0.3043,
+        "monetization": 0.0541,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_vandenberg_launch_sc_26cbef",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 170.5353,
+      "phases": {
+        "preparation": 168.8498,
+        "media_svg": 0.702,
+        "youtube": 0.5846,
+        "content_assembly": 0.3113,
+        "monetization": 0.0542,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.3014,
+      "phases": {
+        "preparation": 97.8841,
+        "media_svg": 0.6909,
+        "youtube": 4.3546,
+        "content_assembly": 0.2878,
+        "monetization": 0.0534,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_white_sands_ufo_fact_bac92f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 172.3069,
+      "phases": {
+        "preparation": 162.5354,
+        "media_svg": 0.6921,
+        "youtube": 8.6821,
+        "content_assembly": 0.3101,
+        "monetization": 0.0549,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_french_drone_wave_2e6114",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 97.4226,
+      "phases": {
+        "preparation": 95.7715,
+        "media_svg": 0.6348,
+        "youtube": 0.5878,
+        "content_assembly": 0.3432,
+        "monetization": 0.0533,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_oscar6_first_alert_a40794",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 96.8766,
+      "phases": {
+        "preparation": 92.4176,
+        "media_svg": 0.2808,
+        "youtube": 0.587,
+        "content_assembly": 0.3073,
+        "monetization": 3.2508,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_delayed_memory_salas_6e2fcc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 91.1826,
+      "phases": {
+        "preparation": 85.7998,
+        "media_svg": 0.2755,
+        "youtube": 0.5925,
+        "content_assembly": 0.3009,
+        "monetization": 4.1825,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_salas_media_advocacy_8c85ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.8706,
+      "phases": {
+        "preparation": 118.6706,
+        "media_svg": 0.2663,
+        "youtube": 0.5632,
+        "content_assembly": 0.3076,
+        "monetization": 0.033,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_sincerity_vs_verific_b6e0c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.6469,
+      "phases": {
+        "preparation": 113.4802,
+        "media_svg": 0.2649,
+        "youtube": 9.234,
+        "content_assembly": 0.3089,
+        "monetization": 3.3281,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_false_radar_targets_b44d51",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.1883,
+      "phases": {
+        "preparation": 139.5323,
+        "media_svg": 0.7076,
+        "youtube": 0.5648,
+        "content_assembly": 0.2983,
+        "monetization": 0.0544,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_base_gossip_evidence_d9b81b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.1054,
+      "phases": {
+        "preparation": 101.4988,
+        "media_svg": 0.6816,
+        "youtube": 0.5557,
+        "content_assembly": 0.285,
+        "monetization": 0.0531,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_fabricated_ufo_brief_8b2361",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.8411,
+      "phases": {
+        "preparation": 118.3485,
+        "media_svg": 0.6796,
+        "youtube": 6.4136,
+        "content_assembly": 0.3098,
+        "monetization": 0.0571,
+        "quality_write": 0.0325
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 77.0504,
+      "phases": {
+        "preparation": 74.14,
+        "media_svg": 0.7215,
+        "youtube": 0.0112,
+        "content_assembly": 0.2978,
+        "monetization": 1.8493,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_missile_rumour_shutd_00415c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 104.6387,
+      "phases": {
+        "preparation": 103.5591,
+        "media_svg": 0.6797,
+        "youtube": 0.0118,
+        "content_assembly": 0.3034,
+        "monetization": 0.0554,
+        "quality_write": 0.0293
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_rendlesham_later_lay_5a5f50",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.0739,
+      "phases": {
+        "preparation": 93.7773,
+        "media_svg": 0.6838,
+        "youtube": 3.7605,
+        "content_assembly": 0.2951,
+        "monetization": 4.5268,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 102.6126,
+      "phases": {
+        "preparation": 98.2177,
+        "media_svg": 0.7035,
+        "youtube": 3.2981,
+        "content_assembly": 0.3064,
+        "monetization": 0.0555,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_ellsworth_malmstrom_d80f5d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 109.1294,
+      "phases": {
+        "preparation": 104.1763,
+        "media_svg": 0.6291,
+        "youtube": 3.9247,
+        "content_assembly": 0.311,
+        "monetization": 0.0568,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_situation4_security_16dfe8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 107.7817,
+      "phases": {
+        "preparation": 83.3659,
+        "media_svg": 0.6637,
+        "youtube": 23.3994,
+        "content_assembly": 0.2845,
+        "monetization": 0.0382,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 104.6404,
+      "phases": {
+        "preparation": 93.9187,
+        "media_svg": 0.2737,
+        "youtube": 3.4232,
+        "content_assembly": 0.2917,
+        "monetization": 6.7029,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_oscar7_security_alar_681c39",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 97.4287,
+      "phases": {
+        "preparation": 90.7798,
+        "media_svg": 0.278,
+        "youtube": 3.5592,
+        "content_assembly": 0.2873,
+        "monetization": 2.4959,
+        "quality_write": 0.0285
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptical_reactions_1f886e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 110.6222,
+      "phases": {
+        "preparation": 101.9125,
+        "media_svg": 0.6797,
+        "youtube": 3.8873,
+        "content_assembly": 0.2953,
+        "monetization": 3.8162,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 105.9156,
+      "phases": {
+        "preparation": 104.8217,
+        "media_svg": 0.7013,
+        "youtube": 0.0128,
+        "content_assembly": 0.2928,
+        "monetization": 0.0554,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radar_security_thres_7f7349",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 165.7978,
+      "phases": {
+        "preparation": 140.7088,
+        "media_svg": 0.6673,
+        "youtube": 24.0369,
+        "content_assembly": 0.2987,
+        "monetization": 0.0548,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_halt_memo_lights_0553d9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 80.9968,
+      "phases": {
+        "preparation": 79.3247,
+        "media_svg": 0.7029,
+        "youtube": 0.5752,
+        "content_assembly": 0.302,
+        "monetization": 0.0605,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.9133,
+      "phases": {
+        "preparation": 120.2962,
+        "media_svg": 0.6803,
+        "youtube": 0.5654,
+        "content_assembly": 0.3003,
+        "monetization": 0.0401,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_buzzing_bee_decoys_6c83fc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 110.4286,
+      "phases": {
+        "preparation": 92.0772,
+        "media_svg": 0.6772,
+        "youtube": 14.4046,
+        "content_assembly": 0.2846,
+        "monetization": 2.957,
+        "quality_write": 0.0279
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_incursion_not_exotic_b79d4a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.5991,
+      "phases": {
+        "preparation": 124.971,
+        "media_svg": 0.679,
+        "youtube": 0.5579,
+        "content_assembly": 0.3013,
+        "monetization": 0.0558,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 128.4287,
+      "phases": {
+        "preparation": 123.3993,
+        "media_svg": 0.7035,
+        "youtube": 3.9275,
+        "content_assembly": 0.3147,
+        "monetization": 0.0534,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_radar_visual_vs_fail_5bc67e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.5894,
+      "phases": {
+        "preparation": 113.5183,
+        "media_svg": 0.7128,
+        "youtube": 3.948,
+        "content_assembly": 0.3116,
+        "monetization": 0.0661,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_records_vs_testimony_2326d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 117.1875,
+      "phases": {
+        "preparation": 115.5193,
+        "media_svg": 0.7275,
+        "youtube": 0.5572,
+        "content_assembly": 0.2973,
+        "monetization": 0.0534,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_rendlesham_compariso_3f462f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.7424,
+      "phases": {
+        "preparation": 117.0295,
+        "media_svg": 0.7166,
+        "youtube": 6.615,
+        "content_assembly": 0.2978,
+        "monetization": 0.0539,
+        "quality_write": 0.0296
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 151.7982,
+      "phases": {
+        "preparation": 147.5851,
+        "media_svg": 0.3349,
+        "youtube": 3.3964,
+        "content_assembly": 0.4011,
+        "monetization": 0.0403,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_drone_detection_laye_bee5ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 139.531,
+      "phases": {
+        "preparation": 137.8793,
+        "media_svg": 0.6895,
+        "youtube": 0.5684,
+        "content_assembly": 0.3102,
+        "monetization": 0.0522,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 110.8444,
+      "phases": {
+        "preparation": 106.3127,
+        "media_svg": 0.6767,
+        "youtube": 3.4522,
+        "content_assembly": 0.3015,
+        "monetization": 0.0693,
+        "quality_write": 0.032
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_weapons_no_drone_zon_6d9189",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 121.0884,
+      "phases": {
+        "preparation": 116.8203,
+        "media_svg": 0.3404,
+        "youtube": 3.5435,
+        "content_assembly": 0.2951,
+        "monetization": 0.0566,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_bogus_ellsworth_pape_600a26",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 76.8306,
+      "phases": {
+        "preparation": 73.1419,
+        "media_svg": 0.7002,
+        "youtube": 0.5637,
+        "content_assembly": 0.2724,
+        "monetization": 2.1238,
+        "quality_write": 0.0286
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_af_form1000_reportin_f2a07b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 134.7167,
+      "phases": {
+        "preparation": 133.0871,
+        "media_svg": 0.6856,
+        "youtube": 0.5639,
+        "content_assembly": 0.297,
+        "monetization": 0.0528,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_ellsworth_missing_re_6b90ca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 110.9628,
+      "phases": {
+        "preparation": 104.4633,
+        "media_svg": 0.6897,
+        "youtube": 5.4547,
+        "content_assembly": 0.2876,
+        "monetization": 0.0392,
+        "quality_write": 0.0283
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 84.9431,
+      "phases": {
+        "preparation": 83.325,
+        "media_svg": 0.6844,
+        "youtube": 0.5582,
+        "content_assembly": 0.29,
+        "monetization": 0.0554,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_affidavits_documents_39830e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 101.5426,
+      "phases": {
+        "preparation": 99.9351,
+        "media_svg": 0.6526,
+        "youtube": 0.575,
+        "content_assembly": 0.295,
+        "monetization": 0.0539,
+        "quality_write": 0.031
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_blue_book_to_uap_deb_f02f21",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.213,
+      "phases": {
+        "preparation": 131.9486,
+        "media_svg": 0.6874,
+        "youtube": 8.1789,
+        "content_assembly": 0.3128,
+        "monetization": 0.0531,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_mainstream_media_imp_ca54f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 96.1671,
+      "phases": {
+        "preparation": 87.9263,
+        "media_svg": 0.6849,
+        "youtube": 7.18,
+        "content_assembly": 0.291,
+        "monetization": 0.0554,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 92.5988,
+      "phases": {
+        "preparation": 90.9756,
+        "media_svg": 0.6719,
+        "youtube": 0.5533,
+        "content_assembly": 0.2948,
+        "monetization": 0.0717,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 114.2884,
+      "phases": {
+        "preparation": 112.6424,
+        "media_svg": 0.6924,
+        "youtube": 0.5701,
+        "content_assembly": 0.2956,
+        "monetization": 0.0554,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_drone_overflight_wea_d0dc91",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 150.9902,
+      "phases": {
+        "preparation": 144.8228,
+        "media_svg": 0.6934,
+        "youtube": 0.575,
+        "content_assembly": 0.3089,
+        "monetization": 4.5567,
+        "quality_write": 0.0333
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_palo_verde_attributi_7a2897",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.6605,
+      "phases": {
+        "preparation": 117.0658,
+        "media_svg": 0.6653,
+        "youtube": 0.5686,
+        "content_assembly": 0.2909,
+        "monetization": 0.0386,
+        "quality_write": 0.0314
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_poor_uap_data_readin_8ca51d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 131.3322,
+      "phases": {
+        "preparation": 129.744,
+        "media_svg": 0.663,
+        "youtube": 0.5576,
+        "content_assembly": 0.2993,
+        "monetization": 0.0379,
+        "quality_write": 0.0305
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_surety_rules_unknown_efd9ce",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 134.7199,
+      "phases": {
+        "preparation": 133.0616,
+        "media_svg": 0.6603,
+        "youtube": 0.5885,
+        "content_assembly": 0.3204,
+        "monetization": 0.0563,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_light_beam_claims_1351b3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 114.368,
+      "phases": {
+        "preparation": 112.7348,
+        "media_svg": 0.6874,
+        "youtube": 0.5689,
+        "content_assembly": 0.2963,
+        "monetization": 0.0488,
+        "quality_write": 0.0319
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 103.2927,
+      "phases": {
+        "preparation": 101.6852,
+        "media_svg": 0.6716,
+        "youtube": 0.5701,
+        "content_assembly": 0.2906,
+        "monetization": 0.0421,
+        "quality_write": 0.033
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_missile_fault_ufo_li_88a854",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 107.2281,
+      "phases": {
+        "preparation": 105.5646,
+        "media_svg": 0.7131,
+        "youtube": 0.5778,
+        "content_assembly": 0.2905,
+        "monetization": 0.0539,
+        "quality_write": 0.0283
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_document_bundles_cus_57b57e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 145.3228,
+      "phases": {
+        "preparation": 144.3008,
+        "media_svg": 0.6287,
+        "youtube": 0.0087,
+        "content_assembly": 0.3015,
+        "monetization": 0.0532,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_area51_aircraft_myth_af5462",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 114.4476,
+      "phases": {
+        "preparation": 109.2669,
+        "media_svg": 0.6956,
+        "youtube": 4.1041,
+        "content_assembly": 0.2999,
+        "monetization": 0.051,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_mogul_roswell_confus_cd23d6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.8733,
+      "phases": {
+        "preparation": 118.256,
+        "media_svg": 0.6709,
+        "youtube": 0.558,
+        "content_assembly": 0.3013,
+        "monetization": 0.0556,
+        "quality_write": 0.0315
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_operation_dominic_uf_cbe90d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.6349,
+      "phases": {
+        "preparation": 108.815,
+        "media_svg": 0.6725,
+        "youtube": 3.7834,
+        "content_assembly": 0.2824,
+        "monetization": 0.0525,
+        "quality_write": 0.0291
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_u2_airline_ufo_repor_3833b4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 157.5376,
+      "phases": {
+        "preparation": 155.847,
+        "media_svg": 0.7185,
+        "youtube": 0.5748,
+        "content_assembly": 0.3072,
+        "monetization": 0.0557,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_blue_book_public_mis_081b20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 157.6755,
+      "phases": {
+        "preparation": 155.9139,
+        "media_svg": 0.6864,
+        "youtube": 0.5697,
+        "content_assembly": 0.4085,
+        "monetization": 0.0565,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 96.888,
+      "phases": {
+        "preparation": 88.8862,
+        "media_svg": 0.6852,
+        "youtube": 6.8392,
+        "content_assembly": 0.3844,
+        "monetization": 0.0551,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 86.6961,
+      "phases": {
+        "preparation": 85.5222,
+        "media_svg": 0.7033,
+        "youtube": 0.008,
+        "content_assembly": 0.3724,
+        "monetization": 0.054,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 137.9301,
+      "phases": {
+        "preparation": 133.4802,
+        "media_svg": 0.6362,
+        "youtube": 3.3268,
+        "content_assembly": 0.3913,
+        "monetization": 0.0555,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 118.8237,
+      "phases": {
+        "preparation": 117.1463,
+        "media_svg": 0.6645,
+        "youtube": 0.5586,
+        "content_assembly": 0.3736,
+        "monetization": 0.0423,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_minot_b52_blue_book_b9626d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 130.4346,
+      "phases": {
+        "preparation": 129.2222,
+        "media_svg": 0.2713,
+        "youtube": 0.5603,
+        "content_assembly": 0.2942,
+        "monetization": 0.0526,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_radiation_readings_68dd0e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 94.1197,
+      "phases": {
+        "preparation": 92.4316,
+        "media_svg": 0.721,
+        "youtube": 0.5981,
+        "content_assembly": 0.2984,
+        "monetization": 0.0402,
+        "quality_write": 0.0304
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_big_sur_tracking_cam_48c7d0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 93.7853,
+      "phases": {
+        "preparation": 89.2623,
+        "media_svg": 0.707,
+        "youtube": 3.444,
+        "content_assembly": 0.2882,
+        "monetization": 0.0551,
+        "quality_write": 0.0287
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_classified_film_hand_ebe9be",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 95.6028,
+      "phases": {
+        "preparation": 94.0192,
+        "media_svg": 0.664,
+        "youtube": 0.5617,
+        "content_assembly": 0.2906,
+        "monetization": 0.0381,
+        "quality_write": 0.0292
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 87.1719,
+      "phases": {
+        "preparation": 78.739,
+        "media_svg": 0.6818,
+        "youtube": 7.4021,
+        "content_assembly": 0.2804,
+        "monetization": 0.0385,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_launch_logs_telemetr_4257ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 115.5162,
+      "phases": {
+        "preparation": 110.8569,
+        "media_svg": 0.7147,
+        "youtube": 0.5593,
+        "content_assembly": 0.2869,
+        "monetization": 3.069,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_salas_oscar_problem_513c3c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 78.353,
+      "phases": {
+        "preparation": 77.1666,
+        "media_svg": 0.2749,
+        "youtube": 0.5658,
+        "content_assembly": 0.2776,
+        "monetization": 0.0389,
+        "quality_write": 0.0291
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_base_ufo_report_chan_4b833a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 127.8861,
+      "phases": {
+        "preparation": 126.6592,
+        "media_svg": 0.2653,
+        "youtube": 0.5768,
+        "content_assembly": 0.3045,
+        "monetization": 0.0482,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_blue_book_missing_op_d554c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.523,
+      "phases": {
+        "preparation": 116.9725,
+        "media_svg": 0.2701,
+        "youtube": 8.8961,
+        "content_assembly": 0.3077,
+        "monetization": 0.0458,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_blue_book_official_d_a8d70d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 146.5557,
+      "phases": {
+        "preparation": 145.3299,
+        "media_svg": 0.2766,
+        "youtube": 0.5567,
+        "content_assembly": 0.316,
+        "monetization": 0.0447,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_blue_book_unidentifi_26be24",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 156.3142,
+      "phases": {
+        "preparation": 150.0833,
+        "media_svg": 0.2685,
+        "youtube": 5.5698,
+        "content_assembly": 0.3119,
+        "monetization": 0.0465,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262_malmstrom_echo_fligh_b38524",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 107.8007,
+      "phases": {
+        "preparation": 106.57,
+        "media_svg": 0.2809,
+        "youtube": 0.5704,
+        "content_assembly": 0.3035,
+        "monetization": 0.0458,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_four_hour_reporting_10919b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.4532,
+      "phases": {
+        "preparation": 111.8468,
+        "media_svg": 0.6995,
+        "youtube": 6.5362,
+        "content_assembly": 0.2892,
+        "monetization": 0.0531,
+        "quality_write": 0.0284
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 104.9912,
+      "phases": {
+        "preparation": 95.2291,
+        "media_svg": 0.6993,
+        "youtube": 8.6839,
+        "content_assembly": 0.2973,
+        "monetization": 0.053,
+        "quality_write": 0.0286
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 81.3093,
+      "phases": {
+        "preparation": 74.4953,
+        "media_svg": 0.6767,
+        "youtube": 5.7885,
+        "content_assembly": 0.2814,
+        "monetization": 0.0385,
+        "quality_write": 0.0289
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_aaro_malmstrom_revie_77cca9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 95.0393,
+      "phases": {
+        "preparation": 94.3156,
+        "media_svg": 0.2694,
+        "youtube": 0.0124,
+        "content_assembly": 0.356,
+        "monetization": 0.0544,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 109.8353,
+      "phases": {
+        "preparation": 108.2123,
+        "media_svg": 0.6782,
+        "youtube": 0.5612,
+        "content_assembly": 0.299,
+        "monetization": 0.0546,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_echo_shutdown_timeli_83ad35",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 74.7144,
+      "phases": {
+        "preparation": 74.0877,
+        "media_svg": 0.2694,
+        "youtube": 0.009,
+        "content_assembly": 0.2802,
+        "monetization": 0.0386,
+        "quality_write": 0.0295
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_electrical_noise_shu_f5a7cc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 78.2271,
+      "phases": {
+        "preparation": 77.0307,
+        "media_svg": 0.2723,
+        "youtube": 0.5675,
+        "content_assembly": 0.2876,
+        "monetization": 0.0401,
+        "quality_write": 0.029
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 89.3476,
+      "phases": {
+        "preparation": 88.1248,
+        "media_svg": 0.2762,
+        "youtube": 0.5838,
+        "content_assembly": 0.2914,
+        "monetization": 0.0402,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_records_vs_testimony_2326d1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.0427,
+      "phases": {
+        "preparation": 112.3906,
+        "media_svg": 0.2671,
+        "youtube": 0.0093,
+        "content_assembly": 0.3045,
+        "monetization": 0.0394,
+        "quality_write": 0.0318
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_delayed_ufo_testimon_f06ff6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 125.2782,
+      "phases": {
+        "preparation": 124.532,
+        "media_svg": 0.3409,
+        "youtube": 0.0112,
+        "content_assembly": 0.3048,
+        "monetization": 0.056,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_missile_field_corrob_b48887",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 100.8953,
+      "phases": {
+        "preparation": 95.9759,
+        "media_svg": 0.6769,
+        "youtube": 3.8655,
+        "content_assembly": 0.2936,
+        "monetization": 0.0548,
+        "quality_write": 0.0287
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_rendlesham_witness_d_1c1efd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.523,
+      "phases": {
+        "preparation": 127.8223,
+        "media_svg": 0.7027,
+        "youtube": 0.5904,
+        "content_assembly": 0.3175,
+        "monetization": 0.0577,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_stress_confidence_me_40c337",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 183.1446,
+      "phases": {
+        "preparation": 175.8763,
+        "media_svg": 0.7202,
+        "youtube": 6.1376,
+        "content_assembly": 0.3214,
+        "monetization": 0.055,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_bentwaters_nuclear_c_a232cb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 108.6542,
+      "phases": {
+        "preparation": 97.757,
+        "media_svg": 0.6975,
+        "youtube": 3.465,
+        "content_assembly": 0.3033,
+        "monetization": 6.4009,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 112.0795,
+      "phases": {
+        "preparation": 91.8531,
+        "media_svg": 0.6918,
+        "youtube": 19.1734,
+        "content_assembly": 0.2946,
+        "monetization": 0.0353,
+        "quality_write": 0.0313
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_blue_book_delayed_re_5b6732",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 117.6867,
+      "phases": {
+        "preparation": 110.35,
+        "media_svg": 0.6773,
+        "youtube": 6.2817,
+        "content_assembly": 0.2936,
+        "monetization": 0.0544,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_protected_area_bound_883a61",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 122.6233,
+      "phases": {
+        "preparation": 120.9662,
+        "media_svg": 0.6926,
+        "youtube": 0.5803,
+        "content_assembly": 0.3002,
+        "monetization": 0.054,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 179.4807,
+      "phases": {
+        "preparation": 178.3254,
+        "media_svg": 0.6754,
+        "youtube": 0.011,
+        "content_assembly": 0.3761,
+        "monetization": 0.0589,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_uk_nuclear_airspace_706b56",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 178.2669,
+      "phases": {
+        "preparation": 174.7119,
+        "media_svg": 0.6813,
+        "youtube": 0.5813,
+        "content_assembly": 0.3215,
+        "monetization": 1.9358,
+        "quality_write": 0.0351
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_classified_tests_mim_297d39",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 112.5327,
+      "phases": {
+        "preparation": 104.9631,
+        "media_svg": 0.6841,
+        "youtube": 6.4882,
+        "content_assembly": 0.309,
+        "monetization": 0.0567,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_missile_shutdown_cla_91a132",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 97.5295,
+      "phases": {
+        "preparation": 87.5682,
+        "media_svg": 0.6813,
+        "youtube": 8.9051,
+        "content_assembly": 0.3012,
+        "monetization": 0.0425,
+        "quality_write": 0.0312
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 92.4161,
+      "phases": {
+        "preparation": 90.7924,
+        "media_svg": 0.6949,
+        "youtube": 0.5738,
+        "content_assembly": 0.2876,
+        "monetization": 0.0374,
+        "quality_write": 0.0301
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_ufo_interference_pro_14bd14",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 95.6297,
+      "phases": {
+        "preparation": 94.0187,
+        "media_svg": 0.6883,
+        "youtube": 0.5611,
+        "content_assembly": 0.2957,
+        "monetization": 0.0374,
+        "quality_write": 0.0285
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_ncnd_evidence_gaps_170684",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 160.374,
+      "phases": {
+        "preparation": 158.7483,
+        "media_svg": 0.65,
+        "youtube": 0.5732,
+        "content_assembly": 0.3215,
+        "monetization": 0.0478,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11_classified_projects_c6b822",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 166.6551,
+      "phases": {
+        "preparation": 165.0131,
+        "media_svg": 0.6782,
+        "youtube": 0.5722,
+        "content_assembly": 0.3172,
+        "monetization": 0.0409,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_malmstrom_causation_fae75e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 103.5736,
+      "phases": {
+        "preparation": 102.3413,
+        "media_svg": 0.7295,
+        "youtube": 0.0111,
+        "content_assembly": 0.3906,
+        "monetization": 0.0603,
+        "quality_write": 0.0408
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c_military_flares_ufo_5a84bc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 111.9176,
+      "phases": {
+        "preparation": 103.0018,
+        "media_svg": 0.6896,
+        "youtube": 7.8402,
+        "content_assembly": 0.3025,
+        "monetization": 0.0535,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_echo_flight_dispute_f6d51f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 112.5541,
+      "phases": {
+        "preparation": 106.917,
+        "media_svg": 0.686,
+        "youtube": 0.5712,
+        "content_assembly": 0.3011,
+        "monetization": 4.0523,
+        "quality_write": 0.0266
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_readiness_confusion_528f0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.2819,
+      "phases": {
+        "preparation": 113.524,
+        "media_svg": 0.7096,
+        "youtube": 9.6357,
+        "content_assembly": 0.3023,
+        "monetization": 0.0876,
+        "quality_write": 0.0227
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_aaro_findings_witnes_01010c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 164.7538,
+      "phases": {
+        "preparation": 160.4306,
+        "media_svg": 0.6444,
+        "youtube": 3.2695,
+        "content_assembly": 0.32,
+        "monetization": 0.0564,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_condon_science_vs_te_7b5238",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 113.0696,
+      "phases": {
+        "preparation": 111.4325,
+        "media_svg": 0.6898,
+        "youtube": 0.5613,
+        "content_assembly": 0.3006,
+        "monetization": 0.0548,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_missile_fault_causat_03a3f9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 76.0991,
+      "phases": {
+        "preparation": 74.4386,
+        "media_svg": 0.6699,
+        "youtube": 0.5785,
+        "content_assembly": 0.319,
+        "monetization": 0.0588,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_credible_witness_hig_59dd90",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 123.7521,
+      "phases": {
+        "preparation": 122.0566,
+        "media_svg": 0.7112,
+        "youtube": 0.592,
+        "content_assembly": 0.3099,
+        "monetization": 0.053,
+        "quality_write": 0.0294
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 96.4913,
+      "phases": {
+        "preparation": 94.8213,
+        "media_svg": 0.6584,
+        "youtube": 0.5727,
+        "content_assembly": 0.3549,
+        "monetization": 0.0533,
+        "quality_write": 0.0307
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_missing_records_clai_86d714",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 140.0854,
+      "phases": {
+        "preparation": 138.4116,
+        "media_svg": 0.7051,
+        "youtube": 0.5706,
+        "content_assembly": 0.3105,
+        "monetization": 0.0547,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_nuclear_drone_interd_379329",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.7811,
+      "phases": {
+        "preparation": 133.8222,
+        "media_svg": 0.681,
+        "youtube": 6.8932,
+        "content_assembly": 0.2996,
+        "monetization": 0.053,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_faa_drone_restrictio_338935",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 169.8496,
+      "phases": {
+        "preparation": 168.2193,
+        "media_svg": 0.675,
+        "youtube": 0.5529,
+        "content_assembly": 0.3154,
+        "monetization": 0.0534,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_twin_base_confusion_bace41",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 122.8879,
+      "phases": {
+        "preparation": 118.2788,
+        "media_svg": 0.6997,
+        "youtube": 3.5105,
+        "content_assembly": 0.3179,
+        "monetization": 0.0484,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_nuclear_drone_report_bb8d19",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 131.6309,
+      "phases": {
+        "preparation": 129.9908,
+        "media_svg": 0.685,
+        "youtube": 0.5615,
+        "content_assembly": 0.3057,
+        "monetization": 0.0557,
+        "quality_write": 0.0322
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11_robertson_panel_trus_6f15c6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 111.7496,
+      "phases": {
+        "preparation": 110.0688,
+        "media_svg": 0.7211,
+        "youtube": 0.5716,
+        "content_assembly": 0.3013,
+        "monetization": 0.0566,
+        "quality_write": 0.0302
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11_insider_claims_limit_9e6d51",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 157.782,
+      "phases": {
+        "preparation": 153.5016,
+        "media_svg": 0.6864,
+        "youtube": 3.2024,
+        "content_assembly": 0.3038,
+        "monetization": 0.0572,
+        "quality_write": 0.0306
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_classified_tests_ufo_5812d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 147.5159,
+      "phases": {
+        "preparation": 145.8449,
+        "media_svg": 0.6874,
+        "youtube": 0.5844,
+        "content_assembly": 0.311,
+        "monetization": 0.057,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_declassified_missing_9ae0c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 135.5146,
+      "phases": {
+        "preparation": 133.8126,
+        "media_svg": 0.6931,
+        "youtube": 0.5933,
+        "content_assembly": 0.324,
+        "monetization": 0.0598,
+        "quality_write": 0.0317
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_missile_records_vs_c_eef043",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 111.4893,
+      "phases": {
+        "preparation": 110.4029,
+        "media_svg": 0.6752,
+        "youtube": 0.0088,
+        "content_assembly": 0.2971,
+        "monetization": 0.0753,
+        "quality_write": 0.0299
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_partial_confirmation_d46b9c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 117.2641,
+      "phases": {
+        "preparation": 115.5508,
+        "media_svg": 0.708,
+        "youtube": 0.5953,
+        "content_assembly": 0.3214,
+        "monetization": 0.0579,
+        "quality_write": 0.0308
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_record_timing_testim_ca7097",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 119.9774,
+      "phases": {
+        "preparation": 118.3827,
+        "media_svg": 0.6354,
+        "youtube": 0.5644,
+        "content_assembly": 0.311,
+        "monetization": 0.0541,
+        "quality_write": 0.0298
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_sworn_ufo_affidavits_4aa6d9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 126.8913,
+      "phases": {
+        "preparation": 125.2632,
+        "media_svg": 0.6742,
+        "youtube": 0.5733,
+        "content_assembly": 0.2941,
+        "monetization": 0.0554,
+        "quality_write": 0.0311
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_alien_claim_proof_th_a1831a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 150.5696,
+      "phases": {
+        "preparation": 140.0781,
+        "media_svg": 0.6719,
+        "youtube": 9.3266,
+        "content_assembly": 0.395,
+        "monetization": 0.0587,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 132.8903,
+      "phases": {
+        "preparation": 127.4027,
+        "media_svg": 0.683,
+        "youtube": 0.5932,
+        "content_assembly": 0.3908,
+        "monetization": 3.7805,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c_bright_planets_missi_b7d98a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 141.9929,
+      "phases": {
+        "preparation": 140.3252,
+        "media_svg": 0.7147,
+        "youtube": 0.5705,
+        "content_assembly": 0.2976,
+        "monetization": 0.0534,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_counter_drone_policy_d23b37",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 159.5017,
+      "phases": {
+        "preparation": 122.6969,
+        "media_svg": 0.6805,
+        "youtube": 33.0186,
+        "content_assembly": 0.3171,
+        "monetization": 2.7551,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_dispersed_silo_secur_fd813d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 112.2527,
+      "phases": {
+        "preparation": 105.2899,
+        "media_svg": 0.6965,
+        "youtube": 0.006,
+        "content_assembly": 0.2964,
+        "monetization": 5.933,
+        "quality_write": 0.0309
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_drone_incursion_anal_e3017a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 142.8363,
+      "phases": {
+        "preparation": 129.4346,
+        "media_svg": 0.6721,
+        "youtube": 11.158,
+        "content_assembly": 0.3102,
+        "monetization": 1.2355,
+        "quality_write": 0.0259
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_records_vs_witnesses_2d2b32",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 118.1833,
+      "phases": {
+        "preparation": 116.5466,
+        "media_svg": 0.6849,
+        "youtube": 0.5753,
+        "content_assembly": 0.3061,
+        "monetization": 0.0407,
+        "quality_write": 0.0297
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_base_vs_storage_incu_7aa4bd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 129.5672,
+      "phases": {
+        "preparation": 127.9297,
+        "media_svg": 0.7025,
+        "youtube": 0.5618,
+        "content_assembly": 0.2943,
+        "monetization": 0.0466,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_rendlesham_geography_3497ab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 112.6038,
+      "phases": {
+        "preparation": 108.6943,
+        "media_svg": 0.6996,
+        "youtube": 0.5934,
+        "content_assembly": 0.3105,
+        "monetization": 2.273,
+        "quality_write": 0.0331
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_service_member_stora_56fadf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 124.3576,
+      "phases": {
+        "preparation": 123.2798,
+        "media_svg": 0.691,
+        "youtube": 0.0104,
+        "content_assembly": 0.3008,
+        "monetization": 0.0455,
+        "quality_write": 0.03
+      }
+    },
+    {
+      "base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_storage_security_log_671c19",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 132.6107,
+      "phases": {
+        "preparation": 127.3369,
+        "media_svg": 0.6756,
+        "youtube": 4.2125,
+        "content_assembly": 0.2939,
+        "monetization": 0.0604,
+        "quality_write": 0.0314
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 2,
+    "workers_raw": "auto",
+    "max_workers": 2,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 183,
+    "reused_pages": 0,
+    "rebuilt_pages": 183,
+    "error_pages": 0,
+    "page_work_wall_seconds": 12051.9404,
+    "rebuilt_pages_per_minute": 0.9111,
+    "queued_rebuild_pages_per_minute": 0.9111,
+    "apparent_page_work_speedup": 1.9957,
+    "process_worker_diagnostics": {
+      "completed_pages": 183,
+      "successful_pages": 183,
+      "failed_pages": 0,
+      "worker_summary": {
+        "9504": {
+          "pages": 92,
+          "successes": 92,
+          "failures": 0,
+          "total_worker_seconds": 12009.1762,
+          "max_worker_seconds": 347.7232,
+          "last_base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_service_member_stora_56fadf"
+        },
+        "35128": {
+          "pages": 91,
+          "successes": 91,
+          "failures": 0,
+          "total_worker_seconds": 12049.6717,
+          "max_worker_seconds": 271.7095,
+          "last_base_name": "UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_storage_security_log_671c19"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e",
+          "level": 2,
+          "success": true,
+          "worker_pid": 9504,
+          "worker_duration_seconds": 347.7232,
+          "total_seconds": 347.6876,
+          "worker_started_at_utc": "2026-06-17T21:50:45.680915Z",
+          "worker_finished_at_utc": "2026-06-17T21:56:33.368538Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9",
+          "level": 2,
+          "success": true,
+          "worker_pid": 9504,
+          "worker_duration_seconds": 274.9479,
+          "total_seconds": 274.9105,
+          "worker_started_at_utc": "2026-06-17T21:27:13.063782Z",
+          "worker_finished_at_utc": "2026-06-17T21:31:47.974317Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35128,
+          "worker_duration_seconds": 271.7095,
+          "total_seconds": 271.6727,
+          "worker_started_at_utc": "2026-06-17T21:54:05.604929Z",
+          "worker_finished_at_utc": "2026-06-17T21:58:37.277640Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35128,
+          "worker_duration_seconds": 250.4888,
+          "total_seconds": 250.4518,
+          "worker_started_at_utc": "2026-06-17T21:16:20.970553Z",
+          "worker_finished_at_utc": "2026-06-17T21:20:31.422392Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18",
+          "level": 1,
+          "success": true,
+          "worker_pid": 35128,
+          "worker_duration_seconds": 246.1419,
+          "total_seconds": 246.105,
+          "worker_started_at_utc": "2026-06-17T21:12:14.827776Z",
+          "worker_finished_at_utc": "2026-06-17T21:16:20.932779Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35128,
+          "worker_duration_seconds": 245.37,
+          "total_seconds": 245.3326,
+          "worker_started_at_utc": "2026-06-17T21:36:34.426218Z",
+          "worker_finished_at_utc": "2026-06-17T21:40:39.758888Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35128,
+          "worker_duration_seconds": 237.6679,
+          "total_seconds": 237.6328,
+          "worker_started_at_utc": "2026-06-17T21:20:31.460127Z",
+          "worker_finished_at_utc": "2026-06-17T21:24:29.092934Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35128,
+          "worker_duration_seconds": 225.4359,
+          "total_seconds": 225.4009,
+          "worker_started_at_utc": "2026-06-17T21:32:48.989394Z",
+          "worker_finished_at_utc": "2026-06-17T21:36:34.390289Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35128,
+          "worker_duration_seconds": 225.3866,
+          "total_seconds": 225.352,
+          "worker_started_at_utc": "2026-06-17T21:40:39.797216Z",
+          "worker_finished_at_utc": "2026-06-17T21:44:25.149279Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25",
+          "level": 2,
+          "success": true,
+          "worker_pid": 35128,
+          "worker_duration_seconds": 217.5458,
+          "total_seconds": 217.5107,
+          "worker_started_at_utc": "2026-06-17T21:47:48.080236Z",
+          "worker_finished_at_utc": "2026-06-17T21:51:25.591012Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
