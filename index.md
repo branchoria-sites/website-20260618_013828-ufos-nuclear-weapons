@@ -166,6 +166,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+header:
+  og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18-overview-social.jpg
+  preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18-overview-social.jpg
+image: /assets/images/UFOs_and_nuclear_wea_3f6b18-overview-social.jpg
 site_image_description: A guarded missile-field fence at night with distant runway lights, a radar dish, and a bright unexplained light above the horizon.
 ---
 
