@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-index/
 description: Focused pages that expand on UFOs and nuclear weapons.
-date: '2026-06-17'
+date: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18
 parent_title: UFOs and nuclear weapons
@@ -16,7 +16,7 @@ parent_permalink: /ufos-and-nuclear-weapons/
 
 # Explore Topics in UFOs and nuclear weapons
 
-The following pages expand on the main **[UFOs and nuclear weapons]({{ '/ufos-and-nuclear-weapons/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UFOs and nuclear weapons]({{ '/ufos-and-nuclear-weapons/' | relative_url }})** page and cover its key branches in.
 
 - [AARO]({{ '/aaro/' | relative_url }})
 - [Case Compare]({{ '/case-compare/' | relative_url }})

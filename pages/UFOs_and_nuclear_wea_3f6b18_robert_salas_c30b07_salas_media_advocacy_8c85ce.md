@@ -291,11 +291,11 @@ For supporters, Salas helped bring [military witnesses]({{ 'witnesses/' | relati
 
 ## From Private Recollection to *Faded Giant*
 
-Salas did not become a prominent UFO figure immediately after the 1967 missile incident. His public profile developed gradually during the 1990s and 2000s as he revisited the event, spoke with researchers, and sought documentary records. A major milestone was the publication of *Faded Giant: The 1967 Missile/UFO Incidents*, co-authored with James Klotz and published in 2005. The book framed the Malmstrom events as part of a larger pattern linking [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena with nuclear weapons facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/2812741-faded-giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">2812741 faded giant</span><span class="citation-popover-snippet">Faded Giant by James Klotz18 Feb 2005 — James Klotz, Robert L. Salas... Does the public have a right to be informed about the p...</span></span></span>
+Salas did not become a prominent UFO figure immediately after the 1967 missile incident. His public profile developed gradually during the 1990s and 2000s as he revisited the event, spoke with researchers, and sought documentary records. A major milestone was the publication of *Faded Giant: The 1967 Missile/UFO Incidents*, co-authored with James Klotz and published in 2005. The book framed the Malmstrom events as part of a larger pattern linking [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena with nuclear weapons facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/2812741-faded-giant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-title">2812741 faded giant</span><span class="citation-popover-snippet">Faded Giant by James Klotz18 Feb 2005 — James Klotz, Robert L. Salas... Does the public have a right to be informed about the p...</span></span></span>
 
-The book mattered because it transformed a personal recollection into a structured narrative. Instead of existing primarily as an oral account, the story now had a detailed chronology, supporting [witness claims]({{ 'witness-claims/' | relative_url }}), and a broader interpretation. Readers encountered the incident not merely as a technical malfunction but as evidence of an apparent intelligence interested in nuclear weapons. That framing helped establish Salas as one of the best-known witnesses in the UFO-and-nukes field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
+The book mattered because it transformed a personal recollection into a structured narrative. Instead of existing primarily as an oral account, the story now had a detailed chronology, supporting [witness claims]({{ 'witness-claims/' | relative_url }}), and a broader interpretation. Readers encountered the incident not merely as a technical malfunction but as evidence of an apparent intelligence interested in nuclear weapons. That framing helped establish Salas as one of the best-known witnesses in the UFO-and-nukes field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
 
-At the same time, critics argue that this period marked the point at which memory, investigation, and advocacy became increasingly intertwined. Skeptical writers have noted that Salas’s account evolved over time and that later presentations sometimes incorporated broader conclusions that went beyond what could be directly documented from contemporaneous military records. Critics such as James Carlson, whose father was involved in the Malmstrom missile shutdown investigations, challenged elements of the narrative and argued that later retellings overstated the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries James Carlson</span><span class="citation-popover-snippet">Unexplained MysteriesJames Carlson - Echo flights of fantasy - part one25 Nov 2010 — When Robert Salas, the primary witness to this event...</span></span></span>
+At the same time, critics argue that this period marked the point at which memory, investigation, and advocacy became increasingly intertwined. Skeptical writers have noted that Salas’s account evolved over time and that later presentations sometimes incorporated broader conclusions that went beyond what could be directly documented from contemporaneous military records. Critics such as James Carlson, whose father was involved in the Malmstrom missile shutdown investigations, challenged elements of the narrative and argued that later retellings overstated the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries James Carlson</span><span class="citation-popover-snippet">Unexplained MysteriesJames Carlson - Echo flights of fantasy - part one25 Nov 2010 — When Robert Salas, the primary witness to this event...</span></span></span>
 
 The result was a shift in the debate. Instead of focusing solely on what happened in 1967, observers increasingly debated how the story had been reconstructed and presented decades later.
 
@@ -306,18 +306,18 @@ The result was a shift in the debate. Instead of focusing solely on what happene
 
 If *Faded Giant* helped establish Salas within UFO research circles, the National [Press Club]({{ '2010-event/' | relative_url }}) events brought him to a much wider audience.
 
-In September 2010, Salas appeared alongside other former military personnel at a widely publicised National Press Club briefing in Washington, D.C. The event was organised around claims that unidentified aerial phenomena had repeatedly appeared near nuclear weapons sites. Participants argued that military and government records demonstrated a long-standing pattern deserving greater public scrutiny. Affidavits and declassified documents were presented as supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era.Read more...</span></span></span>
+In September 2010, Salas appeared alongside other former military personnel at a widely publicised National Press Club briefing in Washington, D.C. The event was organised around claims that unidentified aerial phenomena had repeatedly appeared near nuclear weapons sites. Participants argued that military and government records demonstrated a long-standing pattern deserving greater public scrutiny. Affidavits and declassified documents were presented as supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era.Read more...</span></span></span>
 
-The conference generated substantial media coverage. Major outlets reported the claims, often highlighting the unusual fact that retired military officers were willing to discuss nuclear-related UFO incidents publicly. Coverage appeared in outlets ranging from ABC News and CBS News to international broadcasters and magazines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[Macleans.ca+3ABC News+3CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
+The conference generated substantial media coverage. Major outlets reported the claims, often highlighting the unusual fact that retired military officers were willing to discuss nuclear-related UFO incidents publicly. Coverage appeared in outlets ranging from ABC News and CBS News to international broadcasters and magazines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[Macleans.ca+3ABC News+3CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
 
 For Salas, the event accomplished several practical goals:
 
 * It connected his account to other military witnesses.
 * It associated the Malmstrom story with a broader “UFOs and nukes” narrative.
 * It created a permanent public record through press coverage, transcripts, interviews, and later online distribution.
-* It moved the discussion from specialist UFO communities into mainstream news [reporting]({{ 'reporting/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era.Read more...</span></span></span>
+* It moved the discussion from specialist UFO communities into mainstream news [reporting]({{ 'reporting/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era.Read more...</span></span></span>
 
-The National Press Club appearances also gave Salas a role that extended beyond that of a single witness. He became one of the public faces of a larger disclosure movement seeking official acknowledgement of unexplained events around nuclear facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2010/10/ufos-nukes-connection-press-conference.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">ufos nukes connection press conference</span><span class="citation-popover-snippet">Air Force Captain Robert Salas and myself, the event showcased stunning UFO incidents at nuclear weapons sites, as...Read more...</span></span></span>
+The National Press Club appearances also gave Salas a role that extended beyond that of a single witness. He became one of the public faces of a larger disclosure movement seeking official acknowledgement of unexplained events around nuclear facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2010/10/ufos-nukes-connection-press-conference.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">ufos nukes connection press conference</span><span class="citation-popover-snippet">Air Force Captain Robert Salas and myself, the event showcased stunning UFO incidents at nuclear weapons sites, as...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_salas_media_advocacy_8c85ce-Illustration-2-dark.svg" | relative_url }}" alt="Public Stage illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_salas_media_advocacy_8c85ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_salas_media_advocacy_8c85ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,11 +325,11 @@ The National Press Club appearances also gave Salas a role that extended beyond 
 
 The central credibility issue is not whether advocacy automatically disqualifies testimony. Rather, advocacy changes how audiences evaluate it.
 
-When a witness repeatedly speaks at conferences, publishes books, appears in documentaries, and promotes a particular interpretation, observers naturally begin to distinguish between the original testimony and the broader conclusions being advanced. Salas increasingly argued not only that unusual events occurred but that they reflected an intelligence concerned about humanity's nuclear weapons and future. Those conclusions became a recurring theme in interviews and later publications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
+When a witness repeatedly speaks at conferences, publishes books, appears in documentaries, and promotes a particular interpretation, observers naturally begin to distinguish between the original testimony and the broader conclusions being advanced. Salas increasingly argued not only that unusual events occurred but that they reflected an intelligence concerned about humanity's nuclear weapons and future. Those conclusions became a recurring theme in interviews and later publications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
 
-Supporters view this development positively. From their perspective, Salas used his platform to preserve testimony that might otherwise have disappeared. They argue that military witnesses often remain silent because of classification concerns, institutional culture, or fear of ridicule. In this view, public advocacy is necessary to ensure that potentially important information reaches historians, journalists, and policymakers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
+Supporters view this development positively. From their perspective, Salas used his platform to preserve testimony that might otherwise have disappeared. They argue that military witnesses often remain silent because of classification concerns, institutional culture, or fear of ridicule. In this view, public advocacy is necessary to ensure that potentially important information reaches historians, journalists, and policymakers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
 
-Critics see a different dynamic. They argue that once a witness becomes deeply involved in a cause, confirmation bias can become harder to separate from recollection. Public commitment to a particular interpretation may make alternative explanations less likely to receive equal consideration. Skeptics have therefore examined discrepancies in witness accounts, timeline issues, and technical explanations for missile [failures]({{ 'failures/' | relative_url }}) as part of a broader challenge to the UFO interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries James Carlson</span><span class="citation-popover-snippet">Unexplained MysteriesJames Carlson - Echo flights of fantasy - part one25 Nov 2010 — When Robert Salas, the primary witness to this event...</span></span></span>
+Critics see a different dynamic. They argue that once a witness becomes deeply involved in a cause, confirmation bias can become harder to separate from recollection. Public commitment to a particular interpretation may make alternative explanations less likely to receive equal consideration. Skeptics have therefore examined discrepancies in witness accounts, timeline issues, and technical explanations for missile [failures]({{ 'failures/' | relative_url }}) as part of a broader challenge to the UFO interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries James Carlson</span><span class="citation-popover-snippet">Unexplained MysteriesJames Carlson - Echo flights of fantasy - part one25 Nov 2010 — When Robert Salas, the primary witness to this event...</span></span></span>
 
 This tension explains why Salas occupies a distinctive place in the UFO-and-nuclear-weapons debate. He is simultaneously treated as a witness, author, campaigner, lecturer, and symbol of disclosure efforts. Each role influences how the others are perceived.
 
@@ -340,9 +340,9 @@ This tension explains why Salas occupies a distinctive place in the UFO-and-nucl
 
 The public debate surrounding Salas has endured because neither side can completely eliminate the other’s strongest point.
 
-Supporters can point to the fact that Salas was a genuine missile launch officer, that missile shutdowns at Malmstrom did occur, and that his story has remained visible through decades of interviews, books, and public testimony. His willingness to speak publicly helped make the UFO-nuclear connection one of the most recognisable themes in modern UFO discourse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
+Supporters can point to the fact that Salas was a genuine missile launch officer, that missile shutdowns at Malmstrom did occur, and that his story has remained visible through decades of interviews, books, and public testimony. His willingness to speak publicly helped make the UFO-nuclear connection one of the most recognisable themes in modern UFO discourse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
 
-Critics can point to the gap between confirmed missile malfunctions and claims about the cause of those malfunctions. They note that public advocacy does not itself verify extraordinary conclusions and that official investigations have not confirmed extraterrestrial involvement in nuclear weapons incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
+Critics can point to the gap between confirmed missile malfunctions and claims about the cause of those malfunctions. They note that public advocacy does not itself verify extraordinary conclusions and that official investigations have not confirmed extraterrestrial involvement in nuclear weapons incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
 
 As a result, Salas’s media presence remains central to the credibility discussion. His public advocacy ensured that the Malmstrom story became one of the best-known cases linking UFOs and nuclear weapons. Yet the same advocacy has also become part of the evidence that observers use when deciding how much weight to give his testimony. In the history of the UFO-and-nukes debate, Salas is significant not only because of what he says happened in 1967, but because of how effectively he brought that claim onto the public stage.
 
@@ -350,194 +350,194 @@ As a result, Salas’s media presence remains central to the credibility discuss
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_salas_media_advocacy_8c85ce-Illustration-3-dark.svg" | relative_url }}" alt="Public Stage illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_salas_media_advocacy_8c85ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_salas_media_advocacy_8c85ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Salas Became a Public UFO Witness. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Salas Became a Public UFO Witness. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for how UFO reports move from private experiences into public narratives and organised research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how UFO reports move from private experiences into public narratives and organised research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Useful for readers interested in how witness testimony, publicity and advocacy shape major UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for readers interested in how witness testimony, publicity and advocacy shape major UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how military and government witnesses brought UFO claims into the public sphere, paralleling Salas&#x27;s transition into a public ad...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how military and government witnesses brought UFO claims into the public sphere, paralleling Salas&#x27;s transition into a public ad...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Documents the witness network, conferences and public campaigns that amplified stories such as Salas&#x27;s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the witness network, conferences and public campaigns that amplified stories such as Salas&#x27;s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="public-stage-how-salas-became-a-public-ufo-witness-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ As a result, Salas’s media presence remains central to the credibility discuss
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ As a result, Salas’s media presence remains central to the credibility discuss
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ As a result, Salas’s media presence remains central to the credibility discuss
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ As a result, Salas’s media presence remains central to the credibility discuss
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ As a result, Salas’s media presence remains central to the credibility discuss
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,139 +743,139 @@ As a result, Salas’s media presence remains central to the credibility discuss
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: goodreads.com  
    Title: 2812741 faded giant  
-   Link: <a href="https://www.goodreads.com/en/book/show/2812741-faded-giant" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/2812741-faded-giant</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Faded Giant by James Klotz18 Feb 2005 — James Klotz, Robert L. Salas... Does the public have a right to be informed about the p...</p></details>
+   Link:<a href="https://www.goodreads.com/en/book/show/2812741-faded-giant" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/2812741-faded-giant</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Faded Giant by James Klotz18 Feb 2005 — James Klotz, Robert L. Salas... Does the public have a right to be informed about the p...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Robert Salas  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unexplained-mysteries.com  
    Title: Unexplained Mysteries James Carlson  
-   Link: <a href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/column.php?id=195390</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained MysteriesJames Carlson - Echo flights of fantasy - part one25 Nov 2010 — When Robert Salas, the primary witness to this event...</p></details>
+   Link:<a href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/column.php?id=195390</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained MysteriesJames Carlson - Echo flights of fantasy - part one25 Nov 2010 — When Robert Salas, the primary witness to this event...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentA weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over M...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentA weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over M...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era.Read more...</p></details>
+   Link:<a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: macleans.ca  
    Title: ufos and the u s air force  
-   Link: <a href="https://macleans.ca/news/world/ufos-and-the-u-s-air-force/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/news/world/ufos-and-the-u-s-air-force/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS and the U.S. Air forceOct 14, 2010 — Aliens have visited Earth, penetrated American nuclear missile sites, and sabotaged weapons, ac...</p></details>
+   Link:<a href="https://macleans.ca/news/world/ufos-and-the-u-s-air-force/" target="_blank" rel="noopener noreferrer nofollow">https://macleans.ca/news/world/ufos-and-the-u-s-air-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS and the U.S. Air forceOct 14, 2010 — Aliens have visited Earth, penetrated American nuclear missile sites, and sabotaged weapons, ac...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: military.com  
    Title: air force veterans who are ufo true believers return newly attentive washington  
-   Link: <a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Press Club conference by video... UFO lore. Salas was part of a similar press conference in the same downtown press club in 201...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Press Club conference by video... UFO lore. Salas was part of a similar press conference in the same downtown press club in 201...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Talk:List of UFO related hoaxes  
-   Link: <a href="https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Talk:List of UFO-related hoaxes&quot;Robert Hastings Double Downs on Echo and Oscar Flights&quot;. Retrieved 16 June... Robert Salas is truthfu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Talk:List of UFO-related hoaxes&quot;Robert Hastings Double Downs on Echo and Oscar Flights&quot;. Retrieved 16 June... Robert Salas is truthfu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: prnewswire.com  
    Title: PR Newswire Former U.S  
-   Link: <a href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</p></details>
+   Link:<a href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cbsnews.com  
    Title: ex air force personnel ufos deactivated nukes  
-   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear missiles. UFO researcher Robert Hastings of Albuquerque, N.M., who organized the National Press Club briefing, said more than 120...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear missiles. UFO researcher Robert Hastings of Albuquerque, N.M., who organized the National Press Club briefing, said more than 120...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens are watching nukes, according to retired officers28 Sept 2010 — A group of seven former US Air Force servicemen say they have proo...</p></details>
+   Link:<a href="https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens are watching nukes, according to retired officers28 Sept 2010 — A group of seven former US Air Force servicemen say they have proo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theufochronicles.com  
    Title: ufos nukes connection press conference  
-   Link: <a href="https://www.theufochronicles.com/2010/10/ufos-nukes-connection-press-conference.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2010/10/ufos-nukes-connection-press-conference.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Captain Robert Salas and myself, the event showcased stunning UFO incidents at nuclear weapons sites, as...Read more...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2010/10/ufos-nukes-connection-press-conference.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2010/10/ufos-nukes-connection-press-conference.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Captain Robert Salas and myself, the event showcased stunning UFO incidents at nuclear weapons sites, as...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: usafaclasses.org  
-   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</p></details>
+   Link:<a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</p></details>
    Published: March 24, 1967  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Criticisms against Robert Salas&#x27; Maelstrom AFB incidentCaptain Robert Salas, who claims that UFOs have disabled nuclear missiles at US mi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Criticisms against Robert Salas&#x27; Maelstrom AFB incidentCaptain Robert Salas, who claims that UFOs have disabled nuclear missiles at US mi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/17/us-news/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana-base-during-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/17/us-news/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana-base-during-cold-war/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force officer Robert Salas claimed that unidentified flying objects (UFOs) disabled 10 nuclear missiles at Malmstrom Air Force Base i...</p></details>
+   Link:<a href="https://nypost.com/2026/03/17/us-news/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana-base-during-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/17/us-news/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana-base-during-cold-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force officer Robert Salas claimed that unidentified flying objects (UFOs) disabled 10 nuclear missiles at Malmstrom Air Force Base i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/archive/TONTES-3v1" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/TONTES-3v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking ET Seriouslyby B Tonetto — Founded by Ryan Graves. Advocacy organization for pilot. UAP reporting. Salas, Robert, and James Klotz...</p></details>
+   Link:<a href="https://philarchive.org/archive/TONTES-3v1" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/TONTES-3v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taking ET Seriouslyby B Tonetto — Founded by Ryan Graves. Advocacy organization for pilot. UAP reporting. Salas, Robert, and James Klotz...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wanttoknow.info  
-   Link: <a href="https://www.wanttoknow.info/ufos/ufos_national_press_club_witness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.wanttoknow.info/ufos/ufos_national_press_club_witness_testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: National Press Club Witness TestimonyThe exciting news is that several of these Air Force officers related events in which nuclear...</p></details>
+   Link:<a href="https://www.wanttoknow.info/ufos/ufos_national_press_club_witness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.wanttoknow.info/ufos/ufos_national_press_club_witness_testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: National Press Club Witness TestimonyThe exciting news is that several of these Air Force officers related events in which nuclear...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — The son of one of the officers who was involved in the Echo fligh...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — The son of one of the officers who was involved in the Echo fligh...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-sighted-near-nuclear-missiles-during-o ctober-2010-launch-system-disruption. (PUBLIC DOMAIN) - 15 December 2010 — Two alleged Hill AF...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-sighted-near-nuclear-missiles-during-o ctober-2010-launch-system-disruption. (PUBLIC DOMAIN) - 15 December 2010 — Two alleged Hill AF...</p></details>
    Published: December 2010  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gizmodo.com  
    Title: former military officers to speak out in washington on 5645273  
-   Link: <a href="https://gizmodo.com/former-military-officers-to-speak-out-in-washington-on-5645273" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/former-military-officers-to-speak-out-in-washington-on-5645273</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former military officers to speak out in Washington on...22 Sept 2010 — For years, military officers at nuclear missile sites in America...</p></details>
+   Link:<a href="https://gizmodo.com/former-military-officers-to-speak-out-in-washington-on-5645273" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/former-military-officers-to-speak-out-in-washington-on-5645273</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former military officers to speak out in Washington on...22 Sept 2010 — For years, military officers at nuclear missile sites in America...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wired.com  
    Title: tinfoil tuesdays ufos neutered nukes air force officers claim  
-   Link: <a href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tinfoil Tuesdays: UFOs Neutered Nukes, Officers ClaimSep 28, 2010 — While he never himself saw any aliens, he heard about a UFO landing i...</p></details>
+   Link:<a href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tinfoil Tuesdays: UFOs Neutered Nukes, Officers ClaimSep 28, 2010 — While he never himself saw any aliens, he heard about a UFO landing i...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: spreaker.com  
    Title: And he's hardly the only one to make such a claim  
-   Link: <a href="https://www.spreaker.com/episode/xzufo-stephen-bassett-alien-ufo-threat-to-us-nuclear-weapons-press-conference-in-washington-dc--41290600" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/xzufo-stephen-bassett-alien-ufo-threat-to-us-nuclear-weapons-press-conference-in-washington-dc--41290600</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>XZUFO: Stephen Bassett - Alien-UFO Threat to US Nuclear...Captain Robert Salas was on duty in Montana in 1967 when a UFO shut down the n...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/xzufo-stephen-bassett-alien-ufo-threat-to-us-nuclear-weapons-press-conference-in-washington-dc--41290600" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/xzufo-stephen-bassett-alien-ufo-threat-to-us-nuclear-weapons-press-conference-in-washington-dc--41290600</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XZUFO: Stephen Bassett - Alien-UFO Threat to US Nuclear...Captain Robert Salas was on duty in Montana in 1967 when a UFO shut down the n...</p></details>

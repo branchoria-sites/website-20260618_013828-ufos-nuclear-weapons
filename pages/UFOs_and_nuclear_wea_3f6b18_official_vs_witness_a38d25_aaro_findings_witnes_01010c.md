@@ -274,19 +274,19 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_aar
 
 ## Introduction
 
-The creation of the All-domain Anomaly Resolution Office (AARO) did not end the long-running dispute over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}). What it changed was the official evidentiary standard. AARO’s historical review concluded that decades of government investigations have produced no verified evidence of extraterrestrial technology, recovered alien craft, or hidden reverse-engineering programmes. It also argued that many enduring UFO narratives grew from misidentifications, classified military activities, institutional [secrecy]({{ 'secrecy/' | relative_url }}), and the gradual reshaping of stories over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...Mar 6, 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Project BEAR (Late...</span></span></span>
+The creation of the All-domain Anomaly Resolution Office (AARO) did not end the long-running dispute over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}). What it changed was the official evidentiary standard. AARO’s historical review concluded that decades of government investigations have produced no verified evidence of extraterrestrial technology, recovered alien craft, or hidden reverse-engineering programmes. It also argued that many enduring UFO narratives grew from misidentifications, classified military activities, institutional [secrecy]({{ 'secrecy/' | relative_url }}), and the gradual reshaping of stories over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...Mar 6, 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Project BEAR (Late...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_aaro_findings_witnes_01010c-Illustration-1-dark.svg" | relative_url }}" alt="AARO Contrast illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_aaro_findings_witnes_01010c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_aaro_findings_witnes_01010c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Yet the nuclear-related cases that fuelled controversy before [AARO]({{ 'aaro/' | relative_url }}) remain controversial afterwards. Former missile officers, security personnel and other witnesses continue to argue that some incidents near strategic nuclear facilities were not adequately explained and that official investigations underestimated their significance. The central tension therefore survives: AARO has reinforced the official conclusion that there is no proven extraterrestrial explanation, but it has not persuaded all participants that the historical record is complete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Yet the nuclear-related cases that fuelled controversy before [AARO]({{ 'aaro/' | relative_url }}) remain controversial afterwards. Former missile officers, security personnel and other witnesses continue to argue that some incidents near strategic nuclear facilities were not adequately explained and that official investigations underestimated their significance. The central tension therefore survives: AARO has reinforced the official conclusion that there is no proven extraterrestrial explanation, but it has not persuaded all participants that the historical record is complete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 ## What AARO says about extraterrestrial proof
 
-AARO’s 2024 Historical Record Report was designed to review government involvement with [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena from 1945 onward. Its headline finding closely followed the pattern established by earlier official investigations such as [Project Blue Book]({{ 'blue-book/' | relative_url }}): investigators found no verified evidence that any reported UAP represented extraterrestrial technology. The office also reported finding no evidence that the US government or private industry possessed recovered off-world craft or biological remains. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
+AARO’s 2024 Historical Record Report was designed to review government involvement with [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena from 1945 onward. Its headline finding closely followed the pattern established by earlier official investigations such as [Project Blue Book]({{ 'blue-book/' | relative_url }}): investigators found no verified evidence that any reported UAP represented extraterrestrial technology. The office also reported finding no evidence that the US government or private industry possessed recovered off-world craft or biological remains. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</span></span></span>
 
-The report went beyond simply restating older conclusions. AARO argued that many famous UFO narratives can be traced to misunderstandings surrounding classified programmes, compartmentalised military activities, rumours passed between generations of personnel, and incomplete knowledge of sensitive operations. According to the report, the aggregate results of government investigations have not produced a single confirmed case demonstrating off-world technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">Report on the Historical Record of US Government...10 May 2024 — AARO assesses that UAP sightings and reports of these sightin...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The report went beyond simply restating older conclusions. AARO argued that many famous UFO narratives can be traced to misunderstandings surrounding classified programmes, compartmentalised military activities, rumours passed between generations of personnel, and incomplete knowledge of sensitive operations. According to the report, the aggregate results of government investigations have not produced a single confirmed case demonstrating off-world technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">Report on the Historical Record of US Government...10 May 2024 — AARO assesses that UAP sightings and reports of these sightin...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-Importantly, AARO did not claim that every sighting had been explained. Instead, it argued that [unresolved]({{ 'unresolved/' | relative_url }}) cases are not evidence of extraterrestrial activity by themselves. The office maintained that many unsolved reports remain unresolved because of limited data quality and that additional information could eventually allow ordinary explanations to be identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span>
+Importantly, AARO did not claim that every sighting had been explained. Instead, it argued that [unresolved]({{ 'unresolved/' | relative_url }}) cases are not evidence of extraterrestrial activity by themselves. The office maintained that many unsolved reports remain unresolved because of limited data quality and that additional information could eventually allow ordinary explanations to be identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</span></span></span>
 
 This distinction is central to the nuclear debate. AARO’s conclusion is not that every witness was mistaken; it is that the available evidence does not establish an extraterrestrial cause.
 
@@ -301,7 +301,7 @@ The strongest challenges to AARO come from witnesses connected to nuclear weapon
 
 The best-known example remains Malmstrom Air Force Base in Montana. Witnesses associated with missile shutdown incidents in 1967 have long argued that unusual aerial objects were observed near missile sites around the time strategic missiles became inoperative. Their position is that the timing of the events deserves greater weight than official investigations have given it.
 
-AARO addressed these claims directly. The office reported interviewing former personnel connected with missile facilities and reviewing historical records. Its assessment was that the evidence did not support a causal relationship between UAP sightings and missile malfunctions. The report pointed instead to technical explanations and existing Air Force investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO addressed these claims directly. The office reported interviewing former personnel connected with missile facilities and reviewing historical records. Its assessment was that the evidence did not support a causal relationship between UAP sightings and missile malfunctions. The report pointed instead to technical explanations and existing Air Force investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 For critics, however, this does not resolve the issue. Witnesses often argue that the available records are incomplete, that some events were poorly documented, or that later investigators relied too heavily on paperwork produced by the same institutions whose actions are being questioned. The disagreement is therefore partly methodological: AARO privileges documented evidence, while witnesses often emphasise firsthand experience and operational context.
 
@@ -341,7 +341,7 @@ One of AARO’s most significant contributions is not a new explanation for hist
 
 Cold War nuclear-related UFO reports were usually investigated after the fact. Records were often fragmented, sensors were limited, and information was compartmentalised. As a result, many famous cases depend heavily on recollections collected years or decades later.
 
-AARO's approach emphasises modern data collection, sensor integration and cross-domain analysis. In its annual reporting, the office has repeatedly stressed that contemporary investigations benefit from radar, electro-optical systems, satellite information and other technical sources that were unavailable during many historic incidents. At the same time, AARO acknowledges that some current reports remain unresolved because available data are still insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...Nov 14, 2024 — It is important to underscore that, to date, AARO has d...</span></span></span>
+AARO's approach emphasises modern data collection, sensor integration and cross-domain analysis. In its annual reporting, the office has repeatedly stressed that contemporary investigations benefit from radar, electro-optical systems, satellite information and other technical sources that were unavailable during many historic incidents. At the same time, AARO acknowledges that some current reports remain unresolved because available data are still insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...Nov 14, 2024 — It is important to underscore that, to date, AARO has d...</span></span></span>
 
 This creates an important shift in perspective. Earlier debates often revolved around whether witnesses should be believed. Modern UAP analysis increasingly asks whether claims can be independently reconstructed through multiple streams of evidence.
 
@@ -352,7 +352,7 @@ From that viewpoint, many historic nuclear cases remain unresolved rather than v
 
 ## What AARO changes—and what it does not
 
-AARO changes the debate by providing the most comprehensive recent official review of historical UFO claims and by reaffirming that no verified evidence currently supports extraterrestrial involvement in nuclear-related incidents. It also places many long-standing stories within a broader history of secrecy, misinterpretation and institutional mythology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...Mar 6, 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Project BEAR (Late...</span></span></span>
+AARO changes the debate by providing the most comprehensive recent official review of historical UFO claims and by reaffirming that no verified evidence currently supports extraterrestrial involvement in nuclear-related incidents. It also places many long-standing stories within a broader history of secrecy, misinterpretation and institutional mythology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...Mar 6, 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Project BEAR (Late...</span></span></span>
 
 What it does not change is the persistence of witness challenges. Former military personnel associated with nuclear facilities continue to maintain that certain events were extraordinary and insufficiently explained. AARO’s findings reject extraterrestrial conclusions, but they do not erase the historical disputes that made the nuclear-UFO question endure for decades.
 
@@ -363,194 +363,194 @@ The result is a narrower but still active controversy. The debate is no longer p
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What AARO changes and what it does not. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What AARO changes and what it does not. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Closely matches modern debates surrounding AARO findings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches modern debates surrounding AARO findings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence and testimony from officials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence and testimony from officials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO narratives persist despite official conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO narratives persist despite official conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Represents the witness-based perspective AARO reviews often address.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the witness-based perspective AARO reviews often address.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before You Ask It&#x27;s A Drone List Graphic Shirt Funny Drone Men&#x27;s Cotton T-Shirt"><img src="{{ '/assets/images/marketplace-covers/42cf07c3758e191a4209.jpg' | relative_url }}" alt="Listing image for Before You Ask It&#x27;s A Drone List Graphic Shirt Funny Drone Men&#x27;s Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Before You Ask It&#x27;s A Drone List Graphic Shirt Funny Drone Men&#x27;s Cotton T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Before You Ask It&#x27;s A Drone List Graphic Shirt Funny Drone Men&#x27;s Cotton T-Shirt"><img src="{{ '/assets/images/marketplace-covers/42cf07c3758e191a4209.jpg' | relative_url }}" alt="Listing image for Before You Ask It&#x27;s A Drone List Graphic Shirt Funny Drone Men&#x27;s Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Before You Ask It&#x27;s A Drone List Graphic Shirt Funny Drone Men&#x27;s Cotton T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution Of Drone Mens Funny Unisex T-Shirt"><img src="{{ '/assets/images/marketplace-covers/2b3af09138695c209d62.jpg' | relative_url }}" alt="Listing image for Evolution Of Drone Mens Funny Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution Of Drone Mens Funny Unisex T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution Of Drone Mens Funny Unisex T-Shirt"><img src="{{ '/assets/images/marketplace-covers/2b3af09138695c209d62.jpg' | relative_url }}" alt="Listing image for Evolution Of Drone Mens Funny Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution Of Drone Mens Funny Unisex T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Operator in Training Mens T-Shirt Funny Joke Tee Gift"><img src="{{ '/assets/images/marketplace-covers/384b61ad5201805e958b.jpg' | relative_url }}" alt="Listing image for Drone Operator in Training Mens T-Shirt Funny Joke Tee Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Drone Operator in Training Mens T-Shirt Funny Joke Tee Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Operator in Training Mens T-Shirt Funny Joke Tee Gift"><img src="{{ '/assets/images/marketplace-covers/384b61ad5201805e958b.jpg' | relative_url }}" alt="Listing image for Drone Operator in Training Mens T-Shirt Funny Joke Tee Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Drone Operator in Training Mens T-Shirt Funny Joke Tee Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Warning May Start Talking About Drones T Shirt Small-2XL"><img src="{{ '/assets/images/marketplace-covers/e64ad104b3ea026d4156.jpg' | relative_url }}" alt="Listing image for Warning May Start Talking About Drones T Shirt Small-2XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Warning May Start Talking About Drones T Shirt Small-2XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Warning May Start Talking About Drones T Shirt Small-2XL"><img src="{{ '/assets/images/marketplace-covers/e64ad104b3ea026d4156.jpg' | relative_url }}" alt="Listing image for Warning May Start Talking About Drones T Shirt Small-2XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Warning May Start Talking About Drones T Shirt Small-2XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: drone t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone t shirt" data-ebay-reference="aaro-contrast-what-aaro-changes-and-what-it-does-not-ufos-and-nuclear-weapons-drone-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ The result is a narrower but still active controversy. The debate is no longer p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ The result is a narrower but still active controversy. The debate is no longer p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ The result is a narrower but still active controversy. The debate is no longer p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ The result is a narrower but still active controversy. The debate is no longer p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ The result is a narrower but still active controversy. The debate is no longer p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,187 +756,187 @@ The result is a narrower but still active controversy. The debate is no longer p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...Mar 6, 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Project BEAR (Late...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...Mar 6, 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered. Project BEAR (Late...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the Historical Record of US Government...10 May 2024 — AARO assesses that UAP sightings and reports of these sightin...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the Historical Record of US Government...10 May 2024 — AARO assesses that UAP sightings and reports of these sightin...</p></details>
    Published: May 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</p></details>
    Published: May 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that the U.S...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...Nov 14, 2024 — It is important to underscore that, to date, AARO has d...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...Nov 14, 2024 — It is important to underscore that, to date, AARO has d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses a r...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsThe official website for the All-domain Anomaly Resolution Office (AARO) - AARO Case Resolution Reports...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsThe official website for the All-domain Anomaly Resolution Office (AARO) - AARO Case Resolution Reports...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: en.wikisource.org  
    Title: companies ever possessed off-world technology.Read more  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technol...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technol...</p></details>
    Published: May 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — It is critical to note that no extraterrestrial craft o...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — It is critical to note that no extraterrestrial craft o...</p></details>
    Published: May 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/19</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/195 May 2024 — There was no evidence indicating that sightings categor...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/195 May 2024 — There was no evidence indicating that sightings categor...</p></details>
    Published: May 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Title, Report on the Historical Record of U.S. Governmen...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Title, Report on the Historical Record of U.S. Governmen...</p></details>
    Published: May 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: en.wikisource.org  
    Title: Volume 1  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...Aliens Observing Material Test a Likely Misunderstanding of an Authentic... AARO Investigat...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...Aliens Observing Material Test a Likely Misunderstanding of an Authentic... AARO Investigat...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/11" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/11</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/1110 May 2024 — Volume I contains AARO&#x27;s findings from 1945 to 31 Octo...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/11" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/1110 May 2024 — Volume I contains AARO&#x27;s findings from 1945 to 31 Octo...</p></details>
    Published: May 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claims of &quot;alien bodies&quot; at the Roswell Army Air Force (RAAF)...Read more...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claims of &quot;alien bodies&quot; at the Roswell Army Air Force (RAAF)...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results: The Project BEAR report was based on a statistical analysis of UFO...Read more...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results: The Project BEAR report was based on a statistical analysis of UFO...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search. Search Search. Back; Home; Place Holder; News · Press Products... AARO received 757 UAP reports during this period; 485 of these...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search. Search Search. Back; Home; Place Holder; News · Press Products... AARO received 757 UAP reports during this period; 485 of these...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: DOW UAP D077 Unresolved Case Analysis Update Western United States Event  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO) Unidentified...5 Jun 2026 — However, historical records are inconclusive regarding whether t...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO) Unidentified...5 Jun 2026 — However, historical records are inconclusive regarding whether t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/just-in-a-newly-released-pentagon-review-of-decades-of-us-government-investigati/801330021853880/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/just-in-a-newly-released-pentagon-review-of-decades-of-us-government-investigati/801330021853880/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JUST IN: A newly released Pentagon review of decades...The U.S. government has released a new batch of UFO -related records, renewing pu...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/just-in-a-newly-released-pentagon-review-of-decades-of-us-government-investigati/801330021853880/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/just-in-a-newly-released-pentagon-review-of-decades-of-us-government-investigati/801330021853880/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JUST IN: A newly released Pentagon review of decades...The U.S. government has released a new batch of UFO -related records, renewing pu...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
+   Link:<a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Powell&#x27;s takedown analysis of the AARO report. He...AARO found no verifiable evidence that any reported UAP sighting has represen...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Powell&#x27;s takedown analysis of the AARO report. He...AARO found no verifiable evidence that any reported UAP sighting has represen...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume-1-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report, Volume I, 2024, DoD / All...8 May 2026 — AARO&#x27;s February 2024 mandated historical record report finds no...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report, Volume I, 2024, DoD / All...8 May 2026 — AARO&#x27;s February 2024 mandated historical record report finds no...</p></details>
    Published: May 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — This report covers unidentified anomalous phenomena (UAP) reports from Ma...</p></details>
+   Link:<a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — This report covers unidentified anomalous phenomena (UAP) reports from Ma...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: san.com  
    Title: pentagon spread ufo disinformation to protect [classified projects](&#123;&#123; 'secret-tests-7ef421/' | relative_url &#125;&#125;) report  
-   Link: <a href="https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon spread UFO disinformation to protect classified...9 Jun 2025 — Congress holds hearing to &#x27;pull back the curtain&#x27; on UFOs, exper...</p></details>
+   Link:<a href="https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon spread UFO disinformation to protect classified...9 Jun 2025 — Congress holds hearing to &#x27;pull back the curtain&#x27; on UFOs, exper...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...Nov 14, 2024 — He also confirmed AARO&#x27;s intent to release the second volume o...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...Nov 14, 2024 — He also confirmed AARO&#x27;s intent to release the second volume o...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: twz.com  
    Title: the newly released government ufo archives will leave you shrugging  
-   Link: <a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...8 May 2026 — The records span in date from the 1940s to the 2020s, come from multiple...</p></details>
+   Link:<a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...8 May 2026 — The records span in date from the 1940s to the 2020s, come from multiple...</p></details>
    Published: May 2026  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nprillinois.org  
    Title: pentagon finds no evidence of alien technology in new ufo report  
-   Link: <a href="https://www.nprillinois.org/2024-03-08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nprillinois.org/2024-03-08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon finds &#x27;no evidence&#x27; of alien technology in new...8 Mar 2024 — The Pentagon says it found no evidence of extraterrestrial spacec...</p></details>
+   Link:<a href="https://www.nprillinois.org/2024-03-08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nprillinois.org/2024-03-08/pentagon-finds-no-evidence-of-alien-technology-in-new-ufo-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon finds &#x27;no evidence&#x27; of alien technology in new...8 Mar 2024 — The Pentagon says it found no evidence of extraterrestrial spacec...</p></details>

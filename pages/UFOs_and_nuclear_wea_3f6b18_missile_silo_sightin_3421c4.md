@@ -498,11 +498,11 @@ The strongest public evidence is not a clean chain from “UFO” to “missile 
 
 ## Why Silos Are Sensitive Targets
 
-A missile silo is not just a hole in the ground. In the US system, Minuteman III intercontinental ballistic missiles are dispersed across missile fields linked to underground launch control centres, with two-person crews on continuous alert. The US Air Force describes the current ICBM force as 400 Minuteman III missiles at F.E. Warren, Malmstrom and Minot Air Force Bases, while Air Force Global Strike Command’s Sentinel replacement programme involves modernising 450 silos and more than 600 facilities across roughly 40,000 square miles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Warren AFB, Wyo.; the 341st Missile Wing at Malmstrom...Read more...</span></span></span>
+A missile silo is not just a hole in the ground. In the US system, Minuteman III intercontinental ballistic missiles are dispersed across missile fields linked to underground launch control centres, with two-person crews on continuous alert. The US Air Force describes the current ICBM force as 400 Minuteman III missiles at F.E. Warren, Malmstrom and Minot Air Force Bases, while Air Force Global Strike Command’s Sentinel replacement programme involves modernising 450 silos and more than 600 facilities across roughly 40,000 square miles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Warren AFB, Wyo.; the 341st Missile Wing at Malmstrom...Read more...</span></span></span>
 
 That geography is central to the risk. Missile fields are spread across rural areas, not concentrated behind a single fence. Launch facilities, launch control centres, roads, maintenance routes, communications links and security patrols form a wide operating environment. A sighting near one site can therefore trigger questions beyond the object itself: whether it is observing security patterns, interfering with communications, testing response times, distracting guards, mapping infrastructure or simply being misidentified in a large and visually confusing landscape.
 
-The military purpose of dispersal is resilience. Missiles are placed in hardened silos, separated from one another, and connected to launch control centres through hardened communications. The same design that protects against attack also creates a difficult security problem: many small, remote, high-consequence points must be monitored continuously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vandenberg.spaceforce.mil/About-Us/Fact-Sheets/Display/Article/338385/lgm-30-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vandenberg.spaceforce.mil">[Vandenberg Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vandenberg.spaceforce.mil</span><span class="citation-popover-title">Vandenberg Space Force Baselgm-30 minuteman iii</span><span class="citation-popover-snippet">Vandenberg Space Force BaseMissiles are dispersed in hardened silos to protect against attack and connected to an underground launch cont...</span></span></span>
+The military purpose of dispersal is resilience. Missiles are placed in hardened silos, separated from one another, and connected to launch control centres through hardened communications. The same design that protects against attack also creates a difficult security problem: many small, remote, high-consequence points must be monitored continuously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vandenberg.spaceforce.mil/About-Us/Fact-Sheets/Display/Article/338385/lgm-30-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vandenberg.spaceforce.mil">[Vandenberg Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vandenberg.spaceforce.mil</span><span class="citation-popover-title">Vandenberg Space Force Baselgm-30 minuteman iii</span><span class="citation-popover-snippet">Vandenberg Space Force BaseMissiles are dispersed in hardened silos to protect against attack and connected to an underground launch cont...</span></span></span>
 
 This is why “readiness” is the right lens. In an ICBM context, readiness is not only whether a missile could be launched. It includes whether systems report accurately, whether crews trust the status indications they see, whether security teams can distinguish nuisance from threat, and whether commanders can explain anomalies quickly enough to avoid overreaction or complacency.
 
@@ -512,9 +512,9 @@ This is why “readiness” is the right lens. In an ICBM context, readiness is 
 
 The 1967 Malmstrom Air Force Base case remains the central missile-silo story because it combines two elements that are often blurred together: a documented missile alert failure and disputed UFO testimony.
 
-The documented part is serious on its own. A declassified Air Force history states that on 16 March 1967, all sites in Echo Flight went into “No-Go” status almost simultaneously, meaning they lost strategic alert. The same document says rumours of UFOs around Echo Flight at the time were “disproven”, and it records that a mobile strike team reported no unusual activity or sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The documented part is serious on its own. A declassified Air Force history states that on 16 March 1967, all sites in Echo Flight went into “No-Go” status almost simultaneously, meaning they lost strategic alert. The same document says rumours of UFOs around Echo Flight at the time were “disproven”, and it records that a mobile strike team reported no unusual activity or sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-The disputed part comes from later accounts by former Air Force personnel, especially [Robert Salas]({{ 'salas/' | relative_url }}) and other veterans who connected unusual aerial sightings with missile shutdowns at Malmstrom. Affidavits released at a 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event describe alleged UFO activity around Malmstrom-area missile sites, while contemporary coverage noted both the dramatic nature of the claims and the lack of public proof that an unidentified object caused the technical failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+The disputed part comes from later accounts by former Air Force personnel, especially [Robert Salas]({{ 'salas/' | relative_url }}) and other veterans who connected unusual aerial sightings with missile shutdowns at Malmstrom. Affidavits released at a 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event describe alleged UFO activity around Malmstrom-area missile sites, while contemporary coverage noted both the dramatic nature of the claims and the lack of public proof that an unidentified object caused the technical failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
 For readiness risk, the most important point is not to force a single conclusion. If the official account is correct, Malmstrom is a technical failure later wrapped in UFO rumour, which still demonstrates how alarming a simultaneous multi-missile alert loss can be. If the veterans’ accounts are partly correct, then the case becomes a stronger security concern because unknown aerial activity coincided with nuclear-system anomalies. In either reading, the case shows why missile-field sightings cannot be treated like ordinary skywatching stories.
 
@@ -535,7 +535,7 @@ Third, it can create **communications stress**. Historical UFO reports often inc
 
 Fourth, it can create **decision pressure**. Nuclear organisations are built to avoid accidental launch, unauthorised action and false alarm. A strange object near a missile site does not by itself create a launch risk, but it can complicate the environment in which people must decide whether to escalate security posture, shut down local operations, dispatch forces, notify higher command or treat the report as non-threatening.
 
-The US Strategic Command language around routine Minuteman III test launches underlines this broader concept of readiness: tests are described as demonstrations that the nuclear deterrent remains safe, secure, reliable and effective. A missile-field anomaly is worrying precisely because it touches those same qualities from the opposite direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratcom.mil">[U.S. Strategic Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratcom.mil</span><span class="citation-popover-snippet">Open source on stratcom.mil.</span></span></span>
+The US Strategic Command language around routine Minuteman III test launches underlines this broader concept of readiness: tests are described as demonstrations that the nuclear deterrent remains safe, secure, reliable and effective. A missile-field anomaly is worrying precisely because it touches those same qualities from the opposite direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratcom.mil">[U.S. Strategic Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratcom.mil</span><span class="citation-popover-snippet">Open source on stratcom.mil.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X2c3_vG7yhs" title="Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer">Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 332.0K &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X2c3_vG7yhs">Open on YouTube</a></p></div></div></div>
@@ -544,11 +544,11 @@ The US Strategic Command language around routine Minuteman III test launches und
 
 Modern drone incidents make the silo-sighting issue less dependent on Cold War UFO lore. They show that unidentified or unauthorised aerial activity around strategic installations is already a real security problem.
 
-In 2026, the Department of Defense Inspector General warned that the Pentagon’s counter-drone policies were unclear and inconsistent, affecting the ability to use counter-uncrewed aircraft systems at “covered assets” in the United States and its territories. The public summary specifically says the review found contradictory or incomplete requirements across more than 20 DoD documents, limiting consistency in how counter-drone capabilities could be used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dodig.mil/reports.html/Article/4383710/management-advisory-immediate-attention-required-to-protect-dod-covered-assets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dodig.mil">[dodig.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dodig.mil</span><span class="citation-popover-title">Immediate Attention Required to Protect Do D Covered</span><span class="citation-popover-snippet">Immediate Attention Required to Protect Do D Covered</span></span></span>
+In 2026, the Department of Defense Inspector General warned that the Pentagon’s counter-drone policies were unclear and inconsistent, affecting the ability to use counter-uncrewed aircraft systems at “covered assets” in the United States and its territories. The public summary specifically says the review found contradictory or incomplete requirements across more than 20 DoD documents, limiting consistency in how counter-drone capabilities could be used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dodig.mil/reports.html/Article/4383710/management-advisory-immediate-attention-required-to-protect-dod-covered-assets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dodig.mil">[dodig.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dodig.mil</span><span class="citation-popover-title">Immediate Attention Required to Protect Do D Covered</span><span class="citation-popover-snippet">Immediate Attention Required to Protect Do D Covered</span></span></span>
 
-That matters for nuclear sites because “covered” missions can include nuclear deterrence and other high-consequence defence activities. Specialist reporting on the same watchdog finding noted that inconsistent designation and approval procedures could leave sensitive facilities without clear authority or ready capability to detect, disrupt or defeat drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedairspace.info">[Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedairspace.info</span><span class="citation-popover-title">dod watchdog finds gaps in c uas capabilities at covered facilities</span><span class="citation-popover-snippet">dod watchdog finds gaps in c uas capabilities at covered facilities</span></span></span>
+That matters for nuclear sites because “covered” missions can include nuclear deterrence and other high-consequence defence activities. Specialist reporting on the same watchdog finding noted that inconsistent designation and approval procedures could leave sensitive facilities without clear authority or ready capability to detect, disrupt or defeat drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unmannedairspace.info">[Unmanned Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unmannedairspace.info</span><span class="citation-popover-title">dod watchdog finds gaps in c uas capabilities at covered facilities</span><span class="citation-popover-snippet">dod watchdog finds gaps in c uas capabilities at covered facilities</span></span></span>
 
-Recent base incursions are not missile-silo UFO cases, but they are highly relevant analogues. Barksdale Air Force Base, a strategic bomber base, publicly confirmed unauthorised drone incursions in March 2026 and said operations continued while the matter remained under federal investigation. ABC News reported that official documents described the incursions as a public-safety and national-security concern because they could require flight-line shutdowns and endanger aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirtland.af.mil">[kirtland.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirtland.af.mil</span><span class="citation-popover-title">FAC T CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">FAC T CHECK: Barksdale Drone Incursion</span></span></span>
+Recent base incursions are not missile-silo UFO cases, but they are highly relevant analogues. Barksdale Air Force Base, a strategic bomber base, publicly confirmed unauthorised drone incursions in March 2026 and said operations continued while the matter remained under federal investigation. ABC News reported that official documents described the incursions as a public-safety and national-security concern because they could require flight-line shutdowns and endanger aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirtland.af.mil">[kirtland.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirtland.af.mil</span><span class="citation-popover-title">FAC T CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">FAC T CHECK: Barksdale Drone Incursion</span></span></span>
 
 The lesson for missile silos is straightforward: an unidentified object no longer has to be exotic to be consequential. A consumer drone, modified drone, surveillance platform, contractor aircraft, hobbyist mistake or hostile probe can all produce the same first-order problem for defenders: something is near a sensitive site, its operator is unknown, and the correct response is uncertain.
 
@@ -558,7 +558,7 @@ The lesson for missile silos is straightforward: an unidentified object no longe
 
 The 1968 Minot Air Force Base case is useful because it shows a different kind of missile-field problem: not a clean missile shutdown narrative, but a layered incident involving ground observers, aircraft crew, radar claims and official UFO investigation.
 
-The Minot B-52 UFO case file, preserved and analysed by researchers using Project Blue Book-era material, describes reports from maintenance and security personnel in the Minot missile complex, communications involving base operations and radar control, and a returning B-52 crew that allegedly observed a radar target. The case was later categorised by Project Blue Book as identified by radar analysis as “plasma”, a conclusion that remains disputed by case researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
+The Minot B-52 UFO case file, preserved and analysed by researchers using Project Blue Book-era material, describes reports from maintenance and security personnel in the Minot missile complex, communications involving base operations and radar control, and a returning B-52 crew that allegedly observed a radar target. The case was later categorised by Project Blue Book as identified by radar analysis as “plasma”, a conclusion that remains disputed by case researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
 
 Minot matters less as proof of a specific extraordinary object than as an example of how difficult incident reconstruction can become. Different observers see different things from different locations; aircraft radar, ground reports and command logs may not align neatly; later researchers may find inconsistencies in times, transcripts or summaries; and official closure may not persuade people who believe the raw record is stronger than the final explanation.
 
@@ -576,7 +576,7 @@ A safety-focused reading asks practical questions:
 * **Was the site’s mission affected?** A sighting that causes patrols, alarms, shutdowns, shelter orders or command notifications matters more than a distant light with no operational consequence.
 * **Was a mundane explanation tested?** Drones, aircraft, stars, planets, balloons, weather, [electrical faults]({{ 'electrical-fault/' | relative_url }}), exercises, classified activity and reporting errors all have to be considered before an extraordinary claim carries weight.
 
-This approach is consistent with the broader official record. Project Blue Book collected 12,618 UFO reports between 1947 and 1969, with 701 left unidentified, but the Air Force’s published conclusion was that no investigated report represented a national-security threat, technology beyond scientific knowledge or extraterrestrial vehicle. AARO’s 2024 historical report similarly found no evidence that US government investigations had confirmed any UAP as extraterrestrial technology, while acknowledging unresolved cases and longstanding public controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span>
+This approach is consistent with the broader official record. Project Blue Book collected 12,618 UFO reports between 1947 and 1969, with 701 left unidentified, but the Air Force’s published conclusion was that no investigated report represented a national-security threat, technology beyond scientific knowledge or extraterrestrial vehicle. AARO’s 2024 historical report similarly found no evidence that US government investigations had confirmed any UAP as extraterrestrial technology, while acknowledging unresolved cases and longstanding public controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span>
 
 That does not make missile-field reports irrelevant. It means the security conclusion should be narrower and stronger: unidentified activity around nuclear forces is a readiness and protection problem even when the final explanation is ordinary, and especially when the explanation is not available in real time.
 
@@ -605,194 +605,194 @@ That is the branch-specific value of missile-silo sightings within the larger UF
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Missile Silo Sightings Raise Stakes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Missile Silo Sightings Raise Stakes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military UFO reports and evidentiary questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military UFO reports and evidentiary questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful analysis of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful analysis of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Explains why incidents near missile infrastructure matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why incidents near missile infrastructure matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly addresses missile-silo and nuclear-site sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses missile-silo and nuclear-site sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit"><img src="{{ '/assets/images/marketplace-covers/74f90a1abe473fbe8b4c.jpg' | relative_url }}" alt="Listing image for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit"><img src="{{ '/assets/images/marketplace-covers/74f90a1abe473fbe8b4c.jpg' | relative_url }}" alt="Listing image for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48"><img src="{{ '/assets/images/marketplace-covers/613309faee77c395a5b9.jpg' | relative_url }}" alt="Listing image for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48"><img src="{{ '/assets/images/marketplace-covers/613309faee77c395a5b9.jpg' | relative_url }}" alt="Listing image for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit"><img src="{{ '/assets/images/marketplace-covers/fec0f388011e7bed43e8.jpg' | relative_url }}" alt="Listing image for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit"><img src="{{ '/assets/images/marketplace-covers/fec0f388011e7bed43e8.jpg' | relative_url }}" alt="Listing image for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box"><img src="{{ '/assets/images/marketplace-covers/cfe570ccb342098cd30d.jpg' | relative_url }}" alt="Listing image for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box"><img src="{{ '/assets/images/marketplace-covers/cfe570ccb342098cd30d.jpg' | relative_url }}" alt="Listing image for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="silos-why-missile-silo-sightings-raise-stakes-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -808,7 +808,7 @@ That is the branch-specific value of missile-silo sightings within the larger UF
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -828,7 +828,7 @@ That is the branch-specific value of missile-silo sightings within the larger UF
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -860,7 +860,7 @@ That is the branch-specific value of missile-silo sightings within the larger UF
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -912,7 +912,7 @@ That is the branch-specific value of missile-silo sightings within the larger UF
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -957,7 +957,7 @@ That is the branch-specific value of missile-silo sightings within the larger UF
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -998,177 +998,177 @@ That is the branch-specific value of missile-silo sightings within the larger UF
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren AFB, Wyo.; the 341st Missile Wing at Malmstrom...Read more...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warren AFB, Wyo.; the 341st Missile Wing at Malmstrom...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: stratcom.mil  
    Title: air force global strike command establishes new directorate  
-   Link: <a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/3617449/air-force-global-strike-command-establishes-new-directorate/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/3617449/air-force-global-strike-command-establishes-new-directorate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic CommandAir Force Global Strike Command Establishes New...13 Dec 2023 — “It aims to field 400 missiles, modernize 450 silos and...</p></details>
+   Link:<a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/3617449/air-force-global-strike-command-establishes-new-directorate/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/3617449/air-force-global-strike-command-establishes-new-directorate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic CommandAir Force Global Strike Command Establishes New...13 Dec 2023 — “It aims to field 400 missiles, modernize 450 silos and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dodig.mil  
    Title: Immediate Attention Required to Protect Do D Covered  
-   Link: <a href="https://www.dodig.mil/reports.html/Article/4383710/management-advisory-immediate-attention-required-to-protect-dod-covered-assets/" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/reports.html/Article/4383710/management-advisory-immediate-attention-required-to-protect-dod-covered-assets/</a>  
+   Link:<a href="https://www.dodig.mil/reports.html/Article/4383710/management-advisory-immediate-attention-required-to-protect-dod-covered-assets/" target="_blank" rel="noopener noreferrer nofollow">https://www.dodig.mil/reports.html/Article/4383710/management-advisory-immediate-attention-required-to-protect-dod-covered-assets/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: kirtland.af.mil  
    Title: FAC T CHECK: Barksdale Drone Incursion  
-   Link: <a href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
+   Link:<a href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/</a>  
+   Link:<a href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: minotb52ufo.com  
    Title: section 6  
-   Link: <a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
+   Link:<a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: press.org  
    Title: news conference unidentified aerial phenomenon uap and nuclear weapons  
-   Link: <a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
+   Link:<a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/</a>  
+   Link:<a href="https://www.war.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: site selections announced for directed energy counter drone program  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4479463/site-selections-announced-for-directed-energy-counter-drone-program/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/Experience/Americas-Nuclear-Triad/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Experience/Americas-Nuclear-Triad/</a>  
+   Link:<a href="https://www.war.gov/Multimedia/Experience/Americas-Nuclear-Triad/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Experience/Americas-Nuclear-Triad/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
+   Link:<a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: vandenberg.spaceforce.mil  
    Title: Vandenberg Space Force Baselgm-30 minuteman iii  
-   Link: <a href="https://www.vandenberg.spaceforce.mil/About-Us/Fact-Sheets/Display/Article/338385/lgm-30-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/About-Us/Fact-Sheets/Display/Article/338385/lgm-30-minuteman-iii/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vandenberg Space Force BaseMissiles are dispersed in hardened silos to protect against attack and connected to an underground launch cont...</p></details>
+   Link:<a href="https://www.vandenberg.spaceforce.mil/About-Us/Fact-Sheets/Display/Article/338385/lgm-30-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/About-Us/Fact-Sheets/Display/Article/338385/lgm-30-minuteman-iii/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vandenberg Space Force BaseMissiles are dispersed in hardened silos to protect against attack and connected to an underground launch cont...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: stratcom.mil  
-   Link: <a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/</a>  
+   Link:<a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: unmannedairspace.info  
    Title: dod watchdog finds gaps in c uas capabilities at covered facilities  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/</a>  
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/dod-watchdog-finds-gaps-in-c-uas-capabilities-at-covered-facilities/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
+   Link:<a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Robert Salas  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: LGM 30 Minuteman  
-   Link: <a href="https://en.wikipedia.org/wiki/LGM-30_Minuteman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/LGM-30_Minuteman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/LGM-30_Minuteman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/LGM-30_Minuteman</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: npshistory.com  
-   Link: <a href="https://npshistory.com/publications/mimi/srs/sites.htm" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/mimi/srs/sites.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NPS HistoryMinuteman Missile NHS: History150 underground missile silos, each equipped with a nuclear-armed Minuteman. Also underground we...</p></details>
+   Link:<a href="https://npshistory.com/publications/mimi/srs/sites.htm" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/mimi/srs/sites.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NPS HistoryMinuteman Missile NHS: History150 underground missile silos, each equipped with a nuclear-armed Minuteman. Also underground we...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained drones, UFOs and the state of the Navy | 60 Minutes Full Episodes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained drones, UFOs and the state of the Navy | 60 Minutes Full Episodes...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Unexplained drones, UFOs and the state of the Navy | 60 Minutes Full Episodes  
-   Link: <a href="https://www.youtube.com/watch?v=NrM_NQS3_Fc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NrM_NQS3_Fc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NrM_NQS3_Fc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NrM_NQS3_Fc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;There&#x27;s Something About UFOs &amp; Nuclear Sites” - Jesse Michels...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;There&#x27;s Something About UFOs &amp; Nuclear Sites” - Jesse Michels...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+   Link:<a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/videos/a-major-security-scare-has-unfolded-in-washington-after-unidentified-drones-were/1418579120069252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/a-major-security-scare-has-unfolded-in-washington-after-unidentified-drones-were/1418579120069252/</a>  
+   Link:<a href="https://www.facebook.com/TimesofIndia/videos/a-major-security-scare-has-unfolded-in-washington-after-unidentified-drones-were/1418579120069252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/a-major-security-scare-has-unfolded-in-washington-after-unidentified-drones-were/1418579120069252/</a>  

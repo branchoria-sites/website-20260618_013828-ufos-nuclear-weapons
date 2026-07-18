@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-documents/
 description: Focused pages that expand on Documents.
-date: '2026-06-17'
+date: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d
 parent_title: Documents
@@ -16,7 +16,7 @@ parent_permalink: /documents/
 
 # Explore Topics in Documents
 
-The following pages expand on the main **[Documents]({{ '/documents/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Documents]({{ '/documents/' | relative_url }})** page and cover its key branches in.
 
 - [Secret Tests]({{ '/secret-tests-14ef74/' | relative_url }})
 - [Missing Context]({{ '/missing-context/' | relative_url }})

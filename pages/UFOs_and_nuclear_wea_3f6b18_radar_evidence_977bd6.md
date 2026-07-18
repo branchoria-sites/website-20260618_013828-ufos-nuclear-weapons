@@ -490,7 +490,7 @@ Radar is not a camera. It transmits radio waves and displays returns from object
 
 That is why radar-visual cases have a special place in UFO debates. A witness report alone may be affected by distance, darkness, stress or expectation. A radar report alone may be a false track or ambiguous return. Together, they become more interesting because two different information channels appear to be describing the same event. The key word is “appear”: investigators still need to know whether the radar return and the witness observation were genuinely correlated in time, direction and motion, rather than merely occurring during the same confusing episode.
 
-The Federal Aviation Administration’s aviation guidance is a useful corrective to overconfident readings of radar. It notes that radar service has limits and that radio waves can be bent by abnormal atmospheric conditions such as temperature inversions, reflected or weakened by dense objects such as heavy clouds or precipitation, and screened by terrain. It also explains that anomalous propagation or ducting can create extraneous blips, while low-altitude aircraft may be hidden by terrain or earth curvature. These are not exotic excuses; they are normal operating constraints of radar interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administrationwww.faa.gov</span><span class="citation-popover-snippet">Federal Aviation Administrationwww.faa.gov</span></span></span>
+The Federal Aviation Administration’s aviation guidance is a useful corrective to overconfident readings of radar. It notes that radar service has limits and that radio waves can be bent by abnormal atmospheric conditions such as temperature inversions, reflected or weakened by dense objects such as heavy clouds or precipitation, and screened by terrain. It also explains that anomalous propagation or ducting can create extraneous blips, while low-altitude aircraft may be hidden by terrain or earth curvature. These are not exotic excuses; they are normal operating constraints of radar interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administrationwww.faa.gov</span><span class="citation-popover-snippet">Federal Aviation Administrationwww.faa.gov</span></span></span>
 
 In nuclear-base UFO cases, the strongest radar evidence would show several things at once: a preserved primary radar track, a known radar mode, a named operator or log, a reliable time stamp, weather data, and independent confirmation from visual witnesses or another sensor. Without those details, “radar picked it up” is not enough to distinguish an intruder from an artefact.
 
@@ -498,13 +498,13 @@ In nuclear-base UFO cases, the strongest radar evidence would show several thing
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6-Illustration-1-dark.svg" | relative_url }}" alt="Radar illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Minot shows why radar can strengthen a case without settling it
 
-The 24 October 1968 Minot Air Force Base case is one of the clearest examples of why radar matters in the nuclear-UFO discussion. Minot was a Strategic Air Command base in North Dakota, and the case involved both ground witnesses around missile-related facilities and a B-52 crew. Unlike many famous nuclear-UFO stories, the surviving file is not just a later memory: the Minot case archive identifies a [Project Blue Book]({{ 'blue-book/' | relative_url }}) case file of 145 pages, including maps and thirteen B-52 radarscope photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER 1968...</span><span class="citation-popover-meta">Published: OCTOBER 1968</span></span></span>
+The 24 October 1968 Minot Air Force Base case is one of the clearest examples of why radar matters in the nuclear-UFO discussion. Minot was a Strategic Air Command base in North Dakota, and the case involved both ground witnesses around missile-related facilities and a B-52 crew. Unlike many famous nuclear-UFO stories, the surviving file is not just a later memory: the Minot case archive identifies a [Project Blue Book]({{ 'blue-book/' | relative_url }}) case file of 145 pages, including maps and thirteen B-52 radarscope photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER 1968...</span><span class="citation-popover-meta">Published: OCTOBER 1968</span></span></span>
 
-The Minot file is important because it contains several kinds of evidence that can be compared against each other. The documentation includes a Base Operations Dispatcher log, a transcription of recorded conversations between Radar Approach Control and the B-52 co-pilot, witness materials, an upper-air dataset and the sequence of radarscope photographs. The archive also notes that the investigating officer interviewed 17 witnesses, although only seven completed the Air Force’s formal sighting questionnaire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER 1968...</span><span class="citation-popover-meta">Published: OCTOBER 1968</span></span></span>
+The Minot file is important because it contains several kinds of evidence that can be compared against each other. The documentation includes a Base Operations Dispatcher log, a transcription of recorded conversations between Radar Approach Control and the B-52 co-pilot, witness materials, an upper-air dataset and the sequence of radarscope photographs. The archive also notes that the investigating officer interviewed 17 witnesses, although only seven completed the Air Force’s formal sighting questionnaire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER 1968...</span><span class="citation-popover-meta">Published: OCTOBER 1968</span></span></span>
 
 That mix makes Minot more valuable than a simple anecdote. It gives investigators a way to ask concrete questions: did the B-52 radar target line up with what ground observers reported? Did the object’s apparent position match the aircraft’s movement? Were the reported lights consistent with an aircraft, astronomical object, plasma effect or radar anomaly? Did the weather support unusual propagation? These are exactly the questions that turn a UFO story into a testable evidence problem.
 
-The limits are just as important. Project Blue Book’s later evaluation categorised the Minot case as “Identified (Other)” by radar analysis as plasma, while later researchers have criticised parts of the official evaluation, including reported inaccuracies in time, duration and treatment of the radarscope photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">section 6</span><span class="citation-popover-snippet">Minot AFB UFO CaseInvestigation: Section 6. Project Blue Book Evaluation &#124; The Minot AFB UFO case &#124; 24 OCTOBER 1968...</span><span class="citation-popover-meta">Published: OCTOBER 1968</span></span></span> The result is not a clean proof of an extraordinary craft, but a case where radar evidence prevents easy dismissal while still leaving room for dispute over interpretation.
+The limits are just as important. Project Blue Book’s later evaluation categorised the Minot case as “Identified (Other)” by radar analysis as plasma, while later researchers have criticised parts of the official evaluation, including reported inaccuracies in time, duration and treatment of the radarscope photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">section 6</span><span class="citation-popover-snippet">Minot AFB UFO CaseInvestigation: Section 6. Project Blue Book Evaluation &#124; The Minot AFB UFO case &#124; 24 OCTOBER 1968...</span><span class="citation-popover-meta">Published: OCTOBER 1968</span></span></span> The result is not a clean proof of an extraordinary craft, but a case where radar evidence prevents easy dismissal while still leaving room for dispute over interpretation.
 
 For readers trying to assess nuclear-UFO claims, Minot is a better model than more dramatic retellings because it shows what the argument should be about: records, tracks, witness timing, atmospheric data and the quality of the official analysis. Radar helps here because it gives the case a technical spine. It does not, by itself, identify the cause.
 
@@ -517,11 +517,11 @@ Radar systems are built to detect, filter and display targets, but the displayed
 
 This is especially relevant near bases, where the environment is often crowded with overlapping systems: air-traffic radars, military surveillance, weather radar, training aircraft, security sensors, [drones]({{ 'drones/' | relative_url }}), [restricted airspace]({{ 'airspace/' | relative_url }}) procedures and classified activity. A nuclear base may be sensitive, but sensitivity does not automatically make every unknown return extraordinary. It means the standard for resolving it should be higher.
 
-Modern official UAP reviews repeatedly make the same point in updated language. The Office of the Director of National Intelligence stated in its 2021 preliminary assessment that sensors registering UAP generally operate correctly and capture enough real data for initial assessment, but that some UAP may be attributable to sensor anomalies; the same report said the limited amount of high-quality [reporting]({{ 'reporting/' | relative_url }}) hampered firm conclusions about the nature or intent of UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> NASA’s independent UAP study likewise found that analysis was hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+Modern official UAP reviews repeatedly make the same point in updated language. The Office of the Director of National Intelligence stated in its 2021 preliminary assessment that sensors registering UAP generally operate correctly and capture enough real data for initial assessment, but that some UAP may be attributable to sensor anomalies; the same report said the limited amount of high-quality [reporting]({{ 'reporting/' | relative_url }}) hampered firm conclusions about the nature or intent of UAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> NASA’s independent UAP study likewise found that analysis was hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 That is the central sensor-limit lesson for nuclear-base cases. A radar return can be meaningful, but investigators need the surrounding data that explain what the sensor was doing. Missing metadata can make a dramatic track impossible to evaluate: radar type, scan rate, range scale, filtering mode, maintenance status, local weather, operator workload and whether the target was primary radar, secondary radar, weather radar or an aircraft radar contact all affect interpretation.
 
-AARO’s recent public reporting reinforces the same caution. Its 2024 annual report said case resolution remains constrained by a lack of timely and actionable sensor data, and that many case holdings remain [unresolved]({{ 'unresolved/' | relative_url }}) because they lack the data needed for further analysis. It also noted that AARO is working on sensor requirements and advanced processing, including a GREMLIN prototype sensor suite designed to detect, track, characterise and identify UAP in areas of interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
+AARO’s recent public reporting reinforces the same caution. Its 2024 annual report said case resolution remains constrained by a lack of timely and actionable sensor data, and that many case holdings remain [unresolved]({{ 'unresolved/' | relative_url }}) because they lack the data needed for further analysis. It also noted that AARO is working on sensor requirements and advanced processing, including a GREMLIN prototype sensor suite designed to detect, track, characterise and identify UAP in areas of interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6-Illustration-2-dark.svg" | relative_url }}" alt="Radar illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -541,9 +541,9 @@ A useful hierarchy looks like this:
 
 </div>
 
-Minot approaches the stronger end because it includes radarscope photographs, communications transcripts and multiple witness accounts. Rendlesham Forest, by contrast, is famous for military witnesses near RAF Woodbridge and RAF Bentwaters, but the publicly accessible official record is much thinner as radar evidence. The UK National Archives describes Rendlesham as Britain’s best-known UFO event and notes that Lieutenant Colonel Charles Halt reported lights near the rear gate, but it also says the Ministry of Defence continued to state there was no threat to UK airspace or national security and that a single sheet report is the only record of the event itself held by the Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Minot approaches the stronger end because it includes radarscope photographs, communications transcripts and multiple witness accounts. Rendlesham Forest, by contrast, is famous for military witnesses near RAF Woodbridge and RAF Bentwaters, but the publicly accessible official record is much thinner as radar evidence. The UK National Archives describes Rendlesham as Britain’s best-known UFO event and notes that Lieutenant Colonel Charles Halt reported lights near the rear gate, but it also says the Ministry of Defence continued to state there was no threat to UK airspace or national security and that a single sheet report is the only record of the event itself held by the Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
-That distinction is crucial. Rendlesham is often discussed as if it had robust sensor confirmation, but the available public record does not support treating it like Minot as a preserved radar-data case. The Ministry of Defence’s later response to a Freedom of Information request confirmed that it held information within the scope of the request and pointed to already released files, but that does not by itself create a publicly verifiable radar track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
+That distinction is crucial. Rendlesham is often discussed as if it had robust sensor confirmation, but the available public record does not support treating it like Minot as a preserved radar-data case. The Ministry of Defence’s later response to a Freedom of Information request confirmed that it held information within the scope of the request and pointed to already released files, but that does not by itself create a publicly verifiable radar track.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets</span><span class="citation-popover-snippet">UK Assets</span></span></span>
 
 Witness testimony still matters. Trained personnel near sensitive facilities may notice unusual behaviour that casual observers would miss. But radar does not simply “upgrade” testimony unless the timing and geometry match. A guard seeing lights low over a perimeter while a radar operator tracks a return at a different bearing or altitude may describe two unrelated things. Conversely, a witness report that matches a radar track in time, direction and motion can turn an uncertain sighting into a serious airspace event.
 
@@ -554,11 +554,11 @@ Witness testimony still matters. Trained personnel near sensitive facilities may
 
 Radar evidence near nuclear bases matters because the security threshold is lower than the proof threshold. Authorities do not need evidence of an extraordinary craft before they should care about an unknown return near weapons, launch sites, storage areas or nuclear infrastructure. Drones, balloons, uncooperative aircraft and sensor confusion can all be operationally important.
 
-Recent AARO reporting shows how this has shifted in modern terms. In its 2024 annual report, AARO said it received 18 reports from the Administrator for Nuclear Security and the Chairman of the Nuclear Regulatory Commission regarding incidents near US nuclear infrastructure, weapons and launch sites; those incidents were categorised as unmanned aircraft systems. Some flew over protected areas for less than five minutes, while two lasted 53 minutes and 1 hour 57 minutes respectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
+Recent AARO reporting shows how this has shifted in modern terms. In its 2024 annual report, AARO said it received 18 reports from the Administrator for Nuclear Security and the Chairman of the Nuclear Regulatory Commission regarding incidents near US nuclear infrastructure, weapons and launch sites; those incidents were categorised as unmanned aircraft systems. Some flew over protected areas for less than five minutes, while two lasted 53 minutes and 1 hour 57 minutes respectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span>
 
 That is a sober modern parallel to older nuclear-UFO cases. The most likely security problem near a nuclear site today may not be an unknown physics-defying object, but a drone whose operator, intent, route or payload is unknown. Radar and other sensors are still central, but the investigative question becomes practical: was the object detected, tracked, identified, intercepted, recovered or linked to a pattern?
 
-AARO’s 2025 mission brief also notes that only a very small percentage of UAP reports display anomalous signatures and that most anomalous detections reported to AARO show ordinary characteristics of readily explainable sources. It also highlights two problems that directly apply to radar-heavy cases: lack of data hinders comprehensive analysis, and sensor bias influences reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Mission Brief</span><span class="citation-popover-snippet">AARO Mission Brief...</span></span></span>
+AARO’s 2025 mission brief also notes that only a very small percentage of UAP reports display anomalous signatures and that most anomalous detections reported to AARO show ordinary characteristics of readily explainable sources. It also highlights two problems that directly apply to radar-heavy cases: lack of data hinders comprehensive analysis, and sensor bias influences reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Mission Brief</span><span class="citation-popover-snippet">AARO Mission Brief...</span></span></span>
 
 So the right conclusion is balanced. Radar can turn a nuclear-base UFO case from a story into a serious record. It can show that military systems registered something worthy of attention. But it cannot carry the case alone. The decisive evidence is not the word “radar”; it is the quality of the data around the radar return.
 
@@ -577,194 +577,194 @@ For the nuclear-weapons branch of the UFO subject, radar evidence is therefore b
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Radar Helps A UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Radar Helps A UFO Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Discusses official investigations involving radar data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses official investigations involving radar data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains radar-supported incidents and evidence discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains radar-supported incidents and evidence discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs &amp; Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs &amp; Nukes">UFOs &amp; Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert Lambert Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs &amp; Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs &amp; Nukes">UFOs &amp; Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert Lambert Hastings</p>
         
-        <p class="fr-book-desc">Includes cases involving radar evidence near nuclear sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes cases involving radar evidence near nuclear sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Includes cases involving radar evidence near nuclear sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes cases involving radar evidence near nuclear sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs &amp; Nukes</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs &amp; Nukes</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fc3a7eeca08aeec6e9da.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fc3a7eeca08aeec6e9da.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="radar-when-radar-helps-a-ufo-case-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -780,7 +780,7 @@ For the nuclear-weapons branch of the UFO subject, radar evidence is therefore b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -800,7 +800,7 @@ For the nuclear-weapons branch of the UFO subject, radar evidence is therefore b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -832,7 +832,7 @@ For the nuclear-weapons branch of the UFO subject, radar evidence is therefore b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -884,7 +884,7 @@ For the nuclear-weapons branch of the UFO subject, radar evidence is therefore b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -929,7 +929,7 @@ For the nuclear-weapons branch of the UFO subject, radar evidence is therefore b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -970,206 +970,206 @@ For the nuclear-weapons branch of the UFO subject, radar evidence is therefore b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Mission Brief  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Mission Brief...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Mission Brief...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/podcast-transcript.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on [unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unsolved.com  
    Title: Bentwaters UFO  
-   Link: <a href="https://unsolved.com/gallery/bentwaters-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/bentwaters-ufo/</a>  
+   Link:<a href="https://unsolved.com/gallery/bentwaters-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/bentwaters-ufo/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: faa.gov  
    Title: Federal Aviation Administrationwww.faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseDocumentation | The Minot AFB UFO case | 24 OCTOBER 1968...</p></details>
+   Link:<a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseDocumentation | The Minot AFB UFO case | 24 OCTOBER 1968...</p></details>
    Published: OCTOBER 1968  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: minotb52ufo.com  
    Title: section 6  
-   Link: <a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseInvestigation: Section 6. Project Blue Book Evaluation | The Minot AFB UFO case | 24 OCTOBER 1968...</p></details>
+   Link:<a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseInvestigation: Section 6. Project Blue Book Evaluation | The Minot AFB UFO case | 24 OCTOBER 1968...</p></details>
    Published: OCTOBER 1968  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/</a>  
+   Link:<a href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: media.defense.gov  
    Title: WHAT GOV KNOWS ABOUT UFOS  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761349/-1/-1/0/WHAT_GOV_KNOWS_ABOUT_UFOS.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761349/-1/-1/0/WHAT_GOV_KNOWS_ABOUT_UFOS.PDF</a>  
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761349/-1/-1/0/WHAT_GOV_KNOWS_ABOUT_UFOS.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761349/-1/-1/0/WHAT_GOV_KNOWS_ABOUT_UFOS.PDF</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: hstoday.us  
-   Link: <a href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/</a>  
+   Link:<a href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: UFO SPOTTED ON U.S. MILITARY BASE (Season 2) | History  
-   Link: <a href="http://www.youtube.com/watch?v=rB6OQV2gD-E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rB6OQV2gD-E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY · 3.2M views Former Navy Fighter Pilot Testifies to Witnessing UFO in Category 4 Winds...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rB6OQV2gD-E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rB6OQV2gD-E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY · 3.2M views Former Navy Fighter Pilot Testifies to Witnessing UFO in Category 4 Winds...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Former Navy Fighter Pilot Testifies to Witnessing UFO in Category 4 Winds  
-   Link: <a href="http://www.youtube.com/watch?v=P0OEMT5RyL0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P0OEMT5RyL0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: UFO SPOTTED ON U.S. MILITARY BASE (Season 2) | History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=P0OEMT5RyL0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P0OEMT5RyL0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: UFO SPOTTED ON U.S. MILITARY BASE (Season 2) | History...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=KTOO726CMbE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KTOO726CMbE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Navy Fighter Pilot Testifies to Witnessing UFO in Category 4 Winds...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=KTOO726CMbE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KTOO726CMbE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Navy Fighter Pilot Testifies to Witnessing UFO in Category 4 Winds...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: 📱 How Real Sensor Systems Track UFOs/UAP and USOs  
-   Link: <a href="http://www.youtube.com/watch?v=8TpGDh32fpE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8TpGDh32fpE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2008 Stephenville UFO Sighting | The Case the Air Force Couldn&#x27;t Deny...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8TpGDh32fpE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8TpGDh32fpE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2008 Stephenville UFO Sighting | The Case the Air Force Couldn&#x27;t Deny...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/10m5grq/major_brad_runyon_1968_minot_afb_he_reports_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10m5grq/major_brad_runyon_1968_minot_afb_he_reports_that/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Reddit: Major Brad Runyon - 1968 Minot AFB - He reports...January 26, 2023 — He filmed a UFO shooting down a nuclear warhead in 1964...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/10m5grq/major_brad_runyon_1968_minot_afb_he_reports_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10m5grq/major_brad_runyon_1968_minot_afb_he_reports_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Reddit: Major Brad Runyon - 1968 Minot AFB - He reports...January 26, 2023 — He filmed a UFO shooting down a nuclear warhead in 1964...</p></details>
    Published: January 26, 2023  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheHeraldMail/posts/in-a-limited-number-of-incidents-uap-reportedly-appeared-to-exhibit-unusual-flig/10160699566288644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHeraldMail/posts/in-a-limited-number-of-incidents-uap-reportedly-appeared-to-exhibit-unusual-flig/10160699566288644/</a>  
+   Link:<a href="https://www.facebook.com/TheHeraldMail/posts/in-a-limited-number-of-incidents-uap-reportedly-appeared-to-exhibit-unusual-flig/10160699566288644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHeraldMail/posts/in-a-limited-number-of-incidents-uap-reportedly-appeared-to-exhibit-unusual-flig/10160699566288644/</a>  

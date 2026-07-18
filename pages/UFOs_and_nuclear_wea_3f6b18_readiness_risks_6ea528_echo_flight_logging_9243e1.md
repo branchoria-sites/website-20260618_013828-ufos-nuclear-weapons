@@ -278,32 +278,32 @@ The Malmstrom Echo Flight missile failure of 16 March 1967 remains one of the mo
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-1-dark.svg" | relative_url }}" alt="Echo Logs illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What is firmly documented is that all ten Minuteman missiles in Echo Flight at Malmstrom Air Force Base entered a non-alert, or “No-Go”, condition nearly simultaneously. That readiness failure was real and serious. The debate concerns what caused it and whether reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects were connected to the malfunction. The contrast between the engineering record and the later UFO narrative makes Echo Flight a useful case study in how evidence and rumour can diverge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+What is firmly documented is that all ten Minuteman missiles in Echo Flight at Malmstrom Air Force Base entered a non-alert, or “No-Go”, condition nearly simultaneously. That readiness failure was real and serious. The debate concerns what caused it and whether reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects were connected to the malfunction. The contrast between the engineering record and the later UFO narrative makes Echo Flight a useful case study in how evidence and rumour can diverge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hvbQtdKRoTc" title="Declassified: The Truth Behind the 1967 Malmstrom UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hvbQtdKRoTc" target="_blank" rel="noopener noreferrer">Declassified: The Truth Behind the 1967 Malmstrom UFO Incident</a></p><p class="youtube-embed-meta">Channel: History – Dark Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hvbQtdKRoTc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hvbQtdKRoTc">Open on YouTube</a></p></div></div></div>
 
 ## What the engineering record said
 
-The strongest evidence in the Echo Flight case comes from Air Force documentation created close to the event. Declassified records describe a major systems failure in which the entire flight of ten missiles dropped from strategic alert status. The event triggered technical investigation because simultaneous failures across multiple launch facilities were highly unusual and represented a readiness concern regardless of cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The strongest evidence in the Echo Flight case comes from Air Force documentation created close to the event. Declassified records describe a major systems failure in which the entire flight of ten missiles dropped from strategic alert status. The event triggered technical investigation because simultaneous failures across multiple launch facilities were highly unusual and represented a readiness concern regardless of cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-Importantly, the engineering investigation focused on missile-system performance, command-and-control equipment and possible technical explanations. One widely circulated declassified document includes a specific statement that rumours of UFO activity around Echo Flight during the time of the fault were investigated and “disproven”. The same record notes that a Mobile Strike Team was questioned and reported no unusual activity or sightings, while radar personnel reported no relevant interference problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+Importantly, the engineering investigation focused on missile-system performance, command-and-control equipment and possible technical explanations. One widely circulated declassified document includes a specific statement that rumours of UFO activity around Echo Flight during the time of the fault were investigated and “disproven”. The same record notes that a Mobile Strike Team was questioned and reported no unusual activity or sightings, while radar personnel reported no relevant interference problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 That wording does not prove that every witness account was mistaken. It does, however, show what the official investigators recorded at the time. The document establishes two important points:
 
 * A significant missile readiness failure occurred.
 * Investigators were aware of UFO rumours and addressed them directly in the record.
 
-For historians and analysts, that distinction matters. The readiness failure is documented as a fact. The alleged UFO connection is a separate claim that requires additional evidence beyond the existence of the missile outage itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+For historians and analysts, that distinction matters. The readiness failure is documented as a fact. The alleged UFO connection is a separate claim that requires additional evidence beyond the existence of the missile outage itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JYpt1n2hbGM" title="The 1967 Malmstrom AFB UFO Incident: Alien Interference or System Failure?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JYpt1n2hbGM" target="_blank" rel="noopener noreferrer">The 1967 Malmstrom AFB UFO Incident: Alien Interference or System Failure?</a></p><p class="youtube-embed-meta">Channel: The Future Past</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JYpt1n2hbGM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JYpt1n2hbGM">Open on YouTube</a></p></div></div></div>
 
 ## How rumour complicated the story
 
-The Echo Flight incident did not remain confined to engineering reports. Over subsequent decades, former personnel, researchers and writers offered differing accounts of what happened and whether unusual aerial objects were involved. The most prominent public claims came from former missile launch officer [Robert Salas]({{ 'salas/' | relative_url }}) and researchers who argued that UFO activity coincided with the missile shutdown. Affidavits and later testimony helped transform the incident into one of the best-known nuclear-UFO cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+The Echo Flight incident did not remain confined to engineering reports. Over subsequent decades, former personnel, researchers and writers offered differing accounts of what happened and whether unusual aerial objects were involved. The most prominent public claims came from former missile launch officer [Robert Salas]({{ 'salas/' | relative_url }}) and researchers who argued that UFO activity coincided with the missile shutdown. Affidavits and later testimony helped transform the incident into one of the best-known nuclear-UFO cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
-At the same time, other participants and investigators disputed key elements of those accounts. Critics argued that later narratives relied heavily on recollections recorded decades after the event, while contemporaneous documentation did not support a direct UFO connection. Some researchers also questioned whether details from different missile-flight incidents had become mixed together over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[timhebert.blogspot.com+2Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-snippet">Eric Carlson has always claimed that no UFOs were involved...</span></span></span>
+At the same time, other participants and investigators disputed key elements of those accounts. Critics argued that later narratives relied heavily on recollections recorded decades after the event, while contemporaneous documentation did not support a direct UFO connection. Some researchers also questioned whether details from different missile-flight incidents had become mixed together over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[timhebert.blogspot.com+2Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-snippet">Eric Carlson has always claimed that no UFOs were involved...</span></span></span>
 
 This disagreement illustrates a common problem in historical investigations:
 
@@ -317,7 +317,7 @@ This disagreement illustrates a common problem in historical investigations:
 
 </div>
 
-The result is not necessarily deliberate fabrication. Human memory is reconstructive rather than perfectly archival. When an unusual event becomes culturally significant, recollections and interpretations often grow more detailed even when documentary evidence remains unchanged. Echo Flight became a textbook example of that process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[timhebert.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-title">Case Closed!</span><span class="citation-popover-snippet">A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</span><span class="citation-popover-meta">Published: July 29, 2011</span></span></span>
+The result is not necessarily deliberate fabrication. Human memory is reconstructive rather than perfectly archival. When an unusual event becomes culturally significant, recollections and interpretations often grow more detailed even when documentary evidence remains unchanged. Echo Flight became a textbook example of that process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[timhebert.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-title">Case Closed!</span><span class="citation-popover-snippet">A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</span><span class="citation-popover-meta">Published: July 29, 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-2-dark.svg" | relative_url }}" alt="Echo Logs illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,7 +340,7 @@ Echo Flight demonstrates the value of maintaining several distinct evidence stre
 
 </div>
 
-When those records are clear, unusual claims can be tested against the documented timeline. When records are incomplete, competing narratives gain room to grow. The longer the delay between an incident and public discussion, the harder that task becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+When those records are clear, unusual claims can be tested against the documented timeline. When records are incomplete, competing narratives gain room to grow. The longer the delay between an incident and public discussion, the harder that task becomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 The Echo Flight case therefore remains important even for readers who reject a UFO explanation entirely. It shows how a real and significant readiness anomaly can become inseparable from later speculation if documentation is not treated as the foundation of analysis.
 
@@ -349,202 +349,202 @@ The Echo Flight case therefore remains important even for readers who reject a U
 
 ## The missile failure that became a UFO argument
 
-Nearly sixty years later, the central historical picture is surprisingly narrow. The simultaneous loss of alert status across Echo Flight is well documented. The existence of later UFO claims is also well documented. What remains disputed is the relationship between the two. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+Nearly sixty years later, the central historical picture is surprisingly narrow. The simultaneous loss of alert status across Echo Flight is well documented. The existence of later UFO claims is also well documented. What remains disputed is the relationship between the two.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-That is precisely why Echo Flight fits within discussions of nuclear [readiness risks]({{ 'readiness/' | relative_url }}) without requiring alien assumptions. The case shows how a genuine operational problem can generate competing explanations, how witness testimony and official records can point in different directions, and how public memory of an event can become dominated by the most dramatic interpretation rather than the most thoroughly documented one. In that sense, Echo Flight is less a proof of any extraordinary hypothesis than a reminder that strategic systems need clean logs, disciplined investigation and reliable timelines if future incidents are to be understood with confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+That is precisely why Echo Flight fits within discussions of nuclear [readiness risks]({{ 'readiness/' | relative_url }}) without requiring alien assumptions. The case shows how a genuine operational problem can generate competing explanations, how witness testimony and official records can point in different directions, and how public memory of an event can become dominated by the most dramatic interpretation rather than the most thoroughly documented one. In that sense, Echo Flight is less a proof of any extraordinary hypothesis than a reminder that strategic systems need clean logs, disciplined investigation and reliable timelines if future incidents are to be understood with confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-3-dark.svg" | relative_url }}" alt="Echo Logs illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Missile Failure That Became a UFO Argument. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Missile Failure That Became a UFO Argument. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides readiness context for strategic missile systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides readiness context for strategic missile systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Demonstrates the importance of technical records and system failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the importance of technical records and system failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Covers Malmstrom and related missile-base incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Malmstrom and related missile-base incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit"><img src="{{ '/assets/images/marketplace-covers/74f90a1abe473fbe8b4c.jpg' | relative_url }}" alt="Listing image for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit"><img src="{{ '/assets/images/marketplace-covers/74f90a1abe473fbe8b4c.jpg' | relative_url }}" alt="Listing image for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48"><img src="{{ '/assets/images/marketplace-covers/613309faee77c395a5b9.jpg' | relative_url }}" alt="Listing image for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48"><img src="{{ '/assets/images/marketplace-covers/613309faee77c395a5b9.jpg' | relative_url }}" alt="Listing image for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98"><img src="{{ '/assets/images/marketplace-covers/f1a04f4305c676f99fc0.jpg' | relative_url }}" alt="Listing image for Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98"><img src="{{ '/assets/images/marketplace-covers/f1a04f4305c676f99fc0.jpg' | relative_url }}" alt="Listing image for Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit"><img src="{{ '/assets/images/marketplace-covers/fec0f388011e7bed43e8.jpg' | relative_url }}" alt="Listing image for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit"><img src="{{ '/assets/images/marketplace-covers/fec0f388011e7bed43e8.jpg' | relative_url }}" alt="Listing image for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="echo-logs-the-missile-failure-that-became-a-ufo-argument-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ That is precisely why Echo Flight fits within discussions of nuclear [readiness 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ That is precisely why Echo Flight fits within discussions of nuclear [readiness 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ That is precisely why Echo Flight fits within discussions of nuclear [readiness 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ That is precisely why Echo Flight fits within discussions of nuclear [readiness 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ That is precisely why Echo Flight fits within discussions of nuclear [readiness 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,136 +750,136 @@ That is precisely why Echo Flight fits within discussions of nuclear [readiness 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufoevidence.com  
    Title: Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing the time of fault were disproven. A Mobile Strike Team...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing the time of fault were disproven. A Mobile Strike Team...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Carlson has always claimed that no UFOs were involved...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Carlson has always claimed that no UFOs were involved...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unexplained-mysteries.com  
    Title: Unexplained Mysteries James Carlson  
-   Link: <a href="https://www.unexplained-mysteries.com/column.php?id=176314" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/column.php?id=176314</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained MysteriesJames Carlson - Echo Flight UFO incident, March 196723 Feb 2010 — James Carlson: In this manuscript I debunk complet...</p></details>
+   Link:<a href="https://www.unexplained-mysteries.com/column.php?id=176314" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/column.php?id=176314</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained MysteriesJames Carlson - Echo Flight UFO incident, March 196723 Feb 2010 — James Carlson: In this manuscript I debunk complet...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r Flight rather than Echo flight. The FOIA request is...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r Flight rather than Echo flight. The FOIA request is...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: timhebert.blogspot.com  
    Title: Case Closed!  
-   Link: <a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</p></details>
    Published: July 29, 2011  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: 967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO in...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident at Malmstrom Air Force Base, specifically the incursion over Echo Flight.... r/UfoUapNews - Trump-Era FBI UFO Files: Allege...</p></details>
+   Link:<a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident at Malmstrom Air Force Base, specifically the incursion over Echo Flight.... r/UfoUapNews - Trump-Era FBI UFO Files: Allege...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1g9mibi/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1g9mibi/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...Corso, UFO/UAP crash-retrieval reverse-engineering and a legacy of [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) by th...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1g9mibi/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1g9mibi/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...Corso, UFO/UAP crash-retrieval reverse-engineering and a legacy of [secrecy](&amp;#123;&amp;#123; &#x27;secrecy/&#x27; | relative_url &amp;#125;&amp;#125;) by th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1s3c4p9/captain_robert_salas_who_claims_that_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1s3c4p9/captain_robert_salas_who_claims_that_ufos/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1s3c4p9/captain_robert_salas_who_claims_that_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1s3c4p9/captain_robert_salas_who_claims_that_ufos/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case1017.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case1017.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To summarize the events of that morning: UFOs were sighted by security personnel...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case1017.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case1017.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To summarize the events of that morning: UFOs were sighted by security personnel...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the [Rendlesham](&amp;#123;&amp;#123; &#x27;rendlesham/&#x27; | relative_url &amp;#125;&amp;#125;) Forest incident · Documents on UFO policy and communi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the [Rendlesham](&amp;#123;&amp;#123; &#x27;rendlesham/&#x27; | relative_url &amp;#125;&amp;#125;) Forest incident · Documents on UFO policy and communi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: former us air force captain says ufos attacked a nuclear missile base in the 196  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force captain says UFOs attacked a nuclear...UFOs and nukes In 2010, seven former US Air Force personnel described their p...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force captain says UFOs attacked a nuclear...UFOs and nukes In 2010, seven former US Air Force personnel described their p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: meer.com  
    Title: 75269 curse of the malmstrom nuclear ufo incident 1967  
-   Link: <a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
+   Link:<a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: enigmalabs.io  
    Title: Malmstrom AFB Incident: UAP Disables Nuclear Missiles1  
-   Link: <a href="https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO/Missile Incident (March 16, 1967), Black Vault, [https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incid...&quot;](https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incid...&quot;)...</p></details>
+   Link:<a href="https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO/Missile Incident (March 16, 1967), Black Vault, [https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incid...&quot;](https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incid...&quot;)...</p></details>
    Published: March 16, 1967  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: meer.com  
    Title: 74766 the malmstrom nuclear ufo incident 1967 returns  
-   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — In a breakthrough moment for those seeking UFO–UAP disclosure, Robert Bob...</p></details>
+   Link:<a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — In a breakthrough moment for those seeking UFO–UAP disclosure, Robert Bob...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: envisioning.com  
    Title: Nuclear Weapons Systems Interference | Xenotech  
-   Link: <a href="https://www.envisioning.com/research/xenotech/nuclear-weapons-interference" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/nuclear-weapons-interference</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>event. Former USAF Captain Robert Salas and other witnesses have provided sworn testimony about these incidents, which have been corrobor...</p></details>
+   Link:<a href="https://www.envisioning.com/research/xenotech/nuclear-weapons-interference" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/nuclear-weapons-interference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>event. Former USAF Captain Robert Salas and other witnesses have provided sworn testimony about these incidents, which have been corrobor...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Echo and November UFO Incidents  
-   Link: <a href="https://www.youtube.com/watch?v=l8DHmVSe3vg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l8DHmVSe3vg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom Echo Flight 1967 nuclear records Declassified: The Truth Behind the 1967 Malmstrom UFO Incident History – Dark Archive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l8DHmVSe3vg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l8DHmVSe3vg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom Echo Flight 1967 nuclear records Declassified: The Truth Behind the 1967 Malmstrom UFO Incident History – Dark Archive...</p></details>
    Published: March 16, 1967  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to our national security,&quot; the statement said. &quot;There was no...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to our national security,&quot; the statement said. &quot;There was no...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jamison, Col. Charles I. Halt, Navy Intelligence Command Master Chief Southwest. Region...Read more...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jamison, Col. Charles I. Halt, Navy Intelligence Command Master Chief Southwest. Region...Read more...</p></details>

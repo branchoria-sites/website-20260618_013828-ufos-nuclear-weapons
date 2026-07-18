@@ -274,17 +274,17 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sa
 
 ## Introduction
 
-The wave of reports at Strategic Air Command (SAC) bases in late 1975 is often presented as a classic “nuclear UFO” episode. A closer reading of the surviving military messages suggests a more restrained conclusion. The strongest documented fact is not that exotic craft were present, but that multiple nuclear-related bases treated [unidentified]({{ 'unidentified/' | relative_url }}) low-level aerial activity as a genuine security problem. At Loring Air Force Base in Maine, Wurtsmith Air Force Base in Michigan and Malmstrom Air Force Base in Montana, security personnel, command centres and higher headquarters reacted as though unknown aircraft or helicopters might be probing sensitive installations. The pattern matters because it shows how Cold War nuclear facilities responded to aerial intrusions that could not be immediately identified, regardless of what ultimately caused them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
+The wave of reports at Strategic Air Command (SAC) bases in late 1975 is often presented as a classic “nuclear UFO” episode. A closer reading of the surviving military messages suggests a more restrained conclusion. The strongest documented fact is not that exotic craft were present, but that multiple nuclear-related bases treated [unidentified]({{ 'unidentified/' | relative_url }}) low-level aerial activity as a genuine security problem. At Loring Air Force Base in Maine, Wurtsmith Air Force Base in Michigan and Malmstrom Air Force Base in Montana, security personnel, command centres and higher headquarters reacted as though unknown aircraft or helicopters might be probing sensitive installations. The pattern matters because it shows how Cold War nuclear facilities responded to aerial intrusions that could not be immediately identified, regardless of what ultimately caused them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-1-dark.svg" | relative_url }}" alt="1975 Cluster illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Rather than providing clear proof of extraordinary technology, the 1975 incidents reveal a recurring security dilemma: objects were observed, reported through official channels and investigated, yet definitive identification remained elusive. That combination of documentation, concern and uncertainty is what makes the 1975 SAC cluster significant within the broader history of UFO reports near nuclear facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
+Rather than providing clear proof of extraordinary technology, the 1975 incidents reveal a recurring security dilemma: objects were observed, reported through official channels and investigated, yet definitive identification remained elusive. That combination of documentation, concern and uncertainty is what makes the 1975 SAC cluster significant within the broader history of UFO reports near nuclear facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
 
 ## Were the 1975 Base Incursions Really UFOs?
 
 The answer depends on what is meant by “UFO”. If the term simply means an unidentified aerial object, then the military records clearly describe such events. If it means evidence of non-human technology, the surviving documentation does not establish that conclusion.
 
-The key point is that commanders and security personnel were dealing with unknowns in real time. Reports referred variously to helicopters, aircraft, unidentified entities and brightly lit objects. Witnesses often described behaviour that they found unusual, but the official concern was practical rather than speculative: an unidentified aircraft operating around restricted nuclear-related facilities represented a possible security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">WHAT WERE THOSE MYSTERIOUS CRAFT?Air Force and Defense Department records variously describe the objects. - as belicopters, aircraft...</span></span></span>
+The key point is that commanders and security personnel were dealing with unknowns in real time. Reports referred variously to helicopters, aircraft, unidentified entities and brightly lit objects. Witnesses often described behaviour that they found unusual, but the official concern was practical rather than speculative: an unidentified aircraft operating around restricted nuclear-related facilities represented a possible security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">WHAT WERE THOSE MYSTERIOUS CRAFT?Air Force and Defense Department records variously describe the objects. - as belicopters, aircraft...</span></span></span>
 
 This distinction is important because later retellings often emphasised the mystery while overlooking the original operational context. The military messages were primarily security and command documents, not attempts to determine whether the objects were extraterrestrial.
 
@@ -293,11 +293,11 @@ This distinction is important because later retellings often emphasised the myst
 
 ## What the Military Messages Actually Reported
 
-The most detailed documentation comes from Loring Air Force Base, a SAC installation with nuclear responsibilities. On the night of 27 October 1975, security personnel reported an object near the weapons storage area. Subsequent messages stated that an aircraft had penetrated the northern perimeter and at one point came within a few hundred yards of the munitions storage area. [Radar]({{ 'radar/' | relative_url }}) operators reportedly tracked the object, and commanders ordered heightened security measures. The activity generated reports to the National Military Command Center and other senior authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loring_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loring Air Force Base</span><span class="citation-popover-snippet">Loring Air Force Base</span></span></span>
+The most detailed documentation comes from Loring Air Force Base, a SAC installation with nuclear responsibilities. On the night of 27 October 1975, security personnel reported an object near the weapons storage area. Subsequent messages stated that an aircraft had penetrated the northern perimeter and at one point came within a few hundred yards of the munitions storage area. [Radar]({{ 'radar/' | relative_url }}) operators reportedly tracked the object, and commanders ordered heightened security measures. The activity generated reports to the National Military Command Center and other senior authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loring_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loring Air Force Base</span><span class="citation-popover-snippet">Loring Air Force Base</span></span></span>
 
-The following night produced further reports. Witnesses described a low-level object exhibiting characteristics similar to a helicopter. Radar tracking again played a role in the [reporting]({{ 'reporting/' | relative_url }}) chain, and messages continued to flow upward through SAC and national command channels. Significantly, some documents used the language of “unidentified helicopter” rather than more exotic terminology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loring_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loring Air Force Base</span><span class="citation-popover-snippet">Loring Air Force Base</span></span></span>
+The following night produced further reports. Witnesses described a low-level object exhibiting characteristics similar to a helicopter. Radar tracking again played a role in the [reporting]({{ 'reporting/' | relative_url }}) chain, and messages continued to flow upward through SAC and national command channels. Significantly, some documents used the language of “unidentified helicopter” rather than more exotic terminology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Loring_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loring Air Force Base</span><span class="citation-popover-snippet">Loring Air Force Base</span></span></span>
 
-A National Military Command Center message from the same period shows how seriously the events were taken. One communication noted that NORAD had been informed and that authority had been obtained to proceed into Canadian [airspace]({{ 'airspace/' | relative_url }}) if necessary to locate the intruder. The same message referred to a similar incident at Loring and described efforts to locate unidentified helicopters. These are the actions of a military organisation responding to a possible airspace penetration, not merely collecting strange stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
+A National Military Command Center message from the same period shows how seriously the events were taken. One communication noted that NORAD had been informed and that authority had been obtained to proceed into Canadian [airspace]({{ 'airspace/' | relative_url }}) if necessary to locate the intruder. The same message referred to a similar incident at Loring and described efforts to locate unidentified helicopters. These are the actions of a military organisation responding to a possible airspace penetration, not merely collecting strange stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
 
 The surviving records therefore establish three points:
 
@@ -316,7 +316,7 @@ Those facts are considerably firmer than many later claims attached to the event
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-2-dark.svg" | relative_url }}" alt="1975 Cluster illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Loring, Wurtsmith and Malmstrom Belong Together
 
-The three bases are often grouped because the reports occurred within a relatively short period and involved installations tied to SAC's nuclear mission. Contemporary accounts and later reporting identified sightings and security concerns at Loring, Wurtsmith and Malmstrom during roughly the same late-October to mid-November 1975 window. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/archive/politics/1979/01/19/what-were-those-mysterious-craft/1b9d1f3d-dddb-4a92-87b3-0143aa5d7a3e/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostWhat Were Those Mysterious Craft?18 Jan 1979 — The Air Force and NORAD data provided detailed accounts of sightings of...</span></span></span>
+The three bases are often grouped because the reports occurred within a relatively short period and involved installations tied to SAC's nuclear mission. Contemporary accounts and later reporting identified sightings and security concerns at Loring, Wurtsmith and Malmstrom during roughly the same late-October to mid-November 1975 window.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/archive/politics/1979/01/19/what-were-those-mysterious-craft/1b9d1f3d-dddb-4a92-87b3-0143aa5d7a3e/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostWhat Were Those Mysterious Craft?18 Jan 1979 — The Air Force and NORAD data provided detailed accounts of sightings of...</span></span></span>
 
 What links them is not a single object travelling between bases, nor a proven common cause. Rather, they share a common operational pattern:
 
@@ -326,22 +326,22 @@ What links them is not a single object travelling between bases, nor a proven co
 * Sensitive military facilities reported unidentified low-level aerial activity.
 * Security and command authorities treated the activity as potentially significant.
 * Descriptions varied, but helicopters and aircraft remained among the possibilities.
-* Investigations did not conclusively identify the intruders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
+* Investigations did not conclusively identify the intruders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency+2The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
 
 </div>
 
-Viewed this way, the 1975 cluster resembles a regional security concern more than a single dramatic UFO event. The pattern is notable because it crossed multiple bases and generated enough official reporting to leave a documentary trail. That documentary trail is one reason the incidents continue to attract attention decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
+Viewed this way, the 1975 cluster resembles a regional security concern more than a single dramatic UFO event. The pattern is notable because it crossed multiple bases and generated enough official reporting to leave a documentary trail. That documentary trail is one reason the incidents continue to attract attention decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x7uzLVw5HwA" title="Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer">Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7uzLVw5HwA">Open on YouTube</a></p></div></div></div>
 
 ## Aircraft, Helicopter and Misidentification Explanations
 
-The most conventional explanation is that at least some of the reported objects were helicopters or other aircraft operating near military facilities. This possibility is not a later sceptical invention; it appears within the original reporting itself. Several military messages referred specifically to unidentified helicopters, and commanders initially approached the problem as a potential intrusion by aircraft rather than as an unexplained phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
+The most conventional explanation is that at least some of the reported objects were helicopters or other aircraft operating near military facilities. This possibility is not a later sceptical invention; it appears within the original reporting itself. Several military messages referred specifically to unidentified helicopters, and commanders initially approached the problem as a potential intrusion by aircraft rather than as an unexplained phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
 
-Helicopter explanations fit some features of the reports. Witnesses described hovering, low-altitude movement and activity around restricted areas, all behaviours consistent with rotary-wing aircraft. During the Cold War, an unidentified helicopter near a weapons storage area would have been a serious matter, regardless of whether it belonged to a foreign actor, a government agency, a civilian operator or a misidentified authorised flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
+Helicopter explanations fit some features of the reports. Witnesses described hovering, low-altitude movement and activity around restricted areas, all behaviours consistent with rotary-wing aircraft. During the Cold War, an unidentified helicopter near a weapons storage area would have been a serious matter, regardless of whether it belonged to a foreign actor, a government agency, a civilian operator or a misidentified authorised flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
 
-[Misidentification]({{ 'misidentification/' | relative_url }}) also remains plausible in some cases. Night-time observations around airfields are vulnerable to confusion caused by lighting, viewing angles, atmospheric conditions and incomplete information. Different witnesses reported somewhat different appearances, ranging from aircraft-like objects to brightly lit aerial targets. Such variation is common in complex night-time sighting events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">WHAT WERE THOSE MYSTERIOUS CRAFT?Air Force and Defense Department records variously describe the objects. - as belicopters, aircraft...</span></span></span>
+[Misidentification]({{ 'misidentification/' | relative_url }}) also remains plausible in some cases. Night-time observations around airfields are vulnerable to confusion caused by lighting, viewing angles, atmospheric conditions and incomplete information. Different witnesses reported somewhat different appearances, ranging from aircraft-like objects to brightly lit aerial targets. Such variation is common in complex night-time sighting events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">WHAT WERE THOSE MYSTERIOUS CRAFT?Air Force and Defense Department records variously describe the objects. - as belicopters, aircraft...</span></span></span>
 
 At the same time, the conventional explanations are not entirely satisfying. The reason the incidents endured is that investigators apparently never produced a definitive answer accepted by all participants. The absence of a firm identification, however, is not the same thing as evidence for an extraordinary one. The surviving records demonstrate uncertainty, not resolution.
 
@@ -349,203 +349,203 @@ At the same time, the conventional explanations are not entirely satisfying. The
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-3-dark.svg" | relative_url }}" alt="1975 Cluster illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the 1975 Cluster Actually Demonstrates
 
-The enduring value of the 1975 SAC incidents lies in what can be documented. They show that Cold War nuclear-related bases sometimes experienced aerial intrusions or apparent intrusions that security personnel could not immediately explain. Those events were serious enough to generate alerts, command messages, radar tracking efforts and coordination with higher headquarters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
+The enduring value of the 1975 SAC incidents lies in what can be documented. They show that Cold War nuclear-related bases sometimes experienced aerial intrusions or apparent intrusions that security personnel could not immediately explain. Those events were serious enough to generate alerts, command messages, radar tracking efforts and coordination with higher headquarters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</span></span></span>
 
-That makes the 1975 cluster one of the stronger documented examples of a nuclear-site security problem involving unidentified aerial activity. It is less persuasive as evidence that extraordinary craft were operating over American bases. The records support the first proposition far more clearly than the second. Viewed through the lens of evidence rather than legend, Loring, Wurtsmith and Malmstrom form a notable case study in how SAC responded when unknown objects appeared near some of the most sensitive facilities of the Cold War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
+That makes the 1975 cluster one of the stronger documented examples of a nuclear-site security problem involving unidentified aerial activity. It is less persuasive as evidence that extraordinary craft were operating over American bases. The records support the first proposition far more clearly than the second. Viewed through the lens of evidence rather than legend, Loring, Wurtsmith and Malmstrom form a notable case study in how SAC responded when unknown objects appeared near some of the most sensitive facilities of the Cold War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bexPlvBH3Ss" title="DLA...Forged by History, Focused on the Future" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bexPlvBH3Ss" target="_blank" rel="noopener noreferrer">DLA...Forged by History, Focused on the Future</a></p><p class="youtube-embed-meta">Channel: Defense Logistics Agency</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bexPlvBH3Ss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bexPlvBH3Ss">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the 1975 Base Incursions Really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the 1975 Base Incursions Really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights military witness and official-report cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights military witness and official-report cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places military incursions in historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places military incursions in historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows investigative approaches to unidentified aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows investigative approaches to unidentified aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Discusses SAC-era nuclear installation reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses SAC-era nuclear installation reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base"><img src="{{ '/assets/images/marketplace-covers/42b976f322a11a4afaf1.jpg' | relative_url }}" alt="Listing image for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base"><img src="{{ '/assets/images/marketplace-covers/42b976f322a11a4afaf1.jpg' | relative_url }}" alt="Listing image for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141"><img src="{{ '/assets/images/marketplace-covers/29353cbbf7e0a295e172.jpg' | relative_url }}" alt="Listing image for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141"><img src="{{ '/assets/images/marketplace-covers/29353cbbf7e0a295e172.jpg' | relative_url }}" alt="Listing image for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;"><img src="{{ '/assets/images/marketplace-covers/faa2d127595f1a6ab064.jpg' | relative_url }}" alt="Listing image for Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;"><img src="{{ '/assets/images/marketplace-covers/faa2d127595f1a6ab064.jpg' | relative_url }}" alt="Listing image for Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2"><img src="{{ '/assets/images/marketplace-covers/9b3033d51e616bd60814.jpg' | relative_url }}" alt="Listing image for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2"><img src="{{ '/assets/images/marketplace-covers/9b3033d51e616bd60814.jpg' | relative_url }}" alt="Listing image for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="1975-cluster-were-the-1975-base-incursions-really-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ That makes the 1975 cluster one of the stronger documented examples of a nuclear
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ That makes the 1975 cluster one of the stronger documented examples of a nuclear
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ That makes the 1975 cluster one of the stronger documented examples of a nuclear
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ That makes the 1975 cluster one of the stronger documented examples of a nuclear
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ That makes the 1975 cluster one of the stronger documented examples of a nuclear
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,106 +751,106 @@ That makes the 1975 cluster one of the stronger documented examples of a nuclear
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT WERE THOSE MYSTERIOUS CRAFT?Air Force and Defense Department records variously describe the objects. - as belicopters, aircraft...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT WERE THOSE MYSTERIOUS CRAFT?Air Force and Defense Department records variously describe the objects. - as belicopters, aircraft...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Loring Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Loring_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loring_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Loring_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loring_Air_Force_Base</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070001-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070001-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ugh Air Force records show that the C.I.A. was noti-.Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070001-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070001-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ugh Air Force records show that the C.I.A. was noti-.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300070001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300070001-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FILES: THE UNTOLD STORY | CIA FOIA (foia.cia.gov)Reliable helicopters and NORAD military personnel at Loring F-106s have failed to produc...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300070001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300070001-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FILES: THE UNTOLD STORY | CIA FOIA (foia.cia.gov)Reliable helicopters and NORAD military personnel at Loring F-106s have failed to produc...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: twz.com  
    Title: the bizarre mystery of unexplained aerial incursions over loring air force base  
-   Link: <a href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</p></details>
+   Link:<a href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyNMCC. I,29 Oct 1975 — assisting on the scene had not sighted the unidentified helo(s).·. 5. A s~ilar incident...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/archive/politics/1979/01/19/what-were-those-mysterious-craft/1b9d1f3d-dddb-4a92-87b3-0143aa5d7a3e/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1979/01/19/what-were-those-mysterious-craft/1b9d1f3d-dddb-4a92-87b3-0143aa5d7a3e/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostWhat Were Those Mysterious Craft?18 Jan 1979 — The Air Force and NORAD data provided detailed accounts of sightings of...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/politics/1979/01/19/what-were-those-mysterious-craft/1b9d1f3d-dddb-4a92-87b3-0143aa5d7a3e/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/politics/1979/01/19/what-were-those-mysterious-craft/1b9d1f3d-dddb-4a92-87b3-0143aa5d7a3e/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostWhat Were Those Mysterious Craft?18 Jan 1979 — The Air Force and NORAD data provided detailed accounts of sightings of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Event at Wurtsmith AFB on October 30th, 1975If you were stationed at the base on October 30th, 1975, You will definitely remember thi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Event at Wurtsmith AFB on October 30th, 1975If you were stationed at the base on October 30th, 1975, You will definitely remember thi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. 2. [Rendlesham](&amp;#123;&amp;#123; &#x27;rendlesham/&#x27; | relative_url &amp;#125;&amp;#125;) is undoubtedly Britain&#x27;s best known UFO incident. It...Read more...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. 2. [Rendlesham](&amp;#123;&amp;#123; &#x27;rendlesham/&#x27; | relative_url &amp;#125;&amp;#125;) is undoubtedly Britain&#x27;s best known UFO incident. It...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: green4maine.com  
-   Link: <a href="https://green4maine.com/important-links/" target="_blank" rel="noopener noreferrer nofollow">https://green4maine.com/important-links/</a>  
+   Link:<a href="https://green4maine.com/important-links/" target="_blank" rel="noopener noreferrer nofollow">https://green4maine.com/important-links/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KnowledgeObserver/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnowledgeObserver/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs allegedly disable nuclear missiles at Montana baseMalmstrom Air Force Base in Montana is famous in UFO lore for a UFO... Loring Air...</p></details>
+   Link:<a href="https://www.facebook.com/KnowledgeObserver/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnowledgeObserver/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs allegedly disable nuclear missiles at Montana baseMalmstrom Air Force Base in Montana is famous in UFO lore for a UFO... Loring Air...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bexPlvBH3Ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bexPlvBH3Ss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by History, Focused on the FutureDLA...Forged by History, Focused on the Future is a documentary that brings you into the heart of DLA&#x27;s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bexPlvBH3Ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bexPlvBH3Ss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by History, Focused on the FutureDLA...Forged by History, Focused on the Future is a documentary that brings you into the heart of DLA&#x27;s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: klcc.org  
    Title: ufo files spanning decades are released by defense department  
-   Link: <a href="https://www.klcc.org/npr-news/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.klcc.org/npr-news/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files spanning decades are released by Defense...8 May 2026 — Those and other reports of unidentified anomalous phenomena or UAPs —...</p></details>
+   Link:<a href="https://www.klcc.org/npr-news/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.klcc.org/npr-news/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files spanning decades are released by Defense...8 May 2026 — Those and other reports of unidentified anomalous phenomena or UAPs —...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bp2ph1/scientific_coalition_for_uap_studies_publishes_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bp2ph1/scientific_coalition_for_uap_studies_publishes_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nals to attempt communications, and UAP responded with coded...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bp2ph1/scientific_coalition_for_uap_studies_publishes_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bp2ph1/scientific_coalition_for_uap_studies_publishes_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nals to attempt communications, and UAP responded with coded...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: loring air force base 1975 nuclear connection  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/r2trfu/loring_air_force_base_1975_nuclear_connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r2trfu/loring_air_force_base_1975_nuclear_connection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loring Air Force Base 1975 (Nuclear Connection): r/UFOsThis excerpt from Robert Hastings&#x27; UFOs &amp; Nukes describes such an event that happ...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/r2trfu/loring_air_force_base_1975_nuclear_connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/r2trfu/loring_air_force_base_1975_nuclear_connection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loring Air Force Base 1975 (Nuclear Connection): r/UFOsThis excerpt from Robert Hastings&#x27; UFOs &amp; Nukes describes such an event that happ...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: UF O files bombshell: Aliens jam U.S  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear &amp; missile...... forces. 26. **Loring Air Force Base (1975)** The Loring Air Force Base UFO encounter occurred on October 27-28...</p></details>
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nuclear &amp; missile...... forces. 26. **Loring Air Force Base (1975)** The Loring Air Force Base UFO encounter occurred on October 27-28...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X7c6LMgr_N0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7c6LMgr_N0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;S BUZZ WURTSMITH AIR FORCE BASE: OCTOBER 1975...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X7c6LMgr_N0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X7c6LMgr_N0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;S BUZZ WURTSMITH AIR FORCE BASE: OCTOBER 1975...</p></details>
    Published: OCTOBER 1975  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CnwsiOIJE5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CnwsiOIJE5U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CnwsiOIJE5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CnwsiOIJE5U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live...</p></details>
    Published: OCTOBER 1975  

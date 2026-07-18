@@ -274,24 +274,24 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran
 
 ## Introduction
 
-The 2010 National Press Club event on [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) attracted attention for a reason that went beyond the claims themselves. Reporters were not being asked to evaluate anonymous stories or second-hand rumours. Instead, a group of former United States Air Force personnel appeared publicly under their own names, described experiences connected to nuclear weapons facilities, and attached their military careers and reputations to those accounts. That did not prove their interpretations were correct, but it changed how the story was received. Journalists, policymakers and sceptics could assess identifiable witnesses with documented service histories rather than [unidentified]({{ 'unidentified/' | relative_url }}) sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
+The 2010 National Press Club event on [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) attracted attention for a reason that went beyond the claims themselves. Reporters were not being asked to evaluate anonymous stories or second-hand rumours. Instead, a group of former United States Air Force personnel appeared publicly under their own names, described experiences connected to nuclear weapons facilities, and attached their military careers and reputations to those accounts. That did not prove their interpretations were correct, but it changed how the story was received. Journalists, policymakers and sceptics could assess identifiable witnesses with documented service histories rather than [unidentified]({{ 'unidentified/' | relative_url }}) sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader debate over alleged UFO activity around nuclear sites, the witnesses became the event's strongest asset. Their credibility rested not on extraordinary evidence of a non-human presence, but on the fact that they had held positions involving missile operations, nuclear security or command responsibilities during the Cold War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era.Read more...</span></span></span>
+Within the broader debate over alleged UFO activity around nuclear sites, the witnesses became the event's strongest asset. Their credibility rested not on extraordinary evidence of a non-human presence, but on the fact that they had held positions involving missile operations, nuclear security or command responsibilities during the Cold War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era.Read more...</span></span></span>
 
 ## Who Spoke at the Press Club Event
 
-The conference was organised around former military personnel who claimed direct or indirect knowledge of unusual incidents at nuclear weapons facilities. Press materials described participants as former or retired Air Force personnel and included sworn affidavits from several witnesses. Organisers also distributed declassified government documents intended to provide historical context for the claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
+The conference was organised around former military personnel who claimed direct or indirect knowledge of unusual incidents at nuclear weapons facilities. Press materials described participants as former or retired Air Force personnel and included sworn affidavits from several witnesses. Organisers also distributed declassified government documents intended to provide historical context for the claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
 
 Among the most prominent witnesses were:
 
-* **[Robert Salas]({{ 'salas/' | relative_url }})**, a former Air Force missile launch officer associated with the widely discussed 1967 Malmstrom Air Force Base incident in Montana. Salas stated that security personnel reported a strange aerial object near a missile facility shortly before multiple nuclear missiles became inoperable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAliens are watching nukes, according to retired officers28 Sept 2010 — A group of seven former US Air Force servicemen say they h...</span></span></span>
-* **Robert Jamison**, a retired missile targeting officer who discussed missile shutdowns, maintenance responses and reports of unusual aerial activity connected to missile operations at Malmstrom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">The cause of his missiles going offline is unknown.Read more</span><span class="citation-popover-snippet">Popular ScienceFormer Air Force Officers Claim UFOs Visited Bases...September 29, 2010 — 28 Sept 2010 — Jamison didn&#x27;t see the UFO himse...</span><span class="citation-popover-meta">Published: September 29, 2010</span></span></span>
-* **Charles Halt**, a retired Air Force colonel known for his role in the 1980 [Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest incident near RAF Woodbridge in England, a site linked to the storage of American nuclear weapons during the Cold War. His presence expanded the discussion beyond a single missile base and connected it to another frequently cited military UFO case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
-* Other former Air Force personnel, including Bruce Fenstermacher, Patrick McDonough, Jerome Nelson and Dwynne Arneson, contributed accounts involving missile fields, nuclear storage locations or military reporting channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
+* **[Robert Salas]({{ 'salas/' | relative_url }})**, a former Air Force missile launch officer associated with the widely discussed 1967 Malmstrom Air Force Base incident in Montana. Salas stated that security personnel reported a strange aerial object near a missile facility shortly before multiple nuclear missiles became inoperable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAliens are watching nukes, according to retired officers28 Sept 2010 — A group of seven former US Air Force servicemen say they h...</span></span></span>
+* **Robert Jamison**, a retired missile targeting officer who discussed missile shutdowns, maintenance responses and reports of unusual aerial activity connected to missile operations at Malmstrom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">The cause of his missiles going offline is unknown.Read more</span><span class="citation-popover-snippet">Popular ScienceFormer Air Force Officers Claim UFOs Visited Bases...September 29, 2010 — 28 Sept 2010 — Jamison didn&#x27;t see the UFO himse...</span><span class="citation-popover-meta">Published: September 29, 2010</span></span></span>
+* **Charles Halt**, a retired Air Force colonel known for his role in the 1980 [Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest incident near RAF Woodbridge in England, a site linked to the storage of American nuclear weapons during the Cold War. His presence expanded the discussion beyond a single missile base and connected it to another frequently cited military UFO case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
+* Other former Air Force personnel, including Bruce Fenstermacher, Patrick McDonough, Jerome Nelson and Dwynne Arneson, contributed accounts involving missile fields, nuclear storage locations or military reporting channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
 
-What united these witnesses was not identical testimony. Some claimed direct observation of unusual objects, while others described missile malfunctions, security reports, command communications or events learned through official duties. The organisers presented this variety as evidence that the issue extended beyond a single witness or incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
+What united these witnesses was not identical testimony. Some claimed direct observation of unusual objects, while others described missile malfunctions, security reports, command communications or events learned through official duties. The organisers presented this variety as evidence that the issue extended beyond a single witness or incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZrMSpBeSU84" title="UFO Deactivated Nuclear Weapons - National Press Club Conference 27/09/2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZrMSpBeSU84" target="_blank" rel="noopener noreferrer">UFO Deactivated Nuclear Weapons - National Press Club Conference 27/09/2010</a></p><p class="youtube-embed-meta">Channel: 91177info2</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZrMSpBeSU84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZrMSpBeSU84">Open on YouTube</a></p></div></div></div>
@@ -300,11 +300,11 @@ What united these witnesses was not identical testimony. Some claimed direct obs
 
 The witnesses mattered because they occupied positions that audiences generally associate with reliability, technical competence and responsibility.
 
-Nuclear missile crews were trained to follow procedures, record anomalies and operate within tightly controlled command systems. Security personnel at nuclear facilities were expected to identify intrusions and distinguish routine activity from potential threats. When former officers from such environments publicly described unusual events, reporters often treated the claims as more newsworthy than accounts from civilians without comparable experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">The cause of his missiles going offline is unknown.Read more</span><span class="citation-popover-snippet">Popular ScienceFormer Air Force Officers Claim UFOs Visited Bases...September 29, 2010 — 28 Sept 2010 — Jamison didn&#x27;t see the UFO himse...</span><span class="citation-popover-meta">Published: September 29, 2010</span></span></span>
+Nuclear missile crews were trained to follow procedures, record anomalies and operate within tightly controlled command systems. Security personnel at nuclear facilities were expected to identify intrusions and distinguish routine activity from potential threats. When former officers from such environments publicly described unusual events, reporters often treated the claims as more newsworthy than accounts from civilians without comparable experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">The cause of his missiles going offline is unknown.Read more</span><span class="citation-popover-snippet">Popular ScienceFormer Air Force Officers Claim UFOs Visited Bases...September 29, 2010 — 28 Sept 2010 — Jamison didn&#x27;t see the UFO himse...</span><span class="citation-popover-meta">Published: September 29, 2010</span></span></span>
 
-Another factor was personal risk. By appearing at a nationally covered press conference, the witnesses exposed themselves to scrutiny of their military records, memories and motives. Supporters argued that this willingness to speak publicly increased credibility because the individuals had little obvious professional gain to expect decades after retirement. The event's organisers emphasised sworn affidavits and named testimony for precisely this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
+Another factor was personal risk. By appearing at a nationally covered press conference, the witnesses exposed themselves to scrutiny of their military records, memories and motives. Supporters argued that this willingness to speak publicly increased credibility because the individuals had little obvious professional gain to expect decades after retirement. The event's organisers emphasised sworn affidavits and named testimony for precisely this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
 
-The military backgrounds also shifted the framing of the story. Instead of asking whether someone had merely seen strange lights, journalists were confronted with claims involving strategic weapons systems, missile readiness and national-security facilities. That connection helped the event receive coverage from major news organisations that otherwise might not have treated it as a significant story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
+The military backgrounds also shifted the framing of the story. Instead of asking whether someone had merely seen strange lights, journalists were confronted with claims involving strategic weapons systems, missile readiness and national-security facilities. That connection helped the event receive coverage from major news organisations that otherwise might not have treated it as a significant story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,11 +312,11 @@ The military backgrounds also shifted the framing of the story. Instead of askin
 
 Although several veterans spoke, Robert Salas emerged as the most influential figure because his account combined three elements that attracted attention: a specific date, a specific military assignment and a reported operational consequence.
 
-Salas stated that he was serving as a launch control officer at Malmstrom Air Force Base in March 1967 when security guards reported an unusual aerial object near a missile facility. According to his account, multiple missiles subsequently went offline. The missile outage itself is not disputed; the debate concerns whether there was any connection between the malfunction and the reported aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAliens are watching nukes, according to retired officers28 Sept 2010 — A group of seven former US Air Force servicemen say they h...</span></span></span>
+Salas stated that he was serving as a launch control officer at Malmstrom Air Force Base in March 1967 when security guards reported an unusual aerial object near a missile facility. According to his account, multiple missiles subsequently went offline. The missile outage itself is not disputed; the debate concerns whether there was any connection between the malfunction and the reported aerial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News+2TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-snippet">ABC NewsAliens are watching nukes, according to retired officers28 Sept 2010 — A group of seven former US Air Force servicemen say they h...</span></span></span>
 
-From a journalistic perspective, Salas offered a narrative with identifiable participants, known locations and a military event that could be investigated through records and testimony. That made his claims more difficult to dismiss outright than a vague or anonymous sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">The cause of his missiles going offline is unknown.Read more</span><span class="citation-popover-snippet">Popular ScienceFormer Air Force Officers Claim UFOs Visited Bases...September 29, 2010 — 28 Sept 2010 — Jamison didn&#x27;t see the UFO himse...</span><span class="citation-popover-meta">Published: September 29, 2010</span></span></span>
+From a journalistic perspective, Salas offered a narrative with identifiable participants, known locations and a military event that could be investigated through records and testimony. That made his claims more difficult to dismiss outright than a vague or anonymous sighting report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">The cause of his missiles going offline is unknown.Read more</span><span class="citation-popover-snippet">Popular ScienceFormer Air Force Officers Claim UFOs Visited Bases...September 29, 2010 — 28 Sept 2010 — Jamison didn&#x27;t see the UFO himse...</span><span class="citation-popover-meta">Published: September 29, 2010</span></span></span>
 
-At the same time, Salas' prominence also made him a focal point for criticism. Investigators and [sceptics]({{ 'sceptics/' | relative_url }}) have argued that available records support missile [failures]({{ 'failures/' | relative_url }}) but do not establish that a UFO caused them. The debate over his testimony illustrates both the strength and the limits of witness credibility in the UFO-nuclear discussion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base...</span></span></span>
+At the same time, Salas' prominence also made him a focal point for criticism. Investigators and [sceptics]({{ 'sceptics/' | relative_url }}) have argued that available records support missile [failures]({{ 'failures/' | relative_url }}) but do not establish that a UFO caused them. The debate over his testimony illustrates both the strength and the limits of witness credibility in the UFO-nuclear discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vFHkG45WWZs" title="Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vFHkG45WWZs" target="_blank" rel="noopener noreferrer">Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)</a></p><p class="youtube-embed-meta">Channel: Armando Nieto</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vFHkG45WWZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vFHkG45WWZs">Open on YouTube</a></p></div></div></div>
@@ -325,11 +325,11 @@ At the same time, Salas' prominence also made him a focal point for criticism. I
 
 The National [Press Club]({{ '2010-event/' | relative_url }}) event demonstrated that credible witnesses and conclusive evidence are not the same thing.
 
-The veterans could establish that they served in relevant military roles. They could testify about what they saw, heard or were told during their service. They could also point to documented missile malfunctions, security alerts or declassified government records showing official interest in unidentified aerial reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
+The veterans could establish that they served in relevant military roles. They could testify about what they saw, heard or were told during their service. They could also point to documented missile malfunctions, security alerts or declassified government records showing official interest in unidentified aerial reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
 
-However, witness testimony alone could not definitively establish the cause of the events being described. In several cases, the central claim involved linking a reported UFO sighting to a technical malfunction or security incident. Critics noted that the existence of a missile failure does not automatically verify an extraordinary explanation for that failure. Official Air Force positions have historically maintained that investigations found no evidence that unidentified sightings represented advanced non-human technology or a threat to national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
+However, witness testimony alone could not definitively establish the cause of the events being described. In several cases, the central claim involved linking a reported UFO sighting to a technical malfunction or security incident. Critics noted that the existence of a missile failure does not automatically verify an extraordinary explanation for that failure. Official Air Force positions have historically maintained that investigations found no evidence that unidentified sightings represented advanced non-human technology or a threat to national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
 
-This tension explains why the veterans were simultaneously the event's greatest strength and its greatest vulnerability. Their military service gave reporters a reason to listen. Yet the ultimate question—whether UFOs actually interfered with nuclear weapons systems—could not be resolved simply by appealing to the status of the witnesses. The event succeeded in elevating the discussion into mainstream public debate, but it did not settle the underlying evidential dispute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
+This tension explains why the veterans were simultaneously the event's greatest strength and its greatest vulnerability. Their military service gave reporters a reason to listen. Yet the ultimate question—whether UFOs actually interfered with nuclear weapons systems—could not be resolved simply by appealing to the status of the witnesses. The event succeeded in elevating the discussion into mainstream public debate, but it did not settle the underlying evidential dispute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,203 +337,203 @@ This tension explains why the veterans were simultaneously the event's greatest 
 
 The enduring significance of the 2010 Press Club conference lies less in any single claim than in the collective presentation of named veterans willing to discuss experiences connected to nuclear weapons facilities.
 
-Their testimony helped transform the UFO-and-nuclear-weapons narrative from a niche subject into a topic that mainstream journalists could cover and policymakers could acknowledge. Whether one views the witnesses as highly credible observers [reporting]({{ 'reporting/' | relative_url }}) genuine anomalies or as sincere individuals offering contested interpretations of past events, their military backgrounds ensured that the claims could not be dismissed as easily as anonymous stories from outside the national-security system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire+2press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
+Their testimony helped transform the UFO-and-nuclear-weapons narrative from a niche subject into a topic that mainstream journalists could cover and policymakers could acknowledge. Whether one views the witnesses as highly credible observers [reporting]({{ 'reporting/' | relative_url }}) genuine anomalies or as sincere individuals offering contested interpretations of past events, their military backgrounds ensured that the claims could not be dismissed as easily as anonymous stories from outside the national-security system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire+2press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">PR Newswire Former U.S</span><span class="citation-popover-snippet">Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</span></span></span>
 
-For that reason, the veterans themselves became the central evidence of the event's public impact. The conference drew attention because former missile officers, commanders and nuclear-security personnel were willing to stand before cameras and state that unusual incidents around strategic weapons sites deserved further scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
+For that reason, the veterans themselves became the central evidence of the event's public impact. The conference drew attention because former missile officers, commanders and nuclear-security personnel were willing to stand before cameras and state that unusual incidents around strategic weapons sites deserved further scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3jUU4Z8QdHI" title="Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer">Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)</a></p><p class="youtube-embed-meta">Channel: AlphaZebra</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3jUU4Z8QdHI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Veterans Made Reporters Listen. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Veterans Made Reporters Listen. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on credentialed witnesses and official accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on credentialed witnesses and official accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Explores how testimony is evaluated and challenged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how testimony is evaluated and challenged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses military investigations and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses military investigations and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly addresses witness credibility and testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses witness credibility and testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MILITARY AVIATION PRINT- DARKNESS VISIBLE: F-117 STEALTH FIGHTERS 1988"><img src="{{ '/assets/images/marketplace-covers/fe03c966b946a28d7059.jpg' | relative_url }}" alt="Listing image for MILITARY AVIATION PRINT- DARKNESS VISIBLE: F-117 STEALTH FIGHTERS 1988" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">MILITARY AVIATION PRINT- DARKNESS VISIBLE: F-117 STEALTH FIGHTERS 1988</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MILITARY AVIATION PRINT- DARKNESS VISIBLE: F-117 STEALTH FIGHTERS 1988"><img src="{{ '/assets/images/marketplace-covers/fe03c966b946a28d7059.jpg' | relative_url }}" alt="Listing image for MILITARY AVIATION PRINT- DARKNESS VISIBLE: F-117 STEALTH FIGHTERS 1988" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">MILITARY AVIATION PRINT- DARKNESS VISIBLE: F-117 STEALTH FIGHTERS 1988</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Rayson Signed Limited Edition Print 3/89 – RAF Tornado GR1 – Framed"><img src="{{ '/assets/images/marketplace-covers/2e1d2d80db3dea340e7b.jpg' | relative_url }}" alt="Listing image for John Rayson Signed Limited Edition Print 3/89 – RAF Tornado GR1 – Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">John Rayson Signed Limited Edition Print 3/89 – RAF Tornado GR1 – Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Rayson Signed Limited Edition Print 3/89 – RAF Tornado GR1 – Framed"><img src="{{ '/assets/images/marketplace-covers/2e1d2d80db3dea340e7b.jpg' | relative_url }}" alt="Listing image for John Rayson Signed Limited Edition Print 3/89 – RAF Tornado GR1 – Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">John Rayson Signed Limited Edition Print 3/89 – RAF Tornado GR1 – Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Boulton Paul Defiant canvas prints various sizes"><img src="{{ '/assets/images/marketplace-covers/317ccf4ef36b17e0a165.jpg' | relative_url }}" alt="Listing image for RAF Boulton Paul Defiant canvas prints various sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAF Boulton Paul Defiant canvas prints various sizes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Boulton Paul Defiant canvas prints various sizes"><img src="{{ '/assets/images/marketplace-covers/317ccf4ef36b17e0a165.jpg' | relative_url }}" alt="Listing image for RAF Boulton Paul Defiant canvas prints various sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAF Boulton Paul Defiant canvas prints various sizes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="witnesses-6d2fbd-why-the-veterans-made-reporters-listen-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ For that reason, the veterans themselves became the central evidence of the even
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ For that reason, the veterans themselves became the central evidence of the even
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ For that reason, the veterans themselves became the central evidence of the even
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ For that reason, the veterans themselves became the central evidence of the even
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ For that reason, the veterans themselves became the central evidence of the even
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,134 +739,134 @@ For that reason, the veterans themselves became the central evidence of the even
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era.Read more...</p></details>
+   Link:<a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tas-education.org  
    Title: disclosure conference ufos and nuclear weapons  
-   Link: <a href="https://tas-education.org/exostudies/timeline/disclosure-conference-ufos-and-nuclear-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://tas-education.org/exostudies/timeline/disclosure-conference-ufos-and-nuclear-weapons/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TAS EducationDisclosure Conference: UFOs and Nuclear WeaponsOn 27 September 2010, Robert Salas appeared at a UFO&#x27;s and Nuclear Weapons Di...</p></details>
+   Link:<a href="https://tas-education.org/exostudies/timeline/disclosure-conference-ufos-and-nuclear-weapons/" target="_blank" rel="noopener noreferrer nofollow">https://tas-education.org/exostudies/timeline/disclosure-conference-ufos-and-nuclear-weapons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TAS EducationDisclosure Conference: UFOs and Nuclear WeaponsOn 27 September 2010, Robert Salas appeared at a UFO&#x27;s and Nuclear Weapons Di...</p></details>
    Published: September 2010  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: tinfoil tuesdays ufos neutered nukes air force officers claim  
-   Link: <a href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tinfoil Tuesdays: UFOs Neutered Nukes, Officers Claim28 Sept 2010 — While he never himself saw any aliens, he heard about a UFO landing i...</p></details>
+   Link:<a href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tinfoil Tuesdays: UFOs Neutered Nukes, Officers Claim28 Sept 2010 — While he never himself saw any aliens, he heard about a UFO landing i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmstrom Air Force Base...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: military.com  
    Title: air force veterans who are ufo true believers return newly attentive washington  
-   Link: <a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Veterans Who Are UFO True Believers Return to...19 Oct 2021 — Robert Jacobs, who attended the UFO press conference via video l...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Veterans Who Are UFO True Believers Return to...19 Oct 2021 — Robert Jacobs, who attended the UFO press conference via video l...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: prnewswire.com  
    Title: PR Newswire Former U.S  
-   Link: <a href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</p></details>
+   Link:<a href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer Robert Salas, and Researcher...The &quot;UFO-Nukes Connection&quot; press conference—held at the National Press Club in Washingt...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireThe UFO-Nukes Connection Press Conference: Military Witness...PRNewswire-USNewswire/ -- The &quot;UFO-Nukes Connection&quot; press conf...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
    Title: ex air force personnel ufos deactivated nukes  
-   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force Personnel: UFOs Deactivated Nukes28 Sept 2010 — Robert Jamison, a retired USAF nuclear missile targeting officer, told of se...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force Personnel: UFOs Deactivated Nukes28 Sept 2010 — Robert Jamison, a retired USAF nuclear missile targeting officer, told of se...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAliens are watching nukes, according to retired officers28 Sept 2010 — A group of seven former US Air Force servicemen say they h...</p></details>
+   Link:<a href="https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/am/archive/articles/2010/09/28/s3023532.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsAliens are watching nukes, according to retired officers28 Sept 2010 — A group of seven former US Air Force servicemen say they h...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: popsci.com  
    Title: The cause of his missiles going offline is unknown.Read more  
-   Link: <a href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceFormer Air Force Officers Claim UFOs Visited Bases...September 29, 2010 — 28 Sept 2010 — Jamison didn&#x27;t see the UFO himse...</p></details>
+   Link:<a href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceFormer Air Force Officers Claim UFOs Visited Bases...September 29, 2010 — 28 Sept 2010 — Jamison didn&#x27;t see the UFO himse...</p></details>
    Published: September 29, 2010  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abc.net.au  
    Title: aliens already visiting say former us airmen  
-   Link: <a href="https://www.abc.net.au/listen/programs/am/aliens-already-visiting-say-former-us-airmen/2277334" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/am/aliens-already-visiting-say-former-us-airmen/2277334</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens already visiting, say former US airmen28 Sept 2010 — A group of seven former US Air Force servicemen say they have proof that alie...</p></details>
+   Link:<a href="https://www.abc.net.au/listen/programs/am/aliens-already-visiting-say-former-us-airmen/2277334" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/am/aliens-already-visiting-say-former-us-airmen/2277334</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens already visiting, say former US airmen28 Sept 2010 — A group of seven former US Air Force servicemen say they have proof that alie...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/former-usaf-officers-to-present-evidence-of-ufos-tampering-with-nuclear-weapons-301395385.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/former-usaf-officers-to-present-evidence-of-ufos-tampering-with-nuclear-weapons-301395385.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force officers will discuss their involvement in UFO incidents at nuclear missile launch facilities and test sites...Read more...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/former-usaf-officers-to-present-evidence-of-ufos-tampering-with-nuclear-weapons-301395385.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/former-usaf-officers-to-present-evidence-of-ufos-tampering-with-nuclear-weapons-301395385.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force officers will discuss their involvement in UFO incidents at nuclear missile launch facilities and test sites...Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ctinsider.com  
-   Link: <a href="https://www.ctinsider.com/news/article/TWISTED-HISTORY-UFOs-for-real-12082971.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/TWISTED-HISTORY-UFOs-for-real-12082971.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TWISTED HISTORY: UFOs for real?In Salas&#x27; words, &quot;I got a call from the topside guard, telling me they were watching some strange lights f...</p></details>
+   Link:<a href="https://www.ctinsider.com/news/article/TWISTED-HISTORY-UFOs-for-real-12082971.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/TWISTED-HISTORY-UFOs-for-real-12082971.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TWISTED HISTORY: UFOs for real?In Salas&#x27; words, &quot;I got a call from the topside guard, telling me they were watching some strange lights f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified U.S. Government Documents on the UFO Nuclear...The documents, released by UFO researcher Robert Hastings, purportedly link...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified U.S. Government Documents on the UFO Nuclear...The documents, released by UFO researcher Robert Hastings, purportedly link...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
    Title: It chronologically examines the Agency's efforts to solve  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517742" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517742</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA(EST PUB DATE) CIA&#x27;S ROLE IN THE STUDY OF UFO&#x27;S, 1947-90...This study traces CIA interest and involvement in the UFO controversy from...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517742" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517742</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA(EST PUB DATE) CIA&#x27;S ROLE IN THE STUDY OF UFO&#x27;S, 1947-90...This study traces CIA interest and involvement in the UFO controversy from...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/uss48t/captain_robert_salas_ufos_shut_down_nuclear/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uss48t/captain_robert_salas_ufos_shut_down_nuclear/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Salas, a former Air Force Missile Officer, spoke about his claim that UFOs disarmed multiple...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/uss48t/captain_robert_salas_ufos_shut_down_nuclear/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uss48t/captain_robert_salas_ufos_shut_down_nuclear/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Salas, a former Air Force Missile Officer, spoke about his claim that UFOs disarmed multiple...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vFHkG45WWZs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vFHkG45WWZs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Salas UFO nuclear weapons 2010 National Press Club UFO Deactivated Nuclear Weapons - National Press Club Conference 27/09/2010 911...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vFHkG45WWZs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vFHkG45WWZs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Salas UFO nuclear weapons 2010 National Press Club UFO Deactivated Nuclear Weapons - National Press Club Conference 27/09/2010 911...</p></details>
    Published: September 2010  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: zenodo.org  
    Title: UFOs & nukes: Extraordinary encounters at nuclear weapons sites  
-   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Detectable Signatures of Unidentified Aerospace Phenomenapublished in 2010, leslie Kean captured significant uFo encounters from go...</p></details>
+   Link:<a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Detectable Signatures of Unidentified Aerospace Phenomenapublished in 2010, leslie Kean captured significant uFo encounters from go...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1hja7kp/captain_robert_salas_who_claims_ufos_shut_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1hja7kp/captain_robert_salas_who_claims_ufos_shut_down/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom nuclear missiles shutdown by UFO in 1967 · r/aliens - Captain Robert...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1hja7kp/captain_robert_salas_who_claims_ufos_shut_down/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1hja7kp/captain_robert_salas_who_claims_ufos_shut_down/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom nuclear missiles shutdown by UFO in 1967 · r/aliens - Captain Robert...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yahoo.com  
-   Link: <a href="https://www.yahoo.com/news/wtf-retired-usaf-captain-recalls-234440482.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/wtf-retired-usaf-captain-recalls-234440482.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;WTF&#x27;: Retired USAF captain recalls UFO encounter, says...27 Nov 2024 — &#x27;WTF&#x27;: Retired USAF captain recalls UFO encounter, says aliens t...</p></details>
+   Link:<a href="https://www.yahoo.com/news/wtf-retired-usaf-captain-recalls-234440482.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/wtf-retired-usaf-captain-recalls-234440482.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;WTF&#x27;: Retired USAF captain recalls UFO encounter, says...27 Nov 2024 — &#x27;WTF&#x27;: Retired USAF captain recalls UFO encounter, says aliens t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jimharold.com  
    Title: ufo press conference at national press club  
-   Link: <a href="https://jimharold.com/ufo-press-conference-at-national-press-club/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/ufo-press-conference-at-national-press-club/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Sept 2010 — A major press conference was held at the National Press Club regarding UFOs and members of the US military who have witnes...</p></details>
+   Link:<a href="https://jimharold.com/ufo-press-conference-at-national-press-club/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/ufo-press-conference-at-national-press-club/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Sept 2010 — A major press conference was held at the National Press Club regarding UFOs and members of the US military who have witnes...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3jUU4Z8QdHI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2/2 Robert Salas - extrait de: Conference National Press Club - Washington D.C. 10/27/2010...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3jUU4Z8QdHI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2/2 Robert Salas - extrait de: Conference National Press Club - Washington D.C. 10/27/2010...</p></details>
    Published: September 2010  

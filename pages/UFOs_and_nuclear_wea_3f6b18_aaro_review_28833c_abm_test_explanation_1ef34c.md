@@ -280,7 +280,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_ex
 
 ## Introduction
 
-One of the most specific ordinary explanations raised during the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) review concerns antiballistic missile (ABM) testing. Rather than dismissing famous nuclear-linked UFO stories outright, AARO examined whether some accounts might have originated from classified missile-defence activities that witnesses did not fully understand at the time. Its most notable finding was that a well-known claim involving a UFO allegedly destroying a missile re-entry vehicle in 1964 could be correlated in time and location with an ABM-related test programme. AARO did not declare the case solved, but it identified a plausible mechanism by which a dramatic observation could later be remembered and retold as a UAP encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+One of the most specific ordinary explanations raised during the All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) review concerns antiballistic missile (ABM) testing. Rather than dismissing famous nuclear-linked UFO stories outright, AARO examined whether some accounts might have originated from classified missile-defence activities that witnesses did not fully understand at the time. Its most notable finding was that a well-known claim involving a UFO allegedly destroying a missile re-entry vehicle in 1964 could be correlated in time and location with an ABM-related test programme. AARO did not declare the case solved, but it identified a plausible mechanism by which a dramatic observation could later be remembered and retold as a UAP encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-1-dark.svg" | relative_url }}" alt="Test Link illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,11 +290,11 @@ This matters because Cold War missile testing combined extreme [secrecy]({{ 'sec
 
 ### What AARO said about the test correlation
 
-In its historical review, AARO discussed claims from former Air Force personnel who alleged that a UFO had destroyed a missile carrying a dummy warhead during a test flight. The office reported that it had not recovered the alleged film footage, but it was able to correlate the general time and location of the reported event with an antiballistic missile test. AARO stated that this test “could have been the genesis” of the observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+In its historical review, AARO discussed claims from former Air Force personnel who alleged that a UFO had destroyed a missile carrying a dummy warhead during a test flight. The office reported that it had not recovered the alleged film footage, but it was able to correlate the general time and location of the reported event with an antiballistic missile test. AARO stated that this test “could have been the genesis” of the observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
-The wording is important. AARO did not claim that the witness account was fabricated. Instead, it suggested that an actual missile-defence test may have been observed and later interpreted through a different framework. The report specifically noted that it was investigating US programmes involving defensive ballistic-missile capabilities when examining these allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — U.S. nuclear facilities have resulted in the malfunctioning and destruction of nuclear mi...</span></span></span>
+The wording is important. AARO did not claim that the witness account was fabricated. Instead, it suggested that an actual missile-defence test may have been observed and later interpreted through a different framework. The report specifically noted that it was investigating US programmes involving defensive ballistic-missile capabilities when examining these allegations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...6 Mar 2024 — U.S. nuclear facilities have resulted in the malfunctioning and destruction of nuclear mi...</span></span></span>
 
-The most commonly discussed candidate is the 1964 Vandenberg-related incident often called the “Big Sur” case. Former Air Force officer Robert Jacobs later claimed that tracking film showed a disc-shaped object manoeuvring around a missile re-entry vehicle and disabling it with beams of light. The story became one of the most famous examples cited by researchers who argue that UFOs have interfered with nuclear weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+The most commonly discussed candidate is the 1964 Vandenberg-related incident often called the “Big Sur” case. Former Air Force officer Robert Jacobs later claimed that tracking film showed a disc-shaped object manoeuvring around a missile re-entry vehicle and disabling it with beams of light. The story became one of the most famous examples cited by researchers who argue that UFOs have interfered with nuclear weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_kbLEtvzjHg" title="UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer">UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 27.1K &middot; Uploaded: November 2023 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_kbLEtvzjHg">Open on YouTube</a></p></div></div></div>
@@ -303,19 +303,19 @@ The most commonly discussed candidate is the 1964 Vandenberg-related incident of
 
 The ABM explanation rests less on any single piece of evidence than on a combination of technical and historical factors.
 
-First, missile-defence testing was itself unusual. During the Cold War, the United States conducted experiments involving re-entry vehicles, [decoys]({{ 'decoys/' | relative_url }}), penetration aids, [radar]({{ 'radar/' | relative_url }}) targets, and systems intended to overcome or simulate enemy missile defences. These tests could produce visual effects that appeared highly unconventional when viewed through specialised tracking systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SM-65F_Atlas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">SM-65F Atlas</span><span class="citation-popover-snippet">SM-65F Atlas</span></span></span>
+First, missile-defence testing was itself unusual. During the Cold War, the United States conducted experiments involving re-entry vehicles, [decoys]({{ 'decoys/' | relative_url }}), penetration aids, [radar]({{ 'radar/' | relative_url }}) targets, and systems intended to overcome or simulate enemy missile defences. These tests could produce visual effects that appeared highly unconventional when viewed through specialised tracking systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SM-65F_Atlas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">SM-65F Atlas</span><span class="citation-popover-snippet">SM-65F Atlas</span></span></span>
 
-Second, information was heavily compartmentalised. Personnel often understood only the portion of a programme relevant to their own duties. Someone operating cameras, range instrumentation, or support equipment might witness an unexpected event without knowing that it was part of a classified test objective. Historians of Cold War aerospace programmes have repeatedly noted that secrecy frequently generated later UFO interpretations because participants lacked the context needed to identify what they had observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+Second, information was heavily compartmentalised. Personnel often understood only the portion of a programme relevant to their own duties. Someone operating cameras, range instrumentation, or support equipment might witness an unexpected event without knowing that it was part of a classified test objective. Historians of Cold War aerospace programmes have repeatedly noted that secrecy frequently generated later UFO interpretations because participants lacked the context needed to identify what they had observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-Third, high-speed missile imagery is inherently difficult to interpret. Re-entry vehicles separate from boosters, deploy countermeasures, and travel at extreme velocities. Tracking cameras can capture flashes, separations, debris clouds, and optical artefacts that look very different from ordinary visual observations. What appears straightforward decades later in a verbal recollection may originally have been a brief and technically complex event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SM-65F_Atlas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">SM-65F Atlas</span><span class="citation-popover-snippet">SM-65F Atlas</span></span></span>
+Third, high-speed missile imagery is inherently difficult to interpret. Re-entry vehicles separate from boosters, deploy countermeasures, and travel at extreme velocities. Tracking cameras can capture flashes, separations, debris clouds, and optical artefacts that look very different from ordinary visual observations. What appears straightforward decades later in a verbal recollection may originally have been a brief and technically complex event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SM-65F_Atlas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">SM-65F Atlas</span><span class="citation-popover-snippet">SM-65F Atlas</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-2-dark.svg" | relative_url }}" alt="Test Link illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The decoy and countermeasure interpretation
 
-One of the best-known alternative explanations for the Big Sur account came from Kingston George, an engineer associated with the programme. George argued that the filmed event involved the deployment of decoys and related countermeasures designed to help a warhead penetrate missile-defence systems. According to his account, what was later interpreted as a UFO attack could instead have been classified defensive technology whose true purpose was concealed from many participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-title">He.Read more</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Years later, for reasons I can&#x27;t fathom, Bob c...</span></span></span>
+One of the best-known alternative explanations for the Big Sur account came from Kingston George, an engineer associated with the programme. George argued that the filmed event involved the deployment of decoys and related countermeasures designed to help a warhead penetrate missile-defence systems. According to his account, what was later interpreted as a UFO attack could instead have been classified defensive technology whose true purpose was concealed from many participants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-title">He.Read more</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Years later, for reasons I can&#x27;t fathom, Bob c...</span></span></span>
 
-This interpretation fits a broader Cold War pattern. Re-entry vehicle tests were often designed specifically to evaluate how offensive warheads would survive interception attempts. From a modern perspective, it is not difficult to see how observers who lacked access to the full programme could later remember unusual manoeuvres, flashes, or separations as evidence of an external object interacting with the missile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SM-65F_Atlas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">SM-65F Atlas</span><span class="citation-popover-snippet">SM-65F Atlas</span></span></span>
+This interpretation fits a broader Cold War pattern. Re-entry vehicle tests were often designed specifically to evaluate how offensive warheads would survive interception attempts. From a modern perspective, it is not difficult to see how observers who lacked access to the full programme could later remember unusual manoeuvres, flashes, or separations as evidence of an external object interacting with the missile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SM-65F_Atlas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">SM-65F Atlas</span><span class="citation-popover-snippet">SM-65F Atlas</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
@@ -324,11 +324,11 @@ This interpretation fits a broader Cold War pattern. Re-entry vehicle tests were
 
 The ABM-test hypothesis is plausible, but it does not completely resolve every issue.
 
-The most obvious limitation is the absence of the original film that lies at the centre of the claim. AARO acknowledged that it has not recovered the alleged footage. Without it, researchers cannot directly compare witness descriptions with what the camera actually recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+The most obvious limitation is the absence of the original film that lies at the centre of the claim. AARO acknowledged that it has not recovered the alleged footage. Without it, researchers cannot directly compare witness descriptions with what the camera actually recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
-There is also a distinction between identifying a possible test correlation and proving that the test generated the reported observation. AARO's language remained cautious. The office concluded only that the timing and location were consistent with an antiballistic missile test and that such a test could have been the source of the story. It did not claim definitive attribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+There is also a distinction between identifying a possible test correlation and proving that the test generated the reported observation. AARO's language remained cautious. The office concluded only that the timing and location were consistent with an antiballistic missile test and that such a test could have been the source of the story. It did not claim definitive attribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
-Witness testimony remains divided as well. Some participants have continued to insist that the footage showed something extraordinary, while others have argued that classified missile-defence technology provides a sufficient explanation. The disagreement persists largely because the key evidence is unavailable and because many of the relevant programmes remained secret for years after the events occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+Witness testimony remains divided as well. Some participants have continued to insist that the footage showed something extraordinary, while others have argued that classified missile-defence technology provides a sufficient explanation. The disagreement persists largely because the key evidence is unavailable and because many of the relevant programmes remained secret for years after the events occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjeJy_5WiQ4" title="UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjeJy_5WiQ4" target="_blank" rel="noopener noreferrer">UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjeJy_5WiQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjeJy_5WiQ4">Open on YouTube</a></p></div></div></div>
@@ -337,186 +337,186 @@ Witness testimony remains divided as well. Some participants have continued to i
 
 The significance of the ABM-test explanation extends beyond a single incident. It illustrates how nuclear-linked UFO reports can emerge from the intersection of advanced weapons testing, secrecy, and memory.
 
-Unlike explanations that rely solely on [misidentification]({{ 'misidentification/' | relative_url }}) of stars, aircraft, or weather phenomena, this mechanism begins with something genuinely unusual: classified military activity occurring around strategic missile systems. Witnesses may have observed real events involving re-entry vehicles, tracking systems, decoys, or defensive technologies. The dispute is over interpretation, not necessarily over whether something remarkable happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+Unlike explanations that rely solely on [misidentification]({{ 'misidentification/' | relative_url }}) of stars, aircraft, or weather phenomena, this mechanism begins with something genuinely unusual: classified military activity occurring around strategic missile systems. Witnesses may have observed real events involving re-entry vehicles, tracking systems, decoys, or defensive technologies. The dispute is over interpretation, not necessarily over whether something remarkable happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
-For AARO's historical review, that distinction is crucial. The possibility that an antiballistic missile test generated a famous UFO narrative demonstrates how [unresolved]({{ 'unresolved/' | relative_url }}) nuclear-era cases can remain controversial for decades even when an ordinary explanation exists. Secrecy can prevent immediate clarification, and by the time records become available, memories, retellings, and competing narratives may already have transformed a classified test into a longstanding UAP mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+For AARO's historical review, that distinction is crucial. The possibility that an antiballistic missile test generated a famous UFO narrative demonstrates how [unresolved]({{ 'unresolved/' | relative_url }}) nuclear-era cases can remain controversial for decades even when an ordinary explanation exists. Secrecy can prevent immediate clarification, and by the time records become available, memories, retellings, and competing narratives may already have transformed a classified test into a longstanding UAP mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-3-dark.svg" | relative_url }}" alt="Test Link illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_abm_test_explanation_1ef34c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could a missile test explain the story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could a missile test explain the story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military and government UFO cases, fitting discussions of official investigations and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military and government UFO cases, fitting discussions of official investigations and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides context on how modern defense and intelligence communities evaluate unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on how modern defense and intelligence communities evaluate unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how sightings can be classified, investigated, and sometimes misinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how sightings can be classified, investigated, and sometimes misinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful background for understanding how military cases are examined and explained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for understanding how military cases are examined and explained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="test-link-could-a-missile-test-explain-the-story-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ For AARO's historical review, that distinction is crucial. The possibility that 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ For AARO's historical review, that distinction is crucial. The possibility that 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ For AARO's historical review, that distinction is crucial. The possibility that 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ For AARO's historical review, that distinction is crucial. The possibility that 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ For AARO's historical review, that distinction is crucial. The possibility that 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,101 +722,101 @@ For AARO's historical review, that distinction is crucial. The possibility that 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO was able to correlate the general time and locat...</p></details>
    Published: March 9, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — U.S. nuclear facilities have resulted in the malfunctioning and destruction of nuclear mi...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — U.S. nuclear facilities have resulted in the malfunctioning and destruction of nuclear mi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: SM-65F Atlas  
-   Link: <a href="https://en.wikipedia.org/wiki/SM-65F_Atlas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SM-65F_Atlas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SM-65F_Atlas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SM-65F_Atlas</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and atomic sitesBeginning in 1982, Robert Jacobs, who had overseen the mountaintop team, told of the Big Sur UFO which sup...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and atomic sitesBeginning in 1982, Robert Jacobs, who had overseen the mountaintop team, told of the Big Sur UFO which sup...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.centerforinquiry.org  
    Title: He.Read more  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Years later, for reasons I can&#x27;t fathom, Bob c...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Years later, for reasons I can&#x27;t fathom, Bob c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: marcellocatalano.com  
-   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAn AARO interviewee claimed in a thirdhand account that an organization was in pos...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAn AARO interviewee claimed in a thirdhand account that an organization was in pos...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aohi8p/aaro_tried_to_help_vandenberg_red_square_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aohi8p/aaro_tried_to_help_vandenberg_red_square_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO tried to help Vandenberg “Red Square UFO” Witness...AARO tried to help Vandenberg “Red Square UFO” Witness, Jeff Nuccetelli find hi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aohi8p/aaro_tried_to_help_vandenberg_red_square_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aohi8p/aaro_tried_to_help_vandenberg_red_square_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO tried to help Vandenberg “Red Square UFO” Witness...AARO tried to help Vandenberg “Red Square UFO” Witness, Jeff Nuccetelli find hi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/bigsur2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/bigsur2.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deliberate Deception: The Big Sur UFO FilmingIf the tabloids were not paid off to run as many mislead- ins, bizarre stories on UFOs and U...</p></details>
+   Link:<a href="https://www.nicap.org/reports/bigsur2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/bigsur2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deliberate Deception: The Big Sur UFO FilmingIf the tabloids were not paid off to run as many mislead- ins, bizarre stories on UFOs and U...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What AARO HR1 Doesn&#x27;t Say | by Andrew KirkwoodAARO has not been able to recover the alleged film of the ballistic missile reentry vehicle...</p></details>
+   Link:<a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What AARO HR1 Doesn&#x27;t Say | by Andrew KirkwoodAARO has not been able to recover the alleged film of the ballistic missile reentry vehicle...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2021/10/21/former-air-force-chief-claims-he-once-saw-ufo-firing-at-nuke-missiles-launched-from-secret-base/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2021/10/21/former-air-force-chief-claims-he-once-saw-ufo-firing-at-nuke-missiles-launched-from-secret-base/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force chief claims he once saw UFO firing at...21 Oct 2021 — A former air force chief claimed today how he saw a UFO firing f...</p></details>
+   Link:<a href="https://nypost.com/2021/10/21/former-air-force-chief-claims-he-once-saw-ufo-firing-at-nuke-missiles-launched-from-secret-base/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2021/10/21/former-air-force-chief-claims-he-once-saw-ufo-firing-at-nuke-missiles-launched-from-secret-base/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force chief claims he once saw UFO firing at...21 Oct 2021 — A former air force chief claimed today how he saw a UFO firing f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hindustantimes.com  
-   Link: <a href="https://www.hindustantimes.com/world-news/us-news/ufo-whistleblowers-reveal-how-the-space-shuttle-zapped-the-us-nuke-in-1964-using-laser-beams-101707883306201.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/ufo-whistleblowers-reveal-how-the-space-shuttle-zapped-the-us-nuke-in-1964-using-laser-beams-101707883306201.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblowers reveal how the space shuttle &#x27;zapped&#x27;...Feb 14, 2024 — The incident involving a UFO and a US nuclear missile has been...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/us-news/ufo-whistleblowers-reveal-how-the-space-shuttle-zapped-the-us-nuke-in-1964-using-laser-beams-101707883306201.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/ufo-whistleblowers-reveal-how-the-space-shuttle-zapped-the-us-nuke-in-1964-using-laser-beams-101707883306201.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblowers reveal how the space shuttle &#x27;zapped&#x27;...Feb 14, 2024 — The incident involving a UFO and a US nuclear missile has been...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1hi7v0b/1964_ufo_incident_robert_jacobs_explains_a_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hi7v0b/1964_ufo_incident_robert_jacobs_explains_a_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1hi7v0b/1964_ufo_incident_robert_jacobs_explains_a_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hi7v0b/1964_ufo_incident_robert_jacobs_explains_a_ufo/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/hastings.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICBM launch is reasonably explained without invoking. Jacobs&#x27;s “weird” scenario involving aliens from outer space.Read more...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/hastings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICBM launch is reasonably explained without invoking. Jacobs&#x27;s “weird” scenario involving aliens from outer space.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sandia.gov  
    Title: Vandenberg missile test helps launch Mk21 Fuze into U.S  
-   Link: <a href="https://www.sandia.gov/labnews/2024/09/05/vandenberg-missile-test-helps-launch-mk21-fuze-into-u-s-nuclear-stockpile/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/labnews/2024/09/05/vandenberg-missile-test-helps-launch-mk21-fuze-into-u-s-nuclear-stockpile/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Sept 2024 — A US Air Force Minuteman III missile carrying an Mk21 Fuze flight test unit onboard a joint test assembly reentry vehicle w...</p></details>
+   Link:<a href="https://www.sandia.gov/labnews/2024/09/05/vandenberg-missile-test-helps-launch-mk21-fuze-into-u-s-nuclear-stockpile/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/labnews/2024/09/05/vandenberg-missile-test-helps-launch-mk21-fuze-into-u-s-nuclear-stockpile/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Sept 2024 — A US Air Force Minuteman III missile carrying an Mk21 Fuze flight test unit onboard a joint test assembly reentry vehicle w...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: afnwc.af.mil  
    Title: icbm test launch verifies multiple re entry vehicle system reliability  
-   Link: <a href="https://www.afnwc.af.mil/News/Article-Display/Article/4420820/icbm-test-launch-verifies-multiple-re-entry-vehicle-system-reliability/" target="_blank" rel="noopener noreferrer nofollow">https://www.afnwc.af.mil/News/Article-Display/Article/4420820/icbm-test-launch-verifies-multiple-re-entry-vehicle-system-reliability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Network Warfare CenterICBM test launch verifies multiple re-entry vehicle, system...4 Mar 2026 — This test not only focused on...</p></details>
+   Link:<a href="https://www.afnwc.af.mil/News/Article-Display/Article/4420820/icbm-test-launch-verifies-multiple-re-entry-vehicle-system-reliability/" target="_blank" rel="noopener noreferrer nofollow">https://www.afnwc.af.mil/News/Article-Display/Article/4420820/icbm-test-launch-verifies-multiple-re-entry-vehicle-system-reliability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Network Warfare CenterICBM test launch verifies multiple re-entry vehicle, system...4 Mar 2026 — This test not only focused on...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>
+   Link:<a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>

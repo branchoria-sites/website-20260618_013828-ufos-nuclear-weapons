@@ -274,56 +274,56 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missil
 
 ## Introduction
 
-Former nuclear missile personnel occupy a unique place in the debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) because they were responsible for some of the United States' most sensitive strategic systems. When the All-domain Anomaly Resolution Office (AARO) reviewed historical claims involving [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena (UAP) near nuclear facilities, it treated these witnesses as important sources of firsthand information. At the same time, AARO did not regard testimony alone as sufficient proof that UAP interfered with nuclear missiles. Its approach was to collect witness accounts, compare them with archival records, and determine whether independent evidence could confirm or explain the reported events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+Former nuclear missile personnel occupy a unique place in the debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) because they were responsible for some of the United States' most sensitive strategic systems. When the All-domain Anomaly Resolution Office (AARO) reviewed historical claims involving [unidentified]({{ 'unidentified/' | relative_url }}) anomalous phenomena (UAP) near nuclear facilities, it treated these witnesses as important sources of firsthand information. At the same time, AARO did not regard testimony alone as sufficient proof that UAP interfered with nuclear missiles. Its approach was to collect witness accounts, compare them with archival records, and determine whether independent evidence could confirm or explain the reported events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This balance between taking witnesses seriously and demanding corroboration is central to understanding AARO's handling of long-running missile-base claims. The office acknowledged that several former missile personnel described unusual incidents near nuclear sites, but it stopped short of validating the more extraordinary conclusions sometimes attached to those events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+This balance between taking witnesses seriously and demanding corroboration is central to understanding AARO's handling of long-running missile-base claims. The office acknowledged that several former missile personnel described unusual incidents near nuclear sites, but it stopped short of validating the more extraordinary conclusions sometimes attached to those events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 ## What did former missile personnel tell AARO?
 
-According to AARO's 2024 Historical Record Report, investigators interviewed five former US Air Force members who had served in and around intercontinental ballistic missile (ICBM) facilities at Malmstrom, Ellsworth, Vandenberg and Minot Air Force bases between 1966 and 1977. These interviews focused on a cluster of longstanding claims linking UAP activity to nuclear weapons operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+According to AARO's 2024 Historical Record Report, investigators interviewed five former US Air Force members who had served in and around intercontinental ballistic missile (ICBM) facilities at Malmstrom, Ellsworth, Vandenberg and Minot Air Force bases between 1966 and 1977. These interviews focused on a cluster of longstanding claims linking UAP activity to nuclear weapons operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 The witnesses described three broad categories of events:
 
 * Reported sightings of unusual aerial objects near missile sites.
 * Claims that missile launch-control facilities went offline or suffered major power disruptions during or near reported sightings.
-* Allegations that an unidentified object interfered with a missile test flight, including a claim that a UAP was filmed destroying an unarmed test re-entry vehicle during flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* Allegations that an unidentified object interfered with a missile test flight, including a claim that a UAP was filmed destroying an unarmed test re-entry vehicle during flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-Many of these narratives have circulated publicly for years through former missile officers and security personnel. One of the best-known examples involves former launch officer [Robert Salas]({{ 'salas/' | relative_url }}), who has long argued that a UFO presence was connected to missile shutdowns at Malmstrom Air Force Base in 1967. Other former personnel associated with Minot and additional missile locations have advanced similar accounts involving temporary loss of missile readiness and unusual aerial observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Former Airmen to Govt.: Come Clean on UFOs</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOsSeptember 27, 2010 — Former Air Force officers say UFOs interfered with nuclear missile...</span><span class="citation-popover-meta">Published: September 27, 2010</span></span></span>
+Many of these narratives have circulated publicly for years through former missile officers and security personnel. One of the best-known examples involves former launch officer [Robert Salas]({{ 'salas/' | relative_url }}), who has long argued that a UFO presence was connected to missile shutdowns at Malmstrom Air Force Base in 1967. Other former personnel associated with Minot and additional missile locations have advanced similar accounts involving temporary loss of missile readiness and unusual aerial observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Former Airmen to Govt.: Come Clean on UFOs</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOsSeptember 27, 2010 — Former Air Force officers say UFOs interfered with nuclear missile...</span><span class="citation-popover-meta">Published: September 27, 2010</span></span></span>
 
-AARO's report did not dismiss these witnesses as fabricators. Instead, it treated their statements as historical testimony requiring further investigation and comparison against documentary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+AARO's report did not dismiss these witnesses as fabricators. Instead, it treated their statements as historical testimony requiring further investigation and comparison against documentary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlmwakUTo3M" title="UFO Interview, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer">UFO Interview, 1966</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 688.8K &middot; Uploaded: September 2013 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlmwakUTo3M">Open on YouTube</a></p></div></div></div>
 
 ## Why missileer testimony matters but has limits
 
-The former missile personnel interviewed by AARO are not typical UFO witnesses. They worked within highly controlled military environments, often held security clearances, and had direct responsibility for nuclear forces. Their accounts therefore carry greater evidentiary interest than anonymous reports from the general public. If unusual events occurred around operational missile fields, these individuals would be among the people most likely to know. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+The former missile personnel interviewed by AARO are not typical UFO witnesses. They worked within highly controlled military environments, often held security clearances, and had direct responsibility for nuclear forces. Their accounts therefore carry greater evidentiary interest than anonymous reports from the general public. If unusual events occurred around operational missile fields, these individuals would be among the people most likely to know.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 However, AARO's review also highlights why witness testimony alone cannot settle the question.
 
 ### The passage of time
 
-Most of the incidents discussed occurred roughly fifty to sixty years ago. Human memory can remain vivid regarding dramatic experiences, yet details often change over time. Investigators therefore seek corroboration from maintenance logs, operational records, security reports, radar data, photographs, or contemporaneous documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+Most of the incidents discussed occurred roughly fifty to sixty years ago. Human memory can remain vivid regarding dramatic experiences, yet details often change over time. Investigators therefore seek corroboration from maintenance logs, operational records, security reports, radar data, photographs, or contemporaneous documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 ### Witnesses observed only part of the event
 
-Many missile personnel could testify about what they personally saw or what equipment did, but not necessarily about the underlying cause. A launch officer might know that missiles suddenly entered a fault condition, for example, without knowing whether the trigger was technical, environmental, experimental, or something else. This distinction is important because observing an equipment failure does not automatically establish a connection to a nearby aerial object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Many missile personnel could testify about what they personally saw or what equipment did, but not necessarily about the underlying cause. A launch officer might know that missiles suddenly entered a fault condition, for example, without knowing whether the trigger was technical, environmental, experimental, or something else. This distinction is important because observing an equipment failure does not automatically establish a connection to a nearby aerial object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Extraordinary claims require independent evidence
 
-The most dramatic allegations—such as a UAP disabling missiles or destroying a test vehicle in flight—would ideally leave multiple forms of evidence. Investigators would expect to find records, film, telemetry data, maintenance analyses, range reports, or intelligence documentation. AARO's public findings indicate that establishing such corroboration remains a major challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+The most dramatic allegations—such as a UAP disabling missiles or destroying a test vehicle in flight—would ideally leave multiple forms of evidence. Investigators would expect to find records, film, telemetry data, maintenance analyses, range reports, or intelligence documentation. AARO's public findings indicate that establishing such corroboration remains a major challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 ## How AARO evaluated the accounts
 
-AARO's public [reporting]({{ 'reporting/' | relative_url }}) shows that it approached these interviews as leads rather than conclusions. The office stated that it was examining both US and foreign activities connected to the alleged incidents and reviewing whether classified programmes, weapons testing, or other government activities could account for some reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+AARO's public [reporting]({{ 'reporting/' | relative_url }}) shows that it approached these interviews as leads rather than conclusions. The office stated that it was examining both US and foreign activities connected to the alleged incidents and reviewing whether classified programmes, weapons testing, or other government activities could account for some reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-This methodology reflects a broader pattern in AARO's historical review. Rather than asking whether witnesses believed they encountered something extraordinary, investigators asked whether available evidence could reconstruct what actually happened. The distinction is significant because sincere testimony and verified explanation are not the same thing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+This methodology reflects a broader pattern in AARO's historical review. Rather than asking whether witnesses believed they encountered something extraordinary, investigators asked whether available evidence could reconstruct what actually happened. The distinction is significant because sincere testimony and verified explanation are not the same thing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
-The office's overall historical assessment concluded that it had found no verifiable evidence that any investigated case demonstrated extraterrestrial technology or confirmed non-human involvement. That conclusion applied across the wider historical review, including nuclear-related allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theelectricgf.com">[The Electric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theelectricgf.com</span><span class="citation-popover-title">pentagon report finds no evidence of extraterrestrial activity</span><span class="citation-popover-snippet">government or private industry has ever had access to extraterrestrial technology. AARO has...Read more...</span></span></span>
+The office's overall historical assessment concluded that it had found no verifiable evidence that any investigated case demonstrated extraterrestrial technology or confirmed non-human involvement. That conclusion applied across the wider historical review, including nuclear-related allegations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theelectricgf.com">[The Electric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theelectricgf.com</span><span class="citation-popover-title">pentagon report finds no evidence of extraterrestrial activity</span><span class="citation-popover-snippet">government or private industry has ever had access to extraterrestrial technology. AARO has...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/10n29IRC8OU" title="1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer">1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone</a></p><p class="youtube-embed-meta">Channel: Queen City News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=10n29IRC8OU">Open on YouTube</a></p></div></div></div>
@@ -332,13 +332,13 @@ The office's overall historical assessment concluded that it had found no verifi
 
 Several forms of evidence would substantially increase the weight of the testimony collected by AARO.
 
-**Contemporaneous operational records.** Documents created at the time of an incident generally carry more evidentiary value than later recollections. Missile-status logs, maintenance reports and command records could help establish timelines and technical effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+**Contemporaneous operational records.** Documents created at the time of an incident generally carry more evidentiary value than later recollections. Missile-status logs, maintenance reports and command records could help establish timelines and technical effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
-**Independent witness convergence.** Multiple witnesses who were separated by role or location but reported consistent details would strengthen confidence that an unusual event occurred. Consistency is especially valuable when witnesses had little opportunity to influence one another's recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+**Independent witness convergence.** Multiple witnesses who were separated by role or location but reported consistent details would strengthen confidence that an unusual event occurred. Consistency is especially valuable when witnesses had little opportunity to influence one another's recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
-**Technical data.** Radar tracks, telemetry records, film footage, sensor outputs and engineering analyses would provide a stronger foundation than testimony alone. Claims involving missile disruption are particularly dependent on technical evidence because missile systems generate extensive documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+**Technical data.** Radar tracks, telemetry records, film footage, sensor outputs and engineering analyses would provide a stronger foundation than testimony alone. Claims involving missile disruption are particularly dependent on technical evidence because missile systems generate extensive documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-**Verified [chain of custody]({{ 'custody/' | relative_url }}).** For alleged photographs, films or recordings, investigators would need confidence that the material is authentic, complete and connected to the claimed event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+**Verified [chain of custody]({{ 'custody/' | relative_url }}).** For alleged photographs, films or recordings, investigators would need confidence that the material is authentic, complete and connected to the claimed event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_aaro_missile_personn_3fa458-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,209 +346,209 @@ Several forms of evidence would substantially increase the weight of the testimo
 
 The same standards that can strengthen a claim can also undermine it when evidence points elsewhere.
 
-If contemporary records contradict witness recollections, investigators generally give greater weight to documents produced during the event itself. Similarly, if technical analyses identify conventional causes for missile malfunctions, the case for UAP involvement becomes weaker. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+If contemporary records contradict witness recollections, investigators generally give greater weight to documents produced during the event itself. Similarly, if technical analyses identify conventional causes for missile malfunctions, the case for UAP involvement becomes weaker.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-AARO has also indicated that some historical UFO narratives may have been shaped by secrecy surrounding classified military activities. Recent reporting on AARO's investigations has suggested that certain Cold War programmes, including electromagnetic effects testing and other highly classified activities, may have contributed to misunderstandings among personnel who lacked access to the full context of what they were observing. Although not all such claims have been publicly documented in detail, the possibility illustrates why investigators seek records beyond witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
+AARO has also indicated that some historical UFO narratives may have been shaped by secrecy surrounding classified military activities. Recent reporting on AARO's investigations has suggested that certain Cold War programmes, including electromagnetic effects testing and other highly classified activities, may have contributed to misunderstandings among personnel who lacked access to the full context of what they were observing. Although not all such claims have been publicly documented in detail, the possibility illustrates why investigators seek records beyond witness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
 
 ## Why these interviews remain important
 
-The significance of AARO's missile-personnel interviews lies less in what they prove than in what they preserve. The witnesses provided direct accounts from individuals who operated within the nuclear enterprise during the Cold War and who believed they observed unusual events affecting strategic systems. Those accounts identify specific locations, dates and alleged effects that investigators can test against surviving records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+The significance of AARO's missile-personnel interviews lies less in what they prove than in what they preserve. The witnesses provided direct accounts from individuals who operated within the nuclear enterprise during the Cold War and who believed they observed unusual events affecting strategic systems. Those accounts identify specific locations, dates and alleged effects that investigators can test against surviving records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
-As a result, the interviews serve as investigative starting points rather than final answers. AARO's position has been that former missile personnel offered testimony worthy of examination, but that confirmation of nuclear-UAP interference requires evidence extending beyond memory and recollection. Until such corroboration is found, the witness accounts remain important historical data points rather than verified demonstrations that unidentified phenomena interfered with US nuclear weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
+As a result, the interviews serve as investigative starting points rather than final answers. AARO's position has been that former missile personnel offered testimony worthy of examination, but that confirmation of nuclear-UAP interference requires evidence extending beyond memory and recollection. Until such corroboration is found, the witness accounts remain important historical data points rather than verified demonstrations that unidentified phenomena interfered with US nuclear weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cas...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x7uzLVw5HwA" title="Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer">Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7uzLVw5HwA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did former missile personnel tell AARO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did former missile personnel tell AARO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating witness reports and evidence quality, central to AARO&#x27;s approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating witness reports and evidence quality, central to AARO&#x27;s approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides context on how military and intelligence organizations assess UAP reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on how military and intelligence organizations assess UAP reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military and government witnesses, making it highly relevant to missile personnel testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military and government witnesses, making it highly relevant to missile personnel testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores military witnesses, government investigations, and evidentiary standards surrounding UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military witnesses, government investigations, and evidentiary standards surrounding UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="witnesses-f071a5-what-did-former-missile-personnel-tell-aaro-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ As a result, the interviews serve as investigative starting points rather than f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ As a result, the interviews serve as investigative starting points rather than f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ As a result, the interviews serve as investigative starting points rather than f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ As a result, the interviews serve as investigative starting points rather than f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ As a result, the interviews serve as investigative starting points rather than f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,112 +754,112 @@ As a result, the interviews serve as investigative starting points rather than f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — AARO interviewed five former USAF members who served in and...</p></details>
    Published: May 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...10 May 2024 — ​SECTION IV: Accounts of USG UAP Investigatory Programs Since 1945. Summary. A...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...10 May 2024 — ​SECTION IV: Accounts of USG UAP Investigatory Programs Since 1945. Summary. A...</p></details>
    Published: May 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating [Unresolved](&amp;#123;&amp;#123; &#x27;unresolved/&#x27; | relative_url &amp;#125;&amp;#125;) Historical Nuclear-Related UAP Cas...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating [Unresolved](&amp;#123;&amp;#123; &#x27;unresolved/&#x27; | relative_url &amp;#125;&amp;#125;) Historical Nuclear-Related UAP Cas...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abcnews.com  
    Title: ABC News Former Airmen to Govt.: Come Clean on UFOs  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOsSeptember 27, 2010 — Former Air Force officers say UFOs interfered with nuclear missile...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOsSeptember 27, 2010 — Former Air Force officers say UFOs interfered with nuclear missile...</p></details>
    Published: September 27, 2010  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government or private industry has ever had access to extraterrestrial technology. AARO has...Read more...</p></details>
+   Link:<a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government or private industry has ever had access to extraterrestrial technology. AARO has...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to an investigation reviewed by the Wall Street Journal, a retired Air Force colonel admitted to spreading doctored UFO photos...</p></details>
+   Link:<a href="https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to an investigation reviewed by the Wall Street Journal, a retired Air Force colonel admitted to spreading doctored UFO photos...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: minotdailynews.com  
    Title: military veterans urge truth told about unidentified aerial phenomena incidents  
-   Link: <a href="https://www.minotdailynews.com/news/local-news/2021/12/military-veterans-urge-truth-told-about-unidentified-aerial-phenomena-incidents/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotdailynews.com/news/local-news/2021/12/military-veterans-urge-truth-told-about-unidentified-aerial-phenomena-incidents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military veterans urge truth told about unidentified aerial...Dec 31, 2021 — Fifty-five years ago in September 1966, Air Force members f...</p></details>
+   Link:<a href="https://www.minotdailynews.com/news/local-news/2021/12/military-veterans-urge-truth-told-about-unidentified-aerial-phenomena-incidents/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotdailynews.com/news/local-news/2021/12/military-veterans-urge-truth-told-about-unidentified-aerial-phenomena-incidents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military veterans urge truth told about unidentified aerial...Dec 31, 2021 — Fifty-five years ago in September 1966, Air Force members f...</p></details>
    Published: September 1966  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: while it may sound like a science fiction story the retired us air force launch  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/while-it-may-sound-like-a-science-fiction-story-the-retired-us-air-force-launch-/952255520514799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/while-it-may-sound-like-a-science-fiction-story-the-retired-us-air-force-launch-/952255520514799/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While it may sound like a science fiction story, the retired...David Schindele&#x27;s Incident: • Date: September 1966 • Location: Minot Air...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/while-it-may-sound-like-a-science-fiction-story-the-retired-us-air-force-launch-/952255520514799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/while-it-may-sound-like-a-science-fiction-story-the-retired-us-air-force-launch-/952255520514799/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While it may sound like a science fiction story, the retired...David Schindele&#x27;s Incident: • Date: September 1966 • Location: Minot Air...</p></details>
    Published: September 1966  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedebrief.org  
    Title: aaros historical report a tale of factual errors and old mistakes repeated  
-   Link: <a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical Report: A Tale of Factual Errors and Old...14 Mar 2024 — The long-awaited historical report on UAP by the DoD&#x27;s All-do...</p></details>
+   Link:<a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical Report: A Tale of Factual Errors and Old...14 Mar 2024 — The long-awaited historical report on UAP by the DoD&#x27;s All-do...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: docs.house.gov  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — “AARO&#x27;s files contain all available data related to each UAP case,” said Gough...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — “AARO&#x27;s files contain all available data related to each UAP case,” said Gough...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>allistic missile (ICBM) [silos](&amp;#123;&amp;#123; &#x27;silos/&#x27; | relative_url &amp;#125;&amp;#125;) at Malmstrom, Ellsworth...Read more...</p></details>
+   Link:<a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>allistic missile (ICBM) [silos](&amp;#123;&amp;#123; &#x27;silos/&#x27; | relative_url &amp;#125;&amp;#125;) at Malmstrom, Ellsworth...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1960s. Ex-US Air Force captain reveals aliens assailed nuclear...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1960s. Ex-US Air Force captain reveals aliens assailed nuclear...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Good Trouble Show with Matt Ford...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Good Trouble Show with Matt Ford...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UlmwakUTo3M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Interview, 1966The United States Air Force in discharging its responsibility for the Aerospace defense of the nation is called upon t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UlmwakUTo3M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Interview, 1966The United States Air Force in discharging its responsibility for the Aerospace defense of the nation is called upon t...</p></details>

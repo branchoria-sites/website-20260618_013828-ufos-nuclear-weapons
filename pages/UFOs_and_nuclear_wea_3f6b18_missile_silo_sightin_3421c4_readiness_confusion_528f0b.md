@@ -290,7 +290,7 @@ This mechanism helps explain why sightings near missile [silos]({{ 'silos/' | re
 
 For a missile wing, readiness is more than the ability to launch a missile. It also depends on accurate status [reporting]({{ 'reporting/' | relative_url }}), secure communications, reliable sensors and confidence that security forces understand what is happening across a dispersed network of sites.
 
-The United States' Minuteman force operates through missiles spread across large rural areas and connected to underground launch control centres. Launch crews remain on alert around the clock while security personnel monitor remote facilities separated by considerable distances. The system relies on constant streams of status information from many locations at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceLGM-30G Minuteman III &gt; Air Force &gt; Fact Sheet DisplayMissiles are dispersed in hardened silos to protect against attack and con...</span></span></span>
+The United States' Minuteman force operates through missiles spread across large rural areas and connected to underground launch control centres. Launch crews remain on alert around the clock while security personnel monitor remote facilities separated by considerable distances. The system relies on constant streams of status information from many locations at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceLGM-30G Minuteman III &gt; Air Force &gt; Fact Sheet DisplayMissiles are dispersed in hardened silos to protect against attack and con...</span></span></span>
 
 In such an environment, a single unexplained report can create multiple simultaneous questions:
 
@@ -331,7 +331,7 @@ Consider a hypothetical but realistic sequence:
 
 None of these facts automatically explains the others. Commanders must decide whether the events are connected or merely coincidental. The resulting uncertainty can temporarily reduce confidence in the force's reported status even if every missile remains physically intact.
 
-This dynamic appears in discussions of the 1967 Malmstrom Echo Flight incident. The documented event was a sudden loss of strategic alert status across multiple missiles. Later testimony from former personnel linked the malfunction to reported UFO activity, while Air Force records stated that rumours of UFOs were investigated and considered disproven, with a mobile security team reporting no unusual observations. The important point for readiness analysis is not resolving the UFO question but recognising how conflicting reports emerged around the same operational event. Technical failure and unusual sighting claims became intertwined, complicating interpretation of what had happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+This dynamic appears in discussions of the 1967 Malmstrom Echo Flight incident. The documented event was a sudden loss of strategic alert status across multiple missiles. Later testimony from former personnel linked the malfunction to reported UFO activity, while Air Force records stated that rumours of UFOs were investigated and considered disproven, with a mobile security team reporting no unusual observations. The important point for readiness analysis is not resolving the UFO question but recognising how conflicting reports emerged around the same operational event. Technical failure and unusual sighting claims became intertwined, complicating interpretation of what had happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_readiness_confusion_528f0b-Illustration-2-dark.svg" | relative_url }}" alt="Readiness confusion illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_readiness_confusion_528f0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_readiness_confusion_528f0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ Security teams may be redirected to investigate reports. Maintenance personnel m
 
 The result is a temporary reduction in confidence, not necessarily in the missiles themselves, but in the accuracy of the picture being presented to decision-makers.
 
-Nuclear forces have long been concerned with avoiding actions based on mistaken warnings or misunderstood information. Studies of nuclear command-and-control systems repeatedly stress the danger of acting on incomplete or false indications because strategic decisions often occur under time pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucs.org">[The Union of Concerned Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucs.org</span><span class="citation-popover-title">The Union of Concerned Scientistssafing-us-nuclear-missiles.pdf</span><span class="citation-popover-snippet">intercontinental ballistic missiles off high alert is critical to eliminating the risk of accidental or unauthorized launch...Read more...</span></span></span>
+Nuclear forces have long been concerned with avoiding actions based on mistaken warnings or misunderstood information. Studies of nuclear command-and-control systems repeatedly stress the danger of acting on incomplete or false indications because strategic decisions often occur under time pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucs.org">[The Union of Concerned Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucs.org</span><span class="citation-popover-title">The Union of Concerned Scientistssafing-us-nuclear-missiles.pdf</span><span class="citation-popover-snippet">intercontinental ballistic missiles off high alert is critical to eliminating the risk of accidental or unauthorized launch...Read more...</span></span></span>
 
 In this context, an unexplained sighting can be important even when later shown to be harmless. The event forces personnel to verify assumptions that are normally taken for granted.
 
@@ -371,7 +371,7 @@ In this context, an unexplained sighting can be important even when later shown 
 
 Recent concerns about [unidentified]({{ 'unidentified/' | relative_url }}) drones near military installations illustrate the same readiness problem without requiring any UFO explanation.
 
-Military officials have reported repeated drone incursions or suspected drone activity near sensitive facilities, while defence officials and inspectors have also highlighted confusion about how installations should identify, classify and respond to such events. In some cases, reports generated significant concern before investigators determined that many observations involved lawful aircraft, misidentifications or activities that posed no direct threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2025/02/13/drone-incursions-us-military-bases-norad-northcom-counter-small-uas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[The Guardian+3DefenseScoop+3Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop NORAD commander says hundreds of drone incursions</span><span class="citation-popover-snippet">NORAD commander says hundreds of drone incursions...February 13, 2025 — 13 Feb 2025 — High-profile incidents that were repor...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+Military officials have reported repeated drone incursions or suspected drone activity near sensitive facilities, while defence officials and inspectors have also highlighted confusion about how installations should identify, classify and respond to such events. In some cases, reports generated significant concern before investigators determined that many observations involved lawful aircraft, misidentifications or activities that posed no direct threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2025/02/13/drone-incursions-us-military-bases-norad-northcom-counter-small-uas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[The Guardian+3DefenseScoop+3Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">Defense Scoop NORAD commander says hundreds of drone incursions</span><span class="citation-popover-snippet">NORAD commander says hundreds of drone incursions...February 13, 2025 — 13 Feb 2025 — High-profile incidents that were repor...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 These episodes reveal the core issue: uncertainty spreads faster than certainty. Personnel must investigate first and explain later.
 
@@ -388,198 +388,198 @@ That is why sightings near missile facilities remain operationally important reg
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Sighting Makes Readiness Harder to Read. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Sighting Makes Readiness Harder to Read. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Explains missile readiness, failures, alerts and operational uncertainty in nuclear forces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains missile readiness, failures, alerts and operational uncertainty in nuclear forces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
-        </h4>
-        <p class="fr-book-author">By Christian Brose</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kill Chain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b6GnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Kill Chain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
+</h4>
+<p class="fr-book-author">By Christian Brose</p>
         
-        <p class="fr-book-desc">Covers modern sensing, decision-making and threats that complicate readiness assessments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern sensing, decision-making and threats that complicate readiness assessments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Kill+Chain+by+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for military systems, sensors and strategic threat evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military systems, sensors and strategic threat evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Examines reported incidents where unidentified activity intersected with nuclear readiness concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines reported incidents where unidentified activity intersected with nuclear readiness concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentA weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over M...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentA weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over M...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: defensescoop.com  
    Title: Defense Scoop NORAD commander says hundreds of drone incursions  
-   Link: <a href="https://defensescoop.com/2025/02/13/drone-incursions-us-military-bases-norad-northcom-counter-small-uas/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/02/13/drone-incursions-us-military-bases-norad-northcom-counter-small-uas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD commander says hundreds of drone incursions...February 13, 2025 — 13 Feb 2025 — High-profile incidents that were repor...</p></details>
+   Link:<a href="https://defensescoop.com/2025/02/13/drone-incursions-us-military-bases-norad-northcom-counter-small-uas/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/02/13/drone-incursions-us-military-bases-norad-northcom-counter-small-uas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD commander says hundreds of drone incursions...February 13, 2025 — 13 Feb 2025 — High-profile incidents that were repor...</p></details>
    Published: February 13, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/341st_Missile_Wing_LGM-30_Minuteman_missile_launch_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/341st_Missile_Wing_LGM-30_Minuteman_missile_launch_sites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>341st Missile Wing LGM-30 Minuteman missile launch sitesThis is a list of the LGM-30 Minuteman missile Missile Alert Facilities and La...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/341st_Missile_Wing_LGM-30_Minuteman_missile_launch_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/341st_Missile_Wing_LGM-30_Minuteman_missile_launch_sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>341st Missile Wing LGM-30 Minuteman missile launch sitesThis is a list of the LGM-30 Minuteman missile Missile Alert Facilities and La...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceLGM-30G Minuteman III &gt; Air Force &gt; Fact Sheet DisplayMissiles are dispersed in hardened silos to protect against attack and con...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104466/lgm-30g-minuteman-iii/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceLGM-30G Minuteman III &gt; Air Force &gt; Fact Sheet DisplayMissiles are dispersed in hardened silos to protect against attack and con...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ucs.org  
    Title: The Union of Concerned Scientistssafing-us-nuclear-missiles.pdf  
-   Link: <a href="https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>intercontinental ballistic missiles off high alert is critical to eliminating the risk of accidental or unauthorized launch...Read more...</p></details>
+   Link:<a href="https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intercontinental ballistic missiles off high alert is critical to eliminating the risk of accidental or unauthorized launch...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/the-us-militarys-drone-defense-confusion-is-leaving-bases-vulnerable-2026-1" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/the-us-militarys-drone-defense-confusion-is-leaving-bases-vulnerable-2026-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military bases vulnerable to drone threats. The Department of Defense has failed to standardize counter-uncrewed aerial systems (UAS) dir...</p></details>
+   Link:<a href="https://www.businessinsider.com/the-us-militarys-drone-defense-confusion-is-leaving-bases-vulnerable" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/the-us-militarys-drone-defense-confusion-is-leaving-bases-vulnerable</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military bases vulnerable to drone threats. The Department of Defense has failed to standardize counter-uncrewed aerial systems (UAS) dir...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt. (USAF deputy base co...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt. (USAF deputy base co...</p></details>
    Published: August 2009  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/842" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/842</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the UFO Deactivated the Nukes26 Jul 2022 — [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area of Echo Flight during the...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/842" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/842</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the UFO Deactivated the Nukes26 Jul 2022 — [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area of Echo Flight during the...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWFjZj5gsFQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWFjZj5gsFQ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Whose drones were they?&quot;: CNN&#x27;s John Miller explains what...Two drones, we don&#x27;t know what type, spotted recently near Fort McNair, whi...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWFjZj5gsFQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWFjZj5gsFQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Whose drones were they?&quot;: CNN&#x27;s John Miller explains what...Two drones, we don&#x27;t know what type, spotted recently near Fort McNair, whi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: minutemanmissile.com  
-   Link: <a href="https://minutemanmissile.com/missilesecurity.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/missilesecurity.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missile SecuritySecurity provided to the Air Force missile bases that oversee a Minuteman missile wing, has been, and continues...</p></details>
+   Link:<a href="https://minutemanmissile.com/missilesecurity.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/missilesecurity.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missile SecuritySecurity provided to the Air Force missile bases that oversee a Minuteman missile wing, has been, and continues...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom EffectHow one of the most well-documented UFO cases has been forgotten. Press enter or click to view image in full size.Rea...</p></details>
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom EffectHow one of the most well-documented UFO cases has been forgotten. Press enter or click to view image in full size.Rea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: npshistory.com  
-   Link: <a href="https://npshistory.com/publications/mimi/srs/sites.htm" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/mimi/srs/sites.htm</a>  
+   Link:<a href="https://npshistory.com/publications/mimi/srs/sites.htm" target="_blank" rel="noopener noreferrer nofollow">https://npshistory.com/publications/mimi/srs/sites.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stratcom.mil  
    Title: minuteman iii test launch showcases readiness of us nuclear forces safe effecti  
-   Link: <a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman III test launch showcases readiness of...21 May 2025 — This test launch is part of routine and periodic activities designed to...</p></details>
+   Link:<a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/4193989/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman III test launch showcases readiness of...21 May 2025 — This test launch is part of routine and periodic activities designed to...</p></details>
    Published: May 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ae0PKnlHRJU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ae0PKnlHRJU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Drones Seen Over Base Fort McNair Housing Rubio...Unidentified drones spotted over Fort McNair have raised fresh security concer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ae0PKnlHRJU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ae0PKnlHRJU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Drones Seen Over Base Fort McNair Housing Rubio...Unidentified drones spotted over Fort McNair have raised fresh security concer...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HkHxYKi2Hc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HkHxYKi2Hc4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=HkHxYKi2Hc4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HkHxYKi2Hc4</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: foxnews.com  
    Title: mystery drones fly near dc area military base iran tensions escalate  
-   Link: <a href="https://www.foxnews.com/politics/mystery-drones-fly-near-dc-area-military-base-iran-tensions-escalate" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/mystery-drones-fly-near-dc-area-military-base-iran-tensions-escalate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones fly near DC-area military base as Iran...19 Mar 2026 — Unidentified drones were reported near Fort Lesley J. McNair in Wa...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/mystery-drones-fly-near-dc-area-military-base-iran-tensions-escalate" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/mystery-drones-fly-near-dc-area-military-base-iran-tensions-escalate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones fly near DC-area military base as Iran...19 Mar 2026 — Unidentified drones were reported near Fort Lesley J. McNair in Wa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thinkaboutitdocs.com  
    Title: 1967 the malmstrom air force base ufo missile incident  
-   Link: <a href="https://www.thinkaboutitdocs.com/1967-the-malmstrom-air-force-base-ufo-missile-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1967-the-malmstrom-air-force-base-ufo-missile-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967: The Malmstrom Air Force Base UFO/Missile IncidentA detailed investigation into the 1967 Malmstrom Air Force Base incident where a g...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1967-the-malmstrom-air-force-base-ufo-missile-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1967-the-malmstrom-air-force-base-ufo-missile-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967: The Malmstrom Air Force Base UFO/Missile IncidentA detailed investigation into the 1967 Malmstrom Air Force Base incident where a g...</p></details>

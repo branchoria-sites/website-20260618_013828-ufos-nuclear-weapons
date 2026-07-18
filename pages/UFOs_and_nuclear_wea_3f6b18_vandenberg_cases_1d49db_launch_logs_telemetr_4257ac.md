@@ -274,13 +274,13 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_launch
 
 ## Introduction
 
-The Vandenberg missile-film controversy is often discussed as a witness story, but it is fundamentally a records problem. If a film genuinely captured an object approaching and disabling a test re-entry vehicle, the event would not have existed only on a single reel of footage. It would have occurred inside one of the most heavily instrumented aerospace test environments in the United States, where launch operations were supported by [radar]({{ 'radar/' | relative_url }}) tracking, telemetry streams, optical systems, range safety records and mission logs. The strongest way to evaluate the claim is therefore not to revisit memories decades later, but to ask what records should exist and whether they can be matched to a specific launch. Modern official reviews have repeatedly noted that conclusions become more reliable when more sensor data are available, and less reliable when records are incomplete or missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+The Vandenberg missile-film controversy is often discussed as a witness story, but it is fundamentally a records problem. If a film genuinely captured an object approaching and disabling a test re-entry vehicle, the event would not have existed only on a single reel of footage. It would have occurred inside one of the most heavily instrumented aerospace test environments in the United States, where launch operations were supported by [radar]({{ 'radar/' | relative_url }}) tracking, telemetry streams, optical systems, range safety records and mission logs. The strongest way to evaluate the claim is therefore not to revisit memories decades later, but to ask what records should exist and whether they can be matched to a specific launch. Modern official reviews have repeatedly noted that conclusions become more reliable when more sensor data are available, and less reliable when records are incomplete or missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_launch_logs_telemetr_4257ac-Illustration-1-dark.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_launch_logs_telemetr_4257ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_launch_logs_telemetr_4257ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Which records would identify the launch and payload events?
 
-The first task would be identifying the exact launch. Although the alleged incident is commonly associated with a September 1964 Atlas test from Vandenberg, researchers have debated the precise flight involved. A definitive investigation would require access to the launch schedule, mission designation, countdown records and post-flight evaluation documents from the Western Test Range. Those records would establish the missile type, launch time, intended trajectory, instrumentation package and expected re-entry vehicle behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vandenberg.spaceforce.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vandenberg.spaceforce.mil">[Vandenberg Space Force Base+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vandenberg.spaceforce.mil</span><span class="citation-popover-title">Vandenberg Space Force Base History</span><span class="citation-popover-snippet">Vandenberg Space Force BaseHistory - Vandenberg Space Force BaseSpace Launch Delta 30 manages all launch and range missions on the Wester...</span></span></span>
+The first task would be identifying the exact launch. Although the alleged incident is commonly associated with a September 1964 Atlas test from Vandenberg, researchers have debated the precise flight involved. A definitive investigation would require access to the launch schedule, mission designation, countdown records and post-flight evaluation documents from the Western Test Range. Those records would establish the missile type, launch time, intended trajectory, instrumentation package and expected re-entry vehicle behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vandenberg.spaceforce.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vandenberg.spaceforce.mil">[Vandenberg Space Force Base+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vandenberg.spaceforce.mil</span><span class="citation-popover-title">Vandenberg Space Force Base History</span><span class="citation-popover-snippet">Vandenberg Space Force BaseHistory - Vandenberg Space Force BaseSpace Launch Delta 30 manages all launch and range missions on the Wester...</span></span></span>
 
 Several categories of records would be especially important:
 
@@ -298,7 +298,7 @@ A particularly useful record would be any mission reconstruction prepared after 
 
 ## How radar, telemetry and optical logs would cross-check each other
 
-The Western Test Range was designed around overlapping sensor systems rather than reliance on a single camera. Historical descriptions of U.S. missile ranges show extensive use of tracking radars, telemetry receivers, optical instrumentation and data-processing systems capable of following missile flights over long distances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://planet4589.org/space/docs/Skinner78.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planet4589.org">[planet4589.org+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planet4589.org</span><span class="citation-popover-title">UNITE D STATES MISSILE RANGES</span><span class="citation-popover-snippet">SkinnerThe first was the World War II aircraft-detection. SCR-584 mono-pulse radar tracking system which was used to test 17 ORDCIT Priva...</span></span></span>
+The Western Test Range was designed around overlapping sensor systems rather than reliance on a single camera. Historical descriptions of U.S. missile ranges show extensive use of tracking radars, telemetry receivers, optical instrumentation and data-processing systems capable of following missile flights over long distances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://planet4589.org/space/docs/Skinner78.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planet4589.org">[planet4589.org+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planet4589.org</span><span class="citation-popover-title">UNITE D STATES MISSILE RANGES</span><span class="citation-popover-snippet">SkinnerThe first was the World War II aircraft-detection. SCR-584 mono-pulse radar tracking system which was used to test 17 ORDCIT Priva...</span></span></span>
 
 ### What radar records could show
 
@@ -343,7 +343,7 @@ The alleged event centres on optical tracking footage, making other optical reco
 
 A single camera can produce misleading imagery through glare, lens effects, tracking errors or out-of-focus objects. Multiple optical stations reduce that risk. If two or more independent cameras recorded the same object at the same moment, analysts could estimate its location and movement geometrically. If only one camera recorded the anomaly while others did not, the probability of an imaging artefact increases.
 
-This is one reason critics of the UFO interpretation have argued that any assessment must be based on the complete instrumentation picture rather than a single visual sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">California Air Force Western Test Range (WTR). An...Read more...</span></span></span>
+This is one reason critics of the UFO interpretation have argued that any assessment must be based on the complete instrumentation picture rather than a single visual sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">California Air Force Western Test Range (WTR). An...Read more...</span></span></span>
 
 ## What a confirmed intercept would look like in the data
 
@@ -368,7 +368,7 @@ Investigators would look for:
 
 The evidential value comes from agreement between systems. A camera image alone can be disputed. A camera image matched by radar, telemetry and engineering assessments becomes much harder to dismiss.
 
-This principle is reflected in modern aerospace investigations generally: independent sensor agreement carries far greater weight than any single source of evidence. [AARO]({{ 'aaro/' | relative_url }})'s 2024 historical review similarly emphasised that the ability to resolve unusual claims depends heavily on the quantity and quality of available data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+This principle is reflected in modern aerospace investigations generally: independent sensor agreement carries far greater weight than any single source of evidence. [AARO]({{ 'aaro/' | relative_url }})'s 2024 historical review similarly emphasised that the ability to resolve unusual claims depends heavily on the quantity and quality of available data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 ## Why partial archives leave room for competing stories
 
@@ -376,7 +376,7 @@ The persistence of the Vandenberg story is partly explained by the absence of a 
 
 The alleged film has never been publicly released in a form that resolves the dispute. Equally important, the associated range records, telemetry files and integrated mission data have not been assembled into a publicly accessible package that allows independent verification. As a result, competing narratives survive.
 
-Supporters of the incident argue that the absence of records may reflect classification, restricted access or later loss of documentation. Critics argue that extraordinary claims require corroborating sensor evidence and that no publicly demonstrated telemetry or radar record currently supports the dramatic interpretation. Official reviews have acknowledged the claim's existence while stopping short of validating it, instead noting the need to examine missile-defence testing, range activities and related records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+Supporters of the incident argue that the absence of records may reflect classification, restricted access or later loss of documentation. Critics argue that extraordinary claims require corroborating sensor evidence and that no publicly demonstrated telemetry or radar record currently supports the dramatic interpretation. Official reviews have acknowledged the claim's existence while stopping short of validating it, instead noting the need to examine missile-defence testing, range activities and related records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 The practical consequence is that the debate remains [unresolved]({{ 'unresolved/' | relative_url }}) not because too many records exist, but because too few have been matched together in a verifiable way.
 
@@ -398,185 +398,185 @@ Among all possible evidence, a small number of records would have the greatest p
 
 </div>
 
-If those materials were recovered and shown to agree with one another, the Vandenberg case would move from anecdote to measurable aerospace evidence. If they showed an entirely normal flight, the mystery would narrow considerably. Until such records are assembled and cross-checked, the controversy remains less a question of witness credibility than a question of missing instrumentation history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2Vandenberg Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+If those materials were recovered and shown to agree with one another, the Vandenberg case would move from anecdote to measurable aerospace evidence. If they showed an entirely normal flight, the mystery would narrow considerably. Until such records are assembled and cross-checked, the controversy remains less a question of witness credibility than a question of missing instrumentation history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2Vandenberg Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H0319Unz5IQ" title="HACL Film 00603 Atlas-Agena D LV-3 351D Vandenberg Air Force Base 4/23/1964" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H0319Unz5IQ" target="_blank" rel="noopener noreferrer">HACL Film 00603 Atlas-Agena D LV-3 351D Vandenberg Air Force Base 4/23/1964</a></p><p class="youtube-embed-meta">Channel: San Diego Air and Space Museum Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H0319Unz5IQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H0319Unz5IQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What records could settle the Vandenberg case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What records could settle the Vandenberg case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Strong emphasis on records, documentation, and corroborating evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on records, documentation, and corroborating evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Provides context on test programs, instrumentation, and technical records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on test programs, instrumentation, and technical records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines archival secrecy and military documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines archival secrecy and military documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Relevant to missile-site claims requiring documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to missile-site claims requiring documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Minuteman ICBM Nuclear Missile 1/87 HO Model - Cold War Era - 3D Printed"><img src="{{ '/assets/images/marketplace-covers/dd6b43a4eadf755a829d.jpg' | relative_url }}" alt="Listing image for USAF Minuteman ICBM Nuclear Missile 1/87 HO Model - Cold War Era - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer">USAF Minuteman ICBM Nuclear Missile 1/87 HO Model - Cold War Era - 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Minuteman missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Minuteman missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Minuteman ICBM Nuclear Missile 1/87 HO Model - Cold War Era - 3D Printed"><img src="{{ '/assets/images/marketplace-covers/dd6b43a4eadf755a829d.jpg' | relative_url }}" alt="Listing image for USAF Minuteman ICBM Nuclear Missile 1/87 HO Model - Cold War Era - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer">USAF Minuteman ICBM Nuclear Missile 1/87 HO Model - Cold War Era - 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Minuteman missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Minuteman missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed"><img src="{{ '/assets/images/marketplace-covers/6916198995b199f0e6d0.jpg' | relative_url }}" alt="Listing image for USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer">USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Minuteman missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Minuteman missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed"><img src="{{ '/assets/images/marketplace-covers/6916198995b199f0e6d0.jpg' | relative_url }}" alt="Listing image for USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer">USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Minuteman missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Minuteman missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed"><img src="{{ '/assets/images/marketplace-covers/398e94d853fdcf970743.jpg' | relative_url }}" alt="Listing image for USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer">USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Minuteman missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Minuteman missile model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed"><img src="{{ '/assets/images/marketplace-covers/398e94d853fdcf970743.jpg' | relative_url }}" alt="Listing image for USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer">USAF Minuteman MK1 ICBM Nuclear Missile 1/72 Model - Cold War Era - 3D Printed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Minuteman missile model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Minuteman missile model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Minuteman+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Minuteman missile model" data-ebay-reference="missing-records-de28d6-what-records-could-settle-the-vandenberg-case-ufos-and-nuclear-weapons-minuteman-missile-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ If those materials were recovered and shown to agree with one another, the Vande
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ If those materials were recovered and shown to agree with one another, the Vande
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ If those materials were recovered and shown to agree with one another, the Vande
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ If those materials were recovered and shown to agree with one another, the Vande
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ If those materials were recovered and shown to agree with one another, the Vande
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,98 +782,98 @@ If those materials were recovered and shown to agree with one another, the Vande
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...March 8, 2024 — 6 Mar 2024 — AARO found no empirical evidence for claims that the USG and private comp...</p></details>
    Published: March 8, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Sur UFOThe Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big Sur UFOThe Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: planet4589.org  
    Title: UNITE D STATES MISSILE RANGES  
-   Link: <a href="https://planet4589.org/space/docs/Skinner78.pdf" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/docs/Skinner78.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkinnerThe first was the World War II aircraft-[detection](&amp;#123;&amp;#123; &#x27;detection/&#x27; | relative_url &amp;#125;&amp;#125;). SCR-584 mono-pulse radar tracking system which was used to test 17 ORDCIT Priva...</p></details>
+   Link:<a href="https://planet4589.org/space/docs/Skinner78.pdf" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/docs/Skinner78.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SkinnerThe first was the World War II aircraft-[detection](&amp;#123;&amp;#123; &#x27;detection/&#x27; | relative_url &amp;#125;&amp;#125;). SCR-584 mono-pulse radar tracking system which was used to test 17 ORDCIT Priva...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Missile Test Project  
-   Link: <a href="https://en.wikipedia.org/wiki/Missile_Test_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missile_Test_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missile_Test_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missile_Test_Project</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: vandenberg.spaceforce.mil  
    Title: Vandenberg Space Force Base History  
-   Link: <a href="https://www.vandenberg.spaceforce.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/About-Us/History/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vandenberg Space Force BaseHistory - Vandenberg Space Force BaseSpace Launch Delta 30 manages all launch and range missions on the Wester...</p></details>
+   Link:<a href="https://www.vandenberg.spaceforce.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/About-Us/History/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vandenberg Space Force BaseHistory - Vandenberg Space Force BaseSpace Launch Delta 30 manages all launch and range missions on the Wester...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>California Air Force Western Test Range (WTR). An...Read more...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>California Air Force Western Test Range (WTR). An...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: astronautix.com  
-   Link: <a href="https://www.astronautix.com/v/vandenberg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/v/vandenberg.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First Launch: 1958-12-16. Last Launch: 2014-08-13. Vandenberg&#x27;s existing launch pads, runways, payload processing facilities, telemetry a...</p></details>
+   Link:<a href="https://www.astronautix.com/v/vandenberg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/v/vandenberg.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Launch: 1958-12-16. Last Launch: 2014-08-13. Vandenberg&#x27;s existing launch pads, runways, payload processing facilities, telemetry a...</p></details>
    Published: August 13, 2014  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: worldradiohistory.com  
-   Link: <a href="https://www.worldradiohistory.com/ARCHIVE-RCA/RCA-Engineer/1978-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/ARCHIVE-RCA/RCA-Engineer/1978-10-11.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RCA EngineerOur cover shows launch action at the USAF Eastern Test Range and tracking by RCA&#x27;s Missile Test Project. Starting on the back...</p></details>
+   Link:<a href="https://www.worldradiohistory.com/ARCHIVE-RCA/RCA-Engineer/1978-10-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/ARCHIVE-RCA/RCA-Engineer/1978-10-11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RCA EngineerOur cover shows launch action at the USAF Eastern Test Range and tracking by RCA&#x27;s Missile Test Project. Starting on the back...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What AARO HR1 Doesn&#x27;t Say | by Andrew KirkwoodAdditionally, one interviewee and a USAF videographer claimed to have observed and recorded...</p></details>
+   Link:<a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What AARO HR1 Doesn&#x27;t Say | by Andrew KirkwoodAdditionally, one interviewee and a USAF videographer claimed to have observed and recorded...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1hlo56h/a_possibly_real_video_of_a_ufo_disabling_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hlo56h/a_possibly_real_video_of_a_ufo_disabling_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s alleged that the original film showed a UAP circling and disabling the dummy nuclear...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1hlo56h/a_possibly_real_video_of_a_ufo_disabling_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hlo56h/a_possibly_real_video_of_a_ufo_disabling_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s alleged that the original film showed a UAP circling and disabling the dummy nuclear...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>videographer claimed to have observed and recorded a UAP destroying an ICBM loaded with a “dummy” warhead, mid-flight. AARO is researchin...</p></details>
+   Link:<a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>videographer claimed to have observed and recorded a UAP destroying an ICBM loaded with a “dummy” warhead, mid-flight. AARO is researchin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=8_VwtvBA4Ho" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8_VwtvBA4Ho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vandenberg AFB Atlas missile launch 1964 records HACL Film 00604 Atlas-Agena D LV-3 351D Vandenberg Air Force Base 4/23/1964 San Diego Ai...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8_VwtvBA4Ho" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8_VwtvBA4Ho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vandenberg AFB Atlas missile launch 1964 records HACL Film 00604 Atlas-Agena D LV-3 351D Vandenberg Air Force Base 4/23/1964 San Diego Ai...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: govinfo.gov  
    Title: GOVPUB D 47a31db71ae01400a977c3b2daa234e6  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D-47a31db71ae01400a977c3b2daa234e6/pdf/GOVPUB-D-47a31db71ae01400a977c3b2daa234e6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D-47a31db71ae01400a977c3b2daa234e6/pdf/GOVPUB-D-47a31db71ae01400a977c3b2daa234e6.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL REPORT 1964For 2 years and 10 months our armed forces under the guidance of President Kennedy developed a striking power, flexibil...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/GOVPUB-D-47a31db71ae01400a977c3b2daa234e6/pdf/GOVPUB-D-47a31db71ae01400a977c3b2daa234e6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D-47a31db71ae01400a977c3b2daa234e6/pdf/GOVPUB-D-47a31db71ae01400a977c3b2daa234e6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL REPORT 1964For 2 years and 10 months our armed forces under the guidance of President Kennedy developed a striking power, flexibil...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.m.wikisource.org  
-   Link: <a href="https://en.m.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://en.m.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>erved and recorded a UAP destroying an ICBM loaded with a &quot;dummy&quot; warhead, mid-flight...</p></details>
+   Link:<a href="https://en.m.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://en.m.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>erved and recorded a UAP destroying an ICBM loaded with a &quot;dummy&quot; warhead, mid-flight...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s it soared over the Pacific Ocean, circled it and shot it down...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s it soared over the Pacific Ocean, circled it and shot it down...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — Additionally, one interviewee and a USAF videographer c...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/306 May 2024 — Additionally, one interviewee and a USAF videographer c...</p></details>
    Published: May 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>historical records, witness testimonies, government reports...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>historical records, witness testimonies, government reports...Read more...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_couple
 
 ## Introduction
 
-Among the non-UFO explanations for the 1967 Minuteman shutdown at Malmstrom Air Force Base, the logic coupler occupies a special place because it provides a specific, documented failure path. Rather than requiring an unknown craft to interfere directly with nuclear missiles, the logic-coupler theory argues that a vulnerable electronic interface inside the missile guidance and control architecture reacted to an unwanted transient signal. Later Air Force technical summaries associated the Echo Flight shutdown with this component and with corrective filtering measures, making the logic coupler one of the most important pieces of evidence in the engineering-based interpretation of the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
+Among the non-UFO explanations for the 1967 Minuteman shutdown at Malmstrom Air Force Base, the logic coupler occupies a special place because it provides a specific, documented failure path. Rather than requiring an unknown craft to interfere directly with nuclear missiles, the logic-coupler theory argues that a vulnerable electronic interface inside the missile guidance and control architecture reacted to an unwanted transient signal. Later Air Force technical summaries associated the Echo Flight shutdown with this component and with corrective filtering measures, making the logic coupler one of the most important pieces of evidence in the engineering-based interpretation of the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-1-dark.svg" | relative_url }}" alt="Logic Coupler illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ The significance of the theory is not that it proves exactly what generated the 
 
 The Minuteman weapon system depended on numerous electronic subsystems exchanging signals reliably under highly controlled conditions. Within that architecture, the logic coupler functioned as an interface element in the guidance and control chain. Its role was to receive, interpret, and pass along electronic signals that were necessary for proper system status and operation.
 
-The component became important in later investigations because engineers reportedly concluded that it could respond incorrectly when exposed to certain forms of electronic noise. In a frequently cited Air Force historical account attributed to missile historian Bernard Nalty, testing conducted by the Air Force and contractors reportedly indicated that an electronic [noise pulse]({{ 'noise-pulse/' | relative_url }}) had shut down the affected missile flight and that the logic coupler in the guidance and control system was the vulnerable element. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
+The component became important in later investigations because engineers reportedly concluded that it could respond incorrectly when exposed to certain forms of electronic noise. In a frequently cited Air Force historical account attributed to missile historian Bernard Nalty, testing conducted by the Air Force and contractors reportedly indicated that an electronic [noise pulse]({{ 'noise-pulse/' | relative_url }}) had shut down the affected missile flight and that the logic coupler in the guidance and control system was the vulnerable element.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
 
 That finding matters because it transforms the mystery from a broad question—“What disabled ten missiles?”—into a narrower engineering question: “What kind of signal could make the logic coupler believe something had happened when it had not?”
 
@@ -305,7 +305,7 @@ Complex systems often fail at interfaces rather than at their most sophisticated
 
 In the logic-coupler explanation, the missiles did not need to suffer catastrophic hardware damage. A transient electrical event merely had to resemble a valid command, fault indication, or status condition closely enough for the interface logic to react. Once that reaction occurred, downstream systems could place the missile into a protective or non-operational state.
 
-This interpretation is consistent with the historical record showing that the missiles entered a “No-Go” condition and were later restored to service rather than being permanently destroyed. The official command history records that all Echo Flight launch facilities lost strategic alert status nearly simultaneously, yet the missiles were eventually returned to operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
+This interpretation is consistent with the historical record showing that the missiles entered a “No-Go” condition and were later restored to service rather than being permanently destroyed. The official command history records that all Echo Flight launch facilities lost strategic alert status nearly simultaneously, yet the missiles were eventually returned to operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-2-dark.svg" | relative_url }}" alt="Logic Coupler illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,7 +315,7 @@ The logic-coupler theory rests on a basic principle of electronics: circuits do 
 
 A sufficiently strong transient signal—whether produced by electromagnetic interference, induced current, switching activity, or another source of electrical noise—can momentarily create conditions that resemble legitimate data. If protective design margins are inadequate, circuitry may interpret noise as information.
 
-In the Malmstrom case, later summaries described tests in which electronic noise was linked to the observed shutdown behaviour. Reports associated with the investigation stated that testing pointed toward the logic coupler as the receiver of the problematic noise pulse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
+In the Malmstrom case, later summaries described tests in which electronic noise was linked to the observed shutdown behaviour. Reports associated with the investigation stated that testing pointed toward the logic coupler as the receiver of the problematic noise pulse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
 
 Several features make this explanation attractive to engineers:
 
@@ -338,215 +338,215 @@ Importantly, the theory does not require a dramatic pulse weapon or a visible ae
 
 The strongest support for the logic-coupler explanation comes not from speculation about the original disturbance but from what engineers reportedly did afterward.
 
-According to later technical accounts, filters were installed to suppress electromagnetic effects after testing identified the vulnerable area. Filters are common engineering solutions when systems are susceptible to noise. Their purpose is to block or attenuate unwanted signals before they reach sensitive electronics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
+According to later technical accounts, filters were installed to suppress electromagnetic effects after testing identified the vulnerable area. Filters are common engineering solutions when systems are susceptible to noise. Their purpose is to block or attenuate unwanted signals before they reach sensitive electronics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
 
 This detail is often overlooked in popular retellings of the Malmstrom story. The installation of filters does not prove the exact origin of the disturbance, but it strongly suggests that investigators believed electromagnetic noise represented a credible threat pathway. Engineers generally modify systems in response to observed vulnerabilities, not in response to unexplained stories.
 
-The filter issue therefore serves as an indirect clue to how the incident was understood internally. If the concern had been a mechanical defect, a software error, or a power-distribution problem, the corrective action would likely have targeted those areas instead. The reported emphasis on electromagnetic suppression points back toward the logic coupler and its susceptibility to transient signals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
+The filter issue therefore serves as an indirect clue to how the incident was understood internally. If the concern had been a mechanical defect, a software error, or a power-distribution problem, the corrective action would likely have targeted those areas instead. The reported emphasis on electromagnetic suppression points back toward the logic coupler and its susceptibility to transient signals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-3-dark.svg" | relative_url }}" alt="Logic Coupler illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Logic-Coupler Theory Explains—and What It Does Not
 
-The logic-coupler explanation addresses a specific technical question: how a flight of Minuteman missiles could abruptly lose alert status through a common electronic failure mode. It provides a mechanism that is consistent with known engineering behaviour and with later references to electronic noise testing and filtering efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
+The logic-coupler explanation addresses a specific technical question: how a flight of Minuteman missiles could abruptly lose alert status through a common electronic failure mode. It provides a mechanism that is consistent with known engineering behaviour and with later references to electronic noise testing and filtering efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
 
 However, the theory does not answer every question surrounding the broader Malmstrom narrative. It does not determine the precise source of the transient signal. It does not settle disputes over witness recollections of unusual aerial objects. Nor does it conclusively identify whether the triggering event arose from routine electromagnetic interference, a test environment, or another electrical phenomenon.
 
-What it does provide is a grounded alternative to extraordinary claims. In the history of the [Malmstrom shutdown]({{ 'malmstrom/' | relative_url }}), the logic coupler remains important because it converts a seemingly mysterious event into a traceable systems-engineering problem: a small interface component that may have interpreted noise as meaningful information and, in doing so, helped take ten nuclear missiles off alert status. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
+What it does provide is a grounded alternative to extraordinary claims. In the history of the [Malmstrom shutdown]({{ 'malmstrom/' | relative_url }}), the logic coupler remains important because it converts a seemingly mysterious event into a traceable systems-engineering problem: a small interface component that may have interpreted noise as meaningful information and, in doing so, helped take ten nuclear missiles off alert status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kwsWAQ9sJZE" title="Proof Of Aliens On Earth // 72 hrs With UFO Whistleblower David Grusch Under Oath (Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kwsWAQ9sJZE" target="_blank" rel="noopener noreferrer">Proof Of Aliens On Earth // 72 hrs With UFO Whistleblower David Grusch Under Oath (Documentary)</a></p><p class="youtube-embed-meta">Channel: Yes Theory &middot; Views: 1.5M &middot; Uploaded: October 2023 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kwsWAQ9sJZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kwsWAQ9sJZE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Small Component Behind a Big Failure. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Small Component Behind a Big Failure. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Covers missile systems, accidents, command-and-control vulnerabilities and the engineering seriousness behind nuclear failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers missile systems, accidents, command-and-control vulnerabilities and the engineering seriousness behind nuclear failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I1o4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Discusses how design vulnerabilities produce failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how design vulnerabilities produce failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows real-world troubleshooting of advanced systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows real-world troubleshooting of advanced systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Includes the Malmstrom shutdown case and technical debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes the Malmstrom shutdown case and technical debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/2b80f8e6158d26c51ae4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/2b80f8e6158d26c51ae4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="logic-coupler-the-small-component-behind-a-big-failure-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ What it does provide is a grounded alternative to extraordinary claims. In the h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ What it does provide is a grounded alternative to extraordinary claims. In the h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ What it does provide is a grounded alternative to extraordinary claims. In the h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ What it does provide is a grounded alternative to extraordinary claims. In the h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ What it does provide is a grounded alternative to extraordinary claims. In the h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,61 +752,61 @@ What it does provide is a grounded alternative to extraordinary claims. In the h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdf14 Jun 2001 — that the e-,3P&#x27; Logic Coupler is the receiver of the noise Pulse irregularities. These tests had 60 percent of the tire...</p></details>
 
 ### Additional References
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: huismanequipment.com  
-   Link: <a href="https://www.huismanequipment.com/nl/media_centre/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.huismanequipment.com/nl/media_centre/articles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ArtikelenAccurate prediction of these high noise levels is essential for designing effective noise-cancelling devices, which mitigate neg...</p></details>
+   Link:<a href="https://www.huismanequipment.com/nl/media_centre/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.huismanequipment.com/nl/media_centre/articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ArtikelenAccurate prediction of these high noise levels is essential for designing effective noise-cancelling devices, which mitigate neg...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flitesim.com  
-   Link: <a href="https://www.flitesim.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flitesim.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CLS-60/120 Force Feedback YokeOur precision-engineered control-loading systems replicate the control forces, resistance, and trim behavio...</p></details>
+   Link:<a href="https://www.flitesim.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flitesim.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CLS-60/120 Force Feedback YokeOur precision-engineered control-loading systems replicate the control forces, resistance, and trim behavio...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: microflown.com  
-   Link: <a href="https://www.microflown.com/resources" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/resources</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesA extensive range of information such as product documentation, application notes, scientific papers, e-books and more are freel...</p></details>
+   Link:<a href="https://www.microflown.com/resources" target="_blank" rel="noopener noreferrer nofollow">https://www.microflown.com/resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesA extensive range of information such as product documentation, application notes, scientific papers, e-books and more are freel...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cFJehKkZOVU&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU&amp;vl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Revisited: The Malmstrom Incident | Episode 6... history of the Malmstrom Air Force Base Incident, where nuclear missiles were myste...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cFJehKkZOVU&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Revisited: The Malmstrom Incident | Episode 6... history of the Malmstrom Air Force Base Incident, where nuclear missiles were myste...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/534155423/Minuteman-Lcc-Pages-From-Select-Manual-1-Thru-265" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/534155423/Minuteman-Lcc-Pages-From-Select-Manual-1-Thru-265</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free. This document is a technical...</p></details>
+   Link:<a href="https://www.scribd.com/document/534155423/Minuteman-Lcc-Pages-From-Select-Manual-1-Thru-265" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/534155423/Minuteman-Lcc-Pages-From-Select-Manual-1-Thru-265</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf), Text File (.txt) or read online for free. This document is a technical...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: meer.com  
    Title: 74766 the malmstrom nuclear ufo incident 1967 returns  
-   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Officers at the base reported to [Salas](&amp;#123;&amp;#123; &#x27;salas/&#x27; | relative_url &amp;#125;&amp;#125;) that they saw a craft that appeared...</p></details>
+   Link:<a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Officers at the base reported to [Salas](&amp;#123;&amp;#123; &#x27;salas/&#x27; | relative_url &amp;#125;&amp;#125;) that they saw a craft that appeared...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: 967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO in...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/active-noise-control-in-light-aircraft-cabin-using-4gi5iu05wa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/active-noise-control-in-light-aircraft-cabin-using-4gi5iu05wa.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Such filters are parts of digital control systems with analog signals...</p></details>
+   Link:<a href="https://scispace.com/pdf/active-noise-control-in-light-aircraft-cabin-using-4gi5iu05wa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/active-noise-control-in-light-aircraft-cabin-using-4gi5iu05wa.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Such filters are parts of digital control systems with analog signals...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42036732/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42036732/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govFENCE: Flexible Electric Noise Reduction Endo-Shield for...by J Pfitzer · 2026 — In this work, we start from the hypothesis that...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/42036732/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42036732/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govFENCE: Flexible Electric Noise Reduction Endo-Shield for...by J Pfitzer · 2026 — In this work, we start from the hypothesis that...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7464715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7464715/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>low-cost gate for ultrasound pulse-echo studiesby LN Langrill · 1980 · Cited by 3 — This note presents a simple circuit utilizing low-cos...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/7464715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7464715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>low-cost gate for ultrasound pulse-echo studiesby LN Langrill · 1980 · Cited by 3 — This note presents a simple circuit utilizing low-cos...</p></details>

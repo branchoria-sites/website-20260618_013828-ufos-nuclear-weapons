@@ -284,7 +284,7 @@ This creates a comparison problem. [Rendlesham]({{ 'rendlesham/' | relative_url 
 
 Rendlesham's prominence comes from the quality and variety of its military documentation rather than from the strength of its nuclear connection.
 
-The incident unfolded over several nights in December 1980 near the twin US Air Force bases of RAF Woodbridge and RAF [Bentwaters]({{ 'bentwaters/' | relative_url }}) in Suffolk. Witnesses included security personnel and, most notably, Deputy Base Commander Lieutenant Colonel Charles Halt, whose memorandum to the Ministry of Defence became one of the most frequently cited official documents in UFO literature. The UK National Archives preserve both the Halt memorandum and related correspondence, giving the case a documentary foundation that many UFO reports lack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+The incident unfolded over several nights in December 1980 near the twin US Air Force bases of RAF Woodbridge and RAF [Bentwaters]({{ 'bentwaters/' | relative_url }}) in Suffolk. Witnesses included security personnel and, most notably, Deputy Base Commander Lieutenant Colonel Charles Halt, whose memorandum to the Ministry of Defence became one of the most frequently cited official documents in UFO literature. The UK National Archives preserve both the Halt memorandum and related correspondence, giving the case a documentary foundation that many UFO reports lack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 Several features make the case unusually resilient:
 
@@ -295,11 +295,11 @@ Several features make the case unusually resilient:
 * Events occurred across more than one night.
 * An official memorandum was written shortly after the events.
 * Audio recordings exist from one of the investigations.
-* The case attracted both British and American official attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[uapglobe.com+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">rendlesham forest</span><span class="citation-popover-snippet">The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
+* The case attracted both British and American official attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[uapglobe.com+2The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">rendlesham forest</span><span class="citation-popover-snippet">The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</span><span class="citation-popover-meta">Published: December 1980</span></span></span>
 
 </div>
 
-Because of this evidential footprint, Rendlesham is often treated as a benchmark military UFO case. Even sceptical analyses generally acknowledge that the incident generated genuine military concern and extensive documentation. The debate focuses on interpretation rather than on whether reports were made at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s position regarding this alleged sightin...</span></span></span>
+Because of this evidential footprint, Rendlesham is often treated as a benchmark military UFO case. Even sceptical analyses generally acknowledge that the incident generated genuine military concern and extensive documentation. The debate focuses on interpretation rather than on whether reports were made at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s position regarding this alleged sightin...</span></span></span>
 
 This prominence can create a misleading impression when Rendlesham is grouped with nuclear-weapon incidents. A case can be exceptionally well documented as a UFO report while still having a weaker evidential link to nuclear operations than other incidents.
 
@@ -310,9 +310,9 @@ This prominence can create a misleading impression when Rendlesham is grouped wi
 
 The nuclear dimension of Rendlesham rests largely on location and context rather than on documented effects involving nuclear weapons.
 
-There is substantial evidence that RAF Bentwaters and RAF Woodbridge were important Cold War NATO facilities and that nuclear weapons were associated with the bases. Parliamentary discussions, historical research and accounts of the bases' weapons-storage infrastructure all indicate that special weapons storage areas existed and that US nuclear weapons were stored there during parts of the Cold War. bcwm.org.uk+3Hansard+3The War Zone <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[hansard.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+There is substantial evidence that RAF Bentwaters and RAF Woodbridge were important Cold War NATO facilities and that nuclear weapons were associated with the bases. Parliamentary discussions, historical research and accounts of the bases' weapons-storage infrastructure all indicate that special weapons storage areas existed and that US nuclear weapons were stored there during parts of the Cold War. bcwm.org.uk+3Hansard+3The War Zone<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[hansard.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-This matters because the sightings occurred adjacent to highly sensitive military installations. Security personnel responding to unusual lights were operating in an environment where protection of restricted assets was a primary responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wonderfulmuseums.com/museum/cold-war-museum-suffolk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wonderfulmuseums.com">[Wonderful Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wonderfulmuseums.com</span><span class="citation-popover-snippet">Wonderful MuseumsCold War Museum Suffolk: Unearthing Britain&#x27;s Secret Role...28 Aug 2025 — Their role was critical in protecting sensiti...</span></span></span>
+This matters because the sightings occurred adjacent to highly sensitive military installations. Security personnel responding to unusual lights were operating in an environment where protection of restricted assets was a primary responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wonderfulmuseums.com/museum/cold-war-museum-suffolk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wonderfulmuseums.com">[Wonderful Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wonderfulmuseums.com</span><span class="citation-popover-snippet">Wonderful MuseumsCold War Museum Suffolk: Unearthing Britain&#x27;s Secret Role...28 Aug 2025 — Their role was critical in protecting sensiti...</span></span></span>
 
 However, the evidential chain becomes weaker when moving from "near a nuclear-related base" to "related to nuclear weapons themselves".
 
@@ -324,7 +324,7 @@ Several commonly repeated claims are not supported by the same level of document
 * No publicly released record demonstrates that nuclear weapons were tampered with during the incident.
 * No confirmed launch-control malfunction is associated with the event.
 * No declassified document shows a direct connection between the observed lights and a nuclear-weapons system.
-* Official records focus primarily on unexplained lights and observations rather than weapons interference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+* Official records focus primarily on unexplained lights and observations rather than weapons interference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 </div>
 
@@ -355,9 +355,9 @@ In practical terms, Rendlesham is strongest as a military-witness UFO case and w
 
 The enduring debate stems from the fact that both sides can point to real evidence.
 
-Researchers who favour a nuclear-UFO interpretation note that the incident occurred near installations associated with nuclear weapons and that witnesses believed the area was strategically important. They argue that this context makes the nuclear dimension impossible to dismiss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2Times of Malta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos near nuclear facilities uss roosevelt rendlesham</span><span class="citation-popover-snippet">Why Have There Been So Many UFO Sightings Near...21 Jun 2019 — Nuclear-adjacent sightings go back decades, says Robert Hastings...</span></span></span>
+Researchers who favour a nuclear-UFO interpretation note that the incident occurred near installations associated with nuclear weapons and that witnesses believed the area was strategically important. They argue that this context makes the nuclear dimension impossible to dismiss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2Times of Malta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos near nuclear facilities uss roosevelt rendlesham</span><span class="citation-popover-snippet">Why Have There Been So Many UFO Sightings Near...21 Jun 2019 — Nuclear-adjacent sightings go back decades, says Robert Hastings...</span></span></span>
 
-Critics respond that the nuclear connection is often amplified by later narratives. They note that the core contemporary records describe observations of lights and unexplained phenomena rather than interference with weapons. From this perspective, the existence of nearby nuclear assets does not automatically transform the event into a nuclear-weapons incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s position regarding this alleged sightin...</span></span></span>
+Critics respond that the nuclear connection is often amplified by later narratives. They note that the core contemporary records describe observations of lights and unexplained phenomena rather than interference with weapons. From this perspective, the existence of nearby nuclear assets does not automatically transform the event into a nuclear-weapons incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Rendlesham Forest/Raf Bentwaters Incident</span><span class="citation-popover-snippet">Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s position regarding this alleged sightin...</span></span></span>
 
 Both observations can be true simultaneously. The nuclear setting is historically relevant, but the strongest evidence does not demonstrate a direct effect on nuclear weapons.
 
@@ -368,7 +368,7 @@ Both observations can be true simultaneously. The nuclear setting is historicall
 
 Rendlesham demonstrates why nuclear-UFO cases should not be treated as a single category with uniform evidential strength.
 
-As a military UFO case, it remains one of the most significant and heavily documented incidents on record. As a nuclear-weapons case, however, it is largely circumstantial: the sightings occurred near bases connected with nuclear storage, but the available evidence does not establish the kind of direct weapons-system involvement alleged in some missile-field narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2uapglobe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
+As a military UFO case, it remains one of the most significant and heavily documented incidents on record. As a nuclear-weapons case, however, it is largely circumstantial: the sightings occurred near bases connected with nuclear storage, but the available evidence does not establish the kind of direct weapons-system involvement alleged in some missile-field narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives+2uapglobe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</span></span></span>
 
 For comparative analysis, Rendlesham therefore occupies an intermediate position. It is more than a generic UFO sighting because of the military witnesses and sensitive Cold War setting. Yet it falls short of being a clear example of documented interaction with nuclear weapons. That tension—between a strong UFO record and a weaker nuclear record—is precisely what makes Rendlesham difficult to compare with other cases in the nuclear-UFO literature.
 
@@ -376,178 +376,178 @@ For comparative analysis, Rendlesham therefore occupies an intermediate position
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_rendlesham_compariso_3f462f-Illustration-3-dark.svg" | relative_url }}" alt="Rendlesham Fit illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_rendlesham_compariso_3f462f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_rendlesham_compariso_3f462f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Rendlesham Is Hard to Compare. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Rendlesham Is Hard to Compare. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Direct treatment of the Rendlesham incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Direct treatment of the Rendlesham incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
-        </h4>
-        <p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Can&#x27;t Tell the People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zykTEGeffiIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Can&#x27;t Tell the People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Can&#x27;t Tell the People">You Can&#x27;t Tell the People</a>
+</h4>
+<p class="fr-book-author">By Georgina Bruni, Nick Pope</p>
         
-        <p class="fr-book-desc">Explores witnesses and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witnesses and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People+by+Georgina+Bruni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places military UFO cases in a wider framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places military UFO cases in a wider framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Provides nuclear-context comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides nuclear-context comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+Can%27t+Tell+the+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You Can&#x27;t Tell the People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="rendlesham-fit-why-rendlesham-is-hard-to-compare-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ For comparative analysis, Rendlesham therefore occupies an intermediate position
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ For comparative analysis, Rendlesham therefore occupies an intermediate position
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ For comparative analysis, Rendlesham therefore occupies an intermediate position
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ For comparative analysis, Rendlesham therefore occupies an intermediate position
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ For comparative analysis, Rendlesham therefore occupies an intermediate position
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,124 +753,124 @@ For comparative analysis, Rendlesham therefore occupies an intermediate position
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident (26 December 1980)Rendlesham Forest is often called &quot;Britain&#x27;s Roswell,&quot; and it is the rare UFO case backe...</p></details>
    Published: December 1980  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bcwm.org.uk  
-   Link: <a href="https://bcwm.org.uk/museum/bentwaters/" target="_blank" rel="noopener noreferrer nofollow">https://bcwm.org.uk/museum/bentwaters/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters HistoryThe 79th&#x27;s 25 F-84Gs had relocated from RAF Woodbridge whilst the construction of a weapon storage facility at that...</p></details>
+   Link:<a href="https://bcwm.org.uk/museum/bentwaters/" target="_blank" rel="noopener noreferrer nofollow">https://bcwm.org.uk/museum/bentwaters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters HistoryThe 79th&#x27;s 25 F-84Gs had relocated from RAF Woodbridge whilst the construction of a weapon storage facility at that...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: ufos near nuclear facilities uss roosevelt rendlesham  
-   Link: <a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Have There Been So Many UFO Sightings Near...21 Jun 2019 — Nuclear-adjacent sightings go back decades, says Robert Hastings...</p></details>
+   Link:<a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Have There Been So Many UFO Sightings Near...21 Jun 2019 — Nuclear-adjacent sightings go back decades, says Robert Hastings...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on U...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
    Title: Hansard Rendlesham Forest/Raf Bentwaters Incident  
-   Link: <a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s position regarding this alleged sightin...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2001-01-30/debates/4bcdf841-b549-4781-a109-2e719ed75514/RendleshamForestRafBentwatersIncident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest/Raf Bentwaters Incident - Hansard30 Jan 2001 — The Ministry of Defence&#x27;s position regarding this alleged sightin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: Raf Bentwaters And Woodbridg Nuclear Weapons Allegations  
-   Link: <a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters Has This Bizarre-Looking Cold...11 Jun 2020 — The nukes were stored on base in a special bomb store called the WSA, Weapo...</p></details>
+   Link:<a href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters Has This Bizarre-Looking Cold...11 Jun 2020 — The nukes were stored on base in a special bomb store called the WSA, Weapo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wonderfulmuseums.com  
-   Link: <a href="https://www.wonderfulmuseums.com/museum/cold-war-museum-suffolk/" target="_blank" rel="noopener noreferrer nofollow">https://www.wonderfulmuseums.com/museum/cold-war-museum-suffolk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wonderful MuseumsCold War Museum Suffolk: Unearthing Britain&#x27;s Secret Role...28 Aug 2025 — Their role was critical in protecting sensiti...</p></details>
+   Link:<a href="https://www.wonderfulmuseums.com/museum/cold-war-museum-suffolk/" target="_blank" rel="noopener noreferrer nofollow">https://www.wonderfulmuseums.com/museum/cold-war-museum-suffolk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wonderful MuseumsCold War Museum Suffolk: Unearthing Britain&#x27;s Secret Role...28 Aug 2025 — Their role was critical in protecting sensiti...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: timesofmalta.com  
    Title: aliens interfered with nuclear weapons.328884  
-   Link: <a href="https://timesofmalta.com/article/aliens-interfered-with-nuclear-weapons.328884" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/aliens-interfered-with-nuclear-weapons.328884</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens &#x27;interfered with nuclear weapons&#x27;28 Sept 2010 — The Rendlesham Forest incident, often described as Britain&#x27;s Roswell was used as o...</p></details>
+   Link:<a href="https://timesofmalta.com/article/aliens-interfered-with-nuclear-weapons.328884" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/aliens-interfered-with-nuclear-weapons.328884</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens &#x27;interfered with nuclear weapons&#x27;28 Sept 2010 — The Rendlesham Forest incident, often described as Britain&#x27;s Roswell was used as o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incidentThe Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Fore...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOoppqzJqWQgDQ-Lo-9Xv9HWVhQmXbRjSE_SJFVOXKAhZVcqiUd__" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOoppqzJqWQgDQ-Lo-9Xv9HWVhQmXbRjSE_SJFVOXKAhZVcqiUd__</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s RoswellNuclear facilities, trained military witnesses, and physical evidence make the Rendlesham Fo...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOoppqzJqWQgDQ-Lo-9Xv9HWVhQmXbRjSE_SJFVOXKAhZVcqiUd__" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/rendlesham-forest-incident?srsltid=AfmBOoppqzJqWQgDQ-Lo-9Xv9HWVhQmXbRjSE_SJFVOXKAhZVcqiUd__</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest Incident: Britain&#x27;s RoswellNuclear facilities, trained military witnesses, and physical evidence make the Rendlesham Fo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/uk/home-news/former-air-force-colonel-claims-he-has-new-evidence-that-aliens-visited-rendlesham-forest-in-suffolk-in-1980-10388608.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/former-air-force-colonel-claims-he-has-new-evidence-that-aliens-visited-rendlesham-forest-in-suffolk-in-1980-10388608.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force Colonel claims he has new evidence that...15 Jul 2015 — A former United States Air Force Colonel claims he has obtained...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/home-news/former-air-force-colonel-claims-he-has-new-evidence-that-aliens-visited-rendlesham-forest-in-suffolk-in-1980-10388608.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/home-news/former-air-force-colonel-claims-he-has-new-evidence-that-aliens-visited-rendlesham-forest-in-suffolk-in-1980-10388608.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force Colonel claims he has new evidence that...15 Jul 2015 — A former United States Air Force Colonel claims he has obtained...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukairfields/posts/raf-bentwaters-weapons-storage-area/995496368674833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukairfields/posts/raf-bentwaters-weapons-storage-area/995496368674833/</a>  
+   Link:<a href="https://www.facebook.com/ukairfields/posts/raf-bentwaters-weapons-storage-area/995496368674833/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukairfields/posts/raf-bentwaters-weapons-storage-area/995496368674833/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF BentwatersFor many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/RAF_Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RAF_Bentwaters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF BentwatersFor many years the 81st Fighter Wing also operated RAF Woodbridge, with Bentwaters and Woodbridge airfields being known...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: secretprojects.co.uk  
-   Link: <a href="https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-bentwaters-woodbridge.36227/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-bentwaters-woodbridge.36227/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO incident RAF Bentwaters...25 Dec 2020 — 26th rendlesham forest incident between [Twin bases](&amp;#123;&amp;#123; &#x27;twin-bases/&#x27; | relative_url &amp;#125;&amp;#125;) of RAF Woodbridge (home...</p></details>
+   Link:<a href="https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-bentwaters-woodbridge.36227/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/40-years-ago-today-rendlesham-forest-ufo-incident-raf-bentwaters-woodbridge.36227/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO incident RAF Bentwaters...25 Dec 2020 — 26th rendlesham forest incident between [Twin bases](&amp;#123;&amp;#123; &#x27;twin-bases/&#x27; | relative_url &amp;#125;&amp;#125;) of RAF Woodbridge (home...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q-WCEtWU6uY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q-WCEtWU6uY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classified Documents Found in Abandoned BaseToday we explore a site near the former base forgotten by many yet steeped in layers of histo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q-WCEtWU6uY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q-WCEtWU6uY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classified Documents Found in Abandoned BaseToday we explore a site near the former base forgotten by many yet steeped in layers of histo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: foxnews.com  
    Title: aliens are monitoring our nukes worry ex air force officers.print  
-   Link: <a href="https://www.foxnews.com/science/aliens-are-monitoring-our-nukes-worry-ex-air-force-officers.print" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/aliens-are-monitoring-our-nukes-worry-ex-air-force-officers.print</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters airbase in England and heard on the radio that they landed in the nuclear weapons storage area. Both men claim the Air For...</p></details>
+   Link:<a href="https://www.foxnews.com/science/aliens-are-monitoring-our-nukes-worry-ex-air-force-officers.print" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/aliens-are-monitoring-our-nukes-worry-ex-air-force-officers.print</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters airbase in England and heard on the radio that they landed in the nuclear weapons storage area. Both men claim the Air For...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: declassifieduk.org  
    Title: the inside story of how america sent nuclear weapons to britain  
-   Link: <a href="https://www.declassifieduk.org/the-inside-story-of-how-america-sent-nuclear-weapons-to-britain/" target="_blank" rel="noopener noreferrer nofollow">https://www.declassifieduk.org/the-inside-story-of-how-america-sent-nuclear-weapons-to-britain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The inside story of how America sent nuclear weapons to...22 Jul 2025 — American nuclear weapons with three times the power of the Hiros...</p></details>
+   Link:<a href="https://www.declassifieduk.org/the-inside-story-of-how-america-sent-nuclear-weapons-to-britain/" target="_blank" rel="noopener noreferrer nofollow">https://www.declassifieduk.org/the-inside-story-of-how-america-sent-nuclear-weapons-to-britain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The inside story of how America sent nuclear weapons to...22 Jul 2025 — American nuclear weapons with three times the power of the Hiros...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16puds8/the_rendlesham_ufo_encounter_and_the_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16puds8/the_rendlesham_ufo_encounter_and_the_alien/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This story is a great example if why UFO documentaries should never be trusted.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16puds8/the_rendlesham_ufo_encounter_and_the_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16puds8/the_rendlesham_ufo_encounter_and_the_alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This story is a great example if why UFO documentaries should never be trusted.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: envisioning.com  
    Title: Nuclear Weapons Systems Interference | Xenotech  
-   Link: <a href="https://www.envisioning.com/research/xenotech/nuclear-weapons-interference" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/nuclear-weapons-interference</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters/Woodbridge (1980)—UAP activity near nuclear weapons storage areas with reported interference with base systems; Soviet fac...</p></details>
+   Link:<a href="https://www.envisioning.com/research/xenotech/nuclear-weapons-interference" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/nuclear-weapons-interference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Bentwaters/Woodbridge (1980)—UAP activity near nuclear weapons storage areas with reported interference with base systems; Soviet fac...</p></details>

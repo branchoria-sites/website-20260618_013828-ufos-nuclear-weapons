@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-reporting/
 description: Focused pages that expand on Reporting.
-date: '2026-06-17'
+date: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79
 parent_title: Reporting
@@ -16,7 +16,7 @@ parent_permalink: /reporting/
 
 # Explore Topics in Reporting
 
-The following pages expand on the main **[Reporting]({{ '/reporting/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Reporting]({{ '/reporting/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book gap]({{ '/blue-book-gap/' | relative_url }})
 - [Four hour rule]({{ '/four-hour-rule/' | relative_url }})

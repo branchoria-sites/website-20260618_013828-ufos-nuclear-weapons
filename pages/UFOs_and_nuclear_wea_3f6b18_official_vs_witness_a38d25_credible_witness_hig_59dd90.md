@@ -278,13 +278,13 @@ In debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | rel
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_credible_witness_hig_59dd90-Illustration-1-dark.svg" | relative_url }}" alt="Witness Bar illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_credible_witness_hig_59dd90-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_credible_witness_hig_59dd90-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key issue is not whether these witnesses are honest. It is what their testimony can establish. A credible observer can accurately report seeing an unusual object, a security alert or a missile malfunction. Demonstrating that those events were causally connected is a separate evidentiary challenge. That distinction explains why respected military witnesses may be taken seriously while their broader conclusions remain unproven in official assessments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</span></span></span>
+The key issue is not whether these witnesses are honest. It is what their testimony can establish. A credible observer can accurately report seeing an unusual object, a security alert or a missile malfunction. Demonstrating that those events were causally connected is a separate evidentiary challenge. That distinction explains why respected military witnesses may be taken seriously while their broader conclusions remain unproven in official assessments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</span></span></span>
 
 ## Why nuclear-duty credibility matters
 
 Personnel assigned to nuclear forces are generally selected, trained and monitored to high standards. Their responsibilities involve strict procedures, detailed record-keeping and constant attention to operational anomalies. When such individuals report unusual events, investigators cannot easily dismiss them as uninformed or careless observers.
 
-This credibility has helped keep several nuclear-UFO incidents in public discussion for decades. Former missile officers and security personnel from sites such as Malmstrom Air Force Base have argued that unusual aerial observations occurred near strategic weapons systems and deserve continued scrutiny. Their accounts have attracted attention precisely because they come from people who worked inside highly regulated military environments rather than from casual civilian sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+This credibility has helped keep several nuclear-UFO incidents in public discussion for decades. Former missile officers and security personnel from sites such as Malmstrom Air Force Base have argued that unusual aerial observations occurred near strategic weapons systems and deserve continued scrutiny. Their accounts have attracted attention precisely because they come from people who worked inside highly regulated military environments rather than from casual civilian sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
 Credibility, however, is not the same as proof. Military service can strengthen confidence that a witness reported what they believed they observed. It does not automatically establish the nature of the object observed, nor does it prove a connection between that observation and a separate technical event.
 
@@ -301,7 +301,7 @@ A witness may reliably recall:
 
 The more difficult claim is that one caused the other.
 
-Human memory is not a recording device. Research on eyewitness evidence shows that even sincere and attentive observers can misjudge distance, speed, timing and sequence, especially during stressful or unusual events. Over years or decades, recollections can also become influenced by subsequent discussions, media coverage or the search for explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy eyewitnesses fail</span><span class="citation-popover-snippet">NIHby TD Albright · 2017 · Cited by 136 — Eyewitness identifications play an important role in the investigation and prosecution of...</span></span></span>
+Human memory is not a recording device. Research on eyewitness evidence shows that even sincere and attentive observers can misjudge distance, speed, timing and sequence, especially during stressful or unusual events. Over years or decades, recollections can also become influenced by subsequent discussions, media coverage or the search for explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy eyewitnesses fail</span><span class="citation-popover-snippet">NIHby TD Albright · 2017 · Cited by 136 — Eyewitness identifications play an important role in the investigation and prosecution of...</span></span></span>
 
 This problem becomes especially important in classified military settings. Personnel often see only part of an event. A security guard may know what was observed outside a facility but not the engineering analysis of a missile fault. A launch officer may understand the malfunction but not all security reports from surrounding locations. When later accounts attempt to combine separate fragments into a single narrative, uncertainty increases.
 
@@ -319,7 +319,7 @@ Many witness accounts contain two distinct claims:
 
 The first claim may be well supported. The second often requires additional evidence.
 
-The distinction can be seen in the long-running debate over the 1967 Malmstrom missile shutdown. Declassified Air Force records confirm that multiple missiles in Echo Flight lost alert status nearly simultaneously. However, the same historical record stated that rumours of UFO activity associated with the malfunction were investigated and considered disproven. Supporters of the UFO interpretation argue that witness testimony points to a connection, while official records did not reach that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The distinction can be seen in the long-running debate over the 1967 Malmstrom missile shutdown. Declassified Air Force records confirm that multiple missiles in Echo Flight lost alert status nearly simultaneously. However, the same historical record stated that rumours of UFO activity associated with the malfunction were investigated and considered disproven. Supporters of the UFO interpretation argue that witness testimony points to a connection, while official records did not reach that conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 The dispute therefore centres less on whether personnel experienced a real operational event and more on whether available evidence demonstrates a UFO-related cause.
 
@@ -346,7 +346,7 @@ Examples of [corroboration]({{ 'corroboration/' | relative_url }}) include:
 
 When several forms of evidence converge, investigators can test competing explanations rather than relying primarily on recollection.
 
-This emphasis on corroboration explains the methodology used by modern government UAP investigations. The Pentagon's All-domain Anomaly Resolution Office (AARO) repeatedly describes its approach as data-driven and focused on measurable evidence. Cases with insufficient supporting data often remain [unresolved]({{ 'unresolved/' | relative_url }}) rather than being accepted as proof of extraordinary claims. Recent official statements note that many reports cannot be fully analysed because critical sensor information is missing or incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</span></span></span>
+This emphasis on corroboration explains the methodology used by modern government UAP investigations. The Pentagon's All-domain Anomaly Resolution Office (AARO) repeatedly describes its approach as data-driven and focused on measurable evidence. Cases with insufficient supporting data often remain [unresolved]({{ 'unresolved/' | relative_url }}) rather than being accepted as proof of extraordinary claims. Recent official statements note that many reports cannot be fully analysed because critical sensor information is missing or incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</span></span></span>
 
 From an intelligence perspective, unresolved does not automatically mean extraordinary. It often means that investigators lack enough information to make a reliable determination.
 
@@ -381,7 +381,7 @@ Investigators may ask:
 
 These questions overlap but are not identical.
 
-As a result, a witness can be entirely sincere in believing that an [unidentified]({{ 'unidentified/' | relative_url }}) object affected a nuclear installation, while an official investigation can conclude that the available evidence does not establish that connection. Both positions may arise from the same underlying event but apply different standards of proof. This tension appears repeatedly in modern UAP debates, where highly credentialed military personnel have offered striking testimony while investigators and scientists continue to argue that testimony alone cannot establish extraordinary conclusions without supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University+2Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">ufo news government cover up</span><span class="citation-popover-snippet">Thus far, whenever there is an extraordinary claim, there is insufficient evidence to support it.Read more...</span></span></span>
+As a result, a witness can be entirely sincere in believing that an [unidentified]({{ 'unidentified/' | relative_url }}) object affected a nuclear installation, while an official investigation can conclude that the available evidence does not establish that connection. Both positions may arise from the same underlying event but apply different standards of proof. This tension appears repeatedly in modern UAP debates, where highly credentialed military personnel have offered striking testimony while investigators and scientists continue to argue that testimony alone cannot establish extraordinary conclusions without supporting evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University+2Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">ufo news government cover up</span><span class="citation-popover-snippet">Thus far, whenever there is an extraordinary claim, there is insufficient evidence to support it.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_credible_witness_hig_59dd90-Illustration-3-dark.svg" | relative_url }}" alt="Witness Bar illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_credible_witness_hig_59dd90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_credible_witness_hig_59dd90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -398,194 +398,194 @@ This is why trusted military witnesses remain central to the UFO-and-nuclear-wea
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why trusted witnesses are not enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why trusted witnesses are not enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how trusted testimony is evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how trusted testimony is evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Profiles insiders whose claims remain debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles insiders whose claims remain debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains strengths and weaknesses of witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains strengths and weaknesses of witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Relies heavily on military witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relies heavily on military witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle"><img src="{{ '/assets/images/marketplace-covers/7eda67145211cbee5179.jpg' | relative_url }}" alt="Listing image for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle"><img src="{{ '/assets/images/marketplace-covers/7eda67145211cbee5179.jpg' | relative_url }}" alt="Listing image for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin USFOR Afghanistan United States Armed Forces"><img src="{{ '/assets/images/marketplace-covers/f35832bcbf407aded81c.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin USFOR Afghanistan United States Armed Forces" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin USFOR Afghanistan United States Armed Forces</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin USFOR Afghanistan United States Armed Forces"><img src="{{ '/assets/images/marketplace-covers/f35832bcbf407aded81c.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin USFOR Afghanistan United States Armed Forces" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin USFOR Afghanistan United States Armed Forces</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;"><img src="{{ '/assets/images/marketplace-covers/9772cafe0ca632d034ba.jpg' | relative_url }}" alt="Listing image for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;"><img src="{{ '/assets/images/marketplace-covers/9772cafe0ca632d034ba.jpg' | relative_url }}" alt="Listing image for SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">SPIRITUAL/MILITARY CHALLENGE COIN &quot;A KNIGHT&#x27;S COURAGE&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Character Development Program Military Challenge Coin Courage Citizenship"><img src="{{ '/assets/images/marketplace-covers/e83a503f79def00c0db0.jpg' | relative_url }}" alt="Listing image for Character Development Program Military Challenge Coin Courage Citizenship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Character Development Program Military Challenge Coin Courage Citizenship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Character Development Program Military Challenge Coin Courage Citizenship"><img src="{{ '/assets/images/marketplace-covers/e83a503f79def00c0db0.jpg' | relative_url }}" alt="Listing image for Character Development Program Military Challenge Coin Courage Citizenship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Character Development Program Military Challenge Coin Courage Citizenship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="witness-bar-why-trusted-witnesses-are-not-enough-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ This is why trusted military witnesses remain central to the UFO-and-nuclear-wea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ This is why trusted military witnesses remain central to the UFO-and-nuclear-wea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ This is why trusted military witnesses remain central to the UFO-and-nuclear-wea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ This is why trusted military witnesses remain central to the UFO-and-nuclear-wea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ This is why trusted military witnesses remain central to the UFO-and-nuclear-wea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,117 +791,117 @@ This is why trusted military witnesses remain central to the UFO-and-nuclear-wea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Nexus of Proponents of the USG UAP Reverse-Engineering Allegation. AARO found no empirical ev...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — Nexus of Proponents of the USG UAP Reverse-Engineering Allegation. AARO found no empirical ev...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy eyewitnesses fail  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby TD Albright · 2017 · Cited by 136 — Eyewitness identifications play an important role in the investigation and prosecution of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby TD Albright · 2017 · Cited by 136 — Eyewitness identifications play an important role in the investigation and prosecution of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: defensescoop.com  
    Title: hegseth ufo disclosure trump aaro uap caseload  
-   Link: <a href="https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has been examining over 2,000 UAP cases.” “AARO has approximately 1,000 reports that lack sufficient data for analysis and are retai...</p></details>
+   Link:<a href="https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has been examining over 2,000 UAP cases.” “AARO has approximately 1,000 reports that lack sufficient data for analysis and are retai...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: defensescoop.com  
    Title: uap aaro jon kosloski testify senate armed services subcommittee  
-   Link: <a href="https://defensescoop.com/2024/11/18/uap-aaro-jon-kosloski-testify-senate-armed-services-subcommittee/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/18/uap-aaro-jon-kosloski-testify-senate-armed-services-subcommittee/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Head of Pentagon&#x27;s UAP office to testify to Senate Armed...18 Nov 2024 — AARO leader Jon Kosloski told DefenseScoop and other reporters...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/18/uap-aaro-jon-kosloski-testify-senate-armed-services-subcommittee/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/18/uap-aaro-jon-kosloski-testify-senate-armed-services-subcommittee/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Head of Pentagon&#x27;s UAP office to testify to Senate Armed...18 Nov 2024 — AARO leader Jon Kosloski told DefenseScoop and other reporters...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defensescoop.com  
    Title: military whistleblowers share new evidence alleged uap ufo hearing  
-   Link: <a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military whistleblowers share new evidence of alleged UAP...9 Sept 2025 — The panel of witnesses who testified on Tuesday shed new light...</p></details>
+   Link:<a href="https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military whistleblowers share new evidence of alleged UAP...9 Sept 2025 — The panel of witnesses who testified on Tuesday shed new light...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bu.edu  
    Title: ufo news government cover up  
-   Link: <a href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/articles/2025/ufo-news-government-cover-up/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thus far, whenever there is an extraordinary claim, there is insufficient evidence to support it.Read more...</p></details>
+   Link:<a href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/articles/2025/ufo-news-government-cover-up/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thus far, whenever there is an extraordinary claim, there is insufficient evidence to support it.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: teenvogue.com  
-   Link: <a href="https://www.teenvogue.com/story/house-ufo-hearing-military-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/house-ufo-hearing-military-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three witnesses, former Navy pilots Ryan Graves and David Fravor, along with ex-intelligence official Dave Grusch, provided testimony. Gr...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/house-ufo-hearing-military-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/house-ufo-hearing-military-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three witnesses, former Navy pilots Ryan Graves and David Fravor, along with ex-intelligence official Dave Grusch, provided testimony. Gr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — Nexus of Proponents of the USG UAP Reverse-Engineering Allegation. AARO found no empirical...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — Nexus of Proponents of the USG UAP Reverse-Engineering Allegation. AARO found no empirical...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of Science, BostonBottom line: The study team found no evidence that reported UAP observations are extraterrestrial. I&#x27;m a profess...</p></details>
+   Link:<a href="https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of Science, BostonBottom line: The study team found no evidence that reported UAP observations are extraterrestrial. I&#x27;m a profess...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom EffectHow one of the most well-documented UFO cases has been forgotten. Press enter or click to view image in full size.Rea...</p></details>
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom EffectHow one of the most well-documented UFO cases has been forgotten. Press enter or click to view image in full size.Rea...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/posts/us-releases-second-batch-of-government-declassified-ufo-filesclick-the-link-in-t/1554915613165832/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/us-releases-second-batch-of-government-declassified-ufo-filesclick-the-link-in-t/1554915613165832/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US releases second batch of government declassified UFO...Among the most discussed cases are unexplained objects witnessed by Apollo ast...</p></details>
+   Link:<a href="https://www.facebook.com/Reuters/posts/us-releases-second-batch-of-government-declassified-ufo-filesclick-the-link-in-t/1554915613165832/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/us-releases-second-batch-of-government-declassified-ufo-filesclick-the-link-in-t/1554915613165832/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US releases second batch of government declassified UFO...Among the most discussed cases are unexplained objects witnessed by Apollo ast...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP witnesses criticize Pentagon UFO office in...13 Sept 2025 — Witnesses and whistleblowers testified that the U.S. government knows mo...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/uap-witnesses-criticize-pentagon-ufo-office-in-congressional-hearing-for-using-science-and-coming-up-with-answers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP witnesses criticize Pentagon UFO office in...13 Sept 2025 — Witnesses and whistleblowers testified that the U.S. government knows mo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity. AARO has...Read more...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity. AARO has...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The AARO report points out that UAP sightings and beliefs tha...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The AARO report points out that UAP sightings and beliefs tha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wrap Up: Government Must Be More Transparent...9 Sept 2025 — Sailors need to know that [reporting](&amp;#123;&amp;#123; &#x27;reporting/&#x27; | relative_url &amp;#125;&amp;#125;) UAP encounters will not harm their careers...</p></details>
+   Link:<a href="https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wrap Up: Government Must Be More Transparent...9 Sept 2025 — Sailors need to know that [reporting](&amp;#123;&amp;#123; &#x27;reporting/&#x27; | relative_url &amp;#125;&amp;#125;) UAP encounters will not harm their careers...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>third kind: “abductees” (sometimes called close encounters of the fourth kind)...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>third kind: “abductees” (sometimes called close encounters of the fourth kind)...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: Robert Powell's takedown analysis of the AARO report  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reported that the DOD was developing the capability to help personnel collect real-time UAP data in the field with automated s...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reported that the DOD was developing the capability to help personnel collect real-time UAP data in the field with automated s...</p></details>

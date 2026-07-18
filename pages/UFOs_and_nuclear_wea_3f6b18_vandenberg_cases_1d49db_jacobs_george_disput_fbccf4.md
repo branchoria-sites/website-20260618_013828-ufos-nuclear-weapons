@@ -280,28 +280,28 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs
 
 ## Introduction
 
-The dispute between Robert Jacobs and Kingston George sits at the heart of the Vandenberg missile-film controversy. Both men were connected to the same 1964 missile-tracking project, both said they viewed sensitive footage, and both claimed that key details were hidden from most personnel. Yet their interpretations could hardly be more different. Jacobs later argued that the film showed an [unidentified]({{ 'unidentified/' | relative_url }}) flying object manoeuvring around a dummy nuclear warhead and disabling it with beams of light. George, the project engineer, insisted that the footage captured classified missile-defence countermeasures—[decoys]({{ 'decoys/' | relative_url }}), chaff and related hardware—and that Jacobs misunderstood what he had seen because he lacked access to the full programme. The disagreement is important because the original film has never been publicly released, leaving the case dependent largely on witness testimony and competing reconstructions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+The dispute between Robert Jacobs and Kingston George sits at the heart of the Vandenberg missile-film controversy. Both men were connected to the same 1964 missile-tracking project, both said they viewed sensitive footage, and both claimed that key details were hidden from most personnel. Yet their interpretations could hardly be more different. Jacobs later argued that the film showed an [unidentified]({{ 'unidentified/' | relative_url }}) flying object manoeuvring around a dummy nuclear warhead and disabling it with beams of light. George, the project engineer, insisted that the footage captured classified missile-defence countermeasures—[decoys]({{ 'decoys/' | relative_url }}), chaff and related hardware—and that Jacobs misunderstood what he had seen because he lacked access to the full programme. The disagreement is important because the original film has never been publicly released, leaving the case dependent largely on witness testimony and competing reconstructions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-1-dark.svg" | relative_url }}" alt="Jacobs vs George illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Jacobs said the film showed
 
-Robert Jacobs was a US Air Force lieutenant who supervised a photographic instrumentation team assigned to film missile tests from a mountain location near Big Sur. Years after the event, he publicly claimed that one of the films revealed a startling sequence involving a missile's re-entry vehicle. According to Jacobs, a disc-shaped object entered the frame, circled the warhead and emitted several flashes or beams directed at it. He maintained that the warhead subsequently deviated from its intended course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+Robert Jacobs was a US Air Force lieutenant who supervised a photographic instrumentation team assigned to film missile tests from a mountain location near Big Sur. Years after the event, he publicly claimed that one of the films revealed a startling sequence involving a missile's re-entry vehicle. According to Jacobs, a disc-shaped object entered the frame, circled the warhead and emitted several flashes or beams directed at it. He maintained that the warhead subsequently deviated from its intended course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
-A central feature of Jacobs' account is what allegedly happened after the film was developed. He said he was summoned to a screening where senior personnel reviewed the footage and expressed surprise at what appeared on the film. He later argued that the recording was confiscated and effectively disappeared into classified channels. Over time, Jacobs presented the incident as evidence that an intelligently controlled craft had interfered with a strategic weapons test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+A central feature of Jacobs' account is what allegedly happened after the film was developed. He said he was summoned to a screening where senior personnel reviewed the footage and expressed surprise at what appeared on the film. He later argued that the recording was confiscated and effectively disappeared into classified channels. Over time, Jacobs presented the incident as evidence that an intelligently controlled craft had interfered with a strategic weapons test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
-Supporters of Jacobs often point to statements attributed to Major Florenz Mansmann, an officer associated with the project, who later indicated that unusual imagery had indeed appeared on the film. Critics, however, note that [corroboration]({{ 'corroboration/' | relative_url }}) of the specific "UFO attack" interpretation is far weaker than confirmation that a classified review of missile footage took place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[cufos.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">They note that, at least officially, UFO investigations</span><span class="citation-popover-snippet">ANOTHER LOOK AT THE BIG SUR INCIDENTMarch 28, 2007 — by R HASTINGS · Cited by 1 — These persons contend that the agency had only a periph...</span><span class="citation-popover-meta">Published: March 28, 2007</span></span></span>
+Supporters of Jacobs often point to statements attributed to Major Florenz Mansmann, an officer associated with the project, who later indicated that unusual imagery had indeed appeared on the film. Critics, however, note that [corroboration]({{ 'corroboration/' | relative_url }}) of the specific "UFO attack" interpretation is far weaker than confirmation that a classified review of missile footage took place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[cufos.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">They note that, at least officially, UFO investigations</span><span class="citation-popover-snippet">ANOTHER LOOK AT THE BIG SUR INCIDENTMarch 28, 2007 — by R HASTINGS · Cited by 1 — These persons contend that the agency had only a periph...</span><span class="citation-popover-meta">Published: March 28, 2007</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/awsv66J31S8" title="60 Years of Deception: Inside the US Government&#x27;s UFO Manipulation Program | MIRAGE MEN | FilmIsNow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer">60 Years of Deception: Inside the US Government&#x27;s UFO Manipulation Program | MIRAGE MEN | FilmIsNow</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 123.9K &middot; Uploaded: June 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=awsv66J31S8">Open on YouTube</a></p></div></div></div>
 
 ## What George said the team actually filmed
 
-Kingston A. George's explanation rejects the UFO interpretation entirely. Writing in *Skeptical Inquirer* in 1993 and later revisiting the issue, George argued that the relevant launch involved highly classified technology designed to help American warheads penetrate enemy missile defences. According to his account, the objective was to photograph the deployment of decoys and associated countermeasures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
+Kingston A. George's explanation rejects the UFO interpretation entirely. Writing in *Skeptical Inquirer* in 1993 and later revisiting the issue, George argued that the relevant launch involved highly classified technology designed to help American warheads penetrate enemy missile defences. According to his account, the objective was to photograph the deployment of decoys and associated countermeasures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
 
-George maintained that what Jacobs later described as a flying saucer was actually part of the missile system itself. He argued that the apparent flashes or beams were consistent with the deployment of decoys and chaff, which could produce unexpected visual effects when viewed through specialised long-range optical equipment. In his telling, the event was secret not because it involved extraterrestrial technology but because it revealed sensitive military capabilities during the Cold War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
+George maintained that what Jacobs later described as a flying saucer was actually part of the missile system itself. He argued that the apparent flashes or beams were consistent with the deployment of decoys and chaff, which could produce unexpected visual effects when viewed through specialised long-range optical equipment. In his telling, the event was secret not because it involved extraterrestrial technology but because it revealed sensitive military capabilities during the Cold War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
 
-An important element of George's argument is his claim that Jacobs was not cleared to know the full purpose of the mission. George asserted that many participants were compartmentalised: they performed specific tasks without being informed about all aspects of the test. Under that interpretation, Jacobs' recollection reflects a genuine observation filtered through incomplete knowledge rather than deliberate fabrication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
+An important element of George's argument is his claim that Jacobs was not cleared to know the full purpose of the mission. George asserted that many participants were compartmentalised: they performed specific tasks without being informed about all aspects of the test. Under that interpretation, Jacobs' recollection reflects a genuine observation filtered through incomplete knowledge rather than deliberate fabrication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-2-dark.svg" | relative_url }}" alt="Jacobs vs George illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,10 +309,10 @@ An important element of George's argument is his claim that Jacobs was not clear
 
 The disagreement is not merely about interpretation of unusual imagery. Jacobs and George differ on several fundamental points:
 
-* **Nature of the object:** Jacobs described an independently operating craft; George described classified missile-test hardware. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
-* **Meaning of the flashes:** Jacobs viewed them as directed energy bursts aimed at the warhead; George considered them artefacts of countermeasure deployment and optical recording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
-* **Reason for [secrecy]({{ 'secrecy/' | relative_url }}):** Jacobs saw secrecy as evidence of a UFO cover-up; George attributed it to protection of strategic military technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
-* **Who understood the event:** Jacobs implied that those reviewing the film recognised something extraordinary; George argued that only personnel aware of the classified programme could correctly interpret the imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
+* **Nature of the object:** Jacobs described an independently operating craft; George described classified missile-test hardware.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+* **Meaning of the flashes:** Jacobs viewed them as directed energy bursts aimed at the warhead; George considered them artefacts of countermeasure deployment and optical recording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+* **Reason for [secrecy]({{ 'secrecy/' | relative_url }}):** Jacobs saw secrecy as evidence of a UFO cover-up; George attributed it to protection of strategic military technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+* **Who understood the event:** Jacobs implied that those reviewing the film recognised something extraordinary; George argued that only personnel aware of the classified programme could correctly interpret the imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
 
 The absence of the original film means neither interpretation can be independently tested against the primary evidence. The debate therefore centres on witness credibility, technical plausibility and the historical record surrounding Cold War missile testing.
 
@@ -321,213 +321,213 @@ The absence of the original film means neither interpretation can be independent
 
 ## How memory, role and later retellings affect the case
 
-One reason the dispute remains [unresolved]({{ 'unresolved/' | relative_url }}) is that the accounts emerged decades after the alleged event. Jacobs first publicised the story many years after 1964, and some details changed as the narrative evolved. Researchers have noted discrepancies in dates and technical descriptions across different retellings, although supporters argue that such variations are normal in long-term recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Big Sur</span><span class="citation-popover-snippet">The Big Sur - What Really Happened in September 1964?The Big Sur UFO incident centers on an Atlas missile test in September 1964 at...</span><span class="citation-popover-meta">Published: September 1964</span></span></span>
+One reason the dispute remains [unresolved]({{ 'unresolved/' | relative_url }}) is that the accounts emerged decades after the alleged event. Jacobs first publicised the story many years after 1964, and some details changed as the narrative evolved. Researchers have noted discrepancies in dates and technical descriptions across different retellings, although supporters argue that such variations are normal in long-term recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Big Sur</span><span class="citation-popover-snippet">The Big Sur - What Really Happened in September 1964?The Big Sur UFO incident centers on an Atlas missile test in September 1964 at...</span><span class="citation-popover-meta">Published: September 1964</span></span></span>
 
-The men's professional roles also shaped what they knew. Jacobs was responsible for photographic operations at the observation site, while George worked on the engineering side of the broader programme. Their differing access to information provides a possible explanation for why they reached different conclusions from the same event. George explicitly argued that compartmentalised security procedures prevented many participants from understanding the full mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
+The men's professional roles also shaped what they knew. Jacobs was responsible for photographic operations at the observation site, while George worked on the engineering side of the broader programme. Their differing access to information provides a possible explanation for why they reached different conclusions from the same event. George explicitly argued that compartmentalised security procedures prevented many participants from understanding the full mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
 
-Another factor is that both accounts were published after long periods during which the underlying programme remained classified or poorly documented publicly. This creates a situation common in Cold War aerospace controversies: incomplete records, fading memories and competing narratives built around evidence that outside investigators cannot fully inspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
+Another factor is that both accounts were published after long periods during which the underlying programme remained classified or poorly documented publicly. This creates a situation common in Cold War aerospace controversies: incomplete records, fading memories and competing narratives built around evidence that outside investigators cannot fully inspect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-3-dark.svg" | relative_url }}" alt="Jacobs vs George illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_jacobs_george_disput_fbccf4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Jacobs–George dispute remains central
 
-The Vandenberg case is often presented as evidence either for UFO interference with nuclear weapons or for how secret military programmes can generate extraordinary stories. The reason the argument endures is that Jacobs and George each supplied a coherent explanation rooted in their personal involvement with the project. Jacobs offered a dramatic account of apparent intervention by an unknown craft; George offered a mundane but highly classified explanation involving missile-defence countermeasures and optical misinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+The Vandenberg case is often presented as evidence either for UFO interference with nuclear weapons or for how secret military programmes can generate extraordinary stories. The reason the argument endures is that Jacobs and George each supplied a coherent explanation rooted in their personal involvement with the project. Jacobs offered a dramatic account of apparent intervention by an unknown craft; George offered a mundane but highly classified explanation involving missile-defence countermeasures and optical misinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
-Without the original film available for independent examination, the controversy remains less a question of what modern analysts can see than of which witness, interpretation and historical reconstruction readers find more persuasive. That unresolved tension is what keeps the Jacobs-versus-George debate at the centre of discussions about the Vandenberg missile footage and its place in the broader UFO-and-nuclear-weapons narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+Without the original film available for independent examination, the controversy remains less a question of what modern analysts can see than of which witness, interpretation and historical reconstruction readers find more persuasive. That unresolved tension is what keeps the Jacobs-versus-George debate at the centre of discussions about the Vandenberg missile footage and its place in the broader UFO-and-nuclear-weapons narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uv-dH7g0x34" title="Nuclear Weapons and UFOs with Robert Hastings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer">Nuclear Weapons and UFOs with Robert Hastings</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uv-dH7g0x34">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Two witnesses, one disputed missile film. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Two witnesses, one disputed missile film. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centers on witness testimony, credibility, and conflicting accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on witness testimony, credibility, and conflicting accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how investigators handle contradictory testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators handle contradictory testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Illustrates how secrecy can fuel competing narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how secrecy can fuel competing narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Provides broader context for military witness UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for military witness UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed"><img src="{{ '/assets/images/marketplace-covers/d107e97c3b3e86d7f0a9.jpg' | relative_url }}" alt="Listing image for Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed"><img src="{{ '/assets/images/marketplace-covers/d107e97c3b3e86d7f0a9.jpg' | relative_url }}" alt="Listing image for Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48"><img src="{{ '/assets/images/marketplace-covers/613309faee77c395a5b9.jpg' | relative_url }}" alt="Listing image for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48"><img src="{{ '/assets/images/marketplace-covers/613309faee77c395a5b9.jpg' | relative_url }}" alt="Listing image for Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Condor German Missile Model Kit Collection V2 A4 Rocket 1/72 1/48</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit"><img src="{{ '/assets/images/marketplace-covers/74f90a1abe473fbe8b4c.jpg' | relative_url }}" alt="Listing image for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit"><img src="{{ '/assets/images/marketplace-covers/74f90a1abe473fbe8b4c.jpg' | relative_url }}" alt="Listing image for Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Fore Hobby 3002 HMS Coventry Type 42 Guided Missile Destroyer 1:350 Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box"><img src="{{ '/assets/images/marketplace-covers/cfe570ccb342098cd30d.jpg' | relative_url }}" alt="Listing image for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box"><img src="{{ '/assets/images/marketplace-covers/cfe570ccb342098cd30d.jpg' | relative_url }}" alt="Listing image for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="jacobs-vs-george-two-witnesses-one-disputed-missile-film-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ Without the original film available for independent examination, the controversy
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ Without the original film available for independent examination, the controversy
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ Without the original film available for independent examination, the controversy
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ Without the original film available for independent examination, the controversy
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ Without the original film available for independent examination, the controversy
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,89 +733,89 @@ Without the original film available for independent examination, the controversy
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: The Big Sur  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Big Sur - What Really Happened in September 1964?The Big Sur UFO incident centers on an Atlas missile test in September 1964 at...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Big Sur - What Really Happened in September 1964?The Big Sur UFO incident centers on an Atlas missile test in September 1964 at...</p></details>
    Published: September 1964  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cufos.org  
    Title: They note that, at least officially, UFO investigations  
-   Link: <a href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/hastings.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANOTHER LOOK AT THE BIG SUR INCIDENTMarch 28, 2007 — by R HASTINGS · Cited by 1 — These persons contend that the agency had only a periph...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/hastings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANOTHER LOOK AT THE BIG SUR INCIDENTMarch 28, 2007 — by R HASTINGS · Cited by 1 — These persons contend that the agency had only a periph...</p></details>
    Published: March 28, 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — This article is intended to provide a more rat...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: robert jacobs filmed a ufo at vandenberg afb in 1964 known as the big sur incide  
-   Link: <a href="https://www.facebook.com/evan.kirstel/videos/robert-jacobs-filmed-a-ufo-at-vandenberg-afb-in-1964-known-as-the-big-sur-incide/1285397242785621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/evan.kirstel/videos/robert-jacobs-filmed-a-ufo-at-vandenberg-afb-in-1964-known-as-the-big-sur-incide/1285397242785621/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Jacobs filmed a UFO at Vandenberg AFB in 1964....Video · Robert Jacobs filmed a UFO at Vandenberg AFB in 1964. Known as the Big S...</p></details>
+   Link:<a href="https://www.facebook.com/evan.kirstel/videos/robert-jacobs-filmed-a-ufo-at-vandenberg-afb-in-1964-known-as-the-big-sur-incide/1285397242785621/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/evan.kirstel/videos/robert-jacobs-filmed-a-ufo-at-vandenberg-afb-in-1964-known-as-the-big-sur-incide/1285397242785621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Jacobs filmed a UFO at Vandenberg AFB in 1964....Video · Robert Jacobs filmed a UFO at Vandenberg AFB in 1964. Known as the Big S...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onesearch.wesleyan.edu  
-   Link: <a href="https://onesearch.wesleyan.edu/discovery/fulldisplay?context=L&amp;docid=alma9932072683103768&amp;vid=01CTW_WU%3ACTWWU" target="_blank" rel="noopener noreferrer nofollow">https://onesearch.wesleyan.edu/discovery/fulldisplay?context=L&amp;docid=alma9932072683103768&amp;vid=01CTW_WU%3ACTWWU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>antics: the amazing cinema of Ken Jacobs - OneSearchKen Jacobs has been making cinema for more than fifty years...</p></details>
+   Link:<a href="https://onesearch.wesleyan.edu/discovery/fulldisplay?context=L&amp;docid=alma9932072683103768&amp;vid=01CTW_WU%3ACTWWU" target="_blank" rel="noopener noreferrer nofollow">https://onesearch.wesleyan.edu/discovery/fulldisplay?context=L&amp;docid=alma9932072683103768&amp;vid=01CTW_WU%3ACTWWU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>antics: the amazing cinema of Ken Jacobs - OneSearchKen Jacobs has been making cinema for more than fifty years...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction, Skepticism, and Reality;The SKEPTICAL INQUIRER is the official journal of the Committee for the Scientific...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-05-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Fiction, Skepticism, and Reality;The SKEPTICAL INQUIRER is the official journal of the Committee for the Scientific...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBROfficialPage/posts/director-steven-soderbergh-is-teaming-up-with-writer-scott-z-burns-for-a-spiritu/1225933835562114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBROfficialPage/posts/director-steven-soderbergh-is-teaming-up-with-writer-scott-z-burns-for-a-spiritu/1225933835562114/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>piritual-follow-up to the star-studded 2011 pandemic thriller...</p></details>
+   Link:<a href="https://www.facebook.com/CBROfficialPage/posts/director-steven-soderbergh-is-teaming-up-with-writer-scott-z-burns-for-a-spiritu/1225933835562114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBROfficialPage/posts/director-steven-soderbergh-is-teaming-up-with-writer-scott-z-burns-for-a-spiritu/1225933835562114/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>piritual-follow-up to the star-studded 2011 pandemic thriller...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/402236954/A-Shot-Across-the-Bow-Robert-Hastings-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/402236954/A-Shot-Across-the-Bow-Robert-Hastings-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>briefly men- is “all true,” as Florenz Mansmann asserts...</p></details>
+   Link:<a href="https://www.scribd.com/document/402236954/A-Shot-Across-the-Bow-Robert-Hastings-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/402236954/A-Shot-Across-the-Bow-Robert-Hastings-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>briefly men- is “all true,” as Florenz Mansmann asserts...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO Nuclear Missile Shootdown (Big Sur UFO Incident)  
-   Link: <a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_kbLEtvzjHg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_kbLEtvzjHg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Robert Jacobs Disclosure Project Testimony  
-   Link: <a href="https://www.youtube.com/watch?v=x4wL4lbwwNU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4wL4lbwwNU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore the Big Sur UFO incident, contrasting the eyewitness claims of Robert Jacobs regarding extraterrestrial interference...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x4wL4lbwwNU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x4wL4lbwwNU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore the Big Sur UFO incident, contrasting the eyewitness claims of Robert Jacobs regarding extraterrestrial interference...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: filmcomment.com  
    Title: Heretical Heuristics: J  
-   Link: <a href="https://www.filmcomment.com/heretical-heuristics-j-hoberman-and-ken-jacobs-explain-the-movi-verse/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmcomment.com/heretical-heuristics-j-hoberman-and-ken-jacobs-explain-the-movi-verse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hoberman and Ken Jacobs Explain...Hoberman and Ken Jacobs Explain the Movi-verse. Film Comment Selects Interview: J. Hoberman and Ken Ja...</p></details>
+   Link:<a href="https://www.filmcomment.com/heretical-heuristics-j-hoberman-and-ken-jacobs-explain-the-movi-verse/" target="_blank" rel="noopener noreferrer nofollow">https://www.filmcomment.com/heretical-heuristics-j-hoberman-and-ken-jacobs-explain-the-movi-verse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hoberman and Ken Jacobs Explain...Hoberman and Ken Jacobs Explain the Movi-verse. Film Comment Selects Interview: J. Hoberman and Ken Ja...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: yumpu.com  
    Title: A Shot Across the Bow  
-   Link: <a href="https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO Studies2 Jan 2013 — Factual errors aside, George&#x27;s Skeptical Inquirer article&lt;br /&gt;... Kingston George to Robert Hastings...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO Studies2 Jan 2013 — Factual errors aside, George&#x27;s Skeptical Inquirer article&lt;br /&gt;... Kingston George to Robert Hastings...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
    Title: conversion fantasies  
-   Link: <a href="https://skepticalinquirer.org/exclusive/conversion-fantasies/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/conversion-fantasies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Dec 2002 — A master of card tricks and sleight-of-hand, Clarke starts out as a skeptic of UFO claims and later becomes a “well-known al...</p></details>
+   Link:<a href="https://skepticalinquirer.org/exclusive/conversion-fantasies/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/conversion-fantasies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Dec 2002 — A master of card tricks and sleight-of-hand, Clarke starts out as a skeptic of UFO claims and later becomes a “well-known al...</p></details>

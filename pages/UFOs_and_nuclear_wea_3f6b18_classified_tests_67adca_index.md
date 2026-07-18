@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-classified/
 description: Focused pages that expand on Secret Tests.
-date: '2026-06-17'
+date: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca
 parent_title: Secret Tests
@@ -16,7 +16,7 @@ parent_permalink: /secret-tests/
 
 # Explore Topics in Secret Tests
 
-The following pages expand on the main **[Secret Tests]({{ '/secret-tests/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Secret Tests]({{ '/secret-tests/' | relative_url }})** page and cover its key branches in.
 
 - [Area 51]({{ '/area-51/' | relative_url }})
 - [Mogul]({{ '/mogul/' | relative_url }})

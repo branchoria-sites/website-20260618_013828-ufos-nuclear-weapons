@@ -284,7 +284,7 @@ When comparing nuclear-related UFO incidents, [radar]({{ 'radar/' | relative_url
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_radar_visual_vs_fail_5bc67e-Illustration-1-dark.svg" | relative_url }}" alt="Radar vs Failure illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_radar_visual_vs_fail_5bc67e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_radar_visual_vs_fail_5bc67e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The contrast is especially visible when comparing cases associated with Minot Air Force Base and the 1975 nuclear-base sightings with the better-known missile shutdown story at Malmstrom Air Force Base. These incidents are often grouped together under the broad label of “[UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }})”, yet the records support different conclusions and require different standards of proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
+The contrast is especially visible when comparing cases associated with Minot Air Force Base and the 1975 nuclear-base sightings with the better-known missile shutdown story at Malmstrom Air Force Base. These incidents are often grouped together under the broad label of “[UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }})”, yet the records support different conclusions and require different standards of proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_radar_visual_vs_fail_5bc67e-Illustration-3-dark.svg" | relative_url }}" alt="Radar vs Failure illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_radar_visual_vs_fail_5bc67e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_radar_visual_vs_fail_5bc67e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -292,9 +292,9 @@ The contrast is especially visible when comparing cases associated with Minot Ai
 
 Radar-visual cases are generally stronger at establishing that an [unidentified]({{ 'unidentified/' | relative_url }}) object was detected, tracked, or observed by multiple sources. Their value lies in [corroboration]({{ 'corroboration/' | relative_url }}). When radar operators, aircrews, security personnel, and command channels independently report an object, investigators can compare observations across different systems rather than relying on a single witness.
 
-The Minot case of October 1968 is often cited because it combined airborne observations, ground reports, military reporting channels, and radar-related claims. Strategic Air Command initiated an investigation after the incident, and the event generated official attention beyond a routine sighting report. Researchers have argued that the case involved both visual observations by a B-52 crew and supporting sensor information, making it one of the more data-rich military UFO incidents associated with a nuclear base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
+The Minot case of October 1968 is often cited because it combined airborne observations, ground reports, military reporting channels, and radar-related claims. Strategic Air Command initiated an investigation after the incident, and the event generated official attention beyond a routine sighting report. Researchers have argued that the case involved both visual observations by a B-52 crew and supporting sensor information, making it one of the more data-rich military UFO incidents associated with a nuclear base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
-The 1975 incidents around Loring Air Force Base, Wurtsmith Air Force Base, and other strategic installations provide another example. Contemporary military messages described unidentified aerial intrusions near sensitive weapons areas and efforts to track them. In some cases, helicopters were requested specifically to identify unknown aircraft reported near nuclear-storage facilities. These records show that military authorities treated the sightings as operationally significant and worthy of active investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency+2The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — The NG helicopter would be employed to.track and identify the unidentified helicopter th...</span></span></span>
+The 1975 incidents around Loring Air Force Base, Wurtsmith Air Force Base, and other strategic installations provide another example. Contemporary military messages described unidentified aerial intrusions near sensitive weapons areas and efforts to track them. In some cases, helicopters were requested specifically to identify unknown aircraft reported near nuclear-storage facilities. These records show that military authorities treated the sightings as operationally significant and worthy of active investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency+2The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyNMCC. I,29 Oct 1975 — The NG helicopter would be employed to.track and identify the unidentified helicopter th...</span></span></span>
 
 What radar-visual evidence can reasonably support includes:
 
@@ -308,7 +308,7 @@ What radar-visual evidence can reasonably support includes:
 
 </div>
 
-What it usually cannot establish on its own is the nature, origin, or intent of the object. Even a radar track combined with multiple eyewitnesses does not demonstrate extraterrestrial technology, hostile action, or interference with nuclear weapons. The evidence supports observation, not necessarily explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">January 9, 2026 — Project Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifically...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
+What it usually cannot establish on its own is the nature, origin, or intent of the object. Even a radar track combined with multiple eyewitnesses does not demonstrate extraterrestrial technology, hostile action, or interference with nuclear weapons. The evidence supports observation, not necessarily explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">January 9, 2026 — Project Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifically...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AmKf7Jrbadk" title="1975 🇺🇸 #UFOB [CASE] Sightings - incursions on nuclear bases Wurtsmith, Loring &amp; Malmstrom." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AmKf7Jrbadk" target="_blank" rel="noopener noreferrer">1975 🇺🇸 #UFOB [CASE] Sightings - incursions on nuclear bases Wurtsmith, Loring &amp; Malmstrom.</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AmKf7Jrbadk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AmKf7Jrbadk">Open on YouTube</a></p></div></div></div>
@@ -317,11 +317,11 @@ What it usually cannot establish on its own is the nature, origin, or intent of 
 
 Missile-malfunction cases begin from a different evidential foundation. Here the strongest evidence is not a sighting but an operational record.
 
-The best-known example is the March 1967 Echo Flight incident at Malmstrom Air Force Base. Declassified documentation confirms that a group of Minuteman missiles experienced a serious loss of strategic alert status. The malfunction itself is not disputed. Official records describe a significant technical event affecting multiple missiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... Rumors of Unidentified Flying Objects (UFO) around the a...</span></span></span>
+The best-known example is the March 1967 Echo Flight incident at Malmstrom Air Force Base. Declassified documentation confirms that a group of Minuteman missiles experienced a serious loss of strategic alert status. The malfunction itself is not disputed. Official records describe a significant technical event affecting multiple missiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... Rumors of Unidentified Flying Objects (UFO) around the a...</span></span></span>
 
-The key evidential question is whether the malfunction can be linked to a reported UFO. On that point, the documentary record is far weaker. One Air Force history specifically stated that rumours of UFO activity associated with the Echo Flight failure had been disproven. Later testimony from former personnel argued that unusual aerial activity occurred at roughly the same time as missile problems, creating the basis for the famous UFO-disabling-missiles narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... Rumors of Unidentified Flying Objects (UFO) around the a...</span></span></span>
+The key evidential question is whether the malfunction can be linked to a reported UFO. On that point, the documentary record is far weaker. One Air Force history specifically stated that rumours of UFO activity associated with the Echo Flight failure had been disproven. Later testimony from former personnel argued that unusual aerial activity occurred at roughly the same time as missile problems, creating the basis for the famous UFO-disabling-missiles narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... Rumors of Unidentified Flying Objects (UFO) around the a...</span></span></span>
 
-This creates an important distinction. The missile failure itself is supported by official documentation. The proposed UFO connection relies much more heavily on retrospective witness testimony, interpretation, and disputed recollections. Critics have argued that the documented malfunction and the UFO narrative should not automatically be treated as the same evidential event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[Tim Hebert+2Tim Hebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-title">Tim Hebert Case Closed!</span><span class="citation-popover-snippet">A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</span><span class="citation-popover-meta">Published: July 29, 2011</span></span></span>
+This creates an important distinction. The missile failure itself is supported by official documentation. The proposed UFO connection relies much more heavily on retrospective witness testimony, interpretation, and disputed recollections. Critics have argued that the documented malfunction and the UFO narrative should not automatically be treated as the same evidential event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[Tim Hebert+2Tim Hebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-title">Tim Hebert Case Closed!</span><span class="citation-popover-snippet">A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</span><span class="citation-popover-meta">Published: July 29, 2011</span></span></span>
 
 Missile-alert failures can therefore support claims such as:
 
@@ -334,7 +334,7 @@ Missile-alert failures can therefore support claims such as:
 
 </div>
 
-They do not, by themselves, support claims that an unidentified object caused the malfunction. Establishing causation requires an independent evidential bridge between the technical failure and the reported sighting. In most nuclear-UFO cases, that bridge remains contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... Rumors of Unidentified Flying Objects (UFO) around the a...</span></span></span>
+They do not, by themselves, support claims that an unidentified object caused the malfunction. Establishing causation requires an independent evidential bridge between the technical failure and the reported sighting. In most nuclear-UFO cases, that bridge remains contested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... Rumors of Unidentified Flying Objects (UFO) around the a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vh02kMSJec8" title="1968-10-24: Credible Pilots &amp; Aircrew Document Minot UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vh02kMSJec8" target="_blank" rel="noopener noreferrer">1968-10-24: Credible Pilots &amp; Aircrew Document Minot UFO</a></p><p class="youtube-embed-meta">Channel: Tom Owens UAP</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vh02kMSJec8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vh02kMSJec8">Open on YouTube</a></p></div></div></div>
@@ -351,207 +351,207 @@ A missile-malfunction case asks: did something unusual happen to the weapons sys
 
 The strongest radar-visual incidents may contain extensive observation data yet no documented weapon disruption. Conversely, the strongest missile-malfunction incidents may contain clear records of equipment problems yet little or no contemporaneous evidence connecting those problems to a UFO.
 
-The distinction becomes clearer when comparing Minot and Malmstrom. The Minot incident is frequently valued because multiple observational channels appear to converge on an unusual aerial event. The Malmstrom incident is frequently valued because a documented missile anomaly unquestionably occurred. Each case is strongest in a different evidential category. Neither automatically proves the central claim of the other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
+The distinction becomes clearer when comparing Minot and Malmstrom. The Minot incident is frequently valued because multiple observational channels appear to converge on an unusual aerial event. The Malmstrom incident is frequently valued because a documented missile anomaly unquestionably occurred. Each case is strongest in a different evidential category. Neither automatically proves the central claim of the other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo+2The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
 For researchers, this means that evidence should be assessed in layers:
 
 QuestionRadar-visual casesMissile-malfunction casesWas something observed?Often strongOften weak or secondaryDid a weapons anomaly occur?Usually absentOften central evidenceIs causation demonstrated?RarelyRarelyIs there independent corroboration?Sometimes extensiveDepends on technical records
 
-The most careful analyses therefore avoid combining the categories into a single narrative. A radar track is not a missile shutdown, and a missile shutdown is not proof of a UFO. Treating them separately produces a more accurate comparison of nuclear-UFO incidents across bases and helps clarify what each case actually contributes to the broader debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[Wikipedia+3The Black Vault Documents+3Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... Rumors of Unidentified Flying Objects (UFO) around the a...</span></span></span>
+The most careful analyses therefore avoid combining the categories into a single narrative. A radar track is not a missile shutdown, and a missile shutdown is not proof of a UFO. Treating them separately produces a more accurate comparison of nuclear-UFO incidents across bases and helps clarify what each case actually contributes to the broader debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[Wikipedia+3The Black Vault Documents+3Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... Rumors of Unidentified Flying Objects (UFO) around the a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X2c3_vG7yhs" title="Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer">Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 332.0K &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X2c3_vG7yhs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Radar Tracks or Missile Failures Which Matters More?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Radar Tracks or Missile Failures Which Matters More?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Covers radar, witness, and documentary evidence comparisons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers radar, witness, and documentary evidence comparisons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains strengths and limits of radar and witness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains strengths and limits of radar and witness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Features multi-source military observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features multi-source military observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Contains missile-related and nuclear-site case studies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains missile-related and nuclear-site case studies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="radar-vs-failure-radar-tracks-or-missile-failures-which-matters-more-ufos-and-nuclear-weapons-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ The most careful analyses therefore avoid combining the categories into a single
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ The most careful analyses therefore avoid combining the categories into a single
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ The most careful analyses therefore avoid combining the categories into a single
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ The most careful analyses therefore avoid combining the categories into a single
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ The most careful analyses therefore avoid combining the categories into a single
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,129 +757,129 @@ The most careful analyses therefore avoid combining the categories into a single
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 Octob...</p></details>
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 Octob...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: explorescu.org  
-   Link: <a href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</p></details>
+   Link:<a href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: [Project Blue Book](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — Project Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifically...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — Project Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifically...</p></details>
    Published: January 9, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentA weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over M...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentA weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over M...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Minot, North Dakota  
-   Link: <a href="https://en.wikipedia.org/wiki/Minot%2C_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Minot%2C_North_Dakota</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot, North DakotaWith a population of 48,377 at the 2020 census, Minot is the state&#x27;s fourth-most populous city. The Minot metropoli...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Minot%2C_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Minot%2C_North_Dakota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot, North DakotaWith a population of 48,377 at the 2020 census, Minot is the state&#x27;s fourth-most populous city. The Minot metropoli...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10581175" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581175</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s Testimony, 45–59. Torino, Italy. ISBN: 979-1...Read more...</p></details>
+   Link:<a href="https://zenodo.org/records/10581175" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s Testimony, 45–59. Torino, Italy. ISBN: 979-1...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyNMCC. I,29 Oct 1975 — The NG helicopter would be employed to.track and identify the unidentified helicopter th...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/assort1.pdf?ver=2017-05-22-113455-667</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyNMCC. I,29 Oct 1975 — The NG helicopter would be employed to.track and identify the unidentified helicopter th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the a...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 —... No-Go) recordings... [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: twz.com  
    Title: the bizarre mystery of unexplained aerial incursions over loring air force base  
-   Link: <a href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</p></details>
+   Link:<a href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: timhebert.blogspot.com  
    Title: Tim Hebert Case Closed!  
-   Link: <a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</p></details>
    Published: July 29, 2011  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tim HebertDid UFOs Disable Minuteman Missiles at Malmstrom AFB...26 Nov 2010 — James has been persistent that no UFO had caused the Echo...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tim HebertDid UFOs Disable Minuteman Missiles at Malmstrom AFB...26 Nov 2010 — James has been persistent that no UFO had caused the Echo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Event at Wurtsmith AFB on October 30th, 1975If you were stationed at the base on October 30th, 1975, You will definitely remember thi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Event at Wurtsmith AFB on October 30th, 1975If you were stationed at the base on October 30th, 1975, You will definitely remember thi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ndtourism.com  
-   Link: <a href="https://www.ndtourism.com/cities/minot" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtourism.com/cities/minot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot | Official North Dakota Travel &amp; Tourism GuideJust 50 miles from the Canadian border, Minot is situated in Central North Dakota...</p></details>
+   Link:<a href="https://www.ndtourism.com/cities/minot" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtourism.com/cities/minot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot | Official North Dakota Travel &amp; Tourism GuideJust 50 miles from the Canadian border, Minot is situated in Central North Dakota...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: minotnd.gov  
-   Link: <a href="https://www.minotnd.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotnd.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot, ND | Official WebsiteLatest News &amp; Announcements · 3rd Street project under design · Minot City Transit route detours · Work to re...</p></details>
+   Link:<a href="https://www.minotnd.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotnd.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot, ND | Official WebsiteLatest News &amp; Announcements · 3rd Street project under design · Minot City Transit route detours · Work to re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs... no evidence indicating that sightings considered &quot;unidentified&quot; were extraterrestri...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs... no evidence indicating that sightings considered &quot;unidentified&quot; were extraterrestri...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-[salas" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-[salas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — It has been a longstanding legend within Ufology that a UFO was s...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-[salas" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-[salas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — It has been a longstanding legend within Ufology that a UFO was s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: UF Os allegedly disable nuclear missiles at Montana base A former U.S  
-   Link: <a href="https://www.facebook.com/KnowledgeObserver/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnowledgeObserver/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force officer has come forward with claims that unidentified flying objects (UFOs) interfered with nuclear missiles at a base...Read...</p></details>
+   Link:<a href="https://www.facebook.com/KnowledgeObserver/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnowledgeObserver/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force officer has come forward with claims that unidentified flying objects (UFOs) interfered with nuclear missiles at a base...Read...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: visitminot.org  
-   Link: <a href="https://visitminot.org/" target="_blank" rel="noopener noreferrer nofollow">https://visitminot.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Minot: HomeDiscover Minot, North Dakota! Find things to do, where to eat or grab a drink, local events, and more. Plan your trip to...</p></details>
+   Link:<a href="https://visitminot.org/" target="_blank" rel="noopener noreferrer nofollow">https://visitminot.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Minot: HomeDiscover Minot, North Dakota! Find things to do, where to eat or grab a drink, local events, and more. Plan your trip to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown  
-   Link: <a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO incident 1968 B-52 B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968 Eyes On...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO incident 1968 B-52 B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968 Eyes On...</p></details>
    Published: October 24, 1968  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: minot.af.mil  
-   Link: <a href="https://www.minot.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force BaseThe official website for Minot Air Force Base, where only the best come North...</p></details>
+   Link:<a href="https://www.minot.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force BaseThe official website for Minot Air Force Base, where only the best come North...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070001-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070001-4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ugh Air Force records show that the C.I.A. was noti-.Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070001-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070001-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ugh Air Force records show that the C.I.A. was noti-.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ufoevidence.com  
    Title: UFO Evidence Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom AFB “Echo Flight” Shutdown - UFOevidenceMultiple witnesses provided affidavits describing reported UAP activity and briefings a...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom AFB “Echo Flight” Shutdown - UFOevidenceMultiple witnesses provided affidavits describing reported UAP activity and briefings a...</p></details>

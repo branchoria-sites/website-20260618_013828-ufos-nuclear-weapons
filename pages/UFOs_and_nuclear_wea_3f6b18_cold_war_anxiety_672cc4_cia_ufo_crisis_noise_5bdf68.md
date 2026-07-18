@@ -452,34 +452,34 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_uf
 
 ## Introduction
 
-During the early Cold War, the CIA’s concern about UFO reports was not primarily that flying saucers were alien spacecraft. The more immediate worry was that large numbers of unexplained sightings could interfere with national security during a period when the United States expected the possibility of a Soviet nuclear surprise attack. Intelligence officials increasingly viewed UFO reports as a signal-management problem: how could military and intelligence agencies distinguish genuine threats from mistaken reports, rumours, hoaxes, or mass public excitement? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+During the early Cold War, the CIA’s concern about UFO reports was not primarily that flying saucers were alien spacecraft. The more immediate worry was that large numbers of unexplained sightings could interfere with national security during a period when the United States expected the possibility of a Soviet nuclear surprise attack. Intelligence officials increasingly viewed UFO reports as a signal-management problem: how could military and intelligence agencies distinguish genuine threats from mistaken reports, rumours, hoaxes, or mass public excitement?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-1-dark.svg" | relative_url }}" alt="CIA Concern illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This concern became especially important after major UFO waves in 1952 generated intense public attention and substantial [reporting]({{ 'reporting/' | relative_url }}) traffic. CIA officials feared that, in a crisis, reporting systems, [radar]({{ 'radar/' | relative_url }}) operators, intelligence analysts, and warning networks could become overwhelmed by irrelevant information at precisely the moment they needed to detect a real attack. Within the broader culture of Cold War nuclear anxiety, UFO reports became significant not because officials believed they were extraterrestrial, but because unexplained aerial reports could complicate the management of nuclear-age defence systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+This concern became especially important after major UFO waves in 1952 generated intense public attention and substantial [reporting]({{ 'reporting/' | relative_url }}) traffic. CIA officials feared that, in a crisis, reporting systems, [radar]({{ 'radar/' | relative_url }}) operators, intelligence analysts, and warning networks could become overwhelmed by irrelevant information at precisely the moment they needed to detect a real attack. Within the broader culture of Cold War nuclear anxiety, UFO reports became significant not because officials believed they were extraterrestrial, but because unexplained aerial reports could complicate the management of nuclear-age defence systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
 ## Early intelligence worries about Soviet weapons
 
 By the early 1950s, American intelligence agencies were evaluating virtually every unexplained aerial phenomenon through the lens of Soviet capabilities. The Soviet Union had detonated its first atomic bomb in 1949, and fears of long-range bombers, espionage and surprise attack shaped intelligence thinking.
 
-When large numbers of UFO reports appeared, analysts initially could not dismiss the possibility that some observations represented unfamiliar aircraft, advanced technology, electronic deception, or other hostile activity. The CIA's Office of Scientific Intelligence treated the issue seriously enough to assemble study groups and review Air Force investigations. The central question was not “Are these aliens?” but “Could these be Soviet systems, and how would we know?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+When large numbers of UFO reports appeared, analysts initially could not dismiss the possibility that some observations represented unfamiliar aircraft, advanced technology, electronic deception, or other hostile activity. The CIA's Office of Scientific Intelligence treated the issue seriously enough to assemble study groups and review Air Force investigations. The central question was not “Are these aliens?” but “Could these be Soviet systems, and how would we know?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
-CIA officials also examined the possibility that the Soviet Union could exploit the UFO phenomenon deliberately. Internal assessments considered whether adversaries might use fabricated sightings, rumours or psychological operations to create confusion. The agency worried that a flood of reports could generate public panic or distract military personnel responsible for monitoring genuine threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+CIA officials also examined the possibility that the Soviet Union could exploit the UFO phenomenon deliberately. Internal assessments considered whether adversaries might use fabricated sightings, rumours or psychological operations to create confusion. The agency worried that a flood of reports could generate public panic or distract military personnel responsible for monitoring genuine threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
-A recurring concern was that intelligence officers might become trapped between two dangerous errors: treating a genuine threat as another false UFO report, or diverting scarce resources toward phantom targets while a real attack developed elsewhere. In the nuclear age, either mistake could carry severe consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+A recurring concern was that intelligence officers might become trapped between two dangerous errors: treating a genuine threat as another false UFO report, or diverting scarce resources toward phantom targets while a real attack developed elsewhere. In the nuclear age, either mistake could carry severe consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj3DhKSaw0w" title="UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer">UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 18.5K &middot; Uploaded: July 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj3DhKSaw0w">Open on YouTube</a></p></div></div></div>
 
 ## Reporting channels under pressure
 
-The problem became more acute after the highly publicised Washington, D.C., UFO incidents of 1952. Radar contacts, visual sightings and extensive media coverage produced a surge of reports and public interest. Whether individual sightings had ordinary explanations or not, the sheer volume demonstrated how rapidly information channels could become saturated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">May 9, 2026 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, DC, and later...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+The problem became more acute after the highly publicised Washington, D.C., UFO incidents of 1952. Radar contacts, visual sightings and extensive media coverage produced a surge of reports and public interest. Whether individual sightings had ordinary explanations or not, the sheer volume demonstrated how rapidly information channels could become saturated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">May 9, 2026 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, DC, and later...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
-CIA historian Gerald Haines later documented that agency officials feared UFO reports could overload the American air-warning system. Their concern was operational rather than speculative. Air-defence networks depended on the rapid processing of information from radar operators, military personnel, intelligence centres and civilian observers. If these systems became flooded with questionable reports, analysts might struggle to identify genuine hostile activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+CIA historian Gerald Haines later documented that agency officials feared UFO reports could overload the American air-warning system. Their concern was operational rather than speculative. Air-defence networks depended on the rapid processing of information from radar operators, military personnel, intelligence centres and civilian observers. If these systems became flooded with questionable reports, analysts might struggle to identify genuine hostile activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
-The issue resembled what modern security specialists would call a signal-to-noise problem. Effective warning systems depend on distinguishing meaningful signals from background noise. In CIA discussions, UFO reports increasingly represented a potential source of noise. Officials worried that adversaries could intentionally exploit this vulnerability, generating confusion that might conceal a real military operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+The issue resembled what modern security specialists would call a signal-to-noise problem. Effective warning systems depend on distinguishing meaningful signals from background noise. In CIA discussions, UFO reports increasingly represented a potential source of noise. Officials worried that adversaries could intentionally exploit this vulnerability, generating confusion that might conceal a real military operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
-Internal CIA documents and later historical accounts repeatedly referenced the danger that communication channels could be clogged by large numbers of low-quality reports. The concern extended beyond technical systems to public behaviour. A population gripped by sensational UFO stories might place additional pressure on military reporting networks, emergency communication systems and intelligence organisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">comments and suggestions of ufo panelThe result is the mass receipt of low-grade reports which tend to overload channels of communicat...</span></span></span>
+Internal CIA documents and later historical accounts repeatedly referenced the danger that communication channels could be clogged by large numbers of low-quality reports. The concern extended beyond technical systems to public behaviour. A population gripped by sensational UFO stories might place additional pressure on military reporting networks, emergency communication systems and intelligence organisations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">comments and suggestions of ufo panelThe result is the mass receipt of low-grade reports which tend to overload channels of communicat...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-2-dark.svg" | relative_url }}" alt="CIA Concern illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -487,9 +487,9 @@ Internal CIA documents and later historical accounts repeatedly referenced the d
 
 These concerns helped drive the creation of the Scientific Advisory Panel on [Unidentified]({{ 'unidentified/' | relative_url }}) Flying Objects, commonly known as the [Robertson Panel]({{ 'robertson-panel/' | relative_url }}), which met under CIA sponsorship in January 1953.
 
-The panel reviewed available UFO evidence and concluded that the sightings examined did not constitute evidence of a direct national-security threat or extraterrestrial visitation. However, the panel did identify a different danger: the social and organisational effects of continuing UFO publicity. It warned that sustained emphasis on UFO reports could impair the “orderly functioning” of government by clogging communication channels and encouraging forms of mass behaviour that adversaries might exploit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+The panel reviewed available UFO evidence and concluded that the sightings examined did not constitute evidence of a direct national-security threat or extraterrestrial visitation. However, the panel did identify a different danger: the social and organisational effects of continuing UFO publicity. It warned that sustained emphasis on UFO reports could impair the “orderly functioning” of government by clogging communication channels and encouraging forms of mass behaviour that adversaries might exploit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
-The panel therefore recommended reducing the public aura of mystery surrounding UFOs. Its reasoning was rooted less in solving the UFO mystery than in protecting defence and warning systems from distraction, overload and manipulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+The panel therefore recommended reducing the public aura of mystery surrounding UFOs. Its reasoning was rooted less in solving the UFO mystery than in protecting defence and warning systems from distraction, overload and manipulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xuTgayiSdns" title="The CIA Cover-Up of the “UFO Problem” During the Cold War" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xuTgayiSdns" target="_blank" rel="noopener noreferrer">The CIA Cover-Up of the “UFO Problem” During the Cold War</a></p><p class="youtube-embed-meta">Channel: THE ULYSSES FILES</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xuTgayiSdns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xuTgayiSdns">Open on YouTube</a></p></div></div></div>
@@ -498,197 +498,197 @@ The panel therefore recommended reducing the public aura of mystery surrounding 
 
 A common misunderstanding is that Cold War intelligence agencies treated every unexplained sighting as potential evidence of extraterrestrial technology. The historical record suggests a different approach.
 
-CIA analysts accepted that many reports remained unexplained after investigation. Yet "unexplained" was not treated as synonymous with "alien." Instead, unexplained cases were understood as [unresolved]({{ 'unresolved/' | relative_url }}) observations within a larger intelligence environment that included misidentifications, atmospheric phenomena, reporting errors, classified aircraft and incomplete information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">March 20, 2026 — The CIA analysts were broadly skeptical concerning the possibility that some UFO reports may represent extraterrestrial...</span><span class="citation-popover-meta">Published: March 20, 2026</span></span></span>
+CIA analysts accepted that many reports remained unexplained after investigation. Yet "unexplained" was not treated as synonymous with "alien." Instead, unexplained cases were understood as [unresolved]({{ 'unresolved/' | relative_url }}) observations within a larger intelligence environment that included misidentifications, atmospheric phenomena, reporting errors, classified aircraft and incomplete information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">March 20, 2026 — The CIA analysts were broadly skeptical concerning the possibility that some UFO reports may represent extraterrestrial...</span><span class="citation-popover-meta">Published: March 20, 2026</span></span></span>
 
-This distinction mattered because intelligence agencies routinely work with incomplete data. An unresolved report could still be assessed according to its operational significance. The CIA's primary concern was whether UFO reports created vulnerabilities in national warning systems, not whether they proved extraterrestrial visitation. As a result, officials often focused more attention on the effects of UFO reporting than on the objects themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+This distinction mattered because intelligence agencies routinely work with incomplete data. An unresolved report could still be assessed according to its operational significance. The CIA's primary concern was whether UFO reports created vulnerabilities in national warning systems, not whether they proved extraterrestrial visitation. As a result, officials often focused more attention on the effects of UFO reporting than on the objects themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
-The [Robertson]({{ 'robertson/' | relative_url }}) Panel reflected this logic. Its members concluded that the greater danger came from public reaction, communication overload and potential hostile exploitation rather than from the sightings under review. Their recommendations centred on information management, public education and reducing the disruptive impact of UFO enthusiasm on defence institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+The [Robertson]({{ 'robertson/' | relative_url }}) Panel reflected this logic. Its members concluded that the greater danger came from public reaction, communication overload and potential hostile exploitation rather than from the sightings under review. Their recommendations centred on information management, public education and reducing the disruptive impact of UFO enthusiasm on defence institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-3-dark.svg" | relative_url }}" alt="CIA Concern illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cia_ufo_crisis_noise_5bdf68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A nuclear-age lesson in information overload
 
-Viewed within the history of [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), the CIA's concern reveals how Cold War institutions understood security. The agency did not see UFO reports merely as curious stories. It saw them as information events capable of affecting the performance of warning networks during a period when minutes could matter in a nuclear confrontation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+Viewed within the history of [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), the CIA's concern reveals how Cold War institutions understood security. The agency did not see UFO reports merely as curious stories. It saw them as information events capable of affecting the performance of warning networks during a period when minutes could matter in a nuclear confrontation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
-The most significant legacy of this episode is therefore not evidence for or against extraterrestrial visitors. It is the recognition that modern defence systems can be threatened by confusion as well as by weapons. For CIA officials in the early 1950s, the danger was that a flood of unexplained reports could create enough noise to obscure the signal of a genuine crisis. In a world organised around the fear of nuclear surprise attack, that possibility alone made UFO reports a matter of national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
+The most significant legacy of this episode is therefore not evidence for or against extraterrestrial visitors. It is the recognition that modern defence systems can be threatened by confusion as well as by weapons. For CIA officials in the early 1950s, the danger was that a flood of unexplained reports could create enough noise to obscure the signal of a genuine crisis. In a world organised around the fear of nuclear surprise attack, that possibility alone made UFO reports a matter of national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oL3hwFyXm20" title="Project Blue Book: The Government’s Failed War on Flying Saucers | Curious History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer">Project Blue Book: The Government’s Failed War on Flying Saucers | Curious History</a></p><p class="youtube-embed-meta">Channel: The Curiosity Diary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oL3hwFyXm20">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could UFO reports jam a crisis response?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could UFO reports jam a crisis response?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses the meaning of unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the meaning of unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains official concern about reporting and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official concern about reporting and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CIA and the Cult of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xi-sAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The CIA and the Cult of Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Victor Marchetti, John Marks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The CIA and the Cult of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xi-sAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The CIA and the Cult of Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The CIA and the Cult of Intelligence">The CIA and the Cult of Intelligence</a>
+</h4>
+<p class="fr-book-author">By Victor Marchetti, John Marks</p>
         
-        <p class="fr-book-desc">Provides context for CIA thinking and information management.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for CIA thinking and information management.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence+by+Victor+Marchetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Captures Cold War nuclear-warning anxieties.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures Cold War nuclear-warning anxieties.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The CIA and the Cult of Intelligence</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+CIA+and+the+Cult+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The CIA and the Cult of Intelligence</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="cia-concern-could-ufo-reports-jam-a-crisis-response-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -704,7 +704,7 @@ The most significant legacy of this episode is therefore not evidence for or aga
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -724,7 +724,7 @@ The most significant legacy of this episode is therefore not evidence for or aga
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -756,7 +756,7 @@ The most significant legacy of this episode is therefore not evidence for or aga
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -808,7 +808,7 @@ The most significant legacy of this episode is therefore not evidence for or aga
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -853,7 +853,7 @@ The most significant legacy of this episode is therefore not evidence for or aga
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -894,104 +894,104 @@ The most significant legacy of this episode is therefore not evidence for or aga
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90The group believed that the Soviets could use UFO reports to tou...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
    Title: cias role in the study of ufos 1947 1990  
-   Link: <a href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-1990 - CSIThis study traces CIA interest and involvement in the UFO controversy from the late 1940s...</p></details>
+   Link:<a href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-1990 - CSIThis study traces CIA interest and involvement in the UFO controversy from the late 1940s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2026 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, DC, and later...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2026 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, DC, and later...</p></details>
    Published: May 9, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>comments and suggestions of ufo panelThe result is the mass receipt of low-grade reports which tend to overload channels of communicat...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comments and suggestions of ufo panelThe result is the mass receipt of low-grade reports which tend to overload channels of communicat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF MEETINGS OF SCIENTIFIC ADVISORY...U.F.O. reports. This problem was underlined by information received indicating ADC concern i...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF MEETINGS OF SCIENTIFIC ADVISORY...U.F.O. reports. This problem was underlined by information received indicating ADC concern i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
    Title: DOC 0005516124  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED...This report was prepared by a panel convened in January. 1953 at the direction of the f...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED...This report was prepared by a panel convened in January. 1953 at the direction of the f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2026 — The CIA analysts were broadly skeptical concerning the possibility that some UFO reports may represent extraterrestrial...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2026 — The CIA analysts were broadly skeptical concerning the possibility that some UFO reports may represent extraterrestrial...</p></details>
    Published: March 20, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ght 1ntensi&#x27;t7 ot...Read more...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ght 1ntensi&#x27;t7 ot...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xuTgayiSdns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xuTgayiSdns</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Cover-Up of the “UFO Problem” During the Cold WarThe CIA Cover-Up of the “UFO Problem” During the Cold War... Schoolyard witness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xuTgayiSdns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xuTgayiSdns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Cover-Up of the “UFO Problem” During the Cold WarThe CIA Cover-Up of the “UFO Problem” During the Cold War... Schoolyard witness...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government6.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government6.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Involvement in UFO DebunkingCIA Involvement in UFO Debunking - In the 1950s, the CIA reviewed UFO reports and recommended UFO debunking t...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government6.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government6.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Involvement in UFO DebunkingCIA Involvement in UFO Debunking - In the 1950s, the CIA reviewed UFO reports and recommended UFO debunking t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popularmechanics.com  
    Title: 50 Years Ago, the Air Force Tried to Make UFOs Go Away  
-   Link: <a href="https://www.popularmechanics.com/military/research/a30257166/[project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30257166/[project-blue-book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Dec 2019 —... debunk UFO reports to ensure UFOs become the subject of ridicule. It also recommended that UFO investigative and resear...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a30257166/[project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30257166/[project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Dec 2019 —... debunk UFO reports to ensure UFOs become the subject of ridicule. It also recommended that UFO investigative and resear...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: cias role in the study of ufos 194790 by gerald k  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;S ROLE IN THE STUDY OF UFO&#x27;S, 1947-90, BY...The group believed that the Soviets could use UFO reports to touch off mass hysteria and...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;S ROLE IN THE STUDY OF UFO&#x27;S, 1947-90, BY...The group believed that the Soviets could use UFO reports to touch off mass hysteria and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/question/How-have-governments-and-scientists-investigated-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/How-have-governments-and-scientists-investigated-UFO-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first widely publicized UFO sighting occurred in 1947, when...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/question/How-have-governments-and-scientists-investigated-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/How-have-governments-and-scientists-investigated-UFO-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first widely publicized UFO sighting occurred in 1947, when...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rmed the public as to the true importance of...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/cia_stonewalling.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rmed the public as to the true importance of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vetshistoryproject/posts/its-a-bird-its-a-plane-its-dyk-that-from-1952-1970-the-united-states-air-force-l/2319143141485192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vetshistoryproject/posts/its-a-bird-its-a-plane-its-dyk-that-from-1952-1970-the-united-states-air-force-l/2319143141485192/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>obertson Panel, which recommended that UFOs needed debunking.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/vetshistoryproject/posts/its-a-bird-its-a-plane-its-dyk-that-from-1952-1970-the-united-states-air-force-l/2319143141485192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vetshistoryproject/posts/its-a-bird-its-a-plane-its-dyk-that-from-1952-1970-the-united-states-air-force-l/2319143141485192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>obertson Panel, which recommended that UFOs needed debunking.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oL3hwFyXm20" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oL3hwFyXm20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: disclosurehk.com  
    Title: ufo filler 109 robertson panel cia  
-   Link: <a href="https://disclosurehk.com/blog/ufo-filler-109-robertson-panel-cia/" target="_blank" rel="noopener noreferrer nofollow">https://disclosurehk.com/blog/ufo-filler-109-robertson-panel-cia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis KanIn January 1953, the CIA assembled a group of scientists to form the “Robertson Panel,” chaired by physicist H.P. Robertson from...</p></details>
+   Link:<a href="https://disclosurehk.com/blog/ufo-filler-109-robertson-panel-cia/" target="_blank" rel="noopener noreferrer nofollow">https://disclosurehk.com/blog/ufo-filler-109-robertson-panel-cia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Davis KanIn January 1953, the CIA assembled a group of scientists to form the “Robertson Panel,” chaired by physicist H.P. Robertson from...</p></details>
    Published: January 1953  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952: THE INVASION OF WASHINGTON | DOCUMENTARY | 2024 | V ORIGINAL | TRAILER...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1952: THE INVASION OF WASHINGTON | DOCUMENTARY | 2024 | V ORIGINAL | TRAILER...</p></details>

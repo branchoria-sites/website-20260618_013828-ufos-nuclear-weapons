@@ -484,35 +484,35 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8-overvie
 
 ## Introduction
 
-The 2010 National Press Club veterans event mattered because it moved one of the strangest claims in the UFO-and-nuclear-weapons debate from specialist books, conferences and local [reporting]({{ 'reporting/' | relative_url }}) into a mainstream media setting. On 27 September 2010, former US Air Force personnel and UFO researcher Robert Hastings presented claims that [unidentified]({{ 'unidentified/' | relative_url }}) objects had appeared near nuclear missile sites, weapons storage areas or related military facilities, sometimes during periods when missile systems reportedly malfunctioned. The event did not prove that UFOs disabled nuclear weapons, and it did not produce official confirmation of an extraterrestrial cause. Its impact was different: it gave the nuclear-UFO story a public, witness-led format that journalists could cover, sceptics could challenge, and later UAP debates could refer back to. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire+2documentcloud.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">News provided by.Read more</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press ConferenceOctober 14, 2010 — 14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military...</span><span class="citation-popover-meta">Published: October 14, 2010</span></span></span>
+The 2010 National Press Club veterans event mattered because it moved one of the strangest claims in the UFO-and-nuclear-weapons debate from specialist books, conferences and local [reporting]({{ 'reporting/' | relative_url }}) into a mainstream media setting. On 27 September 2010, former US Air Force personnel and UFO researcher Robert Hastings presented claims that [unidentified]({{ 'unidentified/' | relative_url }}) objects had appeared near nuclear missile sites, weapons storage areas or related military facilities, sometimes during periods when missile systems reportedly malfunctioned. The event did not prove that UFOs disabled nuclear weapons, and it did not produce official confirmation of an extraterrestrial cause. Its impact was different: it gave the nuclear-UFO story a public, witness-led format that journalists could cover, sceptics could challenge, and later UAP debates could refer back to.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire+2documentcloud.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">News provided by.Read more</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press ConferenceOctober 14, 2010 — 14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military...</span><span class="citation-popover-meta">Published: October 14, 2010</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8-overview.webp" | relative_url }}" alt="Overview image for 2010 Event" loading="eager" decoding="sync" fetchpriority="high">
-The event sits at a revealing midpoint in the modern UFO story. It came decades after [Project Blue Book]({{ 'blue-book/' | relative_url }}), the US Air Force’s official UFO investigation, had closed with the conclusion that no investigated UFO report showed a threat to national security, advanced technology beyond known science, or extraterrestrial vehicles. It also came years before the post-2017 shift in US public discussion, when “UAP” became the more official term and Congress, the Pentagon and the All-domain Anomaly Resolution Office began treating [unresolved]({{ 'unresolved/' | relative_url }}) aerial reports as a live governance and data problem rather than only a fringe cultural issue. National Archives+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — As a result of these investigations and studies and exp...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+The event sits at a revealing midpoint in the modern UFO story. It came decades after [Project Blue Book]({{ 'blue-book/' | relative_url }}), the US Air Force’s official UFO investigation, had closed with the conclusion that no investigated UFO report showed a threat to national security, advanced technology beyond known science, or extraterrestrial vehicles. It also came years before the post-2017 shift in US public discussion, when “UAP” became the more official term and Congress, the Pentagon and the All-domain Anomaly Resolution Office began treating [unresolved]({{ 'unresolved/' | relative_url }}) aerial reports as a live governance and data problem rather than only a fringe cultural issue. National Archives+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — As a result of these investigations and studies and exp...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 ## What was presented in 2010
 
-The National Press Club event was built around a simple public claim: [military witnesses]({{ 'witnesses/' | relative_url }}) said UFO incidents at nuclear weapons sites had been mishandled, hidden or minimised, and the US government should disclose what it knew. The organisers framed the news conference as the “UFO-Nukes Connection” and said the 27 September 2010 event had been streamed live by CNN and had generated worldwide media attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">News provided by.Read more</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press ConferenceOctober 14, 2010 — 14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military...</span><span class="citation-popover-meta">Published: October 14, 2010</span></span></span>
+The National Press Club event was built around a simple public claim: [military witnesses]({{ 'witnesses/' | relative_url }}) said UFO incidents at nuclear weapons sites had been mishandled, hidden or minimised, and the US government should disclose what it knew. The organisers framed the news conference as the “UFO-Nukes Connection” and said the 27 September 2010 event had been streamed live by CNN and had generated worldwide media attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">News provided by.Read more</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press ConferenceOctober 14, 2010 — 14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military...</span><span class="citation-popover-meta">Published: October 14, 2010</span></span></span>
 
-The personnel associated with the event were not random civilian enthusiasts. Accounts from the period identify the speakers as former or retired Air Force personnel, including Robert Salas, Dwynne Arneson, Robert Jamison, Bruce Fenstermacher, Patrick McDonough, Jerome Nelson and retired Colonel Charles Halt, with Hastings presenting the wider research case. Several were connected, directly or indirectly, to Cold War missile or nuclear-security environments. That gave the event its public force: it was not merely “people saw lights”, but “people with relevant military backgrounds say unusual events occurred near strategic weapons systems”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://anomalien.com/aliens-are-allegedly-monitoring-united-states-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">Aliens are, Allegedly, Monitoring United States Nukes</span><span class="citation-popover-snippet">Aliens are, Allegedly, Monitoring United States Nukes</span></span></span>
+The personnel associated with the event were not random civilian enthusiasts. Accounts from the period identify the speakers as former or retired Air Force personnel, including Robert Salas, Dwynne Arneson, Robert Jamison, Bruce Fenstermacher, Patrick McDonough, Jerome Nelson and retired Colonel Charles Halt, with Hastings presenting the wider research case. Several were connected, directly or indirectly, to Cold War missile or nuclear-security environments. That gave the event its public force: it was not merely “people saw lights”, but “people with relevant military backgrounds say unusual events occurred near strategic weapons systems”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://anomalien.com/aliens-are-allegedly-monitoring-united-states-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">Aliens are, Allegedly, Monitoring United States Nukes</span><span class="citation-popover-snippet">Aliens are, Allegedly, Monitoring United States Nukes</span></span></span>
 
-The best-known claim concerned Malmstrom Air Force Base in Montana in 1967. Robert Salas had long argued that, while he was on duty in an underground missile launch control centre, security personnel reported an unusual glowing object near the facility and missiles then went offline. The broader Malmstrom story is complicated because the missile malfunction itself is part of the record, while the alleged UFO connection rests heavily on later witness testimony and disputed interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science Former Air Force Officers Claim UFOs Visited Bases</span><span class="citation-popover-snippet">Popular Science Former Air Force Officers Claim UFOs Visited Bases</span></span></span>
+The best-known claim concerned Malmstrom Air Force Base in Montana in 1967. Robert Salas had long argued that, while he was on duty in an underground missile launch control centre, security personnel reported an unusual glowing object near the facility and missiles then went offline. The broader Malmstrom story is complicated because the missile malfunction itself is part of the record, while the alleged UFO connection rests heavily on later witness testimony and disputed interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science Former Air Force Officers Claim UFOs Visited Bases</span><span class="citation-popover-snippet">Popular Science Former Air Force Officers Claim UFOs Visited Bases</span></span></span>
 
-Robert Jamison’s account added another kind of testimony. He described missile-related duties at Malmstrom and spoke about a period when missiles went off alert status and UFO rumours circulated around the base. The importance of this testimony was not that Jamison personally supplied a complete causal chain from UFO to missile failure, but that his account placed the Malmstrom story inside a wider base culture of unusual reports, technical disruption and later secrecy claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Open source on wired.com.</span></span></span>
+Robert Jamison’s account added another kind of testimony. He described missile-related duties at Malmstrom and spoke about a period when missiles went off alert status and UFO rumours circulated around the base. The importance of this testimony was not that Jamison personally supplied a complete causal chain from UFO to missile failure, but that his account placed the Malmstrom story inside a wider base culture of unusual reports, technical disruption and later secrecy claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Open source on wired.com.</span></span></span>
 
-Charles Halt’s participation widened the frame beyond US intercontinental ballistic missile fields. Halt was associated with the Rendlesham Forest/Bentwaters case in Britain, where he had previously reported unusual lights near a US-operated base complex in Suffolk. At the 2010 event, his presence helped connect nuclear-weapons claims to a broader pattern of military-base UFO stories rather than to Malmstrom alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Open source on wired.com.</span></span></span>
+Charles Halt’s participation widened the frame beyond US intercontinental ballistic missile fields. Halt was associated with the Rendlesham Forest/Bentwaters case in Britain, where he had previously reported unusual lights near a US-operated base complex in Suffolk. At the 2010 event, his presence helped connect nuclear-weapons claims to a broader pattern of military-base UFO stories rather than to Malmstrom alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Open source on wired.com.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8-Illustration-1-dark.svg" | relative_url }}" alt="2010 Event illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Affidavits and declassified documents
 
-The 2010 event’s most durable product was not the press conference itself, but the package of affidavits and documents promoted after it. DocumentCloud describes the released material as declassified US government documents presented at the 27 September 2010 National Press Club news conference and says they “purportedly” linked UFOs and disruptions at several nuclear missile bases. That word matters: the documents were real as records, but the interpretation that they proved a UFO-nuclear connection remained contested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[documentcloud.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">disruptions at several nuclear missile bases.Read more...</span></span></span>
+The 2010 event’s most durable product was not the press conference itself, but the package of affidavits and documents promoted after it. DocumentCloud describes the released material as declassified US government documents presented at the 27 September 2010 National Press Club news conference and says they “purportedly” linked UFOs and disruptions at several nuclear missile bases. That word matters: the documents were real as records, but the interpretation that they proved a UFO-nuclear connection remained contested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[documentcloud.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">disruptions at several nuclear missile bases.Read more...</span></span></span>
 
-The organisers later announced that witness affidavits and declassified documents were available online. Their stated purpose was to give journalists, researchers and the public something more durable than a one-day media spectacle. In practice, the documents helped the story travel: readers could move from “veterans made claims” to “here are named statements and archival materials that supporters say fit those claims”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">News provided by.Read more</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press ConferenceOctober 14, 2010 — 14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military...</span><span class="citation-popover-meta">Published: October 14, 2010</span></span></span>
+The organisers later announced that witness affidavits and declassified documents were available online. Their stated purpose was to give journalists, researchers and the public something more durable than a one-day media spectacle. In practice, the documents helped the story travel: readers could move from “veterans made claims” to “here are named statements and archival materials that supporters say fit those claims”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-title">News provided by.Read more</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press ConferenceOctober 14, 2010 — 14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military...</span><span class="citation-popover-meta">Published: October 14, 2010</span></span></span>
 
 The evidential mix was uneven, and that unevenness is central to understanding the public impact. The strongest pieces were specific, named military witnesses willing to attach their reputations to claims about incidents at sensitive sites. The weaker part was the gap between reported events and proof of cause. A missile system fault, a security report, a classified message, or a witness memory can establish that something was reported or that something malfunctioned; it does not, by itself, establish that an unknown craft caused the fault or that the object was extraterrestrial.
 
-That distinction explains why the event was persuasive to some readers and frustrating to others. Supporters saw former military personnel describing a repeated pattern around nuclear sites. [Sceptics]({{ 'sceptics/' | relative_url }}) saw a set of old cases, reconstructed years later, with limited physical evidence, inconsistent access to original records, and conclusions that went beyond what the documents could prove. Contemporary coverage reflected this split: some outlets reported the claims as serious testimony by former officers, while others treated the alien-nuclear interpretation with open scepticism or ridicule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
+That distinction explains why the event was persuasive to some readers and frustrating to others. Supporters saw former military personnel describing a repeated pattern around nuclear sites. [Sceptics]({{ 'sceptics/' | relative_url }}) saw a set of old cases, reconstructed years later, with limited physical evidence, inconsistent access to original records, and conclusions that went beyond what the documents could prove. Contemporary coverage reflected this split: some outlets reported the claims as serious testimony by former officers, while others treated the alien-nuclear interpretation with open scepticism or ridicule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3twCIdXmSP4" title="UFOs Disabling Our Nuclear Weapons Conference Robert Hastings 27th September 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3twCIdXmSP4" target="_blank" rel="noopener noreferrer">UFOs Disabling Our Nuclear Weapons Conference Robert Hastings 27th September 2010</a></p><p class="youtube-embed-meta">Channel: gabrielonatyu</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3twCIdXmSP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3twCIdXmSP4">Open on YouTube</a></p></div></div></div>
@@ -521,7 +521,7 @@ That distinction explains why the event was persuasive to some readers and frust
 
 The National Press Club setting mattered because it translated a specialist claim into a recognisable Washington format. A press conference with named veterans, prepared statements and document packets looks different from a late-night radio interview or a UFO convention panel. It gives journalists a hook: who spoke, what did they claim, what documents were released, and how did the government respond?
 
-That format made the claim more legible to mainstream audiences. CBS covered the story under the headline “Ex-Air Force Personnel: UFOs Deactivated Nukes” and noted Hastings’ claim that more than 120 former service members had told him of UFO sightings near nuclear weapons storage and testing grounds. ABC News framed the event as former airmen asking the government to “come clean” about UFOs. Wired covered the same event in a sharply sceptical tone, mocking the alien-disarmament interpretation while still reporting the central claims and naming the participants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ex air force personnel ufos deactivated nukes</span><span class="citation-popover-snippet">ex air force personnel ufos deactivated nukes</span></span></span>
+That format made the claim more legible to mainstream audiences. CBS covered the story under the headline “Ex-Air Force Personnel: UFOs Deactivated Nukes” and noted Hastings’ claim that more than 120 former service members had told him of UFO sightings near nuclear weapons storage and testing grounds. ABC News framed the event as former airmen asking the government to “come clean” about UFOs. Wired covered the same event in a sharply sceptical tone, mocking the alien-disarmament interpretation while still reporting the central claims and naming the participants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ex air force personnel ufos deactivated nukes</span><span class="citation-popover-snippet">ex air force personnel ufos deactivated nukes</span></span></span>
 
 This spread of coverage was itself a public-impact marker. The event did not win universal respect, but it crossed the threshold from UFO subculture into mainstream media circulation. A reader in 2010 did not have to follow UFO newsletters to encounter the claim; it appeared in national and technology media, with the tension between military witness credibility and extraordinary interpretation built into the coverage.
 
@@ -531,13 +531,13 @@ The event also helped establish a repeatable public script for later nuclear-UAP
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8-Illustration-2-dark.svg" | relative_url }}" alt="2010 Event illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Media attention and official pushback
 
-Official pushback did not take the form of a detailed public rebuttal of every witness claim. Instead, journalists typically placed the event against the long-standing Air Force position from Project Blue Book. The official Project Blue Book conclusion, preserved by the National Archives and the Air Force, was that no UFO investigated and evaluated by the Air Force had indicated a threat to national security; no evidence showed unidentified sightings represented technology beyond modern scientific knowledge; and no evidence showed extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — As a result of these investigations and studies and exp...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+Official pushback did not take the form of a detailed public rebuttal of every witness claim. Instead, journalists typically placed the event against the long-standing Air Force position from Project Blue Book. The official Project Blue Book conclusion, preserved by the National Archives and the Air Force, was that no UFO investigated and evaluated by the Air Force had indicated a threat to national security; no evidence showed unidentified sightings represented technology beyond modern scientific knowledge; and no evidence showed extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — As a result of these investigations and studies and exp...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
-That official position created a direct clash with the veterans’ message. The 2010 speakers were not merely saying “we saw unidentified things”. They were arguing that UFO activity at nuclear sites had national security implications and had been concealed or minimised. Project Blue Book’s published conclusions, by contrast, said the Air Force had not found such a national security threat in the cases it investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
+That official position created a direct clash with the veterans’ message. The 2010 speakers were not merely saying “we saw unidentified things”. They were arguing that UFO activity at nuclear sites had national security implications and had been concealed or minimised. Project Blue Book’s published conclusions, by contrast, said the Air Force had not found such a national security threat in the cases it investigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
 
-CBS also cited a 1997 Pentagon statement by spokesperson Kenneth Bacon saying the government could not substantiate the existence of UFOs or the claim that it possessed UFO remains. That was not a case-specific refutation of Malmstrom or Bentwaters, but it gave mainstream readers the official baseline: the US government was not publicly validating the extraordinary interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ex air force personnel ufos deactivated nukes</span><span class="citation-popover-snippet">ex air force personnel ufos deactivated nukes</span></span></span>
+CBS also cited a 1997 Pentagon statement by spokesperson Kenneth Bacon saying the government could not substantiate the existence of UFOs or the claim that it possessed UFO remains. That was not a case-specific refutation of Malmstrom or Bentwaters, but it gave mainstream readers the official baseline: the US government was not publicly validating the extraordinary interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ex air force personnel ufos deactivated nukes</span><span class="citation-popover-snippet">ex air force personnel ufos deactivated nukes</span></span></span>
 
-Later official UAP reviews have reinforced the need for caution, even as the subject has become less dismissible as a matter of aviation and defence reporting. [AARO]({{ 'aaro/' | relative_url }})’s 2024 historical report said it found no evidence that any US government investigation, academic study or official review had confirmed a UAP as extraterrestrial technology. AARO’s public-facing material also states that the Department has found no evidence of extraterrestrial technology, while noting that examination of UAP sightings continues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Air Command locations, ports, and industrial sites.22. • No evidence...</span></span></span>
+Later official UAP reviews have reinforced the need for caution, even as the subject has become less dismissible as a matter of aviation and defence reporting. [AARO]({{ 'aaro/' | relative_url }})’s 2024 historical report said it found no evidence that any US government investigation, academic study or official review had confirmed a UAP as extraterrestrial technology. AARO’s public-facing material also states that the Department has found no evidence of extraterrestrial technology, while noting that examination of UAP sightings continues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Air Command locations, ports, and industrial sites.22. • No evidence...</span></span></span>
 
 This later official position does not erase the 2010 event’s historical importance. It does, however, define the boundary between impact and proof. The event helped make nuclear-UFO claims more visible; it did not cause official bodies to confirm those claims as extraterrestrial or as demonstrated interference with nuclear weapons.
 
@@ -546,13 +546,13 @@ This later official position does not erase the 2010 event’s historical import
 
 ## What changed after the event
 
-The most important public change was not policy, but credibility architecture. Before 2010, the nuclear-UFO theme was already present in UFO literature, especially through Hastings’ research and earlier claims by Salas and others. After the National Press Club event, the subject had a compact public reference point: a date, a venue, a panel of veterans, and an associated document release. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/the-ufos-nukes-connection-press-conference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">the ufos nukes connection press conference</span><span class="citation-popover-snippet">The UFOs-Nukes Connection Press Conference11 Oct 2010 — The event showcased stunning UFO incidents at nuclear weapons sites, as revealed...</span></span></span>
+The most important public change was not policy, but credibility architecture. Before 2010, the nuclear-UFO theme was already present in UFO literature, especially through Hastings’ research and earlier claims by Salas and others. After the National Press Club event, the subject had a compact public reference point: a date, a venue, a panel of veterans, and an associated document release.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/the-ufos-nukes-connection-press-conference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">the ufos nukes connection press conference</span><span class="citation-popover-snippet">The UFOs-Nukes Connection Press Conference11 Oct 2010 — The event showcased stunning UFO incidents at nuclear weapons sites, as revealed...</span></span></span>
 
 That mattered for three audiences.
 
-First, it gave believers and disclosure advocates a stronger public package. They could point to named former personnel rather than anonymous rumours. They could circulate affidavits and document collections rather than rely only on retellings. They could argue that the witnesses were not asking the public to accept a single isolated sighting, but to notice a pattern across missile fields, weapons storage areas and military bases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[documentcloud.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">disruptions at several nuclear missile bases.Read more...</span></span></span>
+First, it gave believers and disclosure advocates a stronger public package. They could point to named former personnel rather than anonymous rumours. They could circulate affidavits and document collections rather than rely only on retellings. They could argue that the witnesses were not asking the public to accept a single isolated sighting, but to notice a pattern across missile fields, weapons storage areas and military bases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[documentcloud.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">disruptions at several nuclear missile bases.Read more...</span></span></span>
 
-Second, it gave journalists a test case in how to cover extraordinary military claims. The coverage showed several possible approaches: straightforward reporting of the veterans’ allegations, sceptical framing, humour, or emphasis on the government’s historical denial. That diversity of tone is part of the event’s impact. It made the claims visible without producing agreement about their meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ex air force personnel ufos deactivated nukes</span><span class="citation-popover-snippet">ex air force personnel ufos deactivated nukes</span></span></span>
+Second, it gave journalists a test case in how to cover extraordinary military claims. The coverage showed several possible approaches: straightforward reporting of the veterans’ allegations, sceptical framing, humour, or emphasis on the government’s historical denial. That diversity of tone is part of the event’s impact. It made the claims visible without producing agreement about their meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">ex air force personnel ufos deactivated nukes</span><span class="citation-popover-snippet">ex air force personnel ufos deactivated nukes</span></span></span>
 
 Third, it gave sceptics a clearer target. Once the claims were packaged as a public event with documents and named witnesses, critics could ask sharper questions: Which missile failures are independently documented? Which witnesses saw an object directly, and which heard reports from others? Are the records contemporaneous or retrospective? Do the documents support the dramatic interpretation, or only show that unusual reports and technical failures existed in the same broad environment?
 
@@ -571,194 +571,194 @@ That tension is why the 2010 event continues to matter. It helped move nuclear-U
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Veterans Brought The Claims Public. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Veterans Brought The Claims Public. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Places the event within the wider disclosure narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the event within the wider disclosure narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Features military and government witnesses similar to those at the event.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features military and government witnesses similar to those at the event.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Provides cultural context for why such claims gain attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cultural context for why such claims gain attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Most directly connected to the claims presented publicly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Most directly connected to the claims presented publicly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base"><img src="{{ '/assets/images/marketplace-covers/42b976f322a11a4afaf1.jpg' | relative_url }}" alt="Listing image for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base"><img src="{{ '/assets/images/marketplace-covers/42b976f322a11a4afaf1.jpg' | relative_url }}" alt="Listing image for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2"><img src="{{ '/assets/images/marketplace-covers/9b3033d51e616bd60814.jpg' | relative_url }}" alt="Listing image for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2"><img src="{{ '/assets/images/marketplace-covers/9b3033d51e616bd60814.jpg' | relative_url }}" alt="Listing image for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers"><img src="{{ '/assets/images/marketplace-covers/d28486c1029435f0ab10.jpg' | relative_url }}" alt="Listing image for Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers"><img src="{{ '/assets/images/marketplace-covers/d28486c1029435f0ab10.jpg' | relative_url }}" alt="Listing image for Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s"><img src="{{ '/assets/images/marketplace-covers/3df59e491f4bd48b162b.jpg' | relative_url }}" alt="Listing image for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s"><img src="{{ '/assets/images/marketplace-covers/3df59e491f4bd48b162b.jpg' | relative_url }}" alt="Listing image for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="2010-event-how-veterans-brought-the-claims-public-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -774,7 +774,7 @@ That tension is why the 2010 event continues to matter. It helped move nuclear-U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -794,7 +794,7 @@ That tension is why the 2010 event continues to matter. It helped move nuclear-U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -826,7 +826,7 @@ That tension is why the 2010 event continues to matter. It helped move nuclear-U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -878,7 +878,7 @@ That tension is why the 2010 event continues to matter. It helped move nuclear-U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -923,7 +923,7 @@ That tension is why the 2010 event continues to matter. It helped move nuclear-U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -964,141 +964,141 @@ That tension is why the 2010 event continues to matter. It helped move nuclear-U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>disruptions at several nuclear missile bases.Read more...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disruptions at several nuclear missile bases.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — As a result of these investigations and studies and exp...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — As a result of these investigations and studies and exp...</p></details>
    Published: August 15, 2016  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Air Command locations, ports, and industrial sites.22. • No evidence...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Air Command locations, ports, and industrial sites.22. • No evidence...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufohastings.com  
    Title: the ufos nukes connection press conference  
-   Link: <a href="https://www.ufohastings.com/articles/the-ufos-nukes-connection-press-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/the-ufos-nukes-connection-press-conference</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFOs-Nukes Connection Press Conference11 Oct 2010 — The event showcased stunning UFO incidents at nuclear weapons sites, as revealed...</p></details>
+   Link:<a href="https://www.ufohastings.com/articles/the-ufos-nukes-connection-press-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/the-ufos-nukes-connection-press-conference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFOs-Nukes Connection Press Conference11 Oct 2010 — The event showcased stunning UFO incidents at nuclear weapons sites, as revealed...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: anomalien.com  
    Title: Aliens are, Allegedly, Monitoring United States Nukes  
-   Link: <a href="https://anomalien.com/aliens-are-allegedly-monitoring-united-states-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/aliens-are-allegedly-monitoring-united-states-nukes/</a>  
+   Link:<a href="https://anomalien.com/aliens-are-allegedly-monitoring-united-states-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/aliens-are-allegedly-monitoring-united-states-nukes/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim</a>  
+   Link:<a href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: prnewswire.com  
    Title: News provided by.Read more  
-   Link: <a href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireThe UFO-Nukes Connection Press ConferenceOctober 14, 2010 — 14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireThe UFO-Nukes Connection Press ConferenceOctober 14, 2010 — 14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military...</p></details>
    Published: October 14, 2010  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: popsci.com  
    Title: Popular Science Former Air Force Officers Claim UFOs Visited Bases  
-   Link: <a href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/</a>  
+   Link:<a href="https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/article/2010-09/former-air-force-officers-claim-ufos-tampered-our-nukes/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cbsnews.com  
    Title: ex air force personnel ufos deactivated nukes  
-   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
+   Link:<a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/</a>  
+   Link:<a href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news/former-u.s.-air-force-officer-robert-salas%2C-and-researcher-robert-hastings/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=qGX1BMwLgKw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qGX1BMwLgKw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Press Club UFOs and Nukes 2010 Robert Hastings 2010 🇺🇸 #UFOB [PRESSCON] UFOs and Nuclear Weapons National Press Club meeting...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=qGX1BMwLgKw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qGX1BMwLgKw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Press Club UFOs and Nukes 2010 Robert Hastings 2010 🇺🇸 #UFOB [PRESSCON] UFOs and Nuclear Weapons National Press Club meeting...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=3twCIdXmSP4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3twCIdXmSP4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010 🇺🇸 #UFOB [PRESSCON] UFOs and Nuclear Weapons National Press Club meeting...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=3twCIdXmSP4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3twCIdXmSP4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010 🇺🇸 #UFOB [PRESSCON] UFOs and Nuclear Weapons National Press Club meeting...</p></details>
    Published: September 2010  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=SEL2-TYsujU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SEL2-TYsujU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010 🇺🇸 #UFOB [REPORT] CNN Robert Hastings on the press conference UFOs &amp; Nukes...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=SEL2-TYsujU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SEL2-TYsujU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010 🇺🇸 #UFOB [REPORT] CNN Robert Hastings on the press conference UFOs &amp; Nukes...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dhs.gov  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2021.pdf</a>  
+   Link:<a href="https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2021.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/rosscoulthart-argues-the-pentagon-is-keeping-information-from-the-public-about-u/423772826696407/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/rosscoulthart-argues-the-pentagon-is-keeping-information-from-the-public-about-u/423772826696407/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/rosscoulthart-argues-the-pentagon-is-keeping-information-from-the-public-about-u/423772826696407/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/rosscoulthart-argues-the-pentagon-is-keeping-information-from-the-public-about-u/423772826696407/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/brutamerica/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/brutamerica/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/brutamerica/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/brutamerica/?hl=en</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1s3c4p9/captain_robert_salas_who_claims_that_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1s3c4p9/captain_robert_salas_who_claims_that_ufos/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1s3c4p9/captain_robert_salas_who_claims_that_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1s3c4p9/captain_robert_salas_who_claims_that_ufos/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: chinafile.com  
-   Link: <a href="https://www.chinafile.com/contributors/Wu" target="_blank" rel="noopener noreferrer nofollow">https://www.chinafile.com/contributors/Wu</a>  
+   Link:<a href="https://www.chinafile.com/contributors/Wu" target="_blank" rel="noopener noreferrer nofollow">https://www.chinafile.com/contributors/Wu</a>  

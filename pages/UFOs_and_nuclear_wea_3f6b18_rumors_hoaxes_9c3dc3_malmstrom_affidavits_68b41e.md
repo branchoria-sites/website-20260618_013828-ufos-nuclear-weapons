@@ -272,14 +272,14 @@ The Malmstrom affidavits occupy a unique place in debates about [UFOs and nuclea
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-1-dark.svg" | relative_url }}" alt="Affidavits illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This makes the Malmstrom case an important study in the memory problem. The affidavits added details that were absent from many official records, but they also emerged after decades of discussion, media coverage, investigator interviews and witness interaction. Understanding how those two realities coexist is essential for evaluating the evidential value of the Malmstrom narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+This makes the Malmstrom case an important study in the memory problem. The affidavits added details that were absent from many official records, but they also emerged after decades of discussion, media coverage, investigator interviews and witness interaction. Understanding how those two realities coexist is essential for evaluating the evidential value of the Malmstrom narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer">Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer">Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7uzLVw5HwA">Open on YouTube</a></p></div></div></div>
 
 ## What the affidavits added to the case
 
-The modern Malmstrom UFO narrative depends heavily on affidavits and testimony that appeared many years after the missile incidents of March 1967. Former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) became the best-known witness, publicly linking missile shutdowns with reports of unusual aerial objects. Other former personnel later submitted affidavits describing sightings, security alerts, briefings or discussions that they believed connected UFO activity with missile operations. These statements were formally collected and presented at public events, including a 2010 National [Press Club]({{ '2010-event/' | relative_url }}) conference where several Malmstrom-related affidavits were released. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+The modern Malmstrom UFO narrative depends heavily on affidavits and testimony that appeared many years after the missile incidents of March 1967. Former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) became the best-known witness, publicly linking missile shutdowns with reports of unusual aerial objects. Other former personnel later submitted affidavits describing sightings, security alerts, briefings or discussions that they believed connected UFO activity with missile operations. These statements were formally collected and presented at public events, including a 2010 National [Press Club]({{ '2010-event/' | relative_url }}) conference where several Malmstrom-related affidavits were released.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
 The affidavits contributed three important elements that were largely absent from the technical records:
 
@@ -292,9 +292,9 @@ The affidavits contributed three important elements that were largely absent fro
 
 </div>
 
-These additions mattered because the official engineering and operational documents primarily focused on missile performance, fault analysis and command procedures. The affidavits attempted to supply the human context that the technical files did not preserve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</span></span></span>
+These additions mattered because the official engineering and operational documents primarily focused on missile performance, fault analysis and command procedures. The affidavits attempted to supply the human context that the technical files did not preserve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</span></span></span>
 
-Supporters of the UFO interpretation argue that the consistency of some witness accounts across multiple individuals strengthens the case. Critics respond that consistency alone does not establish accuracy when witnesses are recalling events from decades earlier and often after extensive exposure to the same public narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</span></span></span>
+Supporters of the UFO interpretation argue that the consistency of some witness accounts across multiple individuals strengthens the case. Critics respond that consistency alone does not establish accuracy when witnesses are recalling events from decades earlier and often after extensive exposure to the same public narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eazdcb5YmUw" title="What Happened the Night UFOs Found Our Nuclear Weapons | Robert Salas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eazdcb5YmUw" target="_blank" rel="noopener noreferrer">What Happened the Night UFOs Found Our Nuclear Weapons | Robert Salas</a></p><p class="youtube-embed-meta">Channel: Danny Jones Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eazdcb5YmUw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eazdcb5YmUw">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ The Malmstrom case contains several features that make this issue especially rel
 
 Under those conditions, memories can become richer and more detailed over time even when documentary support remains limited. The resulting testimony may be entirely sincere while still differing from what participants would have reported immediately after the incident.
 
-This is one reason historians generally give substantial weight to contemporary records. Documents produced during or shortly after an event are not necessarily complete, but they are less vulnerable to decades of retrospective reconstruction. The Malmstrom debate therefore revolves less around honesty than around evidential hierarchy: should greater weight be assigned to records created in 1967 or to recollections formalised many years later? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+This is one reason historians generally give substantial weight to contemporary records. Documents produced during or shortly after an event are not necessarily complete, but they are less vulnerable to decades of retrospective reconstruction. The Malmstrom debate therefore revolves less around honesty than around evidential hierarchy: should greater weight be assigned to records created in 1967 or to recollections formalised many years later?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-2-dark.svg" | relative_url }}" alt="Affidavits illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,15 +328,15 @@ This is one reason historians generally give substantial weight to contemporary 
 
 The tension between affidavits and official records is the defining feature of the Malmstrom evidence base.
 
-On one side are declassified Air Force materials documenting a genuine missile-system problem. The Echo Flight incident is not fictional; operational records confirm that multiple missiles experienced a serious malfunction. The existence of the technical event itself is well established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+On one side are declassified Air Force materials documenting a genuine missile-system problem. The Echo Flight incident is not fictional; operational records confirm that multiple missiles experienced a serious malfunction. The existence of the technical event itself is well established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
-On the other side are later witness statements connecting the malfunction to reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects. Those statements provide the UFO component of the story. Without them, the historical record would primarily describe a missile failure investigation rather than a UFO-nuclear encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+On the other side are later witness statements connecting the malfunction to reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects. Those statements provide the UFO component of the story. Without them, the historical record would primarily describe a missile failure investigation rather than a UFO-nuclear encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
-The difficulty is that the surviving contemporary documentation does not clearly corroborate the UFO claims. A declassified history associated with the incident explicitly stated that rumours of UFO activity around Echo Flight were investigated and considered disproven. Later engineering discussions focused on technical explanations for the missile [failures]({{ 'failures/' | relative_url }}) rather than external interference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+The difficulty is that the surviving contemporary documentation does not clearly corroborate the UFO claims. A declassified history associated with the incident explicitly stated that rumours of UFO activity around Echo Flight were investigated and considered disproven. Later engineering discussions focused on technical explanations for the missile [failures]({{ 'failures/' | relative_url }}) rather than external interference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
 This does not automatically invalidate the affidavits. Witnesses may remember information that never entered official files. Military organisations routinely fail to document every conversation, observation or informal briefing. However, the lack of contemporaneous documentary confirmation means that the affidavits cannot simply be treated as independent verification of the records. Instead, they function as a separate evidential stream that must be compared against those records.
 
-The strongest historical approach is therefore neither unconditional acceptance nor automatic dismissal. The affidavits demonstrate that some former personnel believed there was a UFO dimension to the events. The official records demonstrate that the Air Force documented missile malfunctions and did not officially attribute them to UFO activity. Both facts are part of the historical record, but they are different kinds of evidence and carry different strengths and limitations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+The strongest historical approach is therefore neither unconditional acceptance nor automatic dismissal. The affidavits demonstrate that some former personnel believed there was a UFO dimension to the events. The official records demonstrate that the Air Force documented missile malfunctions and did not officially attribute them to UFO activity. Both facts are part of the historical record, but they are different kinds of evidence and carry different strengths and limitations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/10n29IRC8OU" title="1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer">1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone</a></p><p class="youtube-embed-meta">Channel: Queen City News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=10n29IRC8OU">Open on YouTube</a></p></div></div></div>
@@ -349,200 +349,200 @@ Late affidavits can preserve memories that would otherwise be lost. They can rev
 
 At the same time, affidavits produced decades after an event cannot fully recreate the evidential position that would have existed in 1967. They arrive after memory has aged, after narratives have formed and after witnesses have had years to interpret their experiences. The Malmstrom case therefore illustrates a broader lesson in UFO research: sincere testimony is evidence, but it is not the same thing as contemporaneous documentation.
 
-The enduring significance of the affidavits lies less in proving or disproving a UFO explanation than in demonstrating how historical cases evolve. As records remain fixed and memories continue to develop, the challenge becomes determining where those two forms of evidence converge, where they conflict and how much confidence can reasonably be placed in each. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+The enduring significance of the affidavits lies less in proving or disproving a UFO explanation than in demonstrating how historical cases evolve. As records remain fixed and memories continue to develop, the challenge becomes determining where those two forms of evidence converge, where they conflict and how much confidence can reasonably be placed in each.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-3-dark.svg" | relative_url }}" alt="Affidavits illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Late Affidavits Rebuild Malmstrom?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Late Affidavits Rebuild Malmstrom?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Dr Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Dr Julia Shaw</p>
         
-        <p class="fr-book-desc">Directly relevant to decades-later affidavits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to decades-later affidavits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Helps readers assess late witness recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess late witness recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Useful for understanding how UFO cases evolve over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how UFO cases evolve over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides perspective on official records versus later narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides perspective on official records versus later narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle"><img src="{{ '/assets/images/marketplace-covers/7eda67145211cbee5179.jpg' | relative_url }}" alt="Listing image for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle"><img src="{{ '/assets/images/marketplace-covers/7eda67145211cbee5179.jpg' | relative_url }}" alt="Listing image for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin USFOR Afghanistan United States Armed Forces"><img src="{{ '/assets/images/marketplace-covers/f35832bcbf407aded81c.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin USFOR Afghanistan United States Armed Forces" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin USFOR Afghanistan United States Armed Forces</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin USFOR Afghanistan United States Armed Forces"><img src="{{ '/assets/images/marketplace-covers/f35832bcbf407aded81c.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin USFOR Afghanistan United States Armed Forces" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin USFOR Afghanistan United States Armed Forces</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN"><img src="{{ '/assets/images/marketplace-covers/1eaf79f13b82d5ff0ebf.jpg' | relative_url }}" alt="Listing image for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN"><img src="{{ '/assets/images/marketplace-covers/1eaf79f13b82d5ff0ebf.jpg' | relative_url }}" alt="Listing image for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy"><img src="{{ '/assets/images/marketplace-covers/1c14d7ff9aebbad1de6d.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy"><img src="{{ '/assets/images/marketplace-covers/1c14d7ff9aebbad1de6d.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="affidavits-can-late-affidavits-rebuild-malmstrom-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ The enduring significance of the affidavits lies less in proving or disproving a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ The enduring significance of the affidavits lies less in proving or disproving a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ The enduring significance of the affidavits lies less in proving or disproving a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ The enduring significance of the affidavits lies less in proving or disproving a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ The enduring significance of the affidavits lies less in proving or disproving a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,73 +748,73 @@ The enduring significance of the affidavits lies less in proving or disproving a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf14 Jun 2001 — On 16!-2rch 1967... [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdf14 Jun 2001 — On 16!-2rch 1967... [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufoevidence.com  
    Title: Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOsBut Salas said it&#x27;s a &quot;falsehood&quot; that UFOs are not a national security threat and clai...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOsBut Salas said it&#x27;s a &quot;falsehood&quot; that UFOs are not a national security threat and clai...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/203412665109/posts/10164743352475110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203412665109/posts/10164743352475110/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s took contol of a flight of missiles at Malmstrom...#UFO #aliens #ufosighting #EkstraOrdinaryo · No photo description available. 13...</p></details>
+   Link:<a href="https://www.facebook.com/groups/203412665109/posts/10164743352475110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203412665109/posts/10164743352475110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s took contol of a flight of missiles at Malmstrom...#UFO #aliens #ufosighting #EkstraOrdinaryo · No photo description available. 13...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/446757085724945/posts/1612257645841544/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/446757085724945/posts/1612257645841544/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom evidently had a snafu of sort with ten nukes going...Sep 30, 2025 — These are the affidavits of Robert Salas and his security...</p></details>
+   Link:<a href="https://www.facebook.com/groups/446757085724945/posts/1612257645841544/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/446757085724945/posts/1612257645841544/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom evidently had a snafu of sort with ten nukes going...Sep 30, 2025 — These are the affidavits of Robert Salas and his security...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disc shaped UFO seen near Vandenberg missile test in...... Air Force base report a UFO. Blue Book officers arrive, and again... 1967 Ma...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disc shaped UFO seen near Vandenberg missile test in...... Air Force base report a UFO. Blue Book officers arrive, and again... 1967 Ma...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r 50 years, before ﬁnally revealing the secrets to his son Mark.5 Deathbed...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r 50 years, before ﬁnally revealing the secrets to his son Mark.5 Deathbed...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: meer.com  
    Title: 74766 the malmstrom nuclear ufo incident 1967 returns  
-   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Revisited with witness Robert Bob Salas.... US Air Force ICBM launch offi...</p></details>
+   Link:<a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Revisited with witness Robert Bob Salas.... US Air Force ICBM launch offi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;aliens” constructed like insects here on Earth, according to rumors... ○ [https://exonews.org/nsa-document-supports-whistleblower-claim-a...&quot;](https://exonews.org/nsa-document-supports-whistleblower-claim-a...&quot;)...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;aliens” constructed like insects here on Earth, according to rumors... ○ [https://exonews.org/nsa-document-supports-whistleblower-claim-a...&quot;](https://exonews.org/nsa-document-supports-whistleblower-claim-a...&quot;)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident at Malmstrom Air Force Base, specifically the incursion over Echo Flight.... r/UfoUapNews - Trump-Era FBI UFO Files: Allege...</p></details>
+   Link:<a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident at Malmstrom Air Force Base, specifically the incursion over Echo Flight.... r/UfoUapNews - Trump-Era FBI UFO Files: Allege...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>explicably disabled while a UFO was reportedly seen hovering...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>explicably disabled while a UFO was reportedly seen hovering...Read more...</p></details>

@@ -452,17 +452,17 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_w
 
 ## Introduction
 
-Cold War Americans did not look at strange lights in the sky the way earlier generations had. By the 1950s and 1960s, the sky had become a monitored military frontier filled with [radar]({{ 'radar/' | relative_url }}) stations, interceptor aircraft, bomber routes and missile-warning systems. In that environment, an [unidentified]({{ 'unidentified/' | relative_url }}) object was not merely a mystery. It could represent a hostile aircraft, a reconnaissance platform, a warning-system failure or the opening moments of a nuclear attack. That shift in perception helps explain why UFO reports acquired such emotional and political weight during the nuclear age. The key mechanism was simple: air-defence systems taught both officials and civilians to associate the unknown with potential catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue BookDec 19, 2019 — Pingback: UFO Project Blue Book at National Arch...</span></span></span>
+Cold War Americans did not look at strange lights in the sky the way earlier generations had. By the 1950s and 1960s, the sky had become a monitored military frontier filled with [radar]({{ 'radar/' | relative_url }}) stations, interceptor aircraft, bomber routes and missile-warning systems. In that environment, an [unidentified]({{ 'unidentified/' | relative_url }}) object was not merely a mystery. It could represent a hostile aircraft, a reconnaissance platform, a warning-system failure or the opening moments of a nuclear attack. That shift in perception helps explain why UFO reports acquired such emotional and political weight during the nuclear age. The key mechanism was simple: air-defence systems taught both officials and civilians to associate the unknown with potential catastrophe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue BookDec 19, 2019 — Pingback: UFO Project Blue Book at National Arch...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5-Illustration-1-dark.svg" | relative_url }}" alt="Air Defense illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Bombers, radar and the monitored frontier
 
-The Cold War transformed North American [airspace]({{ 'airspace/' | relative_url }}) into a vast early-warning zone. Military planners expected that any Soviet nuclear strike would initially arrive by air. As a result, the United States and Canada built increasingly sophisticated radar networks and eventually established the binational North American Air Defense Command (NORAD) to provide aerospace warning and defence against the Soviet bomber threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuke.fas.org/guide/usa/airdef/norad-overview.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuke.fas.org">[Nuclear Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuke.fas.org</span><span class="citation-popover-title">norad overview</span><span class="citation-popover-snippet">Nuclear ResourcesNORAD at 40 Historical OverviewIn 1957, Canada and the United States (US) agreed to establish the North American Air Def...</span></span></span>
+The Cold War transformed North American [airspace]({{ 'airspace/' | relative_url }}) into a vast early-warning zone. Military planners expected that any Soviet nuclear strike would initially arrive by air. As a result, the United States and Canada built increasingly sophisticated radar networks and eventually established the binational North American Air Defense Command (NORAD) to provide aerospace warning and defence against the Soviet bomber threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuke.fas.org/guide/usa/airdef/norad-overview.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuke.fas.org">[Nuclear Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuke.fas.org</span><span class="citation-popover-title">norad overview</span><span class="citation-popover-snippet">Nuclear ResourcesNORAD at 40 Historical OverviewIn 1957, Canada and the United States (US) agreed to establish the North American Air Def...</span></span></span>
 
-This infrastructure changed the meaning of unidentified objects. Radar operators, intelligence officers and air-defence commanders were not searching the skies for curiosities; they were searching for threats. A radar contact that could not immediately be identified demanded attention because the consequences of being wrong could be enormous. Later missile-warning systems such as the Ballistic Missile Early Warning System were explicitly designed to provide rapid notice of a possible attack, reinforcing the idea that the nation's survival depended on detecting unusual activity in the sky as quickly as possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-03-20/filming-armageddon-air-force-movies-depict-us-preparations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive Air Force Movies Depict U.S</span><span class="citation-popover-snippet">Preparations for Nuclear War20 Mar 2023 — When tracking radar picked up suspicious activity, the TOR could warn NORAD [North American Air...</span></span></span>
+This infrastructure changed the meaning of unidentified objects. Radar operators, intelligence officers and air-defence commanders were not searching the skies for curiosities; they were searching for threats. A radar contact that could not immediately be identified demanded attention because the consequences of being wrong could be enormous. Later missile-warning systems such as the Ballistic Missile Early Warning System were explicitly designed to provide rapid notice of a possible attack, reinforcing the idea that the nation's survival depended on detecting unusual activity in the sky as quickly as possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-03-20/filming-armageddon-air-force-movies-depict-us-preparations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive Air Force Movies Depict U.S</span><span class="citation-popover-snippet">Preparations for Nuclear War20 Mar 2023 — When tracking radar picked up suspicious activity, the TOR could warn NORAD [North American Air...</span></span></span>
 
-The Air Force's UFO investigations emerged directly from this security environment. Early projects such as Sign, Grudge and Blue Book were established not because officials were convinced of extraterrestrial visitors but because unidentified aerial reports might indicate a national-security problem. National Archives records note that the Air Force's UFO programmes were created to collect and evaluate sightings that could potentially concern national security, while Cold War tensions and fears of Soviet capabilities helped drive continued investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">project blue book 50th anniversary</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</span><span class="citation-popover-meta">Published: March 1952</span></span></span>
+The Air Force's UFO investigations emerged directly from this security environment. Early projects such as Sign, Grudge and Blue Book were established not because officials were convinced of extraterrestrial visitors but because unidentified aerial reports might indicate a national-security problem. National Archives records note that the Air Force's UFO programmes were created to collect and evaluate sightings that could potentially concern national security, while Cold War tensions and fears of Soviet capabilities helped drive continued investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">project blue book 50th anniversary</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</span><span class="citation-popover-meta">Published: March 1952</span></span></span>
 
 For military personnel working inside the air-defence system, uncertainty itself was dangerous. An unidentified target did not have to be alien to be alarming. It only had to remain unidentified long enough to complicate warning and response decisions.
 
@@ -473,9 +473,9 @@ For military personnel working inside the air-defence system, uncertainty itself
 
 Before the Cold War, a strange light might be interpreted as a meteor, atmospheric phenomenon or local curiosity. The emergence of high-speed military aviation altered that framework. Jet aircraft, long-range bombers and later ballistic missiles demonstrated that objects moving at extreme speeds and high altitudes could have strategic significance.
 
-As reports of unusual aerial phenomena increased after 1947, observers often described objects exhibiting characteristics that sounded militarily relevant: unusual speed, abrupt manoeuvres, high-altitude flight or apparent resistance to interception. Whether these observations were accurate was often less important than how they were interpreted. In an era focused on technological competition, extraordinary flight characteristics suggested advanced capabilities. The first question was frequently not “What is it?” but “Whose is it?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue BookDec 19, 2019 — Pingback: UFO Project Blue Book at National Arch...</span></span></span>
+As reports of unusual aerial phenomena increased after 1947, observers often described objects exhibiting characteristics that sounded militarily relevant: unusual speed, abrupt manoeuvres, high-altitude flight or apparent resistance to interception. Whether these observations were accurate was often less important than how they were interpreted. In an era focused on technological competition, extraordinary flight characteristics suggested advanced capabilities. The first question was frequently not “What is it?” but “Whose is it?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue BookDec 19, 2019 — Pingback: UFO Project Blue Book at National Arch...</span></span></span>
 
-Radar reinforced this perception. Radar contacts seemed more objective than eyewitness testimony because they appeared to provide instrumental confirmation. Yet radar systems could also generate ambiguous returns through atmospheric effects, equipment limitations or interpretation errors. During famous incidents such as the 1952 Washington sightings, debates quickly emerged over whether [radar returns]({{ 'radar-return/' | relative_url }}) represented real objects or technical phenomena. The episode demonstrated how radar could simultaneously increase confidence and increase uncertainty. If both observers and instruments appeared to detect something unusual, the event seemed harder to dismiss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 12</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 1231 Jan 2023 — There was talk of temperature inversions and the false target...</span></span></span>
+Radar reinforced this perception. Radar contacts seemed more objective than eyewitness testimony because they appeared to provide instrumental confirmation. Yet radar systems could also generate ambiguous returns through atmospheric effects, equipment limitations or interpretation errors. During famous incidents such as the 1952 Washington sightings, debates quickly emerged over whether [radar returns]({{ 'radar-return/' | relative_url }}) represented real objects or technical phenomena. The episode demonstrated how radar could simultaneously increase confidence and increase uncertainty. If both observers and instruments appeared to detect something unusual, the event seemed harder to dismiss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 12</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 1231 Jan 2023 — There was talk of temperature inversions and the false target...</span></span></span>
 
 The result was a new cultural category of fear. UFOs were no longer merely unexplained lights. They occupied the same conceptual space as reconnaissance aircraft, bombers and missiles: fast-moving objects appearing in strategically important airspace.
 
@@ -485,9 +485,9 @@ The result was a new cultural category of fear. UFOs were no longer merely unexp
 
 Cold War air defence was not only a military system; it was also a public culture. Citizens lived with air-raid drills, civil-defence messaging and constant discussion of surprise attack. The public learned that a few minutes of warning could determine the outcome of a nuclear crisis. Under those conditions, reports of unexplained aerial objects acquired significance beyond the details of any individual sighting.
 
-Government concern reflected this broader problem. The CIA's historical review of UFO investigations notes that officials worried not only about possible Soviet technology but also about the risk that large numbers of UFO reports could overwhelm communication channels and distract warning networks during a genuine emergency. In other words, UFOs were considered dangerous partly because they could interfere with the systems designed to recognise real threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90Project BLUE BOOK became the major Air Force effort to study the...</span></span></span>
+Government concern reflected this broader problem. The CIA's historical review of UFO investigations notes that officials worried not only about possible Soviet technology but also about the risk that large numbers of UFO reports could overwhelm communication channels and distract warning networks during a genuine emergency. In other words, UFOs were considered dangerous partly because they could interfere with the systems designed to recognise real threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90Project BLUE BOOK became the major Air Force effort to study the...</span></span></span>
 
-The [Robertson Panel]({{ 'robertson-panel/' | relative_url }}), convened in 1953, reflected similar concerns. Although panel members concluded that most sightings could be explained conventionally, they worried that public excitement surrounding UFOs could create confusion and place strain on defence communications during a crisis. The issue was therefore not simply whether UFOs were real objects; it was whether mass attention to them could undermine readiness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">March 20, 2026 — Most UFO reports, they concluded, could be explained as misidentification of mundane aerial objects, and the remaining m...</span><span class="citation-popover-meta">Published: March 20, 2026</span></span></span>
+The [Robertson Panel]({{ 'robertson-panel/' | relative_url }}), convened in 1953, reflected similar concerns. Although panel members concluded that most sightings could be explained conventionally, they worried that public excitement surrounding UFOs could create confusion and place strain on defence communications during a crisis. The issue was therefore not simply whether UFOs were real objects; it was whether mass attention to them could undermine readiness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">March 20, 2026 — Most UFO reports, they concluded, could be explained as misidentification of mundane aerial objects, and the remaining m...</span><span class="citation-popover-meta">Published: March 20, 2026</span></span></span>
 
 This helps explain why UFO stories near military installations, [missile fields]({{ 'missile-fields/' | relative_url }}) and strategic facilities resonated so strongly. Such locations sat at the centre of the Cold War warning system. A report of an unexplained object in ordinary airspace might be interesting. A report near a facility connected to nuclear deterrence touched a deeper anxiety: if the nation's most heavily monitored areas could still produce mysteries, how reliable was the warning network itself?
 
@@ -501,202 +501,202 @@ This helps explain why UFO stories near military installations, [missile fields]
 
 One of the most important features of Cold War air defence was that it treated uncertainty as a potential threat. Radar networks, interceptor forces and intelligence systems existed to reduce ambiguity. UFO reports represented the opposite condition: something detected but not understood.
 
-Official investigations repeatedly concluded that UFO reports did not demonstrate extraterrestrial technology or a threat to national security. Yet the fact that thousands of reports were examined over decades shows how seriously unidentified aerial observations were taken within a defence environment shaped by nuclear risk. Air Force records emphasised that UFO cases were evaluated precisely because any unidentified object had to be assessed for possible security implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
+Official investigations repeatedly concluded that UFO reports did not demonstrate extraterrestrial technology or a threat to national security. Yet the fact that thousands of reports were examined over decades shows how seriously unidentified aerial observations were taken within a defence environment shaped by nuclear risk. Air Force records emphasised that UFO cases were evaluated precisely because any unidentified object had to be assessed for possible security implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
-That legacy shaped public perception as well. Cold War citizens were accustomed to thinking of the sky as the direction from which disaster would arrive. Radar screens, warning sirens, bomber routes and missile-tracking systems transformed overhead space into a zone of constant vigilance. Against that backdrop, a UFO could feel dangerous even before anyone decided what it was. The danger lay in uncertainty itself—a psychological and institutional consequence of living under the shadow of nuclear attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-03-20/filming-armageddon-air-force-movies-depict-us-preparations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive+2Nuclear Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive Air Force Movies Depict U.S</span><span class="citation-popover-snippet">Preparations for Nuclear War20 Mar 2023 — When tracking radar picked up suspicious activity, the TOR could warn NORAD [North American Air...</span></span></span>
+That legacy shaped public perception as well. Cold War citizens were accustomed to thinking of the sky as the direction from which disaster would arrive. Radar screens, warning sirens, bomber routes and missile-tracking systems transformed overhead space into a zone of constant vigilance. Against that backdrop, a UFO could feel dangerous even before anyone decided what it was. The danger lay in uncertainty itself—a psychological and institutional consequence of living under the shadow of nuclear attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-03-20/filming-armageddon-air-force-movies-depict-us-preparations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive+2Nuclear Resources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-title">National Security Archive Air Force Movies Depict U.S</span><span class="citation-popover-snippet">Preparations for Nuclear War20 Mar 2023 — When tracking radar picked up suspicious activity, the TOR could warn NORAD [North American Air...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5-Illustration-3-dark.svg" | relative_url }}" alt="Air Defense illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the sky became a warning screen. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the sky became a warning screen. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Excellent account of nuclear-warning systems and Cold War defense culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent account of nuclear-warning systems and Cold War defense culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Hand on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JQGHqScEFtoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Dead Hand" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Hand">The Dead Hand</a>
-        </h4>
-        <p class="fr-book-author">By David Hoffman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Hand on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JQGHqScEFtoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Dead Hand" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Hand">The Dead Hand</a>
+</h4>
+<p class="fr-book-author">By David Hoffman</p>
         
-        <p class="fr-book-desc">Explains the stakes behind warning and defense systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the stakes behind warning and defense systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Links UFO reporting to defense institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links UFO reporting to defense institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Raven+Rock+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Raven Rock on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14511256-M.jpg" alt="Cover for Raven Rock" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Raven+Rock+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raven Rock">Raven Rock</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Raven+Rock+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Raven Rock on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14511256-M.jpg" alt="Cover for Raven Rock" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Raven+Rock+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raven Rock">Raven Rock</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Emergency management, Military planning, Government policy, Defenses, Civil defense.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Raven+Rock+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Emergency management, Military planning, Government policy, Defenses, Civil defense.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Raven+Rock+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dead+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dead Hand</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dead+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dead Hand</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis"><img src="{{ '/assets/images/marketplace-covers/03b18906f6c112d1433c.jpg' | relative_url }}" alt="Listing image for US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis"><img src="{{ '/assets/images/marketplace-covers/03b18906f6c112d1433c.jpg' | relative_url }}" alt="Listing image for US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s."><img src="{{ '/assets/images/marketplace-covers/9b0ed8c5489bffe4f8e8.jpg' | relative_url }}" alt="Listing image for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s."><img src="{{ '/assets/images/marketplace-covers/9b0ed8c5489bffe4f8e8.jpg' | relative_url }}" alt="Listing image for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia"><img src="{{ '/assets/images/marketplace-covers/ca9ca666985415301d9a.jpg' | relative_url }}" alt="Listing image for US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia"><img src="{{ '/assets/images/marketplace-covers/ca9ca666985415301d9a.jpg' | relative_url }}" alt="Listing image for US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set"><img src="{{ '/assets/images/marketplace-covers/9275acdcda4f45050c56.jpg' | relative_url }}" alt="Listing image for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set"><img src="{{ '/assets/images/marketplace-covers/9275acdcda4f45050c56.jpg' | relative_url }}" alt="Listing image for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="air-defense-when-the-sky-became-a-warning-screen-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -712,7 +712,7 @@ That legacy shaped public perception as well. Cold War citizens were accustomed 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -732,7 +732,7 @@ That legacy shaped public perception as well. Cold War citizens were accustomed 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -764,7 +764,7 @@ That legacy shaped public perception as well. Cold War citizens were accustomed 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -816,7 +816,7 @@ That legacy shaped public perception as well. Cold War citizens were accustomed 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -861,7 +861,7 @@ That legacy shaped public perception as well. Cold War citizens were accustomed 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -902,174 +902,174 @@ That legacy shaped public perception as well. Cold War citizens were accustomed 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistorySaucers Over Washington: the History of Project Blue BookDec 19, 2019 — Pingback: UFO Project Blue Book at National Arch...</p></details>
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistorySaucers Over Washington: the History of Project Blue BookDec 19, 2019 — Pingback: UFO Project Blue Book at National Arch...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</p></details>
    Published: March 1952  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuke.fas.org  
    Title: norad overview  
-   Link: <a href="https://nuke.fas.org/guide/usa/airdef/norad-overview.htm" target="_blank" rel="noopener noreferrer nofollow">https://nuke.fas.org/guide/usa/airdef/norad-overview.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear ResourcesNORAD at 40 Historical OverviewIn 1957, Canada and the United States (US) agreed to establish the North American Air Def...</p></details>
+   Link:<a href="https://nuke.fas.org/guide/usa/airdef/norad-overview.htm" target="_blank" rel="noopener noreferrer nofollow">https://nuke.fas.org/guide/usa/airdef/norad-overview.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear ResourcesNORAD at 40 Historical OverviewIn 1957, Canada and the United States (US) agreed to establish the North American Air Def...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NORAD</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORADConducting aerospace warning, aerospace control and maritime warning in the defense of North America. Canadian airspace. Cold War...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NORAD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NORAD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORADConducting aerospace warning, aerospace control and maritime warning in the defense of North America. Canadian airspace. Cold War...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90Project BLUE BOOK became the major Air Force effort to study the...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90Project BLUE BOOK became the major Air Force effort to study the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: en.wikisource.org  
    Title: Chapter 12  
-   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_12</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 1231 Jan 2023 — There was talk of temperature inversions and the false target...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_12</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects/Chapter 1231 Jan 2023 — There was talk of temperature inversions and the false target...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: [Robertson](&#123;&#123; 'robertson/' | relative_url &#125;&#125;) Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2026 — Most UFO reports, they concluded, could be explained as misidentification of mundane aerial objects, and the remaining m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2026 — Most UFO reports, they concluded, could be explained as misidentification of mundane aerial objects, and the remaining m...</p></details>
    Published: March 20, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: nr20 19  
-   Link: <a href="https://www.archives.gov/press/press-releases/2020/nr20-19" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2020/nr20-19</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force analyzed UFO sightings and any security threat they posed; most notably through Project Blue Book...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/press/press-releases/2020/nr20-19" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2020/nr20-19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force analyzed UFO sightings and any security threat they posed; most notably through Project Blue Book...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsJun 25, 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were reco...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsJun 25, 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were reco...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.com  
    Title: ufos near nuclear facilities uss roosevelt [rendlesham](&#123;&#123; 'rendlesham/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Have There Been So Many UFO Sightings Near...21 Jun 2019 — Nuclear-adjacent sightings go back decades, says Robert Hastings, a UFO r...</p></details>
+   Link:<a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Have There Been So Many UFO Sightings Near...21 Jun 2019 — Nuclear-adjacent sightings go back decades, says Robert Hastings, a UFO r...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: norad.mil  
    Title: detects and tracks russian aircraft operating in the alaskan air defense  
-   Link: <a href="https://www.norad.mil/Newsroom/Press-Releases/Article/4282988/norad-detects-and-tracks-russian-aircraft-operating-in-the-alaskan-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Press-Releases/Article/4282988/norad-detects-and-tracks-russian-aircraft-operating-in-the-alaskan-air-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD detects and tracks Russian aircraft operating in the...21 Aug 2025 — NORAD responded with an E-3, two F-16s, and one KC-135 tanker...</p></details>
+   Link:<a href="https://www.norad.mil/Newsroom/Press-Releases/Article/4282988/norad-detects-and-tracks-russian-aircraft-operating-in-the-alaskan-air-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/Newsroom/Press-Releases/Article/4282988/norad-detects-and-tracks-russian-aircraft-operating-in-the-alaskan-air-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD detects and tracks Russian aircraft operating in the...21 Aug 2025 — NORAD responded with an E-3, two F-16s, and one KC-135 tanker...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nsarchive.gwu.edu  
    Title: National Security Archive Air Force Movies Depict U.S  
-   Link: <a href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-03-20/filming-armageddon-air-force-movies-depict-us-preparations" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-03-20/filming-armageddon-air-force-movies-depict-us-preparations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparations for Nuclear War20 Mar 2023 — When tracking radar picked up suspicious activity, the TOR could warn NORAD [North American Air...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-03-20/filming-armageddon-air-force-movies-depict-us-preparations" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2023-03-20/filming-armageddon-air-force-movies-depict-us-preparations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preparations for Nuclear War20 Mar 2023 — When tracking radar picked up suspicious activity, the TOR could warn NORAD [North American Air...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: af.mil  
    Title: norad monitors us sky to protect homeland  
-   Link: <a href="https://www.af.mil/News/Article-Display/Article/138354/norad-monitors-us-sky-to-protect-homeland/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/138354/norad-monitors-us-sky-to-protect-homeland/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceNORAD monitors U.S. sky to protect homeland15 Oct 2003 — NORAD&#x27;s ground-based radar, airborne radar, aircraft, satellites and in...</p></details>
+   Link:<a href="https://www.af.mil/News/Article-Display/Article/138354/norad-monitors-us-sky-to-protect-homeland/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/138354/norad-monitors-us-sky-to-protect-homeland/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceNORAD monitors U.S. sky to protect homeland15 Oct 2003 — NORAD&#x27;s ground-based radar, airborne radar, aircraft, satellites and in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR8 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s UFO investigation.... the radar return was caused by some type of anomalous propagation*.Read more...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s UFO investigation.... the radar return was caused by some type of anomalous propagation*.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...Read more...</p></details>
+   Link:<a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s investigations into UFOs. During the Cold War in 1952, fearful that the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force analyzed UFO sightings and any security threat they posed; most notably through Project Blue Book, which launched in...Read more...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force analyzed UFO sightings and any security threat they posed; most notably through Project Blue Book, which launched in...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe MOD continued to state there was no threat to UK airspace or national security, and no further records or investigations t...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe MOD continued to state there was no threat to UK airspace or national security, and no further records or investigations t...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Status Report Number EightPeriodically, Project Bluebook staff created reports summarizing the most recent sightings ar...</p></details>
+   Link:<a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Status Report Number EightPeriodically, Project Bluebook staff created reports summarizing the most recent sightings ar...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyNot whether every UFO is an alien craft, but whether modern radar — designed...</p></details>
+   Link:<a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyNot whether every UFO is an alien craft, but whether modern radar — designed...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: the tradition started in 1955 when norads predecessor the continental air defens  
-   Link: <a href="https://www.facebook.com/newshour/posts/the-tradition-started-in-1955-when-norads-predecessor-the-continental-air-defens/1332725355389374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-tradition-started-in-1955-when-norads-predecessor-the-continental-air-defens/1332725355389374/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The tradition started in 1955 when NORAD&#x27;s predecessor...These radars could track threats once they appeared above the horizon, a Cold W...</p></details>
+   Link:<a href="https://www.facebook.com/newshour/posts/the-tradition-started-in-1955-when-norads-predecessor-the-continental-air-defens/1332725355389374/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-tradition-started-in-1955-when-norads-predecessor-the-continental-air-defens/1332725355389374/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The tradition started in 1955 when NORAD&#x27;s predecessor...These radars could track threats once they appeared above the horizon, a Cold W...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Mn8O1YgaT_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mn8O1YgaT_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Canada contributes to NORAD as it watches the skies over North AmericaRecent objects detected in the skies over North America, includ...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Mn8O1YgaT_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mn8O1YgaT_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Canada contributes to NORAD as it watches the skies over North AmericaRecent objects detected in the skies over North America, includ...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: historians.org  
    Title: the cold war as operational experience the view from norad november 2014  
-   Link: <a href="https://www.historians.org/perspectives-article/the-cold-war-as-operational-experience-the-view-from-norad-november-2014/" target="_blank" rel="noopener noreferrer nofollow">https://www.historians.org/perspectives-article/the-cold-war-as-operational-experience-the-view-from-norad-november-2014/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cold War as Operational Experience – AHA1 Nov 2014 — NORAD&#x27;s mission was to defend the continental United States and the air bases fr...</p></details>
+   Link:<a href="https://www.historians.org/perspectives-article/the-cold-war-as-operational-experience-the-view-from-norad-november-2014/" target="_blank" rel="noopener noreferrer nofollow">https://www.historians.org/perspectives-article/the-cold-war-as-operational-experience-the-view-from-norad-november-2014/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cold War as Operational Experience – AHA1 Nov 2014 — NORAD&#x27;s mission was to defend the continental United States and the air bases fr...</p></details>
    Published: november 2014  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: britannica.com  
    Title: Project Blue Book | Definition, History, Aliens, UFOs, & Facts  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>project&#x27;s records and findings, that no UFO sightings had ever represented a threat to national security, shown definitive evidence of...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>project&#x27;s records and findings, that no UFO sightings had ever represented a threat to national security, shown definitive evidence of...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: socialecologies.wordpress.com  
    Title: the robertson panel cold war era perception management  
-   Link: <a href="https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Robertson Panel: COLD War Era Perception Management21 Nov 2025 — The Truman administration was less afraid of aliens than of Soviet e...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Robertson Panel: COLD War Era Perception Management21 Nov 2025 — The Truman administration was less afraid of aliens than of Soviet e...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWJup1qGkBp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWJup1qGkBp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bombers that might attempt to cross the Arctic on their way to...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DWJup1qGkBp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWJup1qGkBp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bombers that might attempt to cross the Arctic on their way to...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crafts? Seriously. It wasn&#x27;t. So just stop asking. One of...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crafts? Seriously. It wasn&#x27;t. So just stop asking. One of...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expert on NORAD&#x27;s response of identifying flying objects across US | Morning in America...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expert on NORAD&#x27;s response of identifying flying objects across US | Morning in America...</p></details>

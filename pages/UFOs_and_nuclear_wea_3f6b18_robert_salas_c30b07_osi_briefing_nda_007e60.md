@@ -280,17 +280,17 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_osi_briefi
 
 ## Introduction
 
-One of the most disputed parts of [Robert Salas]({{ 'salas/' | relative_url }})’s Malmstrom story is not the reported UFO itself, but what he says happened afterwards. According to Salas, he and others were briefed the next morning by personnel from the Air Force Office of Special Investigations (AFOSI, often shortened to OSI) and instructed not to discuss the incident. He has also stated that non-disclosure agreements or [secrecy]({{ 'secrecy/' | relative_url }}) forms were signed. If true, such a briefing would be significant because it would suggest that the Air Force treated the event as sensitive enough to require formal secrecy measures. If untrue, it raises questions about memory, reconstruction and how the story evolved over time. The difficulty is that the claim rests largely on testimony rather than surviving documentation, leaving researchers with an unusual problem: evaluating an alleged secrecy procedure for which no public paper trail has yet emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT.... The cont...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
+One of the most disputed parts of [Robert Salas]({{ 'salas/' | relative_url }})’s Malmstrom story is not the reported UFO itself, but what he says happened afterwards. According to Salas, he and others were briefed the next morning by personnel from the Air Force Office of Special Investigations (AFOSI, often shortened to OSI) and instructed not to discuss the incident. He has also stated that non-disclosure agreements or [secrecy]({{ 'secrecy/' | relative_url }}) forms were signed. If true, such a briefing would be significant because it would suggest that the Air Force treated the event as sensitive enough to require formal secrecy measures. If untrue, it raises questions about memory, reconstruction and how the story evolved over time. The difficulty is that the claim rests largely on testimony rather than surviving documentation, leaving researchers with an unusual problem: evaluating an alleged secrecy procedure for which no public paper trail has yet emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT.... The cont...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_osi_briefing_nda_007e60-Illustration-1-dark.svg" | relative_url }}" alt="OSI Briefing illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_osi_briefing_nda_007e60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_osi_briefing_nda_007e60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Salas Says Happened the Next Morning
 
-In Salas’s later public accounts, the missile shutdown was followed by an official response. He has said that AFOSI representatives arrived after the incident, conducted interviews and instructed personnel not to discuss what had occurred. In some versions of the story, he describes signing a non-disclosure agreement specifically connected to the event. He has repeated this claim in interviews and public presentations over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-title">when a ufo shutdown 10 nuclear missiles witness interview faf3df8d</span><span class="citation-popover-snippet">We dive into the alarming connection between UFO sightings and nuclear security...</span></span></span>
+In Salas’s later public accounts, the missile shutdown was followed by an official response. He has said that AFOSI representatives arrived after the incident, conducted interviews and instructed personnel not to discuss what had occurred. In some versions of the story, he describes signing a non-disclosure agreement specifically connected to the event. He has repeated this claim in interviews and public presentations over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-title">when a ufo shutdown 10 nuclear missiles witness interview faf3df8d</span><span class="citation-popover-snippet">We dive into the alarming connection between UFO sightings and nuclear security...</span></span></span>
 
 The allegation fits a broader pattern often found in military UFO narratives. Witnesses describe an unusual event, investigators arrive, statements are taken and participants are warned that the matter is classified. In Salas’s case, the claimed briefing serves an important role within the overall narrative because it helps explain why there are few contemporary public accounts and why details allegedly remained hidden for decades. Supporters argue that secrecy instructions would be expected if nuclear weapons and security procedures were involved. Critics respond that secrecy claims are easiest to make when documentation is unavailable and therefore require especially strong evidence.
 
-A key point is that Salas does not merely claim a general understanding that missile operations were classified. Missile officers already worked under extensive security rules as part of their normal duties. His assertion is narrower: that there was a specific post-incident briefing connected to the Oscar Flight event itself. That distinction matters because ordinary Cold War secrecy and an event-specific order are not the same thing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-title">when a ufo shutdown 10 nuclear missiles witness interview faf3df8d</span><span class="citation-popover-snippet">We dive into the alarming connection between UFO sightings and nuclear security...</span></span></span>
+A key point is that Salas does not merely claim a general understanding that missile operations were classified. Missile officers already worked under extensive security rules as part of their normal duties. His assertion is narrower: that there was a specific post-incident briefing connected to the Oscar Flight event itself. That distinction matters because ordinary Cold War secrecy and an event-specific order are not the same thing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-title">when a ufo shutdown 10 nuclear missiles witness interview faf3df8d</span><span class="citation-popover-snippet">We dive into the alarming connection between UFO sightings and nuclear security...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hx5eomtn2Mw" title="Robert Salas on 1967 UFO Shutdown of 10 Nuclear Missiles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hx5eomtn2Mw" target="_blank" rel="noopener noreferrer">Robert Salas on 1967 UFO Shutdown of 10 Nuclear Missiles</a></p><p class="youtube-embed-meta">Channel: Vetted Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hx5eomtn2Mw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hx5eomtn2Mw">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ If a formal NDA or written secrecy acknowledgement existed specifically for the 
 
 </div>
 
-The issue is not whether classified documents existed at Malmstrom. They certainly did. Nuclear missile operations generated large quantities of classified material during the Cold War. The question is whether there was a special secrecy action linked to the reported UFO-related shutdown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Air Force Office of Special Investigations</span></span></span>
+The issue is not whether classified documents existed at Malmstrom. They certainly did. Nuclear missile operations generated large quantities of classified material during the Cold War. The question is whether there was a special secrecy action linked to the reported UFO-related shutdown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Air Force Office of Special Investigations</span></span></span>
 
 For supporters of Salas’s account, the NDA claim helps explain why so little documentation has surfaced publicly. If personnel were warned not to discuss the matter, silence becomes part of the evidence. For [sceptics]({{ 'sceptics/' | relative_url }}), the same claim creates a problem: secrecy can explain missing records, but it can also make a claim difficult to verify. The stronger the secrecy allegation, the more important independent [corroboration]({{ 'corroboration/' | relative_url }}) becomes.
 
@@ -323,7 +323,7 @@ This is why discussions of the NDA often focus less on UFOs and more on evidenti
 
 The central challenge is that no publicly available document has emerged that clearly confirms the alleged AFOSI briefing or the signing of incident-specific non-disclosure forms.
 
-Researchers have searched through released Air Force material, missile maintenance records, declassified files and Freedom of Information Act releases connected to Malmstrom. While various documents exist regarding missile shutdowns and security matters, none has publicly established the exact briefing described by Salas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
+Researchers have searched through released Air Force material, missile maintenance records, declassified files and Freedom of Information Act releases connected to Malmstrom. While various documents exist regarding missile shutdowns and security matters, none has publicly established the exact briefing described by Salas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
 
 This absence does not automatically disprove the claim. Many military records from the period were never preserved indefinitely, and some categories of security documentation could have been destroyed under routine retention schedules. AFOSI investigations were not necessarily archived in a way that guarantees later public access. The Cold War bureaucracy generated enormous quantities of classified paperwork, and gaps in surviving records are common.
 
@@ -350,203 +350,203 @@ The debate therefore centres less on whether secrecy existed at Malmstrom and mo
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_osi_briefing_nda_007e60-Illustration-3-dark.svg" | relative_url }}" alt="OSI Briefing illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_osi_briefing_nda_007e60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_osi_briefing_nda_007e60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Missing Paper Trail Means
 
-The alleged OSI briefing remains one of the most important [unresolved]({{ 'unresolved/' | relative_url }}) elements in Robert Salas’s account. It matters because it offers a potential explanation for why so little direct documentation has surfaced regarding the reported Oscar Flight incident. Yet it also highlights a recurring challenge in UFO history: claims of secrecy are most persuasive when supported by records, and in this case the records have not appeared publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-title">when a ufo shutdown 10 nuclear missiles witness interview faf3df8d</span><span class="citation-popover-snippet">We dive into the alarming connection between UFO sightings and nuclear security...</span></span></span>
+The alleged OSI briefing remains one of the most important [unresolved]({{ 'unresolved/' | relative_url }}) elements in Robert Salas’s account. It matters because it offers a potential explanation for why so little direct documentation has surfaced regarding the reported Oscar Flight incident. Yet it also highlights a recurring challenge in UFO history: claims of secrecy are most persuasive when supported by records, and in this case the records have not appeared publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-title">when a ufo shutdown 10 nuclear missiles witness interview faf3df8d</span><span class="citation-popover-snippet">We dive into the alarming connection between UFO sightings and nuclear security...</span></span></span>
 
-As a result, the claim occupies an intermediate position. It is neither conclusively disproven nor independently verified. Salas has consistently maintained that a briefing occurred and that secrecy forms were involved. What remains missing is documentary confirmation that would allow the allegation to move from witness testimony into the category of established historical fact. For readers assessing Salas’s credibility, that distinction is crucial. The alleged OSI briefing may explain the absence of evidence, but it cannot by itself substitute for the evidence that has yet to be found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-title">when a ufo shutdown 10 nuclear missiles witness interview faf3df8d</span><span class="citation-popover-snippet">We dive into the alarming connection between UFO sightings and nuclear security...</span></span></span>
+As a result, the claim occupies an intermediate position. It is neither conclusively disproven nor independently verified. Salas has consistently maintained that a briefing occurred and that secrecy forms were involved. What remains missing is documentary confirmation that would allow the allegation to move from witness testimony into the category of established historical fact. For readers assessing Salas’s credibility, that distinction is crucial. The alleged OSI briefing may explain the absence of evidence, but it cannot by itself substitute for the evidence that has yet to be found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-title">when a ufo shutdown 10 nuclear missiles witness interview faf3df8d</span><span class="citation-popover-snippet">We dive into the alarming connection between UFO sightings and nuclear security...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EFkfVwfK7qE" title="Robert Salas Interview, Missile Shutdown, Abduction, 12-17-2014" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EFkfVwfK7qE" target="_blank" rel="noopener noreferrer">Robert Salas Interview, Missile Shutdown, Abduction, 12-17-2014</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EFkfVwfK7qE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EFkfVwfK7qE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EFkfVwfK7qE" title="Robert Salas Interview, Missile Shutdown, Abduction," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EFkfVwfK7qE" target="_blank" rel="noopener noreferrer">Robert Salas Interview, Missile Shutdown, Abduction,</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EFkfVwfK7qE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EFkfVwfK7qE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was There a Secret Debriefing After Oscar?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was There a Secret Debriefing After Oscar?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses military witness testimony, government handling of UFO reports, and credibility questions surrounding secrecy claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses military witness testimony, government handling of UFO reports, and credibility questions surrounding secrecy claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Focuses on government investigations, classified programs, disclosure debates, and how secrecy affects public understanding of UAP events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on government investigations, classified programs, disclosure debates, and how secrecy affects public understanding of UAP events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs &amp; Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11984946-M.jpg" alt="Cover for UFOs &amp; Nukes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs &amp; Nukes">UFOs &amp; Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert Lambert Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs &amp; Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11984946-M.jpg" alt="Cover for UFOs &amp; Nukes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs &amp; Nukes">UFOs &amp; Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert Lambert Hastings</p>
         
-        <p class="fr-book-desc">First published 2017.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%26+Nukes+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs for the 21st Century Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs for the 21st Century Mind">UFOs for the 21st Century Mind</a>
-        </h4>
-        <p class="fr-book-author">By Mr. Richard Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs for the 21st Century Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs for the 21st Century Mind">UFOs for the 21st Century Mind</a>
+</h4>
+<p class="fr-book-author">By Mr. Richard Dolan</p>
         
-        <p class="fr-book-desc">Provides broader context on military reports, intelligence issues, witness testimony, and claims of official secrecy that frame the Salas...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on military reports, intelligence issues, witness testimony, and claims of official secrecy that frame the Salas...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+by+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs &amp; Nukes</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs &amp; Nukes</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="osi-briefing-was-there-a-secret-debriefing-after-oscar-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ As a result, the claim occupies an intermediate position. It is neither conclusi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ As a result, the claim occupies an intermediate position. It is neither conclusi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ As a result, the claim occupies an intermediate position. It is neither conclusi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ As a result, the claim occupies an intermediate position. It is neither conclusi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ As a result, the claim occupies an intermediate position. It is neither conclusi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,81 +752,81 @@ As a result, the claim occupies an intermediate position. It is neither conclusi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pod.wave.co  
    Title: when a ufo shutdown 10 nuclear missiles witness interview faf3df8d  
-   Link: <a href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We dive into the alarming connection between UFO sightings and nuclear security...</p></details>
+   Link:<a href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We dive into the alarming connection between UFO sightings and nuclear security...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Air Force Office of Special Investigations  
-   Link: <a href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Robert Salas  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usafaclasses.org  
-   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT.... The cont...</p></details>
+   Link:<a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT.... The cont...</p></details>
    Published: March 24, 1967  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cd.textfiles.com  
-   Link: <a href="https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt" target="_blank" rel="noopener noreferrer nofollow">https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>textfiles.comad-words.txt... afosi afoul afp afpcommand afraid afresh africa african africe afrid afrika... briefing briefings briefkaes...</p></details>
+   Link:<a href="https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt" target="_blank" rel="noopener noreferrer nofollow">https://cd.textfiles.com/thegreatunsorted/zines_and_groups/zines_m-z/ad-words.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>textfiles.comad-words.txt... afosi afoul afp afpcommand afraid afresh africa african africe afrid afrika... briefing briefings briefkaes...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: redescubriendo.com  
-   Link: <a href="https://redescubriendo.com/" target="_blank" rel="noopener noreferrer nofollow">https://redescubriendo.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Redescubriendo · Mapa de conexiones UAPReveló haber estado bajo NDA (Non-Disclosure Agreement) durante décadas que le prohibían discutir...</p></details>
+   Link:<a href="https://redescubriendo.com/" target="_blank" rel="noopener noreferrer nofollow">https://redescubriendo.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Redescubriendo · Mapa de conexiones UAPReveló haber estado bajo NDA (Non-Disclosure Agreement) durante décadas que le prohibían discutir...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/663806609/MARIO-WOODS-RICK-DOTY-Experiencer-AFOSI-Interview-Disclosure-Tonight-With-Thomas-Fessler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/663806609/MARIO-WOODS-RICK-DOTY-Experiencer-AFOSI-Interview-Disclosure-Tonight-With-Thomas-Fessler</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mario Woods &amp; Rick Doty: UFO Encounter | PDFMario Woods summarizes his UFO encounter in November 1971 at a missile site in South Dakota...</p></details>
+   Link:<a href="https://www.scribd.com/document/663806609/MARIO-WOODS-RICK-DOTY-Experiencer-AFOSI-Interview-Disclosure-Tonight-With-Thomas-Fessler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/663806609/MARIO-WOODS-RICK-DOTY-Experiencer-AFOSI-Interview-Disclosure-Tonight-With-Thomas-Fessler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mario Woods &amp; Rick Doty: UFO Encounter | PDFMario Woods summarizes his UFO encounter in November 1971 at a missile site in South Dakota...</p></details>
    Published: November 1971  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wideopencountry.com  
    Title: former air force officer claims ufo disabled montanas nuclear arsenal  
-   Link: <a href="https://www.wideopencountry.com/former-air-force-officer-claims-ufo-disabled-montanas-nuclear-arsenal/" target="_blank" rel="noopener noreferrer nofollow">https://www.wideopencountry.com/former-air-force-officer-claims-ufo-disabled-montanas-nuclear-arsenal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force Officer Claims UFO Disabled Montana&#x27;s...17 Mar 2026 — According to Robert Salas, a retired US Air Force officer, a UFO...</p></details>
+   Link:<a href="https://www.wideopencountry.com/former-air-force-officer-claims-ufo-disabled-montanas-nuclear-arsenal/" target="_blank" rel="noopener noreferrer nofollow">https://www.wideopencountry.com/former-air-force-officer-claims-ufo-disabled-montanas-nuclear-arsenal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force Officer Claims UFO Disabled Montana&#x27;s...17 Mar 2026 — According to Robert Salas, a retired US Air Force officer, a UFO...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Salas states he and Capt. Frederick [Meiwald](&amp;#123;&amp;#123; &#x27;meiwald/&#x27; | relative_url &amp;#125;&amp;#125;) were forced to sign non-disclosu...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Salas states he and Capt. Frederick [Meiwald](&amp;#123;&amp;#123; &#x27;meiwald/&#x27; | relative_url &amp;#125;&amp;#125;) were forced to sign non-disclosu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oscar konczyce miedzianka wintersteller rzyki ressam sofya izale nykredit... flight nilgiris algeria cinquecento buzhans lokeren aleurit...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oscar konczyce miedzianka wintersteller rzyki ressam sofya izale nykredit... flight nilgiris algeria cinquecento buzhans lokeren aleurit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Specifically, the President must provide a written finding that justifies cover...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Specifically, the President must provide a written finding that justifies cover...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t a site a short distance away, Oscar Flight rather than Echo...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t a site a short distance away, Oscar Flight rather than Echo...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NEWSMAX/videos/im-convinced-they-are-not-from-here-robert-salas-a-former-air-force-missile-offi/794254280408683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/videos/im-convinced-they-are-not-from-here-robert-salas-a-former-air-force-missile-offi/794254280408683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e Officer, spoke about his claim that UFOs disarmed multiple...</p></details>
+   Link:<a href="https://www.facebook.com/NEWSMAX/videos/im-convinced-they-are-not-from-here-robert-salas-a-former-air-force-missile-offi/794254280408683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/videos/im-convinced-they-are-not-from-here-robert-salas-a-former-air-force-missile-offi/794254280408683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e Officer, spoke about his claim that UFOs disarmed multiple...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=hx5eomtn2Mw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hx5eomtn2Mw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Salas UFO shutdown nuclear missiles interview Robert Salas Interview, Missile Shutdown, Abduction, 12-17-2014 Podcast UFO Live Shows...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hx5eomtn2Mw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hx5eomtn2Mw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Salas UFO shutdown nuclear missiles interview Robert Salas Interview, Missile Shutdown, Abduction, 12-17-2014 Podcast UFO Live Shows...</p></details>

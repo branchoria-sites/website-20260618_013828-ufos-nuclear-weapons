@@ -488,7 +488,7 @@ A useful UFO report at a nuclear site is not a dramatic story; it is a fast, dis
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-overview.webp" | relative_url }}" alt="Overview image for Reporting" loading="eager" decoding="sync" fetchpriority="high">
-In the nuclear-weapons and nuclear-infrastructure context, good reporting does two jobs at once. It improves security response to real intrusions, including [drones]({{ 'drones/' | relative_url }}), and it prevents weakly documented incidents from hardening into mythology. Recent US reporting practice reflects this dual role: the Nuclear Regulatory Commission now requires nuclear power plant licensees to report drone sightings over their facilities, and those reports go to the NRC, the Federal Aviation Administration, the FBI and local law enforcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Open source on nrc.gov.</span></span></span>
+In the nuclear-weapons and nuclear-infrastructure context, good reporting does two jobs at once. It improves security response to real intrusions, including [drones]({{ 'drones/' | relative_url }}), and it prevents weakly documented incidents from hardening into mythology. Recent US reporting practice reflects this dual role: the Nuclear Regulatory Commission now requires nuclear power plant licensees to report drone sightings over their facilities, and those reports go to the NRC, the Federal Aviation Administration, the FBI and local law enforcement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Open source on nrc.gov.</span></span></span>
 
 ## What should be reported first?
 
@@ -505,7 +505,7 @@ For a sighting or sensor alert near a missile field, weapons storage area, nucle
 
 The distinction between “unknown object” and “unknown significance” is crucial. A small drone, a hobby aircraft, a balloon, a bird on infrared video, a satellite train or a sensor artefact can all begin as unexplained from one observer’s viewpoint. A report should not force a conclusion at the intake stage. It should preserve enough detail for later comparison.
 
-This is why reporting channels matter more than labels. Calling something a “UFO” or “UAP” may be administratively necessary in some systems, but the most useful content is concrete: the object’s track, timing, location, instrument context and response history. NASA’s 2023 independent UAP study made the same broad point for UAP research generally, warning that analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+This is why reporting channels matter more than labels. Calling something a “UFO” or “UAP” may be administratively necessary in some systems, but the most useful content is concrete: the object’s track, timing, location, instrument context and response history. NASA’s 2023 independent UAP study made the same broad point for UAP research generally, warning that analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-Illustration-1-dark.svg" | relative_url }}" alt="Reporting illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -513,15 +513,15 @@ This is why reporting channels matter more than labels. Calling something a “U
 
 A nuclear site cannot treat every aerial anomaly as a speculative mystery. The first pathway is operational: protect the site, identify the object if possible, and notify the right authorities. The second pathway is analytical: preserve records so that investigators can later determine whether the event was a drone, aircraft, satellite, weather effect, sensor fault, deliberate surveillance or [unresolved]({{ 'unresolved/' | relative_url }}) anomaly.
 
-US nuclear regulation now makes this split visible. The NRC’s drone-security fact sheet says reports of drone sightings over nuclear power plants are sent to the NRC, FAA, FBI and local law enforcement. It also notes that nuclear power plant security forces do not have authority to interdict or shoot down aircraft, including drones, over their facilities. That means the reporting channel must connect plant security to external airspace and law-enforcement authorities rather than assuming the site can resolve the event alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Open source on nrc.gov.</span></span></span>
+US nuclear regulation now makes this split visible. The NRC’s drone-security fact sheet says reports of drone sightings over nuclear power plants are sent to the NRC, FAA, FBI and local law enforcement. It also notes that nuclear power plant security forces do not have authority to interdict or shoot down aircraft, including drones, over their facilities. That means the reporting channel must connect plant security to external airspace and law-enforcement authorities rather than assuming the site can resolve the event alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Open source on nrc.gov.</span></span></span>
 
-The NRC’s broader security reporting rules also distinguish between physical security events and suspicious activity. Under 10 CFR Part 73 Subpart T, licensees must promptly assess whether an activity is suspicious and complete that assessment and any reporting as soon as possible, but within four hours of discovery. For suspicious activity at relevant facilities, the ordered reporting sequence is local law enforcement, the applicable FBI field office, the NRC Headquarters Operations Center, and the local FAA control tower if aircraft overflights are involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-10/chapter-I/part-73/subpart-T" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">10 CFR Part 73 Subpart T -- Security Notifications, Reports, and Recordkeeping...</span></span></span>
+The NRC’s broader security reporting rules also distinguish between physical security events and suspicious activity. Under 10 CFR Part 73 Subpart T, licensees must promptly assess whether an activity is suspicious and complete that assessment and any reporting as soon as possible, but within four hours of discovery. For suspicious activity at relevant facilities, the ordered reporting sequence is local law enforcement, the applicable FBI field office, the NRC Headquarters Operations Center, and the local FAA control tower if aircraft overflights are involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecfr.gov/current/title-10/chapter-I/part-73/subpart-T" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">10 CFR Part 73 Subpart T -- Security Notifications, Reports, and Recordkeeping...</span></span></span>
 
 That ordered sequence is important for UFO-related nuclear-site claims because it creates an audit trail. A report that moved through local law enforcement, the FBI, the NRC and the FAA is easier to test than a story that survives only as a later recollection. It also reduces the temptation to frame every anomaly as either “nothing” or “alien”. A good channel allows an event to be treated as a security incident first and an unresolved analytical case only if the evidence remains unclear.
 
 ## Timing, location and witness basics
 
-The most common weakness in older UFO cases is not that witnesses were insincere. It is that the report often arrived late, in narrative form, with few independent anchors. [Project Blue Book]({{ 'blue-book/' | relative_url }})’s Special Report No. 14, a major US Air Force statistical study of early UFO reports, noted that many reports were not reduced to writing immediately and that the gap between sighting and report ranged from one day to several years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf)
+The most common weakness in older UFO cases is not that witnesses were insincere. It is that the report often arrived late, in narrative form, with few independent anchors. [Project Blue Book]({{ 'blue-book/' | relative_url }})’s Special Report No. 14, a major US Air Force statistical study of early UFO reports, noted that many reports were not reduced to writing immediately and that the gap between sighting and report ranged from one day to several years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf)
 
 That problem becomes sharper at nuclear sites. A witness may be trained, sober and security-conscious, but even a trained witness can misjudge distance, altitude and speed when looking at lights in the night sky. A missile field or nuclear plant also gives the story higher emotional weight. If the first written account is delayed until after shift discussion, command briefing, press attention or online speculation, later investigators cannot easily separate original perception from group reconstruction.
 
@@ -538,7 +538,7 @@ For the nuclear-UFO topic, the most useful reporting channel is one that automat
 
 The records worth preserving include security camera footage, radar tracks if available, access-control logs, perimeter alarms, communications recordings, maintenance tickets, shift logs, weather data, air-traffic information, drone-detection system data and any plant or weapons-system status logs relevant to the claimed time window. The key implementation choice is not simply “collect more data”; it is to collect synchronised data. If the witness says the object hovered for five minutes at 22:14, investigators need the relevant camera, alarm, radio and maintenance records from before, during and after that window.
 
-The 2024 AARO annual report shows why this matters. AARO reported 18 incidents near US nuclear infrastructure, weapons and launch sites from the Administrator for Nuclear Security and the NRC chairman; those incidents were categorised as uncrewed aircraft systems. The report gave operationally useful details: ten flew over protected areas for less than five minutes, two lasted much longer, most involved one UAS, and on-site security observed UAS in at least half the cases. It also recorded that security at the D.C. Cook Nuclear Power Plant recovered a crashed UAS on 3 August 2023 and gave it to local law enforcement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+The 2024 AARO annual report shows why this matters. AARO reported 18 incidents near US nuclear infrastructure, weapons and launch sites from the Administrator for Nuclear Security and the NRC chairman; those incidents were categorised as uncrewed aircraft systems. The report gave operationally useful details: ten flew over protected areas for less than five minutes, two lasted much longer, most involved one UAS, and on-site security observed UAS in at least half the cases. It also recorded that security at the D.C. Cook Nuclear Power Plant recovered a crashed UAS on 3 August 2023 and gave it to local law enforcement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
 That level of detail changes the conversation. Instead of a vague claim that “UFOs were seen near nuclear sites”, the report distinguishes duration, number of objects, protected-area overflight, witness source, recovery of physical evidence and handoff to law enforcement. It still may not answer every question, but it gives investigators something to test.
 
@@ -548,11 +548,11 @@ Maintenance records are just as important. In nuclear-weapons cases, the most co
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-Illustration-2-dark.svg" | relative_url }}" alt="Reporting illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where AARO fits — and where it does not
 
-AARO, the All-domain Anomaly Resolution Office, is the US government body created to address UAP using a data-driven framework. It is relevant to nuclear-site anomalies because recent UAP reporting laws require consultation on incidents associated with nuclear weapons infrastructure and NRC-regulated nuclear sites. The 2024 AARO report explicitly includes reporting requirements for incidents associated with nuclear weapons production, transport or storage, and for UAP or drones of unknown origin associated with nuclear power generating stations, fuel storage sites and other NRC-regulated facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+AARO, the All-domain Anomaly Resolution Office, is the US government body created to address UAP using a data-driven framework. It is relevant to nuclear-site anomalies because recent UAP reporting laws require consultation on incidents associated with nuclear weapons infrastructure and NRC-regulated nuclear sites. The 2024 AARO report explicitly includes reporting requirements for incidents associated with nuclear weapons production, transport or storage, and for UAP or drones of unknown origin associated with nuclear power generating stations, fuel storage sites and other NRC-regulated facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
 However, AARO is not a substitute for the immediate security chain. A guard at a nuclear plant, an operator in a control room or a missile-site security team should not treat a live aerial anomaly as primarily a research submission. The first reporting path is local site security and the established regulatory, law-enforcement and airspace notification process. AARO’s value comes later, when a case enters a wider federal UAP or anomaly-resolution system and can be compared with other reports.
 
-AARO’s own public submission page also has limits. It currently accepts reports from current or former US government employees, service members or contractor personnel with direct knowledge of US government UAP programmes or activities dating back to 1945, and says the web form is an initial point of contact rather than a place to send potentially sensitive or classified information. It also tells users not to submit ordinary UAP sightings through that programme-reporting form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">Submit A Report</span></span></span>
+AARO’s own public submission page also has limits. It currently accepts reports from current or former US government employees, service members or contractor personnel with direct knowledge of US government UAP programmes or activities dating back to 1945, and says the web form is an initial point of contact rather than a place to send potentially sensitive or classified information. It also tells users not to submit ordinary UAP sightings through that programme-reporting form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">Submit A Report</span></span></span>
 
 That distinction matters for nuclear sites. A reporting channel should not encourage staff to bypass classified, safeguards, security or operational procedures by sending sensitive information through a public-facing form. The proper design is layered: immediate site and agency notification first, secure classified or safeguards handling where required, and only then wider anomaly-resolution reporting through authorised channels.
 
@@ -568,7 +568,7 @@ Poor reporting creates three recurring failure modes.
 
 **Third, missing technical context makes ordinary [failures]({{ 'failures/' | relative_url }}) look connected.** A maintenance event, alarm or communications issue may be real, but without logs and diagnostics investigators cannot tell whether it coincided with, followed from, or had nothing to do with an aerial report.
 
-NASA’s UAP study warned that stigma around UAP reporting probably leads to data loss, and that transparent reporting and rigorous analysis are needed to move the subject away from sensationalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> RAND’s analysis of public UAP reports also cautioned that public reporting may help identify threats, but individual public databases should not be treated as validated evidence; the value lies in awareness, pattern-finding and follow-up, not automatic acceptance of every entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified Aerial Phenomena Across America &#124; RAND...</span></span></span>
+NASA’s UAP study warned that stigma around UAP reporting probably leads to data loss, and that transparent reporting and rigorous analysis are needed to move the subject away from sensationalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> RAND’s analysis of public UAP reports also cautioned that public reporting may help identify threats, but individual public databases should not be treated as validated evidence; the value lies in awareness, pattern-finding and follow-up, not automatic acceptance of every entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">RAND CorporationNot the X-Files: Mapping Public Reports of Unidentified Aerial Phenomena Across America &#124; RAND...</span></span></span>
 
 For nuclear sites, that means a good channel must make reporting safe without making it credulous. Staff should be able to report an odd object without ridicule or career penalty, but the report should still be checked against aircraft, drones, satellites, weather, sensor performance and site operations.
 
@@ -608,194 +608,194 @@ The strongest recent lesson is that nuclear-site anomalies should be treated nei
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What A Useful UFO Report Needs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What A Useful UFO Report Needs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on collecting and evaluating reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on collecting and evaluating reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Covers investigation and reporting practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers investigation and reporting practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Demonstrates the value of accurate logs and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the value of accurate logs and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Many cases depend on reporting quality and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Many cases depend on reporting quality and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="reporting-what-a-useful-ufo-report-needs-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -811,7 +811,7 @@ The strongest recent lesson is that nuclear-site anomalies should be treated nei
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -831,7 +831,7 @@ The strongest recent lesson is that nuclear-site anomalies should be treated nei
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -863,7 +863,7 @@ The strongest recent lesson is that nuclear-site anomalies should be treated nei
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -915,7 +915,7 @@ The strongest recent lesson is that nuclear-site anomalies should be treated nei
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -960,7 +960,7 @@ The strongest recent lesson is that nuclear-site anomalies should be treated nei
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1001,199 +1001,199 @@ The strongest recent lesson is that nuclear-site anomalies should be treated nei
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security</a>  
+   Link:<a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-10/chapter-I/part-73/subpart-T" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-10/chapter-I/part-73/subpart-T</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 CFR Part 73 Subpart T -- Security Notifications, Reports, and Recordkeeping...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-10/chapter-I/part-73/subpart-T" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-10/chapter-I/part-73/subpart-T</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 CFR Part 73 Subpart T -- Security Notifications, Reports, and Recordkeeping...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: war.gov  
    Title: CIA UAP 015 Project Blue Book Special Report No 14  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarRETURN IMMEDIATELY AFTER USE TO THE CIA...Further more, most of the reports were not reduced to written form immediatel...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarRETURN IMMEDIATELY AFTER USE TO THE CIA...Further more, most of the reports were not reduced to written form immediatel...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationNot the X-Files: Mapping Public Reports of [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Aerial Phenomena Across America | RAND...</p></details>
+   Link:<a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationNot the X-Files: Mapping Public Reports of [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Aerial Phenomena Across America | RAND...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2417/ML24177A281.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2417/ML24177A281.pdf</a>  
+   Link:<a href="https://www.nrc.gov/docs/ML2417/ML24177A281.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2417/ML24177A281.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2335/ML23356A083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2335/ML23356A083.pdf</a>  
+   Link:<a href="https://www.nrc.gov/docs/ML2335/ML23356A083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2335/ML23356A083.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2329/ML23299A176.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2329/ML23299A176.pdf</a>  
+   Link:<a href="https://www.nrc.gov/docs/ML2329/ML23299A176.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2329/ML23299A176.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2329/ML23299A172.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2329/ML23299A172.pdf</a>  
+   Link:<a href="https://www.nrc.gov/docs/ML2329/ML23299A172.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2329/ML23299A172.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rand.org  
    Title: RAND RRA2368 1  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2300/RRA2368-1/RAND_RRA2368-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2300/RRA2368-1/RAND_RRA2368-1.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2300/RRA2368-1/RAND_RRA2368-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2300/RRA2368-1/RAND_RRA2368-1.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ecfr.gov  
    Title: part 73  
-   Link: <a href="https://www.ecfr.gov/current/title-10/chapter-I/part-73" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-10/chapter-I/part-73</a>  
+   Link:<a href="https://www.ecfr.gov/current/title-10/chapter-I/part-73" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-10/chapter-I/part-73</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
+   Link:<a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/index/2024/nuclear-regulatory-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/index/2024/nuclear-regulatory-commission</a>  
+   Link:<a href="https://www.federalregister.gov/index/2024/nuclear-regulatory-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/index/2024/nuclear-regulatory-commission</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: downloads.regulations.gov  
-   Link: <a href="https://downloads.regulations.gov/NRC-2008-0122-0155/content.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/NRC-2008-0122-0155/content.pdf</a>  
+   Link:<a href="https://downloads.regulations.gov/NRC-2008-0122-0155/content.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.regulations.gov/NRC-2008-0122-0155/content.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: violationtracker.goodjobsfirst.org  
-   Link: <a href="https://violationtracker.goodjobsfirst.org/agency/NRC" target="_blank" rel="noopener noreferrer nofollow">https://violationtracker.goodjobsfirst.org/agency/NRC</a>  
+   Link:<a href="https://violationtracker.goodjobsfirst.org/agency/NRC" target="_blank" rel="noopener noreferrer nofollow">https://violationtracker.goodjobsfirst.org/agency/NRC</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
+   Link:<a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Law Enforcement Resources: Reporting Non-Compliant Drone Operations  
-   Link: <a href="https://www.youtube.com/watch?v=I9Wptj-IuhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I9Wptj-IuhY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live - YouTube Ex-Air Force captain on mysterious...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I9Wptj-IuhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I9Wptj-IuhY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live - YouTube Ex-Air Force captain on mysterious...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=op_wCAep23o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFO Nuclear Missile Shootdown (Big Sur UFO Incident)  
-   Link: <a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_kbLEtvzjHg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_kbLEtvzjHg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: UFOs have taken U.S. nuclear capabilities 'offline,' says former AATIP director  
-   Link: <a href="https://www.youtube.com/watch?v=tioJj_lqtLU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tioJj_lqtLU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tioJj_lqtLU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tioJj_lqtLU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFOs Were Seen Near America&#x27;s Most Secure Nuclear Facility | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFOs Were Seen Near America&#x27;s Most Secure Nuclear Facility | WION Podcast...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena: Senate Armed Forces Subcommittee Hearing  
-   Link: <a href="https://www.youtube.com/watch?v=qpL6X1CNfD4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qpL6X1CNfD4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Resources: Reporting Non-Compliant Drone Operations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qpL6X1CNfD4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qpL6X1CNfD4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Resources: Reporting Non-Compliant Drone Operations...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Ex-Air Force captain on mysterious nuke incident at base during Cold War  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notable UFO testimony at House hearing on government transparency...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notable UFO testimony at House hearing on government transparency...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Notable UFO testimony at House hearing on government transparency  
-   Link: <a href="https://www.youtube.com/watch?v=ZPtX8isVsQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZPtX8isVsQo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Senate Armed Forces Subcommittee Hearing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZPtX8isVsQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZPtX8isVsQo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Senate Armed Forces Subcommittee Hearing...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Why UFOs Were Seen Near America's Most Secure Nuclear Facility | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=xpYTG2xoc7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xpYTG2xoc7Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Connection Between UAP And Nuclear Sites Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xpYTG2xoc7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xpYTG2xoc7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Connection Between UAP And Nuclear Sites Explained...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Unknown Drones over US Nuclear Command!!!  
-   Link: <a href="https://www.youtube.com/watch?v=T_sfOf0zomM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T_sfOf0zomM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T_sfOf0zomM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T_sfOf0zomM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don&#x27;t Explain...</p></details>

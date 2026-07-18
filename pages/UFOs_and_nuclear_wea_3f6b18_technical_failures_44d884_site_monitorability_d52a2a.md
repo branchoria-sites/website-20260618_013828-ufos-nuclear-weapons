@@ -274,19 +274,19 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site
 
 ## Introduction
 
-In debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), one overlooked issue is that a missile site does not need to be disabled to create a serious military problem. A launch facility that cannot reliably report its condition is itself a major concern. Air Force procedures treat the loss of status monitoring as a safety and security issue because commanders must always know whether a missile site is operating normally, has received commands, or remains under positive control. When that visibility disappears, the response is not to assume outside interference but to restore confidence in the system and, if necessary, place the affected facility into a safer configuration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+In debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), one overlooked issue is that a missile site does not need to be disabled to create a serious military problem. A launch facility that cannot reliably report its condition is itself a major concern. Air Force procedures treat the loss of status monitoring as a safety and security issue because commanders must always know whether a missile site is operating normally, has received commands, or remains under positive control. When that visibility disappears, the response is not to assume outside interference but to restore confidence in the system and, if necessary, place the affected facility into a safer configuration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-1-dark.svg" | relative_url }}" alt="Monitorability illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is important when assessing claims that UFOs interfered with nuclear forces. Some reported incidents involve missiles going off alert, while others involve uncertainty about what operators could see or verify. In the latter category, the key problem is monitorability: the ability of control centres to continuously determine the status of remote launch facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+This distinction is important when assessing claims that UFOs interfered with nuclear forces. Some reported incidents involve missiles going off alert, while others involve uncertainty about what operators could see or verify. In the latter category, the key problem is monitorability: the ability of control centres to continuously determine the status of remote launch facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 ## What monitorability means at a launch facility
 
-A Minuteman missile field is designed around constant communication between remote launch facilities and underground launch control centres. Missile crews do not sit inside individual [silos]({{ 'silos/' | relative_url }}). Instead, launch facilities are monitored from hardened control centres that track equipment status, receive indications of faults, and maintain the ability to issue commands or inhibit actions when necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missile_launch_control_center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missile launch control center</span><span class="citation-popover-snippet">Missile launch control center</span></span></span>
+A Minuteman missile field is designed around constant communication between remote launch facilities and underground launch control centres. Missile crews do not sit inside individual [silos]({{ 'silos/' | relative_url }}). Instead, launch facilities are monitored from hardened control centres that track equipment status, receive indications of faults, and maintain the ability to issue commands or inhibit actions when necessary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Missile_launch_control_center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Missile launch control center</span><span class="citation-popover-snippet">Missile launch control center</span></span></span>
 
-The architecture relies on more than simple launch capability. Operators must be able to verify what is happening at each site. A launch facility that remains physically intact but stops providing trustworthy status information creates uncertainty. Decision-makers may no longer know whether alarms are genuine, whether commands were received correctly, or whether a facility is behaving as expected. In nuclear operations, uncertainty itself becomes a risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+The architecture relies on more than simple launch capability. Operators must be able to verify what is happening at each site. A launch facility that remains physically intact but stops providing trustworthy status information creates uncertainty. Decision-makers may no longer know whether alarms are genuine, whether commands were received correctly, or whether a facility is behaving as expected. In nuclear operations, uncertainty itself becomes a risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
-This is why Air Force guidance places such emphasis on status monitoring. During operational testing, regulations require multiple launch control centres to retain the ability to monitor and inhibit launch facilities. If that capability falls below specified thresholds, testing must stop until monitoring is restored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+This is why Air Force guidance places such emphasis on status monitoring. During operational testing, regulations require multiple launch control centres to retain the ability to monitor and inhibit launch facilities. If that capability falls below specified thresholds, testing must stop until monitoring is restored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8Kb_n3g6Ngc" title="Inside Top Secret Clearance ICBM Missile Launch Control Center &amp; Missile Silo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8Kb_n3g6Ngc" target="_blank" rel="noopener noreferrer">Inside Top Secret Clearance ICBM Missile Launch Control Center &amp; Missile Silo</a></p><p class="youtube-embed-meta">Channel: AiirSource Military</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8Kb_n3g6Ngc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8Kb_n3g6Ngc">Open on YouTube</a></p></div></div></div>
@@ -295,9 +295,9 @@ This is why Air Force guidance places such emphasis on status monitoring. During
 
 A common public misconception is that the greatest danger is an unauthorised launch. Operational rules show a different priority: when status information becomes unreliable, the system is often moved toward a safer posture.
 
-Air Force instructions for Minuteman operations require manual safing actions when status monitoring is lost under certain conditions. During specific tests, a launch facility that can no longer be adequately monitored must be manually safed, and testing may be halted until visibility is restored. The underlying logic is straightforward: if operators cannot confidently determine a facility's condition, they reduce risk rather than continue normal operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+Air Force instructions for Minuteman operations require manual safing actions when status monitoring is lost under certain conditions. During specific tests, a launch facility that can no longer be adequately monitored must be manually safed, and testing may be halted until visibility is restored. The underlying logic is straightforward: if operators cannot confidently determine a facility's condition, they reduce risk rather than continue normal operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
-This approach reflects a broader principle of nuclear governance. Positive control depends not only on preventing unauthorised activity but also on maintaining reliable knowledge of system status. A missile that remains physically operational but cannot be properly monitored becomes a management and safety problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+This approach reflects a broader principle of nuclear governance. Positive control depends not only on preventing unauthorised activity but also on maintaining reliable knowledge of system status. A missile that remains physically operational but cannot be properly monitored becomes a management and safety problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-2-dark.svg" | relative_url }}" alt="Monitorability illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -305,11 +305,11 @@ This approach reflects a broader principle of nuclear governance. Positive contr
 
 The significance of lost monitorability helps explain why some incidents attract attention even when no evidence shows that a missile was disabled by an external force.
 
-Missile wings are responsible for large networks of launch facilities spread across thousands of square miles. Their mission includes maintaining secure communications, monitoring equipment health, and ensuring launch facilities remain properly configured and accountable. Any interruption in that visibility can trigger investigation, maintenance activity, security checks, or temporary operational restrictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malmstrom.af.mil">[Malmstrom Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malmstrom.af.mil</span><span class="citation-popover-snippet">Malmstrom Air Force Base341st Missile Wing &gt; Malmstrom Air Force Base &gt; DisplayThe 341st Maintenance Group maximizes ICBM readiness and l...</span></span></span>
+Missile wings are responsible for large networks of launch facilities spread across thousands of square miles. Their mission includes maintaining secure communications, monitoring equipment health, and ensuring launch facilities remain properly configured and accountable. Any interruption in that visibility can trigger investigation, maintenance activity, security checks, or temporary operational restrictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malmstrom.af.mil">[Malmstrom Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malmstrom.af.mil</span><span class="citation-popover-snippet">Malmstrom Air Force Base341st Missile Wing &gt; Malmstrom Air Force Base &gt; DisplayThe 341st Maintenance Group maximizes ICBM readiness and l...</span></span></span>
 
-Importantly, none of these responses requires a UFO explanation. Communication [failures]({{ 'failures/' | relative_url }}), equipment faults, data-link problems, maintenance errors, power anomalies, or other technical issues can all degrade operators' ability to monitor a facility. From a governance perspective, the immediate concern is restoring reliable status information rather than determining whether an unusual sighting occurred nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+Importantly, none of these responses requires a UFO explanation. Communication [failures]({{ 'failures/' | relative_url }}), equipment faults, data-link problems, maintenance errors, power anomalies, or other technical issues can all degrade operators' ability to monitor a facility. From a governance perspective, the immediate concern is restoring reliable status information rather than determining whether an unusual sighting occurred nearby.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
-This is one reason official investigations often focus on technical diagnostics and system records. Military operators need to know whether monitoring capability was lost, how long the condition lasted, and whether safeguards functioned as intended. Those questions can be answered without establishing any connection to aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+This is one reason official investigations often focus on technical diagnostics and system records. Military operators need to know whether monitoring capability was lost, how long the condition lasted, and whether safeguards functioned as intended. Those questions can be answered without establishing any connection to aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vVKvcmMQnMw" title="A Day in the Life on a Missile Alert Facility | ICBM Modernization Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vVKvcmMQnMw" target="_blank" rel="noopener noreferrer">A Day in the Life on a Missile Alert Facility | ICBM Modernization Series</a></p><p class="youtube-embed-meta">Channel: AFGlobalStrike</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vVKvcmMQnMw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vVKvcmMQnMw">Open on YouTube</a></p></div></div></div>
@@ -318,9 +318,9 @@ This is one reason official investigations often focus on technical diagnostics 
 
 Monitorability problems can be difficult for outsiders to interpret because they sit between two categories that are easier to understand. They are neither clear missile failures nor ordinary routine operations.
 
-When a missile enters a non-alert condition, records may show a specific technical status change. When a witness reports an unusual object, there is at least a visible event to describe. Loss of monitorability is different. It concerns what operators can no longer confidently know. That absence of information can be harder to explain publicly and easier to reinterpret later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+When a missile enters a non-alert condition, records may show a specific technical status change. When a witness reports an unusual object, there is at least a visible event to describe. Loss of monitorability is different. It concerns what operators can no longer confidently know. That absence of information can be harder to explain publicly and easier to reinterpret later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
-In the broader Malmstrom controversy and similar nuclear-UFO discussions, this distinction matters. Public accounts sometimes blend missile status changes, communication issues, security concerns, and reported aerial phenomena into a single narrative. Yet military procedures treat degraded monitoring capability as a significant issue on its own, regardless of any reported object. A site that cannot reliably communicate its condition can trigger serious operational responses even if no weapon has been disabled and no external actor has been identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+In the broader Malmstrom controversy and similar nuclear-UFO discussions, this distinction matters. Public accounts sometimes blend missile status changes, communication issues, security concerns, and reported aerial phenomena into a single narrative. Yet military procedures treat degraded monitoring capability as a significant issue on its own, regardless of any reported object. A site that cannot reliably communicate its condition can trigger serious operational responses even if no weapon has been disabled and no external actor has been identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-3-dark.svg" | relative_url }}" alt="Monitorability illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,201 +328,201 @@ In the broader Malmstrom controversy and similar nuclear-UFO discussions, this d
 
 The most important lesson from monitorability incidents is that nuclear forces depend on knowledge as much as hardware. A launch facility does not have to explode, launch, or go permanently offline to create concern. If commanders lose confidence in the accuracy of its reported status, the system enters a condition that demands immediate attention.
 
-For this reason, Air Force procedures place strict requirements on status monitoring, redundant oversight, and safing actions when visibility is lost. In discussions of UFO claims near nuclear installations, that operational reality provides an important alternative explanation: sometimes the significant event is not that a missile stopped working, but that operators temporarily lost the ability to know with certainty what was happening at the site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+For this reason, Air Force procedures place strict requirements on status monitoring, redundant oversight, and safing actions when visibility is lost. In discussions of UFO claims near nuclear installations, that operational reality provides an important alternative explanation: sometimes the significant event is not that a missile stopped working, but that operators temporarily lost the ability to know with certainty what was happening at the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[e-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-snippet">December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/meAZ_NLC7fQ" title="Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer">Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=meAZ_NLC7fQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Losing Site Monitorability Is a Big Deal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Losing Site Monitorability Is a Big Deal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Explains monitoring, control, communications, and safety concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains monitoring, control, communications, and safety concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Hand on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JQGHqScEFtoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Dead Hand" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Hand">The Dead Hand</a>
-        </h4>
-        <p class="fr-book-author">By David Hoffman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Hand on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JQGHqScEFtoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Dead Hand" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Hand">The Dead Hand</a>
+</h4>
+<p class="fr-book-author">By David Hoffman</p>
         
-        <p class="fr-book-desc">Highlights the importance of command, control, and situational awareness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of command, control, and situational awareness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores military systems, monitoring, and strategic infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military systems, monitoring, and strategic infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Provides context for claims involving missile-site status disruptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for claims involving missile-site status disruptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dead+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dead Hand</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dead+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dead Hand</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art"><img src="{{ '/assets/images/marketplace-covers/b4c22e4541497f55aa55.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art"><img src="{{ '/assets/images/marketplace-covers/b4c22e4541497f55aa55.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Aviation A3 Artwork Print Poster Militaria Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;"><img src="{{ '/assets/images/marketplace-covers/b18fcca26798e1af4d9a.jpg' | relative_url }}" alt="Listing image for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;"><img src="{{ '/assets/images/marketplace-covers/b18fcca26798e1af4d9a.jpg' | relative_url }}" alt="Listing image for Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Dru Blair Signed POWER Rockwell B-1B Aviation Art Print Framed Poster 36&quot; X 24&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/9b3910aa6d4c6039bf19.jpg' | relative_url }}" alt="Listing image for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang"><img src="{{ '/assets/images/marketplace-covers/9b3910aa6d4c6039bf19.jpg' | relative_url }}" alt="Listing image for Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">Spitfire war plane aviation Canvas Wall Art Printed Picture Framed Ready To Hang</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print" data-ebay-reference="monitorability-why-losing-site-monitorability-is-a-big-deal-ufos-and-nuclear-weapons-aviation-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ For this reason, Air Force procedures place strict requirements on status monito
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ For this reason, Air Force procedures place strict requirements on status monito
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ For this reason, Air Force procedures place strict requirements on status monito
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ For this reason, Air Force procedures place strict requirements on status monito
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ For this reason, Air Force procedures place strict requirements on status monito
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,86 +728,86 @@ For this reason, Air Force procedures place strict requirements on status monito
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Missile launch control center  
-   Link: <a href="https://en.wikipedia.org/wiki/Missile_launch_control_center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missile_launch_control_center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Missile_launch_control_center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missile_launch_control_center</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 341st Missile Wing LGM-30 Minuteman missile launch sites  
-   Link: <a href="https://en.wikipedia.org/wiki/341st_Missile_Wing_LGM-30_Minuteman_missile_launch_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/341st_Missile_Wing_LGM-30_Minuteman_missile_launch_sites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>341st Missile Wing LGM-30 Minuteman missile launch sitesThis is a list of the LGM-30 Minuteman missile Missile Alert Facilities and La...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/341st_Missile_Wing_LGM-30_Minuteman_missile_launch_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/341st_Missile_Wing_LGM-30_Minuteman_missile_launch_sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>341st Missile Wing LGM-30 Minuteman missile launch sitesThis is a list of the LGM-30 Minuteman missile Missile Alert Facilities and La...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Missile launch facility  
-   Link: <a href="https://en.wikipedia.org/wiki/Missile_launch_facility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missile_launch_facility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile launch facilityA missile launch facility, also known as an underground missile silo, launch facility (LF), or nuclear silo, is...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Missile_launch_facility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Missile_launch_facility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missile launch facilityA missile launch facility, also known as an underground missile silo, launch facility (LF), or nuclear silo, is...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: static.e-publishing.af.mil  
-   Link: <a href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</p></details>
+   Link:<a href="https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/af_se/publication/afi91-114/afi91-114.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2024 — 6 Jan 2023 — Weapon System Commands. 21.4.1. After the test ALCS aircraft issues the first enable command, determine t...</p></details>
    Published: December 3, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: malmstrom.af.mil  
-   Link: <a href="https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom Air Force Base341st Missile Wing &gt; Malmstrom Air Force Base &gt; DisplayThe 341st Maintenance Group maximizes ICBM readiness and l...</p></details>
+   Link:<a href="https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom Air Force Base341st Missile Wing &gt; Malmstrom Air Force Base &gt; DisplayThe 341st Maintenance Group maximizes ICBM readiness and l...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sandia.gov  
-   Link: <a href="https://www.sandia.gov/app/uploads/sites/148/2021/07/sand98-05059-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/app/uploads/sites/148/2021/07/sand98-05059-2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>De-Alerting Strategic Ballistic MissilesLand-mobile missile de-alerting measures would be more challenging to monitor, because communicat...</p></details>
+   Link:<a href="https://www.sandia.gov/app/uploads/sites/148/2021/07/sand98-05059-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/app/uploads/sites/148/2021/07/sand98-05059-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>De-Alerting Strategic Ballistic MissilesLand-mobile missile de-alerting measures would be more challenging to monitor, because communicat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sam.gov  
-   Link: <a href="https://sam.gov/opp/d262d5ad8a2a4d03aacd9cab58e7e936/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/d262d5ad8a2a4d03aacd9cab58e7e936/view</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Visual Assessment (RVA) Sustainment ProgramThe RVA system provides video surveillance of top-side activity at the USAF Minuteman I...</p></details>
+   Link:<a href="https://sam.gov/opp/d262d5ad8a2a4d03aacd9cab58e7e936/view" target="_blank" rel="noopener noreferrer nofollow">https://sam.gov/opp/d262d5ad8a2a4d03aacd9cab58e7e936/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Visual Assessment (RVA) Sustainment ProgramThe RVA system provides video surveillance of top-side activity at the USAF Minuteman I...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: minutemanmissile.com  
-   Link: <a href="https://minutemanmissile.com/launchfacility.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/launchfacility.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missile Launch FacilityThe Launch Facility (missile silo) has a number of components that are essential in assuring that the Mi...</p></details>
+   Link:<a href="https://minutemanmissile.com/launchfacility.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/launchfacility.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missile Launch FacilityThe Launch Facility (missile silo) has a number of components that are essential in assuring that the Mi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ucs.org  
-   Link: <a href="https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>operation—known as “safing”—is used to prevent a missile from launching when maintenance and security workers are in an underground missi...</p></details>
+   Link:<a href="https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucs.org/sites/default/files/attach/2015/04/safing-us-nuclear-missiles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>operation—known as “safing”—is used to prevent a missile from launching when maintenance and security workers are in an underground missi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2025/09/air-force-takes-first-minuteman-iii-silo-offline-in-milestone-towards-sentinel/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2025/09/air-force-takes-first-minuteman-iii-silo-offline-in-milestone-towards-sentinel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force takes first Minuteman III silo offline, in milestone...3 Sept 2025 — The shuttering of launch facility LF 5E10, located at F.E...</p></details>
+   Link:<a href="https://breakingdefense.com/2025/09/air-force-takes-first-minuteman-iii-silo-offline-in-milestone-towards-sentinel/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2025/09/air-force-takes-first-minuteman-iii-silo-offline-in-milestone-towards-sentinel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force takes first Minuteman III silo offline, in milestone...3 Sept 2025 — The shuttering of launch facility LF 5E10, located at F.E...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vandenberg.spaceforce.mil  
    Title: gt 254 afgsc validates reliability readiness of icbm force with minuteman iii t  
-   Link: <a href="https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4328255/gt-254-afgsc-validates-reliability-readiness-of-icbm-force-with-minuteman-iii-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4328255/gt-254-afgsc-validates-reliability-readiness-of-icbm-force-with-minuteman-iii-t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>254: afgsc validates reliability, readiness of icbm force with...5 Nov 2025 — Air Force Global Strike Command conducted a test launch of...</p></details>
+   Link:<a href="https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4328255/gt-254-afgsc-validates-reliability-readiness-of-icbm-force-with-minuteman-iii-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4328255/gt-254-afgsc-validates-reliability-readiness-of-icbm-force-with-minuteman-iii-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>254: afgsc validates reliability, readiness of icbm force with...5 Nov 2025 — Air Force Global Strike Command conducted a test launch of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO nuclear missile launch control center communications loss Hellfire missile &quot;bounces&quot; off suspected &#x27;UFO&#x27;. #UFO #UAP #BBCNews BBC News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO nuclear missile launch control center communications loss Hellfire missile &quot;bounces&quot; off suspected &#x27;UFO&#x27;. #UFO #UAP #BBCNews BBC News...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/14myp6c/eli5_how_do_icbm_early_warning_systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/14myp6c/eli5_how_do_icbm_early_warning_systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: How do ICBM early warning systems differentiate...2 - It&#x27;s possible to tell the difference between an ICBM launch facility and a c...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/14myp6c/eli5_how_do_icbm_early_warning_systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/14myp6c/eli5_how_do_icbm_early_warning_systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: How do ICBM early warning systems differentiate...2 - It&#x27;s possible to tell the difference between an ICBM launch facility and a c...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: krtv.com  
    Title: malmstrom airmen participate in minuteman iii test launch  
-   Link: <a href="https://www.krtv.com/news/military-matters/malmstrom-airmen-participate-in-minuteman-iii-test-launch" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/military-matters/malmstrom-airmen-participate-in-minuteman-iii-test-launch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 May 2025 — The launch involved an operational Minuteman III selected from Malmstrom that was transported to Vandenberg SFB earlier thi...</p></details>
+   Link:<a href="https://www.krtv.com/news/military-matters/malmstrom-airmen-participate-in-minuteman-iii-test-launch" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/military-matters/malmstrom-airmen-participate-in-minuteman-iii-test-launch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 May 2025 — The launch involved an operational Minuteman III selected from Malmstrom that was transported to Vandenberg SFB earlier thi...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: muckrock.com  
    Title: deactivated minuteman iii icbm launch facilities 17552  
-   Link: <a href="https://www.muckrock.com/foi/united-states-of-america-10/deactivated-minuteman-iii-icbm-launch-facilities-17552/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/deactivated-minuteman-iii-icbm-launch-facilities-17552/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deactivated Minuteman III ICBM launch facilities30 Apr 2015 — Document listing the 50 ICBM Launch Facilities near Malmstrom Air Force Bas...</p></details>
+   Link:<a href="https://www.muckrock.com/foi/united-states-of-america-10/deactivated-minuteman-iii-icbm-launch-facilities-17552/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/deactivated-minuteman-iii-icbm-launch-facilities-17552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deactivated Minuteman III ICBM launch facilities30 Apr 2015 — Document listing the 50 ICBM Launch Facilities near Malmstrom Air Force Bas...</p></details>

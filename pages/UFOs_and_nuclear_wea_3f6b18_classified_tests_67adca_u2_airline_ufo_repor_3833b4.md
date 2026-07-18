@@ -262,11 +262,11 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_u2_air
 
 ## Introduction
 
-Many Cold War UFO reports were not the result of mistaken stars, weather balloons, or elaborate hoaxes. In a significant number of cases, witnesses were observing a real aircraft that they had no reason to believe could exist. The Lockheed U-2 reconnaissance aircraft flew far higher than ordinary aircraft of the 1950s, often above 60,000 feet at a time when most commercial airliners cruised between roughly 10,000 and 20,000 feet. From below, especially at dawn or dusk, the aircraft could appear as a brilliantly illuminated object moving in ways that seemed impossible. CIA and later Pentagon historical reviews concluded that U-2 flights generated a substantial share of UFO reports during the late 1950s and 1960s, with airline pilots among the most frequent witnesses. FAS Project on Government Secrecy+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90This study traces CIA interest and involvement in the UFO contro...</span></span></span>
+Many Cold War UFO reports were not the result of mistaken stars, weather balloons, or elaborate hoaxes. In a significant number of cases, witnesses were observing a real aircraft that they had no reason to believe could exist. The Lockheed U-2 reconnaissance aircraft flew far higher than ordinary aircraft of the 1950s, often above 60,000 feet at a time when most commercial airliners cruised between roughly 10,000 and 20,000 feet. From below, especially at dawn or dusk, the aircraft could appear as a brilliantly illuminated object moving in ways that seemed impossible. CIA and later Pentagon historical reviews concluded that U-2 flights generated a substantial share of UFO reports during the late 1950s and 1960s, with airline pilots among the most frequent witnesses. FAS Project on Government Secrecy+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90This study traces CIA interest and involvement in the UFO contro...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_u2_airline_ufo_repor_3833b4-Illustration-1-dark.svg" | relative_url }}" alt="U 2 reports illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_u2_airline_ufo_repor_3833b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_u2_airline_ufo_repor_3833b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader story of [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), the U-2 is important because it was designed to gather intelligence on Soviet nuclear forces and missile programmes. The aircraft’s secret mission created a situation in which genuine sightings could not be openly explained, allowing UFO reports to accumulate around activities tied directly to Cold War nuclear reconnaissance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report noted that UFO reports would spike when the U-2 was i...</span></span></span>
+Within the broader story of [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), the U-2 is important because it was designed to gather intelligence on Soviet nuclear forces and missile programmes. The aircraft’s secret mission created a situation in which genuine sightings could not be openly explained, allowing UFO reports to accumulate around activities tied directly to Cold War nuclear reconnaissance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report noted that UFO reports would spike when the U-2 was i...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_u2_airline_ufo_repor_3833b4-Illustration-3-dark.svg" | relative_url }}" alt="U 2 reports illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_u2_airline_ufo_repor_3833b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_u2_airline_ufo_repor_3833b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -274,14 +274,14 @@ Within the broader story of [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weap
 
 The key mechanism was not exotic technology but altitude.
 
-When the U-2 entered service under Project Aquatone in the mid-1950s, it routinely operated at heights that ordinary pilots rarely encountered. Commercial crews flying westward at sunset could already be in darkness while a U-2 tens of thousands of feet above remained illuminated by direct sunlight. The result was a bright, reflective object seemingly suspended in the sky long after the Sun had disappeared below the horizon for observers lower down. U.S. Department of War+2Naval History and Heritage Command <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report noted that UFO reports would spike when the U-2 was i...</span></span></span>
+When the U-2 entered service under Project Aquatone in the mid-1950s, it routinely operated at heights that ordinary pilots rarely encountered. Commercial crews flying westward at sunset could already be in darkness while a U-2 tens of thousands of feet above remained illuminated by direct sunlight. The result was a bright, reflective object seemingly suspended in the sky long after the Sun had disappeared below the horizon for observers lower down. U.S. Department of War+2Naval History and Heritage Command<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report noted that UFO reports would spike when the U-2 was i...</span></span></span>
 
 This produced several characteristics commonly associated with UFO reports:
 
 * **Unusual brightness:** The U-2's reflective surfaces could catch sunlight and appear fiery or glowing.
 * **Unexpected altitude:** Witnesses often assumed no aircraft could operate so high.
 * **Difficult speed estimates:** Without a clear sense of distance, observers could misjudge velocity and manoeuvres.
-* **Long visibility periods:** The aircraft remained sunlit after lower aircraft had entered darkness, making it seem detached from normal aviation patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenseone.com">[Defense One+2Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenseone.com</span><span class="citation-popover-title">area 51 has been hiding u 2 spy planes not ufos</span><span class="citation-popover-snippet">Defense OneArea 51 Has Been Hiding U-2 Spy Planes, Not UFOs19 Aug 2013 — According to the CIA report, in the evenings the U-2&#x27;s silver wi...</span></span></span>
+* **Long visibility periods:** The aircraft remained sunlit after lower aircraft had entered darkness, making it seem detached from normal aviation patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defenseone.com">[Defense One+2Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defenseone.com</span><span class="citation-popover-title">area 51 has been hiding u 2 spy planes not ufos</span><span class="citation-popover-snippet">Defense OneArea 51 Has Been Hiding U-2 Spy Planes, Not UFOs19 Aug 2013 — According to the CIA report, in the evenings the U-2&#x27;s silver wi...</span></span></span>
 
 For airline crews trained to recognise conventional aircraft, these observations could be particularly persuasive. Pilots were not casual observers; they knew what ordinary traffic looked like. What they lacked was knowledge that a classified aircraft was operating in a completely different altitude regime.
 
@@ -290,7 +290,7 @@ For airline crews trained to recognise conventional aircraft, these observations
 
 ### Why airline pilots reported so many sightings
 
-Historical accounts from the CIA and later reviews by the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) note that UFO reports often increased when U-2 missions were active. Airline pilots frequently relayed sightings to air traffic controllers because they were observing luminous objects where no known aircraft were expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report noted that UFO reports would spike when the U-2 was i...</span></span></span>
+Historical accounts from the CIA and later reviews by the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) note that UFO reports often increased when U-2 missions were active. Airline pilots frequently relayed sightings to air traffic controllers because they were observing luminous objects where no known aircraft were expected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report noted that UFO reports would spike when the U-2 was i...</span></span></span>
 
 This detail matters because pilot reports are often treated as especially credible within UFO discussions. The U-2 case demonstrates that a credible witness can still encounter a misleading situation. The pilots were accurately [reporting]({{ 'reporting/' | relative_url }}) what they saw; the missing piece was classified information about what was flying above them.
 
@@ -303,7 +303,7 @@ This detail matters because pilot reports are often treated as especially credib
 
 [Project Blue Book]({{ 'blue-book/' | relative_url }}), the US Air Force programme responsible for investigating UFO reports, occupied an awkward position.
 
-Investigators sometimes had access to information unavailable to the public. Historical CIA records indicate that Blue Book personnel could compare sightings against classified U-2 flight information and identify a likely explanation. However, they were generally unable to disclose that explanation because doing so would expose one of the United States' most sensitive intelligence programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://roadrunnersinternationale.com/cia-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadrunnersinternationale.com">[roadrunnersinternationale.com+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadrunnersinternationale.com</span><span class="citation-popover-title">cia ufo</span><span class="citation-popover-snippet">cia ufo</span></span></span>
+Investigators sometimes had access to information unavailable to the public. Historical CIA records indicate that Blue Book personnel could compare sightings against classified U-2 flight information and identify a likely explanation. However, they were generally unable to disclose that explanation because doing so would expose one of the United States' most sensitive intelligence programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://roadrunnersinternationale.com/cia-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadrunnersinternationale.com">[roadrunnersinternationale.com+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadrunnersinternationale.com</span><span class="citation-popover-title">cia ufo</span><span class="citation-popover-snippet">cia ufo</span></span></span>
 
 The consequence was a recurring pattern:
 
@@ -345,194 +345,194 @@ The significance of the U-2 lies less in any individual sighting than in the mec
 For historians of UFOs and nuclear weapons, the U-2 demonstrates how classified reconnaissance programmes could generate authentic mysteries without requiring extraterrestrial explanations. It also shows why some Cold War UFO reports remained [unresolved]({{ 'unresolved/' | relative_url }}) in public records for years: the information needed to solve them was itself classified. [Naval History and Heritage Command+2U.S. Department of War](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why U 2 flights looked impossible from below. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why U 2 flights looked impossible from below. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Links U-2 testing with UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links U-2 testing with UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains secret aircraft development and witness confusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains secret aircraft development and witness confusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Places U-2-era sightings in investigative context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places U-2-era sightings in investigative context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes aviation-related witness reports and official perspectives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes aviation-related witness reports and official perspectives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF squadron and historic reproduction patches"><img src="{{ '/assets/images/marketplace-covers/d80c297cb07719b2b6b2.jpg' | relative_url }}" alt="Listing image for USAF squadron and historic reproduction patches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF squadron and historic reproduction patches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF squadron and historic reproduction patches"><img src="{{ '/assets/images/marketplace-covers/d80c297cb07719b2b6b2.jpg' | relative_url }}" alt="Listing image for USAF squadron and historic reproduction patches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF squadron and historic reproduction patches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF 2 Squadron E-7 Wedgetail “Operation Kudo” glow In the dark 3D PVC patch"><img src="{{ '/assets/images/marketplace-covers/045683cd7d0d0f65edf9.jpg' | relative_url }}" alt="Listing image for RAAF 2 Squadron E-7 Wedgetail “Operation Kudo” glow In the dark 3D PVC patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF 2 Squadron E-7 Wedgetail “Operation Kudo” glow In the dark 3D PVC patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAAF 2 Squadron E-7 Wedgetail “Operation Kudo” glow In the dark 3D PVC patch"><img src="{{ '/assets/images/marketplace-covers/045683cd7d0d0f65edf9.jpg' | relative_url }}" alt="Listing image for RAAF 2 Squadron E-7 Wedgetail “Operation Kudo” glow In the dark 3D PVC patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">RAAF 2 Squadron E-7 Wedgetail “Operation Kudo” glow In the dark 3D PVC patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set"><img src="{{ '/assets/images/marketplace-covers/9275acdcda4f45050c56.jpg' | relative_url }}" alt="Listing image for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set"><img src="{{ '/assets/images/marketplace-covers/9275acdcda4f45050c56.jpg' | relative_url }}" alt="Listing image for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Fairford “Operation Epic Fury” PVC Patch"><img src="{{ '/assets/images/marketplace-covers/f7455e5ff197a7161447.jpg' | relative_url }}" alt="Listing image for Royal Air Force Fairford “Operation Epic Fury” PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Fairford “Operation Epic Fury” PVC Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Fairford “Operation Epic Fury” PVC Patch"><img src="{{ '/assets/images/marketplace-covers/f7455e5ff197a7161447.jpg' | relative_url }}" alt="Listing image for Royal Air Force Fairford “Operation Epic Fury” PVC Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Fairford “Operation Epic Fury” PVC Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="u-2-reports-why-u-2-flights-looked-impossible-from-below-ufos-and-nuclear-weapons-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For historians of UFOs and nuclear weapons, the U-2 demonstrates how classified 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For historians of UFOs and nuclear weapons, the U-2 demonstrates how classified 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For historians of UFOs and nuclear weapons, the U-2 demonstrates how classified 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For historians of UFOs and nuclear weapons, the U-2 demonstrates how classified 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For historians of UFOs and nuclear weapons, the U-2 demonstrates how classified 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,180 +738,180 @@ For historians of UFOs and nuclear weapons, the U-2 demonstrates how classified 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90This study traces CIA interest and involvement in the UFO contro...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90This study traces CIA interest and involvement in the UFO contro...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report noted that UFO reports would spike when the U-2 was i...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The report noted that UFO reports would spike when the U-2 was i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/41" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/41</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/417 May 2024 — The report noted that UFO reports would spike when the U-2...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/41" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/41</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/417 May 2024 — The report noted that UFO reports would spike when the U-2...</p></details>
    Published: May 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Section 8  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on US Government Involvement with UAP, Volume I10 May 2024 — The report noted that UFO reports would spike when the U-2...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on US Government Involvement with UAP, Volume I10 May 2024 — The report noted that UFO reports would spike when the U-2...</p></details>
    Published: May 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e letter writers the true cause of the UFO sightings...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e letter writers the true cause of the UFO sightings...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: 28256 ufo sightings cia u2 aircraft  
-   Link: <a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27;14 Jan 2015 — The CIA tweet has sparked its own UFO flap: Several analysts dispute...</p></details>
+   Link:<a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA About UFOs of the 1950s and &#x27;60s: &#x27;It Was Us&#x27;14 Jan 2015 — The CIA tweet has sparked its own UFO flap: Several analysts dispute...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/claim-cia-spy-planes-account-for-over-1-2-of-all-ufo-reports-in-the-50s-and-60s-in-the-us.13063/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-cia-spy-planes-account-for-over-1-2-of-all-ufo-reports-in-the-50s-and-60s-in-the-us.13063/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: CIA Spy Planes Account for Over 1/2 of all UFO...25 Jul 2023 — One of the arguments was that the CIA&#x27;s use of classified spy plan...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-cia-spy-planes-account-for-over-1-2-of-all-ufo-reports-in-the-50s-and-60s-in-the-us.13063/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-cia-spy-planes-account-for-over-1-2-of-all-ufo-reports-in-the-50s-and-60s-in-the-us.13063/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim: CIA Spy Planes Account for Over 1/2 of all UFO...25 Jul 2023 — One of the arguments was that the CIA&#x27;s use of classified spy plan...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cause of the UFO sightings...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cause of the UFO sightings...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
    Title: how to investigate a flying saucer  
-   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 2016 — The CIA&#x27;s concern over UFOs was substantial until the early 1950s... UFO reports to ignite mass panic and hysteria. Even w...</p></details>
+   Link:<a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 2016 — The CIA&#x27;s concern over UFOs was substantial until the early 1950s... UFO reports to ignite mass panic and hysteria. Even w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE U-2 AND OXCARTThe Air Force had therefore begun to develop a high-altitude reconnaissance aircraft that would be able to conduct deep...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE U-2 AND OXCARTThe Air Force had therefore begun to develop a high-altitude reconnaissance aircraft that would be able to conduct deep...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: Supporting Factors: Historical flight logs confirm that U.S. military  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO) Unidentified...5 Jun 2026 — References: (a) [https://www.war.gov/ufo/#Western-US-Event](https://www.war.gov/ufo/#Western-US-Event), Incident...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO) Unidentified...5 Jun 2026 — References: (a) [https://www.war.gov/ufo/#Western-US-Event](https://www.war.gov/ufo/#Western-US-Event), Incident...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCivilian pilots are encouraged to promptly report UAP sightings to air traffic control. AARO receives UAP-related Pilot Reports...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCivilian pilots are encouraged to promptly report UAP sightings to air traffic control. AARO receives UAP-related Pilot Reports...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — High-altitude testing of the U-2 soon led to an unexpe...</p></details>
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandU-2s, UFOs, and Operation Blue Book24 Jan 2024 — High-altitude testing of the U-2 soon led to an unexpe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: defenseone.com  
    Title: [area 51](&#123;&#123; 'area-51/' | relative_url &#125;&#125;) has been hiding u 2 spy planes not ufos  
-   Link: <a href="https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/" target="_blank" rel="noopener noreferrer nofollow">https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense OneArea 51 Has Been Hiding U-2 Spy Planes, Not UFOs19 Aug 2013 — According to the CIA report, in the evenings the U-2&#x27;s silver wi...</p></details>
+   Link:<a href="https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/" target="_blank" rel="noopener noreferrer nofollow">https://www.defenseone.com/technology/2013/08/area-51-has-been-hiding-u-2-spy-planes-not-ufos/68951/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense OneArea 51 Has Been Hiding U-2 Spy Planes, Not UFOs19 Aug 2013 — According to the CIA report, in the evenings the U-2&#x27;s silver wi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: universetoday.com  
    Title: the cia cheekily blames itself for 1950s ufo sightings  
-   Link: <a href="https://www.universetoday.com/articles/the-cia-cheekily-blames-itself-for-1950s-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-cia-cheekily-blames-itself-for-1950s-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Dec 2014 — High-altitude testing of the U-2 soon led to an unexpected side effect -- a tremendous increase in reports of unidentified...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/the-cia-cheekily-blames-itself-for-1950s-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-cia-cheekily-blames-itself-for-1950s-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Dec 2014 — High-altitude testing of the U-2 soon led to an unexpected side effect -- a tremendous increase in reports of unidentified...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: independent.co.uk  
    Title: us spy jets behind ufo hysteria 1243712  
-   Link: <a href="https://www.independent.co.uk/news/us-spy-jets-behind-ufo-hysteria-1243712.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/us-spy-jets-behind-ufo-hysteria-1243712.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentUS spy jets behind UFO hysteria4 Aug 1997 — &quot;Over half of all UFO reports from the late 1950s through the 1960s... &quot; rega...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/us-spy-jets-behind-ufo-hysteria-1243712.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/us-spy-jets-behind-ufo-hysteria-1243712.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentUS spy jets behind UFO hysteria4 Aug 1997 — &quot;Over half of all UFO reports from the late 1950s through the 1960s... &quot; rega...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: area 51 cia ufos aliens nevada  
-   Link: <a href="https://www.theguardian.com/world/2013/aug/16/area-51-cia-ufos-aliens-nevada" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/aug/16/area-51-cia-ufos-aliens-nevada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianArea 51&#x27;s existence confirmed by CIA as hotbed for...16 Aug 2013 — &quot;U-2 and later Oxcart flights accounted for more than one...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2013/aug/16/area-51-cia-ufos-aliens-nevada" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/aug/16/area-51-cia-ufos-aliens-nevada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianArea 51&#x27;s existence confirmed by CIA as hotbed for...16 Aug 2013 — &quot;U-2 and later Oxcart flights accounted for more than one...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Revealed in CIA Spy Plane Documents16 Aug 2013 — &quot;U-2 and later OXCART flights accounted for more than one-half of all UFO report...</p></details>
+   Link:<a href="https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/area-51-revealed-cia-spy-plane-documents/story?id=19977635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Revealed in CIA Spy Plane Documents16 Aug 2013 — &quot;U-2 and later OXCART flights accounted for more than one-half of all UFO report...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue BookBLUE BOOK - From 1947 to 1969, the US Air Force investigated unidentified flying objects under...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue BookBLUE BOOK - From 1947 to 1969, the US Air Force investigated unidentified flying objects under...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: universetoday.com  
    Title: cias declassified documents reveals secrets about area 51 and ufos  
-   Link: <a href="https://www.universetoday.com/articles/cias-declassified-documents-reveals-secrets-about-area-51-and-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/cias-declassified-documents-reveals-secrets-about-area-51-and-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Declassified Documents Reveals Secrets About Area...16 Aug 2013 — High-altitude testing of the U-2 soon led to an unexpected side...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/cias-declassified-documents-reveals-secrets-about-area-51-and-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/cias-declassified-documents-reveals-secrets-about-area-51-and-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Declassified Documents Reveals Secrets About Area...16 Aug 2013 — High-altitude testing of the U-2 soon led to an unexpected side...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Lockheed U 2  
-   Link: <a href="https://en.wikipedia.org/wiki/Lockheed_U-2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lockheed_U-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed U-2U-2 and later OXCART flights accounted for more than one-half of all UFO reports during the late 1950s and most of the 196...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lockheed_U-2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lockheed_U-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lockheed U-2U-2 and later OXCART flights accounted for more than one-half of all UFO reports during the late 1950s and most of the 196...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theaviationgeekclub.com  
-   Link: <a href="https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK AND THE STORY OF HOW UFO...Blue Book members called the CIA in Washington and asked to Agency&#x27;s Project Staff to check...</p></details>
+   Link:<a href="https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK AND THE STORY OF HOW UFO...Blue Book members called the CIA in Washington and asked to Agency&#x27;s Project Staff to check...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/milestones/1953-1960/u2-incident" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/milestones/1953-1960/u2-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the HistorianU-2 Overflights and the Capture of Francis Gary Powers...The U-2 was a special high-altitude plane that flew at a...</p></details>
+   Link:<a href="https://history.state.gov/milestones/1953-1960/u2-incident" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/milestones/1953-1960/u2-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the HistorianU-2 Overflights and the Capture of Francis Gary Powers...The U-2 was a special high-altitude plane that flew at a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: venturebeat.com  
    Title: cia takes blame for more than half of ufo sightings in late 1950s and 60s  
-   Link: <a href="https://venturebeat.com/technology/cia-takes-blame-for-more-than-half-of-ufo-sightings-in-late-1950s-and-60s" target="_blank" rel="noopener noreferrer nofollow">https://venturebeat.com/technology/cia-takes-blame-for-more-than-half-of-ufo-sightings-in-late-1950s-and-60s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA takes blame for more than half of UFO sightings in late...29 Dec 2014 — The CIA was responsible for more than half of all UFO sighti...</p></details>
+   Link:<a href="https://venturebeat.com/technology/cia-takes-blame-for-more-than-half-of-ufo-sightings-in-late-1950s-and-60s" target="_blank" rel="noopener noreferrer nofollow">https://venturebeat.com/technology/cia-takes-blame-for-more-than-half-of-ufo-sightings-in-late-1950s-and-60s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA takes blame for more than half of UFO sightings in late...29 Dec 2014 — The CIA was responsible for more than half of all UFO sighti...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the U-2.project is very sketchy and there are no accurate...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the U-2.project is very sketchy and there are no accurate...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shocking 1955 sighting in Kentucky pushed the U.S. Air...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shocking 1955 sighting in Kentucky pushed the U.S. Air...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: irishstar.com  
    Title: cia ufo files area 51 35149745  
-   Link: <a href="https://www.irishstar.com/news/us-news/cia-ufo-files-area-51-35149745" target="_blank" rel="noopener noreferrer nofollow">https://www.irishstar.com/news/us-news/cia-ufo-files-area-51-35149745</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA releases secret Area 51 document that sheds light on...1 May 2025 — The document sheds light on the base&#x27;s operations before 1974, r...</p></details>
+   Link:<a href="https://www.irishstar.com/news/us-news/cia-ufo-files-area-51-35149745" target="_blank" rel="noopener noreferrer nofollow">https://www.irishstar.com/news/us-news/cia-ufo-files-area-51-35149745</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA releases secret Area 51 document that sheds light on...1 May 2025 — The document sheds light on the base&#x27;s operations before 1974, r...</p></details>
    Published: May 2025  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rer5ni/the_cias_claim_that_half_of_ufos_in_the_50s_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rer5ni/the_cias_claim_that_half_of_ufos_in_the_50s_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd places of UFO reports, and U2 flights...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rer5ni/the_cias_claim_that_half_of_ufos_in_the_50s_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rer5ni/the_cias_claim_that_half_of_ufos_in_the_50s_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd places of UFO reports, and U2 flights...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: The UFO That Sent the CIA Into Panic Mode  
-   Link: <a href="https://www.youtube.com/watch?v=Hj1x8TV81UQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hj1x8TV81UQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest UFO Cover-Up in History | Joe Rogan, Area 51 &amp; Roswell! Vyom &amp; Sufitramp...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hj1x8TV81UQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hj1x8TV81UQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest UFO Cover-Up in History | Joe Rogan, Area 51 &amp; Roswell! Vyom &amp; Sufitramp...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
    Title: Classified U.S  
-   Link: <a href="https://www.instagram.com/reel/DU3GRe7jgiF/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU3GRe7jgiF/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aircraft, particularly spy planes like the U-2 and...Project Blue Book: Out of 12,618 cases, 701 officially remained &quot;unidentified,&quot; but...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DU3GRe7jgiF/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DU3GRe7jgiF/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aircraft, particularly spy planes like the U-2 and...Project Blue Book: Out of 12,618 cases, 701 officially remained &quot;unidentified,&quot; but...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: tpr.org  
    Title: Did You Know?  
-   Link: <a href="https://www.tpr.org/2013-08-16/did-you-know-area-51-nearly-killed-4-important-visitors" target="_blank" rel="noopener noreferrer nofollow">https://www.tpr.org/2013-08-16/did-you-know-area-51-nearly-killed-4-important-visitors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Nearly Killed 4 Important Visitors16 Aug 2013 — &quot;High-altitude testing of the U-2 soon led to an unexpected side effect-a tremend...</p></details>
+   Link:<a href="https://www.tpr.org/2013-08-16/did-you-know-area-51-nearly-killed-4-important-visitors" target="_blank" rel="noopener noreferrer nofollow">https://www.tpr.org/2013-08-16/did-you-know-area-51-nearly-killed-4-important-visitors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Nearly Killed 4 Important Visitors16 Aug 2013 — &quot;High-altitude testing of the U-2 soon led to an unexpected side effect-a tremend...</p></details>

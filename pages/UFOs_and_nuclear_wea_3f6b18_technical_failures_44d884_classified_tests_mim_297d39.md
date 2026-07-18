@@ -284,7 +284,7 @@ Claims that [unidentified]({{ 'unidentified/' | relative_url }}) objects interfe
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_classified_tests_mim_297d39-Illustration-1-dark.svg" | relative_url }}" alt="Secret Tests illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_classified_tests_mim_297d39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_classified_tests_mim_297d39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every nuclear-related UFO report was a misunderstood military exercise. Rather, it highlights a specific mechanism that complicates causation claims: secret tests can generate observations that appear extraordinary precisely because the people observing them lack the information needed to identify them. The historical record contains several examples where classified activities offer a plausible alternative explanation for alleged UFO interactions with nuclear systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+This does not mean every nuclear-related UFO report was a misunderstood military exercise. Rather, it highlights a specific mechanism that complicates causation claims: secret tests can generate observations that appear extraordinary precisely because the people observing them lack the information needed to identify them. The historical record contains several examples where classified activities offer a plausible alternative explanation for alleged UFO interactions with nuclear systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 ## Why Compartmentalisation Creates Strange Reports
 
@@ -292,9 +292,9 @@ Cold War weapons programmes depended on strict information controls. Personnel w
 
 Missile testing was especially vulnerable to this problem. A launch crew, tracking team, [radar]({{ 'radar/' | relative_url }}) operator and intelligence specialist might all be involved in the same event while possessing very different knowledge of its purpose. If a missile released experimental [decoys]({{ 'decoys/' | relative_url }}), generated unusual radar signatures or behaved differently from public expectations, some observers might encounter effects without understanding the classified programme behind them.
 
-The result is a recurring pattern in disputed UFO cases: witnesses describe an unusual event accurately, but the meaning attached to the event becomes uncertain because critical context remained classified. Historians of intelligence and military technology have repeatedly noted that [secrecy]({{ 'secrecy/' | relative_url }}) can create lasting misconceptions when partial observations later become public testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride th...</span></span></span>
+The result is a recurring pattern in disputed UFO cases: witnesses describe an unusual event accurately, but the meaning attached to the event becomes uncertain because critical context remained classified. Historians of intelligence and military technology have repeatedly noted that [secrecy]({{ 'secrecy/' | relative_url }}) can create lasting misconceptions when partial observations later become public testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride th...</span></span></span>
 
-A useful example is the 1964 Big Sur missile-test controversy. Former Air Force officer Robert Jacobs later claimed that film from a missile test showed an object interacting with a re-entry vehicle. Project engineer Kingston George argued that the footage instead captured classified penetration aids—decoys and chaff released during missile-defence testing. According to George, Jacobs had not been cleared to know the true purpose of the experiment, making an extraordinary interpretation more likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+A useful example is the 1964 Big Sur missile-test controversy. Former Air Force officer Robert Jacobs later claimed that film from a missile test showed an object interacting with a re-entry vehicle. Project engineer Kingston George argued that the footage instead captured classified penetration aids—decoys and chaff released during missile-defence testing. According to George, Jacobs had not been cleared to know the true purpose of the experiment, making an extraordinary interpretation more likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 ## Decoys and Chaff as Misleading Visuals
 
@@ -305,17 +305,17 @@ One of the most important Cold War technologies for understanding alleged missil
 
 ### How Decoys Change What Observers See
 
-Penetration aids could include dummy warheads, inflatable objects, reflective materials and other devices intended to imitate or disguise the real target. Modern missile-defence literature still describes decoys as objects specifically designed to confuse tracking and discrimination systems by appearing similar to actual warheads. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://missilethreat.csis.org/countermeasures-penetration-aids-and-missile-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missilethreat.csis.org">[Missile Threat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missilethreat.csis.org</span><span class="citation-popover-snippet">Missile ThreatCountermeasures, Penetration Aids, and Missile DefenseOctober 17, 2025 — 17 Oct 2025 — Decoys can be built on an operating...</span><span class="citation-popover-meta">Published: October 17, 2025</span></span></span>
+Penetration aids could include dummy warheads, inflatable objects, reflective materials and other devices intended to imitate or disguise the real target. Modern missile-defence literature still describes decoys as objects specifically designed to confuse tracking and discrimination systems by appearing similar to actual warheads.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://missilethreat.csis.org/countermeasures-penetration-aids-and-missile-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missilethreat.csis.org">[Missile Threat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missilethreat.csis.org</span><span class="citation-popover-snippet">Missile ThreatCountermeasures, Penetration Aids, and Missile DefenseOctober 17, 2025 — 17 Oct 2025 — Decoys can be built on an operating...</span><span class="citation-popover-meta">Published: October 17, 2025</span></span></span>
 
 To an observer who did not know a test involved decoys, multiple bright objects appearing around a missile could look highly unusual. In later retellings, these objects might be remembered as independent craft rather than planned components of the test.
 
-The Big Sur case illustrates this possibility. George maintained that what was interpreted as a UFO manoeuvring around a missile was actually the deployment of classified decoys and associated countermeasures. Whether one accepts his explanation or not, the case demonstrates how advanced weapons testing could produce imagery that looked extraordinary to personnel excluded from the programme's broader objectives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+The Big Sur case illustrates this possibility. George maintained that what was interpreted as a UFO manoeuvring around a missile was actually the deployment of classified decoys and associated countermeasures. Whether one accepts his explanation or not, the case demonstrates how advanced weapons testing could produce imagery that looked extraordinary to personnel excluded from the programme's broader objectives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 ### Chaff and Unexpected Light Displays
 
-Chaff consists of large quantities of thin metallic strips or fibres dispersed into the atmosphere to create [false radar targets]({{ 'false-targets/' | relative_url }}) and obscure real ones. Once released, it can generate unusual radar signatures and visual effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chaff (countermeasure</span><span class="citation-popover-snippet">February 27, 2005 — Chaff, originally called Window or Düppel, is a radar countermeasure involving the dispersal of thin strips of alumin...</span><span class="citation-popover-meta">Published: February 27, 2005</span></span></span>
+Chaff consists of large quantities of thin metallic strips or fibres dispersed into the atmosphere to create [false radar targets]({{ 'false-targets/' | relative_url }}) and obscure real ones. Once released, it can generate unusual radar signatures and visual effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chaff (countermeasure</span><span class="citation-popover-snippet">February 27, 2005 — Chaff, originally called Window or Düppel, is a radar countermeasure involving the dispersal of thin strips of alumin...</span><span class="citation-popover-meta">Published: February 27, 2005</span></span></span>
 
-Military and scientific studies continue to document how chaff appears on radar systems and how extensive its signatures can be. Weather-radar researchers have noted that military chaff releases are routinely detectable and can resemble other targets until properly identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.16417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Extended Polarimetric Observations of Chaff using the WSR-88D Weather Radar NetworkNovember 29, 2022...</span><span class="citation-popover-meta">Published: November 29, 2022</span></span></span>
+Military and scientific studies continue to document how chaff appears on radar systems and how extensive its signatures can be. Weather-radar researchers have noted that military chaff releases are routinely detectable and can resemble other targets until properly identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.16417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Extended Polarimetric Observations of Chaff using the WSR-88D Weather Radar NetworkNovember 29, 2022...</span><span class="citation-popover-meta">Published: November 29, 2022</span></span></span>
 
 In the context of missile testing, a witness observing bright flashes, multiple reflective objects or anomalous radar contacts might reasonably conclude that something unusual was occurring. Yet the underlying cause could be a planned countermeasure deployment rather than an external object interfering with the missile.
 
@@ -325,11 +325,11 @@ In the context of missile testing, a witness observing bright flashes, multiple 
 
 Not all misleading observations involve physical objects. Some Cold War programmes specialised in generating false sensor information.
 
-A notable example is Project PALLADIUM, a highly classified CIA electronic-warfare effort developed to evaluate Soviet radar capabilities. The programme was capable of injecting carefully crafted false targets into enemy radar systems, causing operators to track aircraft that did not actually exist. Declassified accounts describe the creation of “ghost aircraft” with controllable characteristics and radar signatures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbp.org">[tbp.org+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbp.org</span><span class="citation-popover-snippet">units, deceiving them... Palladium project.Read more...</span></span></span>
+A notable example is Project PALLADIUM, a highly classified CIA electronic-warfare effort developed to evaluate Soviet radar capabilities. The programme was capable of injecting carefully crafted false targets into enemy radar systems, causing operators to track aircraft that did not actually exist. Declassified accounts describe the creation of “ghost aircraft” with controllable characteristics and radar signatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbp.org">[tbp.org+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbp.org</span><span class="citation-popover-snippet">units, deceiving them... Palladium project.Read more...</span></span></span>
 
-From the perspective of a radar operator unaware of the programme, such returns could appear impossible. A target might accelerate unexpectedly, change characteristics or appear where no aircraft was physically present. The purpose of the operation was precisely to manipulate what sensors reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbp.org">[tbp.org+2The Aviation Geek Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbp.org</span><span class="citation-popover-snippet">units, deceiving them... Palladium project.Read more...</span></span></span>
+From the perspective of a radar operator unaware of the programme, such returns could appear impossible. A target might accelerate unexpectedly, change characteristics or appear where no aircraft was physically present. The purpose of the operation was precisely to manipulate what sensors reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tbp.org">[tbp.org+2The Aviation Geek Club]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tbp.org</span><span class="citation-popover-snippet">units, deceiving them... Palladium project.Read more...</span></span></span>
 
-Although PALLADIUM was not a nuclear-weapons programme, it demonstrates a broader principle relevant to nuclear-site UFO claims: military and intelligence organisations possessed technologies capable of creating convincing but artificial sensor anomalies decades ago. When later accounts describe mysterious radar contacts near strategic facilities, the existence of sophisticated deception programmes becomes an important alternative explanation that investigators must consider. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">National Security ArchiveScience, Technology and the CIAThe program allowed the CIA to insert &quot;ghost aircraft&quot; with different radar cross...</span></span></span>
+Although PALLADIUM was not a nuclear-weapons programme, it demonstrates a broader principle relevant to nuclear-site UFO claims: military and intelligence organisations possessed technologies capable of creating convincing but artificial sensor anomalies decades ago. When later accounts describe mysterious radar contacts near strategic facilities, the existence of sophisticated deception programmes becomes an important alternative explanation that investigators must consider.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">National Security ArchiveScience, Technology and the CIAThe program allowed the CIA to insert &quot;ghost aircraft&quot; with different radar cross...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H6aIe7ykJXw" title="The Stolen Soviet Jet Fighters | CIA&#x27;s Secret Cold War Covert Operations | The Yak-23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H6aIe7ykJXw" target="_blank" rel="noopener noreferrer">The Stolen Soviet Jet Fighters | CIA&#x27;s Secret Cold War Covert Operations | The Yak-23</a></p><p class="youtube-embed-meta">Channel: DroneScapes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H6aIe7ykJXw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H6aIe7ykJXw">Open on YouTube</a></p></div></div></div>
@@ -346,209 +346,209 @@ When a missile malfunction, radar anomaly or security alert occurs alongside rep
 
 The challenge is that secrecy can hide evidence supporting the second explanation for years or even decades. Witnesses may therefore construct narratives based on incomplete information. Once those narratives become public, they can appear persuasive because the missing classified context is still unavailable.
 
-The Big Sur dispute remains valuable for precisely this reason. Regardless of which interpretation one favours, it demonstrates how a single event can produce radically different conclusions depending on who possessed access to the classified details. One side saw evidence of extraordinary interference; the other saw a routine, though highly secret, missile-defence experiment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+The Big Sur dispute remains valuable for precisely this reason. Regardless of which interpretation one favours, it demonstrates how a single event can produce radically different conclusions depending on who possessed access to the classified details. One side saw evidence of extraordinary interference; the other saw a routine, though highly secret, missile-defence experiment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_classified_tests_mim_297d39-Illustration-3-dark.svg" | relative_url }}" alt="Secret Tests illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_classified_tests_mim_297d39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_classified_tests_mim_297d39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Secret Tests Tell Us About Alleged UFO Attacks
 
-Within the broader debate over UFOs and nuclear weapons, classified testing serves as a caution against drawing direct causal links from partial observations. Decoys, chaff, radar deception and compartmentalised exercises were not hypothetical capabilities; they were real tools used throughout the Cold War. Some were specifically designed to create false targets, misleading signatures and confusing visual effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chaff (countermeasure</span><span class="citation-popover-snippet">February 27, 2005 — Chaff, originally called Window or Düppel, is a radar countermeasure involving the dispersal of thin strips of alumin...</span><span class="citation-popover-meta">Published: February 27, 2005</span></span></span>
+Within the broader debate over UFOs and nuclear weapons, classified testing serves as a caution against drawing direct causal links from partial observations. Decoys, chaff, radar deception and compartmentalised exercises were not hypothetical capabilities; they were real tools used throughout the Cold War. Some were specifically designed to create false targets, misleading signatures and confusing visual effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chaff (countermeasure</span><span class="citation-popover-snippet">February 27, 2005 — Chaff, originally called Window or Düppel, is a radar countermeasure involving the dispersal of thin strips of alumin...</span><span class="citation-popover-meta">Published: February 27, 2005</span></span></span>
 
-As a result, reports of apparent interference near nuclear systems cannot be evaluated solely through witness testimony or isolated observations. The possibility that observers encountered only one visible fragment of a larger classified operation remains an important historical explanation for some of the most famous claims. In several cases, the debate is not over whether something unusual was seen, but whether the missing classified context transforms an apparent UFO attack into a misunderstood military test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+As a result, reports of apparent interference near nuclear systems cannot be evaluated solely through witness testimony or isolated observations. The possibility that observers encountered only one visible fragment of a larger classified operation remains an important historical explanation for some of the most famous claims. In several cases, the debate is not over whether something unusual was seen, but whether the missing classified context transforms an apparent UFO attack into a misunderstood military test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/erL-8LLrRlQ" title="How Chaff &amp; Flare Countermeasure Work, And Their History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=erL-8LLrRlQ" target="_blank" rel="noopener noreferrer">How Chaff &amp; Flare Countermeasure Work, And Their History</a></p><p class="youtube-embed-meta">Channel: Grim Reapers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=erL-8LLrRlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=erL-8LLrRlQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Secret Tests Look Like UFO Attacks?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Secret Tests Look Like UFO Attacks?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores how covert military programs generated UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how covert military programs generated UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Directly illustrates how classified projects can appear mysterious to observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly illustrates how classified projects can appear mysterious to observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Examines black-project culture and speculation around hidden aerospace research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines black-project culture and speculation around hidden aerospace research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Provides the claims that alternative classified-test explanations seek to address.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the claims that alternative classified-test explanations seek to address.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="secret-tests-414c63-could-secret-tests-look-like-ufo-attacks-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ As a result, reports of apparent interference near nuclear systems cannot be eva
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ As a result, reports of apparent interference near nuclear systems cannot be eva
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ As a result, reports of apparent interference near nuclear systems cannot be eva
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ As a result, reports of apparent interference near nuclear systems cannot be eva
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ As a result, reports of apparent interference near nuclear systems cannot be eva
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,119 +754,119 @@ As a result, reports of apparent interference near nuclear systems cannot be eva
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: mirage men  
-   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride th...</p></details>
+   Link:<a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Mark Pilkington&#x27;s new book Mirage Men is a dizzying ride th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: missilethreat.csis.org  
-   Link: <a href="https://missilethreat.csis.org/countermeasures-penetration-aids-and-missile-defense/" target="_blank" rel="noopener noreferrer nofollow">https://missilethreat.csis.org/countermeasures-penetration-aids-and-missile-defense/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missile ThreatCountermeasures, Penetration Aids, and Missile DefenseOctober 17, 2025 — 17 Oct 2025 — Decoys can be built on an operating...</p></details>
+   Link:<a href="https://missilethreat.csis.org/countermeasures-penetration-aids-and-missile-defense/" target="_blank" rel="noopener noreferrer nofollow">https://missilethreat.csis.org/countermeasures-penetration-aids-and-missile-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missile ThreatCountermeasures, Penetration Aids, and Missile DefenseOctober 17, 2025 — 17 Oct 2025 — Decoys can be built on an operating...</p></details>
    Published: October 17, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Chaff (countermeasure)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 27, 2005 — Chaff, originally called Window or Düppel, is a radar countermeasure involving the dispersal of thin strips of alumin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chaff_%28countermeasure%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 27, 2005 — Chaff, originally called Window or Düppel, is a radar countermeasure involving the dispersal of thin strips of alumin...</p></details>
    Published: February 27, 2005  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2211.16417" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.16417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extended Polarimetric Observations of Chaff using the WSR-88D Weather Radar NetworkNovember 29, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2211.16417" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.16417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extended Polarimetric Observations of Chaff using the WSR-88D Weather Radar NetworkNovember 29, 2022...</p></details>
    Published: November 29, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tbp.org  
-   Link: <a href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tbp.org/static/docs/features/F99Poteat.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>units, deceiving them... Palladium project.Read more...</p></details>
+   Link:<a href="https://www.tbp.org/static/docs/features/F99Poteat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tbp.org/static/docs/features/F99Poteat.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>units, deceiving them... Palladium project.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cia.gov  
    Title: stealth count  
-   Link: <a href="https://www.cia.gov/readingroom/docs/stealth_%20count.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/stealth_%20count.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We now knew... electronically generate and inject carefully calibrated false targets into the Soviet radars, deceiving.Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/stealth_%20count.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/stealth_%20count.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We now knew... electronically generate and inject carefully calibrated false targets into the Soviet radars, deceiving.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nsarchive2.gwu.edu  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveScience, Technology and the CIAThe program allowed the CIA to insert &quot;ghost aircraft&quot; with different radar cross...</p></details>
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveScience, Technology and the CIAThe program allowed the CIA to insert &quot;ghost aircraft&quot; with different radar cross...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1993/01/the-big-sur-ufo-an-identified-hying-object/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1993/01/the-big-sur-ufo-an-identified-hying-object/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George accepted an Air Force civil service position as an operations analyst in 1961 at Vandenberg AFB and retired in 1990 as...</p></details>
+   Link:<a href="https://skepticalinquirer.org/1993/01/the-big-sur-ufo-an-identified-hying-object/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1993/01/the-big-sur-ufo-an-identified-hying-object/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George accepted an Air Force civil service position as an operations analyst in 1961 at Vandenberg AFB and retired in 1990 as...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theaviationgeekclub.com  
    Title: The Aviation Geek Club How the U.S  
-   Link: <a href="https://theaviationgeekclub.com/how-u-s-secretly-tested-the-a-12-rcs-during-the-cuban-missile-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/how-u-s-secretly-tested-the-a-12-rcs-during-the-cuban-missile-crisis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>secretly tested the A-12 RCS during...Palladium was a special electronic transmitter that could project a false target into the “Tall Ki...</p></details>
+   Link:<a href="https://theaviationgeekclub.com/how-u-s-secretly-tested-the-a-12-rcs-during-the-cuban-missile-crisis/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/how-u-s-secretly-tested-the-a-12-rcs-during-the-cuban-missile-crisis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>secretly tested the A-12 RCS during...Palladium was a special electronic transmitter that could project a false target into the “Tall Ki...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: The Big Sur  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in September 1964?The Big Sur UFO incident centers on an Atlas missile test in September 1964 at Vandenberg Air Forc...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in September 1964?The Big Sur UFO incident centers on an Atlas missile test in September 1964 at Vandenberg Air Forc...</p></details>
    Published: September 1964  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/lqk677/cia_radar_games_and_ghost_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/lqk677/cia_radar_games_and_ghost_aircraft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Radar Games and Ghost Aircraft: r/UFOscienceThe operation successfully projected a ghost aircraft flying out of Key West over soviet...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/lqk677/cia_radar_games_and_ghost_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/lqk677/cia_radar_games_and_ghost_aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Radar Games and Ghost Aircraft: r/UFOscienceThe operation successfully projected a ghost aircraft flying out of Key West over soviet...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1kdup1a/cia_could_make_fake_ufos_appear_on_radar_using/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kdup1a/cia_could_make_fake_ufos_appear_on_radar_using/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA could make fake UFOs appear on Radar using...Essentially, a &#x27;fake&#x27; radar signal can be generated and used against an adversaries rad...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1kdup1a/cia_could_make_fake_ufos_appear_on_radar_using/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kdup1a/cia_could_make_fake_ufos_appear_on_radar_using/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA could make fake UFOs appear on Radar using...Essentially, a &#x27;fake&#x27; radar signal can be generated and used against an adversaries rad...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: emsopedia.org  
-   Link: <a href="https://www.emsopedia.org/entries/chaffs/" target="_blank" rel="noopener noreferrer nofollow">https://www.emsopedia.org/entries/chaffs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChaffsThe two primary chaff employment tactics are force screening and self-protection. Different chaff dispensing techniques are used fo...</p></details>
+   Link:<a href="https://www.emsopedia.org/entries/chaffs/" target="_blank" rel="noopener noreferrer nofollow">https://www.emsopedia.org/entries/chaffs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChaffsThe two primary chaff employment tactics are force screening and self-protection. Different chaff dispensing techniques are used fo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: x.com  
-   Link: <a href="https://x.com/grok/status/2058716085411623157" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/2058716085411623157</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GrokProject engineer Kingston A. George (who was there) countered that it captured the classified deployment of decoy warheads + chaff vi...</p></details>
+   Link:<a href="https://x.com/grok/status/2058716085411623157" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/2058716085411623157</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GrokProject engineer Kingston A. George (who was there) countered that it captured the classified deployment of decoy warheads + chaff vi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hushkit.substack.com  
-   Link: <a href="https://hushkit.substack.com/p/10-types-of-military-aircraft-countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://hushkit.substack.com/p/10-types-of-military-aircraft-countermeasures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com10 Types of Military Aircraft Countermeasures (and the...Chaff is the original radar countermeasure, dating back to World Wa...</p></details>
+   Link:<a href="https://hushkit.substack.com/p/10-types-of-military-aircraft-countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://hushkit.substack.com/p/10-types-of-military-aircraft-countermeasures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>substack.com10 Types of Military Aircraft Countermeasures (and the...Chaff is the original radar countermeasure, dating back to World Wa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/29505/the-navys-secretive-nemesis-electronic-warfare-capability-will-change-naval-combat-forever" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/29505/the-navys-secretive-nemesis-electronic-warfare-capability-will-change-naval-combat-forever</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy&#x27;s Secretive And Revolutionary Program To...Dec 1, 2019 — The advanced electronic warfare program uses swarms in the air and sea...</p></details>
+   Link:<a href="https://www.twz.com/29505/the-navys-secretive-nemesis-electronic-warfare-capability-will-change-naval-combat-forever" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/29505/the-navys-secretive-nemesis-electronic-warfare-capability-will-change-naval-combat-forever</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Navy&#x27;s Secretive And Revolutionary Program To...Dec 1, 2019 — The advanced electronic warfare program uses swarms in the air and sea...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/technology/chaff" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/chaff</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChaff | military decoyThese metallic clouds appear as separate targets to the missile&#x27;s radar and ideally confuse...</p></details>
+   Link:<a href="https://www.britannica.com/technology/chaff" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/chaff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChaff | military decoyThese metallic clouds appear as separate targets to the missile&#x27;s radar and ideally confuse...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/31151/[area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/31151/[area-51</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneArea 51 Veteran And CIA Electronic Warfare Pioneer...Nov 25, 2019 — In 1960, when the Soviet Union moved a Tall King radar s...</p></details>
+   Link:<a href="https://www.twz.com/31151/[area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/31151/[area-51</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneArea 51 Veteran And CIA Electronic Warfare Pioneer...Nov 25, 2019 — In 1960, when the Soviet Union moved a Tall King radar s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: twz.com  
    Title: could some of the ufos navy pilots are encountering be airborne radar reflectors  
-   Link: <a href="https://www.twz.com/28640/could-some-of-the-ufos-navy-pilots-are-encountering-be-airborne-radar-reflectors" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/28640/could-some-of-the-ufos-navy-pilots-are-encountering-be-airborne-radar-reflectors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Some Of The UFOs Navy Pilots Are Encountering...Dec 1, 2019 — Submarine-launched, radar reflector-toting balloons used to stimulate...</p></details>
+   Link:<a href="https://www.twz.com/28640/could-some-of-the-ufos-navy-pilots-are-encountering-be-airborne-radar-reflectors" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/28640/could-some-of-the-ufos-navy-pilots-are-encountering-be-airborne-radar-reflectors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Some Of The UFOs Navy Pilots Are Encountering...Dec 1, 2019 — Submarine-launched, radar reflector-toting balloons used to stimulate...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/videos/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1639420493974493/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/videos/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1639420493974493/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disc shaped UFO seen near Vandenberg missile test in...Disc shaped UFO seen near Vandenberg missile test in 1964 circling warhead with b...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/videos/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1639420493974493/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/videos/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1639420493974493/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disc shaped UFO seen near Vandenberg missile test in...Disc shaped UFO seen near Vandenberg missile test in 1964 circling warhead with b...</p></details>

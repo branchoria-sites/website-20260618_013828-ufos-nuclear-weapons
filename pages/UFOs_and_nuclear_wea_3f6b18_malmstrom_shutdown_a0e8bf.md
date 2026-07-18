@@ -490,79 +490,79 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-over
 
 ## Introduction
 
-At Malmstrom Air Force Base in Montana, the central fact is not in serious doubt: on 16 March 1967, all ten Minuteman missiles assigned to Echo Flight abruptly went into “No-Go” status and lost strategic alert. The dispute is over what, if anything, was seen nearby and whether any [unidentified]({{ 'unidentified/' | relative_url }}) aerial object caused the shutdown. Declassified Air Force material records the missile failure but says UFO rumours around Echo Flight were disproven; later witnesses, especially former missile officer [Robert Salas]({{ 'salas/' | relative_url }}), argued that unusual objects were reported near launch facilities and that the timing was too close to ignore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+At Malmstrom Air Force Base in Montana, the central fact is not in serious doubt: on 16 March 1967, all ten Minuteman missiles assigned to Echo Flight abruptly went into “No-Go” status and lost strategic alert. The dispute is over what, if anything, was seen nearby and whether any [unidentified]({{ 'unidentified/' | relative_url }}) aerial object caused the shutdown. Declassified Air Force material records the missile failure but says UFO rumours around Echo Flight were disproven; later witnesses, especially former missile officer [Robert Salas]({{ 'salas/' | relative_url }}), argued that unusual objects were reported near launch facilities and that the timing was too close to ignore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-overview.webp" | relative_url }}" alt="Overview image for Malmstrom" loading="eager" decoding="sync" fetchpriority="high">
-That mix makes Malmstrom the hinge case in the [UFOs-and-nuclear-weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) debate. It is stronger than a simple sighting story because a real nuclear missile malfunction occurred. It is weaker than a proven UFO-interference case because the public record does not show a contemporaneous official finding that a UFO was present, tracked, or causally linked to the failure. The most careful reading is therefore narrow: Malmstrom is a documented missile-readiness incident surrounded by later UFO testimony, not a publicly proven case of UFOs disabling nuclear weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+That mix makes Malmstrom the hinge case in the [UFOs-and-nuclear-weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) debate. It is stronger than a simple sighting story because a real nuclear missile malfunction occurred. It is weaker than a proven UFO-interference case because the public record does not show a contemporaneous official finding that a UFO was present, tracked, or causally linked to the failure. The most careful reading is therefore narrow: Malmstrom is a documented missile-readiness incident surrounded by later UFO testimony, not a publicly proven case of UFOs disabling nuclear weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
 ## The confirmed Echo Flight malfunction
 
-Echo Flight was part of the 341st Strategic Missile Wing’s missile complex near Malmstrom. According to the declassified command-history material circulated through Freedom of Information Act releases, the incident began at 08:45 on 16 March 1967, when all launch facilities in Echo Flight shut down with “No-Go” indications. In missile terminology, “No-Go” meant the missiles were not in launch-ready condition; the important point is that the failure affected the flight almost simultaneously rather than appearing as a slow, isolated maintenance problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+Echo Flight was part of the 341st Strategic Missile Wing’s missile complex near Malmstrom. According to the declassified command-history material circulated through Freedom of Information Act releases, the incident began at 08:45 on 16 March 1967, when all launch facilities in Echo Flight shut down with “No-Go” indications. In missile terminology, “No-Go” meant the missiles were not in launch-ready condition; the important point is that the failure affected the flight almost simultaneously rather than appearing as a slow, isolated maintenance problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
-The same record states that no other Wing I configuration lost strategic alert at that time. That detail is one reason the case has remained interesting even outside UFO circles: a ten-missile alert failure was not a routine single-site fault. It required maintenance attention and a technical investigation, and later summaries say the missiles were restored without permanent damage, roughly within a day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The same record states that no other Wing I configuration lost strategic alert at that time. That detail is one reason the case has remained interesting even outside UFO circles: a ten-missile alert failure was not a routine single-site fault. It required maintenance attention and a technical investigation, and later summaries say the missiles were restored without permanent damage, roughly within a day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-The Air Force record also gives the strongest official reason for caution. It says rumours of UFOs around Echo Flight at the time of the fault were “disproven”; a Mobile Strike Team that had checked other launch facilities that morning reportedly saw no unusual activity, and the 801st [Radar]({{ 'radar/' | relative_url }}) Squadron gave a negative report for radar or atmospheric interference related to Echo Flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Looking for official FOIA documentation regarding</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...July 5, 2024 — &quot;Rumors of Unidentified Flying Objects (UFO) around the area of...</span><span class="citation-popover-meta">Published: July 5, 2024</span></span></span>
+The Air Force record also gives the strongest official reason for caution. It says rumours of UFOs around Echo Flight at the time of the fault were “disproven”; a Mobile Strike Team that had checked other launch facilities that morning reportedly saw no unusual activity, and the 801st [Radar]({{ 'radar/' | relative_url }}) Squadron gave a negative report for radar or atmospheric interference related to Echo Flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Looking for official FOIA documentation regarding</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...July 5, 2024 — &quot;Rumors of Unidentified Flying Objects (UFO) around the area of...</span><span class="citation-popover-meta">Published: July 5, 2024</span></span></span>
 
-Technically, the malfunction has often been discussed in terms of electrical or electromagnetic disturbance rather than physical damage. Public summaries of the engineering explanation describe an undetermined technical anomaly, with attention given to the possibility of electrical noise affecting [logic couplers]({{ 'logic-coupler/' | relative_url }}) in the missile-control system. That does not prove a mundane cause, but it places the confirmed evidence in the category of a system fault, not an officially documented aerial intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapledger.com">[UAP Ledger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapledger.com</span><span class="citation-popover-title">UAP Ledger Malmstrom AFB Nuclear Incident</span><span class="citation-popover-snippet">UAP LedgerMalmstrom AFB Nuclear Incident - UAP LedgerOn March 16, 1967, ten nuclear missiles at Malmstrom Air Force Base went offline sim...</span><span class="citation-popover-meta">Published: March 16, 1967</span></span></span>
+Technically, the malfunction has often been discussed in terms of electrical or electromagnetic disturbance rather than physical damage. Public summaries of the engineering explanation describe an undetermined technical anomaly, with attention given to the possibility of electrical noise affecting [logic couplers]({{ 'logic-coupler/' | relative_url }}) in the missile-control system. That does not prove a mundane cause, but it places the confirmed evidence in the category of a system fault, not an officially documented aerial intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapledger.com">[UAP Ledger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapledger.com</span><span class="citation-popover-title">UAP Ledger Malmstrom AFB Nuclear Incident</span><span class="citation-popover-snippet">UAP LedgerMalmstrom AFB Nuclear Incident - UAP LedgerOn March 16, 1967, ten nuclear missiles at Malmstrom Air Force Base went offline sim...</span><span class="citation-popover-meta">Published: March 16, 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-1-dark.svg" | relative_url }}" alt="Malmstrom illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness claims and later affidavits
 
-The UFO side of the Malmstrom story rests mainly on later testimony, not on a public contemporaneous Air Force conclusion. Robert Salas, a former Air Force nuclear launch officer, became the best-known witness after going public decades later. In media accounts, he described being underground when a guard reported strange lights, followed by a more alarming report of an orange or reddish pulsating object near the front gate; Salas said the missiles then began going offline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Former Airmen to Govt.: Come Clean on UFOs</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs - ABC News...</span></span></span>
+The UFO side of the Malmstrom story rests mainly on later testimony, not on a public contemporaneous Air Force conclusion. Robert Salas, a former Air Force nuclear launch officer, became the best-known witness after going public decades later. In media accounts, he described being underground when a guard reported strange lights, followed by a more alarming report of an orange or reddish pulsating object near the front gate; Salas said the missiles then began going offline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Former Airmen to Govt.: Come Clean on UFOs</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs - ABC News...</span></span></span>
 
-Salas’s account is often associated with an “Oscar Flight” episode around 24 March 1967 rather than the documented 16 March Echo Flight failure. That distinction matters. In popular retellings, Echo and Oscar are sometimes blended into one dramatic story of “ten missiles shut down while a UFO hovered nearby”. In the dispute itself, however, the evidential problem is sharper: Echo Flight is the best-documented missile shutdown, while Salas’s most vivid account concerns a later event whose official documentary support is much thinner. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyOn March 16, 1967, a UFO approached Echo Flight, one of the nuclear missile... A report...</span><span class="citation-popover-meta">Published: March 16, 1967</span></span></span>
+Salas’s account is often associated with an “Oscar Flight” episode around 24 March 1967 rather than the documented 16 March Echo Flight failure. That distinction matters. In popular retellings, Echo and Oscar are sometimes blended into one dramatic story of “ten missiles shut down while a UFO hovered nearby”. In the dispute itself, however, the evidential problem is sharper: Echo Flight is the best-documented missile shutdown, while Salas’s most vivid account concerns a later event whose official documentary support is much thinner.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyOn March 16, 1967, a UFO approached Echo Flight, one of the nuclear missile... A report...</span><span class="citation-popover-meta">Published: March 16, 1967</span></span></span>
 
-The witness case broadened in 2010, when former Air Force personnel appeared at the National [Press Club]({{ '2010-event/' | relative_url }}) to argue that UFOs had interfered with nuclear weapons sites. DocumentCloud’s archive of the Malmstrom material describes affidavits from four Malmstrom-area airmen released at that press event, and contemporary news coverage reported claims by Salas and others that UFOs had disabled or affected nuclear missiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Malmstrom UFO Testimonials &#124; Document Cloud</span><span class="citation-popover-snippet">Document Cloud Malmstrom UFO Testimonials &#124; Document Cloud</span></span></span>
+The witness case broadened in 2010, when former Air Force personnel appeared at the National [Press Club]({{ '2010-event/' | relative_url }}) to argue that UFOs had interfered with nuclear weapons sites. DocumentCloud’s archive of the Malmstrom material describes affidavits from four Malmstrom-area airmen released at that press event, and contemporary news coverage reported claims by Salas and others that UFOs had disabled or affected nuclear missiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Malmstrom UFO Testimonials &#124; Document Cloud</span><span class="citation-popover-snippet">Document Cloud Malmstrom UFO Testimonials &#124; Document Cloud</span></span></span>
 
-Those materials are important because they show that the Malmstrom UFO claim was not simply internet folklore. Named veterans made public statements, submitted affidavits, and framed the incident as a national-security matter. But affidavits and retrospective testimony do not carry the same weight as immediate radar tracks, maintenance logs explicitly recording a UFO encounter, photographs, authenticated audio, or a contemporaneous investigation concluding that an unknown object caused the fault. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Malmstrom UFO Testimonials &#124; Document Cloud</span><span class="citation-popover-snippet">Document Cloud Malmstrom UFO Testimonials &#124; Document Cloud</span></span></span>
+Those materials are important because they show that the Malmstrom UFO claim was not simply internet folklore. Named veterans made public statements, submitted affidavits, and framed the incident as a national-security matter. But affidavits and retrospective testimony do not carry the same weight as immediate radar tracks, maintenance logs explicitly recording a UFO encounter, photographs, authenticated audio, or a contemporaneous investigation concluding that an unknown object caused the fault.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Malmstrom UFO Testimonials &#124; Document Cloud</span><span class="citation-popover-snippet">Document Cloud Malmstrom UFO Testimonials &#124; Document Cloud</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iOmM9PkTqpk" title="Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer">Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 11.3K &middot; Uploaded: July 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iOmM9PkTqpk">Open on YouTube</a></p></div></div></div>
 
 ## Why the timing is so hard to evaluate
 
-The case is confusing because two different evidential streams overlap imperfectly. The first stream is technical and contemporaneous: Echo Flight went down on 16 March, and the Air Force documented the failure. The second stream is testimonial and largely retrospective: unusual lights or objects were allegedly reported in the Malmstrom missile field, and some former personnel later said those sightings coincided with missile shutdowns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+The case is confusing because two different evidential streams overlap imperfectly. The first stream is technical and contemporaneous: Echo Flight went down on 16 March, and the Air Force documented the failure. The second stream is testimonial and largely retrospective: unusual lights or objects were allegedly reported in the Malmstrom missile field, and some former personnel later said those sightings coincided with missile shutdowns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
-For supporters of the UFO interpretation, the key point is proximity. Malmstrom was a nuclear missile field, not an ordinary civilian setting; multiple former military personnel later described unusual aerial activity; and the missile failure was dramatic enough to demand serious attention. To them, dismissing the UFO claims as irrelevant looks too quick, especially given the Cold War context and the possibility that unusual security incidents might have been kept quiet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">Open source on press.org.</span></span></span>
+For supporters of the UFO interpretation, the key point is proximity. Malmstrom was a nuclear missile field, not an ordinary civilian setting; multiple former military personnel later described unusual aerial activity; and the missile failure was dramatic enough to demand serious attention. To them, dismissing the UFO claims as irrelevant looks too quick, especially given the Cold War context and the possibility that unusual security incidents might have been kept quiet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">Open source on press.org.</span></span></span>
 
-For [sceptics]({{ 'sceptics/' | relative_url }}), the key point is separation. The strongest official document for Echo Flight records the missile fault but denies a UFO connection. Some sceptical analyses argue that later accounts conflate Echo Flight, Oscar Flight, and nearby civilian UFO reports into a single narrative that the original records do not support. Robert Sheaffer, for example, has argued that an Oscar Flight sighting may have involved a bright astronomical object, while Echo Flight was a real technical fault with no demonstrated UFO link. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://badufos.blogspot.com/2014/01/discovery-canadas-close-encounters-mars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">discovery canadas close encounters mars</span><span class="citation-popover-snippet">discovery canadas close encounters mars</span></span></span>
+For [sceptics]({{ 'sceptics/' | relative_url }}), the key point is separation. The strongest official document for Echo Flight records the missile fault but denies a UFO connection. Some sceptical analyses argue that later accounts conflate Echo Flight, Oscar Flight, and nearby civilian UFO reports into a single narrative that the original records do not support. Robert Sheaffer, for example, has argued that an Oscar Flight sighting may have involved a bright astronomical object, while Echo Flight was a real technical fault with no demonstrated UFO link.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://badufos.blogspot.com/2014/01/discovery-canadas-close-encounters-mars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badufos.blogspot.com">[badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badufos.blogspot.com</span><span class="citation-popover-title">discovery canadas close encounters mars</span><span class="citation-popover-snippet">discovery canadas close encounters mars</span></span></span>
 
-This is why “Malmstrom” can sound like either a powerful case or a muddled one depending on which evidence is emphasised. If the reader starts with the missile logs, the UFO claim looks unsupported. If the reader starts with Salas and the later affidavits, the official record can look incomplete or evasive. The dispute is less about whether something happened at Malmstrom and more about whether the UFO testimony and the missile failure belong to the same event in a causal sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+This is why “Malmstrom” can sound like either a powerful case or a muddled one depending on which evidence is emphasised. If the reader starts with the missile logs, the UFO claim looks unsupported. If the reader starts with Salas and the later affidavits, the official record can look incomplete or evasive. The dispute is less about whether something happened at Malmstrom and more about whether the UFO testimony and the missile failure belong to the same event in a causal sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-2-dark.svg" | relative_url }}" alt="Malmstrom illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The later Pentagon and AARO angle
 
-The modern UAP era has kept Malmstrom alive because nuclear-site claims are now part of official review. The All-domain Anomaly Resolution Office, or [AARO]({{ 'aaro/' | relative_url }}), reported in 2024 that it had interviewed former Air Force members who served around intercontinental ballistic missile sites, including Malmstrom, and that some interviewees claimed UAP sightings or disruptions to ICBM operations. AARO also stated that it could not rely on interview accounts alone for extraordinary claims, even while treating such accounts as part of its review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The modern UAP era has kept Malmstrom alive because nuclear-site claims are now part of official review. The All-domain Anomaly Resolution Office, or [AARO]({{ 'aaro/' | relative_url }}), reported in 2024 that it had interviewed former Air Force members who served around intercontinental ballistic missile sites, including Malmstrom, and that some interviewees claimed UAP sightings or disruptions to ICBM operations. AARO also stated that it could not rely on interview accounts alone for extraordinary claims, even while treating such accounts as part of its review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-That 2024 report did not publicly validate the Malmstrom UFO-causation claim. It placed the nuclear-missile allegations inside a broader review of claims about UAP and sensitive programmes, while noting that some matters would remain under research. In other words, AARO acknowledged the category of allegations but did not convert them into proof that a UAP disabled missiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+That 2024 report did not publicly validate the Malmstrom UFO-causation claim. It placed the nuclear-missile allegations inside a broader review of claims about UAP and sensitive programmes, while noting that some matters would remain under research. In other words, AARO acknowledged the category of allegations but did not convert them into proof that a UAP disabled missiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-In 2025, the Wall Street Journal reported a further Pentagon-linked explanation: that the famous 1967 Malmstrom shutdown had been associated with a classified electromagnetic pulse test rather than alien or unknown craft activity. Because that claim has itself been contested by UFO advocates and is not identical to the older declassified Echo Flight wording, it should be treated as a reported official-side explanation rather than a fully settled public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">ufo us disinformation 45376f7e</span></span></span>
+In 2025, the Wall Street Journal reported a further Pentagon-linked explanation: that the famous 1967 Malmstrom shutdown had been associated with a classified electromagnetic pulse test rather than alien or unknown craft activity. Because that claim has itself been contested by UFO advocates and is not identical to the older declassified Echo Flight wording, it should be treated as a reported official-side explanation rather than a fully settled public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">ufo us disinformation 45376f7e</span></span></span>
 
-The significance of the newer explanation is not that it ends every debate. It shows how the case can change when classified-weapons history, nuclear command systems, and UFO narratives intersect. A classified test, if firmly documented, would explain why the event looked mysterious and why ordinary personnel might not have been told the full cause. But without a publicly released technical file tying that test directly to the Echo Flight timeline, critics can still argue that the explanation is incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">ufo us disinformation 45376f7e</span></span></span>
+The significance of the newer explanation is not that it ends every debate. It shows how the case can change when classified-weapons history, nuclear command systems, and UFO narratives intersect. A classified test, if firmly documented, would explain why the event looked mysterious and why ordinary personnel might not have been told the full cause. But without a publicly released technical file tying that test directly to the Echo Flight timeline, critics can still argue that the explanation is incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">ufo us disinformation 45376f7e</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFJehKkZOVU" title="UFOs Revisited: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer">UFOs Revisited: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 488 &middot; Uploaded: October 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFJehKkZOVU">Open on YouTube</a></p></div></div></div>
 
 ## Why causation remains disputed
 
-The strongest evidence at Malmstrom supports three limited conclusions: a serious Echo Flight missile malfunction happened; the Air Force record did not validate UFO involvement; and later witnesses claimed unusual objects were associated with missile shutdowns at or near Malmstrom. The contested leap is causation: moving from “missiles failed” and “UFOs were later alleged” to “a UFO caused the missiles to fail”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+The strongest evidence at Malmstrom supports three limited conclusions: a serious Echo Flight missile malfunction happened; the Air Force record did not validate UFO involvement; and later witnesses claimed unusual objects were associated with missile shutdowns at or near Malmstrom. The contested leap is causation: moving from “missiles failed” and “UFOs were later alleged” to “a UFO caused the missiles to fail”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
-Several gaps keep that leap from being secure. There is no widely accepted public radar record showing an anomalous object over Echo Flight at the critical moment. The most official contemporaneous source says UFO rumours were disproven. The most detailed public witness accounts were developed years after the incident. And the chronology is disputed, especially around whether Salas’s account refers to Echo Flight, Oscar Flight, or a separate event later folded into the same story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Looking for official FOIA documentation regarding</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...July 5, 2024 — &quot;Rumors of Unidentified Flying Objects (UFO) around the area of...</span><span class="citation-popover-meta">Published: July 5, 2024</span></span></span>
+Several gaps keep that leap from being secure. There is no widely accepted public radar record showing an anomalous object over Echo Flight at the critical moment. The most official contemporaneous source says UFO rumours were disproven. The most detailed public witness accounts were developed years after the incident. And the chronology is disputed, especially around whether Salas’s account refers to Echo Flight, Oscar Flight, or a separate event later folded into the same story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2badufos.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Looking for official FOIA documentation regarding</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...July 5, 2024 — &quot;Rumors of Unidentified Flying Objects (UFO) around the area of...</span><span class="citation-popover-meta">Published: July 5, 2024</span></span></span>
 
-At the same time, the case should not be reduced to “nothing happened”. A ten-missile alert failure at a nuclear missile base is inherently significant. The later willingness of former personnel to attach their names to claims also matters historically, even if it does not prove the extraordinary conclusion. Malmstrom is therefore best handled as an evidence hierarchy: confirmed missile failure at the top, official denial of a UFO link beside it, later witness claims below that, and extraterrestrial or non-human causation as the least established layer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapledger.com">[UAP Ledger+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapledger.com</span><span class="citation-popover-title">UAP Ledger Malmstrom AFB Nuclear Incident</span><span class="citation-popover-snippet">UAP LedgerMalmstrom AFB Nuclear Incident - UAP LedgerOn March 16, 1967, ten nuclear missiles at Malmstrom Air Force Base went offline sim...</span><span class="citation-popover-meta">Published: March 16, 1967</span></span></span>
+At the same time, the case should not be reduced to “nothing happened”. A ten-missile alert failure at a nuclear missile base is inherently significant. The later willingness of former personnel to attach their names to claims also matters historically, even if it does not prove the extraordinary conclusion. Malmstrom is therefore best handled as an evidence hierarchy: confirmed missile failure at the top, official denial of a UFO link beside it, later witness claims below that, and extraterrestrial or non-human causation as the least established layer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapledger.com">[UAP Ledger+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapledger.com</span><span class="citation-popover-title">UAP Ledger Malmstrom AFB Nuclear Incident</span><span class="citation-popover-snippet">UAP LedgerMalmstrom AFB Nuclear Incident - UAP LedgerOn March 16, 1967, ten nuclear missiles at Malmstrom Air Force Base went offline sim...</span><span class="citation-popover-meta">Published: March 16, 1967</span></span></span>
 
-The broader Air Force position after Project Blue Book also shapes the dispute. The Air Force concluded that no UFO report it investigated and evaluated indicated a national-security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles; Project Blue Book ended with 12,618 reports collected and 701 still listed as unidentified. Those figures show why both sides can keep arguing: “unidentified” did not mean “alien”, but official closure did not erase every unresolved or poorly documented military report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The broader Air Force position after Project Blue Book also shapes the dispute. The Air Force concluded that no UFO report it investigated and evaluated indicated a national-security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles; Project Blue Book ended with 12,618 reports collected and 701 still listed as unidentified. Those figures show why both sides can keep arguing: “unidentified” did not mean “alien”, but official closure did not erase every unresolved or poorly documented military report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-3-dark.svg" | relative_url }}" alt="Malmstrom illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Malmstrom really shows
 
-Malmstrom remains the central nuclear-UFO case because it combines a documented strategic-weapons failure with a durable body of witness testimony. That combination is rare. Most UFO cases lack a hard technical incident; most missile failures lack a surrounding UFO narrative. Malmstrom has both, which is why it keeps returning in congressional references, UAP debates, documentaries, and sceptical reviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c-span.org">[C-SPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c-span.org</span><span class="citation-popover-title">user clip malmstrom nuclear ufo 1967</span><span class="citation-popover-snippet">user clip malmstrom nuclear ufo 1967</span></span></span>
+Malmstrom remains the central nuclear-UFO case because it combines a documented strategic-weapons failure with a durable body of witness testimony. That combination is rare. Most UFO cases lack a hard technical incident; most missile failures lack a surrounding UFO narrative. Malmstrom has both, which is why it keeps returning in congressional references, UAP debates, documentaries, and sceptical reviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c-span.org">[C-SPAN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c-span.org</span><span class="citation-popover-title">user clip malmstrom nuclear ufo 1967</span><span class="citation-popover-snippet">user clip malmstrom nuclear ufo 1967</span></span></span>
 
-Its evidential value, however, depends on keeping the layers separate. The Echo Flight shutdown is evidence of a missile-system failure. Salas’s account and the affidavits are evidence that some former personnel later claimed a UFO connection. The declassified Air Force wording is evidence that the official investigation did not accept that connection. None of those pieces, by itself, proves that an unknown craft disabled nuclear missiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
+Its evidential value, however, depends on keeping the layers separate. The Echo Flight shutdown is evidence of a missile-system failure. Salas’s account and the affidavits are evidence that some former personnel later claimed a UFO connection. The declassified Air Force wording is evidence that the official investigation did not accept that connection. None of those pieces, by itself, proves that an unknown craft disabled nuclear missiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</span></span></span>
 
 The fairest conclusion is that Malmstrom is neither a clean debunk nor a clean confirmation. It is a real Cold War missile-readiness incident whose UFO layer remains unproven and disputed. For readers trying to understand UFOs and nuclear weapons, that is the lesson: the most important cases are not always the ones with the neatest answers, but the ones where documents, witnesses, secrecy, technical systems and later interpretation collide.
 
@@ -571,194 +571,194 @@ The fairest conclusion is that Malmstrom is neither a clean debunk nor a clean c
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened At Malmstrom In 1967?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened At Malmstrom In 1967?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a broader evidence-focused framework for evaluating claims such as Malmstrom.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a broader evidence-focused framework for evaluating claims such as Malmstrom.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Offers historical context for how military UFO investigations developed before later cases like Malmstrom.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical context for how military UFO investigations developed before later cases like Malmstrom.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines military and government UFO claims, helping readers place Malmstrom within the wider UAP debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military and government UFO claims, helping readers place Malmstrom within the wider UAP debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Malmstrom is one of the signature cases discussed in the UFO-and-nuclear-weapons literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Malmstrom is one of the signature cases discussed in the UFO-and-nuclear-weapons literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US USAF Air Command Sevice Forces Patches NEW"><img src="{{ '/assets/images/marketplace-covers/e31eb04f250c73d84787.jpg' | relative_url }}" alt="Listing image for US USAF Air Command Sevice Forces Patches NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">US USAF Air Command Sevice Forces Patches NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Strategic Air Command patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Strategic Air Command patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US USAF Air Command Sevice Forces Patches NEW"><img src="{{ '/assets/images/marketplace-covers/e31eb04f250c73d84787.jpg' | relative_url }}" alt="Listing image for US USAF Air Command Sevice Forces Patches NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">US USAF Air Command Sevice Forces Patches NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Strategic Air Command patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Strategic Air Command patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U.S. Strategic Air Command Patch / Badge"><img src="{{ '/assets/images/marketplace-covers/d6f83941f6ddaf25e031.jpg' | relative_url }}" alt="Listing image for U.S. Strategic Air Command Patch / Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">U.S. Strategic Air Command Patch / Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Strategic Air Command patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Strategic Air Command patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U.S. Strategic Air Command Patch / Badge"><img src="{{ '/assets/images/marketplace-covers/d6f83941f6ddaf25e031.jpg' | relative_url }}" alt="Listing image for U.S. Strategic Air Command Patch / Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">U.S. Strategic Air Command Patch / Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Strategic Air Command patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Strategic Air Command patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patch Strategic Air Command 3x2 in Badge"><img src="{{ '/assets/images/marketplace-covers/7961b161ab41c57f1e72.jpg' | relative_url }}" alt="Listing image for Patch Strategic Air Command 3x2 in Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">Patch Strategic Air Command 3x2 in Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Strategic Air Command patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Strategic Air Command patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patch Strategic Air Command 3x2 in Badge"><img src="{{ '/assets/images/marketplace-covers/7961b161ab41c57f1e72.jpg' | relative_url }}" alt="Listing image for Patch Strategic Air Command 3x2 in Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">Patch Strategic Air Command 3x2 in Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Strategic Air Command patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Strategic Air Command patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF AIR FORCE STRATEGIC AIR COMMAND SAC PATCH 1970s COLOR OBSOLETE 3&quot; VTG ORIG"><img src="{{ '/assets/images/marketplace-covers/e33395cfdbaaec610b2a.jpg' | relative_url }}" alt="Listing image for USAF AIR FORCE STRATEGIC AIR COMMAND SAC PATCH 1970s COLOR OBSOLETE 3&quot; VTG ORIG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">USAF AIR FORCE STRATEGIC AIR COMMAND SAC PATCH 1970s COLOR OBSOLETE 3&quot; VTG ORIG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Strategic Air Command patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Strategic Air Command patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF AIR FORCE STRATEGIC AIR COMMAND SAC PATCH 1970s COLOR OBSOLETE 3&quot; VTG ORIG"><img src="{{ '/assets/images/marketplace-covers/e33395cfdbaaec610b2a.jpg' | relative_url }}" alt="Listing image for USAF AIR FORCE STRATEGIC AIR COMMAND SAC PATCH 1970s COLOR OBSOLETE 3&quot; VTG ORIG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">USAF AIR FORCE STRATEGIC AIR COMMAND SAC PATCH 1970s COLOR OBSOLETE 3&quot; VTG ORIG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Strategic Air Command patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Strategic Air Command patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Strategic+Air+Command+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Strategic Air Command patch" data-ebay-reference="malmstrom-what-happened-at-malmstrom-in-1967-ufos-and-nuclear-weapons-strategic-air-command-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -774,7 +774,7 @@ The fairest conclusion is that Malmstrom is neither a clean debunk nor a clean c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -794,7 +794,7 @@ The fairest conclusion is that Malmstrom is neither a clean debunk nor a clean c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -826,7 +826,7 @@ The fairest conclusion is that Malmstrom is neither a clean debunk nor a clean c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -878,7 +878,7 @@ The fairest conclusion is that Malmstrom is neither a clean debunk nor a clean c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -923,7 +923,7 @@ The fairest conclusion is that Malmstrom is neither a clean debunk nor a clean c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -964,249 +964,249 @@ The fairest conclusion is that Malmstrom is neither a clean debunk nor a clean c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during t he tiw~ of fau...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Looking for official FOIA documentation regarding  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking for official FOIA documentation regarding...July 5, 2024 — &quot;Rumors of Unidentified Flying Objects (UFO) around the area of...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Looking for official FOIA documentation regarding...July 5, 2024 — &quot;Rumors of Unidentified Flying Objects (UFO) around the area of...</p></details>
    Published: July 5, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyOn March 16, 1967, a UFO approached Echo Flight, one of the nuclear missile... A report...</p></details>
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyOn March 16, 1967, a UFO approached Echo Flight, one of the nuclear missile... A report...</p></details>
    Published: March 16, 1967  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: badufos.blogspot.com  
    Title: discovery canadas close encounters mars  
-   Link: <a href="https://badufos.blogspot.com/2014/01/discovery-canadas-close-encounters-mars.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2014/01/discovery-canadas-close-encounters-mars.html</a>  
+   Link:<a href="https://badufos.blogspot.com/2014/01/discovery-canadas-close-encounters-mars.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2014/01/discovery-canadas-close-encounters-mars.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documentcloud.org  
    Title: Document Cloud Malmstrom UFO Testimonials | Document Cloud  
-   Link: <a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
+   Link:<a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
+   Link:<a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: c-span.org  
    Title: user clip malmstrom nuclear ufo 1967  
-   Link: <a href="https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738" target="_blank" rel="noopener noreferrer nofollow">https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738</a>  
+   Link:<a href="https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738" target="_blank" rel="noopener noreferrer nofollow">https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Malmstrom Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_Air_Force_Base</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/oasd.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/oasd.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+   Link:<a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1nfbtda/captain_robert_salas_briefs_congress_member/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1nfbtda/captain_robert_salas_briefs_congress_member/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1nfbtda/captain_robert_salas_briefs_congress_member/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1nfbtda/captain_robert_salas_briefs_congress_member/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mlptfr/aaro_deputy_director_timothy_phillips_and_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mlptfr/aaro_deputy_director_timothy_phillips_and_aaro/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1mlptfr/aaro_deputy_director_timothy_phillips_and_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mlptfr/aaro_deputy_director_timothy_phillips_and_aaro/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1l7vau5/disinformation_is_getting_dumber_to_explain_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1l7vau5/disinformation_is_getting_dumber_to_explain_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1l7vau5/disinformation_is_getting_dumber_to_explain_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1l7vau5/disinformation_is_getting_dumber_to_explain_the/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/uss48t/captain_robert_salas_ufos_shut_down_nuclear/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uss48t/captain_robert_salas_ufos_shut_down_nuclear/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/uss48t/captain_robert_salas_ufos_shut_down_nuclear/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uss48t/captain_robert_salas_ufos_shut_down_nuclear/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AirForce/comments/1qg9kho/malmstrom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AirForce/comments/1qg9kho/malmstrom/</a>  
+   Link:<a href="https://www.reddit.com/r/AirForce/comments/1qg9kho/malmstrom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AirForce/comments/1qg9kho/malmstrom/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: kevinrandle.blogspot.com  
-   Link: <a href="https://kevinrandle.blogspot.com/2023/03/the-belt-montana-ufo-sighting-and.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/03/the-belt-montana-ufo-sighting-and.html</a>  
+   Link:<a href="https://kevinrandle.blogspot.com/2023/03/the-belt-montana-ufo-sighting-and.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/03/the-belt-montana-ufo-sighting-and.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: military.com  
    Title: air force veterans who are ufo true believers return newly attentive washington  
-   Link: <a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
+   Link:<a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: timhebert.blogspot.com  
    Title: robert hastings responds to robert  
-   Link: <a href="https://timhebert.blogspot.com/2014/02/robert-hastings-responds-to-robert.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2014/02/robert-hastings-responds-to-robert.html</a>  
+   Link:<a href="https://timhebert.blogspot.com/2014/02/robert-hastings-responds-to-robert.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2014/02/robert-hastings-responds-to-robert.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
+   Link:<a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-019-Australian_Dept_of_Defense_Scientific_and_Intel_Aspects_of_the_UFO_Problem.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: abcnews.com  
    Title: ABC News Former Airmen to Govt.: Come Clean on UFOs  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs - ABC News...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs - ABC News...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: uapledger.com  
    Title: UAP Ledger Malmstrom AFB Nuclear Incident  
-   Link: <a href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow">https://uapledger.com/cases/malmstrom-afb-1967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP LedgerMalmstrom AFB Nuclear Incident - UAP LedgerOn March 16, 1967, ten nuclear missiles at Malmstrom Air Force Base went offline sim...</p></details>
+   Link:<a href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow">https://uapledger.com/cases/malmstrom-afb-1967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP LedgerMalmstrom AFB Nuclear Incident - UAP LedgerOn March 16, 1967, ten nuclear missiles at Malmstrom Air Force Base went offline sim...</p></details>
    Published: March 16, 1967  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: wsj.com  
    Title: ufo us disinformation 45376f7e  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MalmstromAirForceBase/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MalmstromAirForceBase/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/MalmstromAirForceBase/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MalmstromAirForceBase/?locale=en_GB</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: wsj.com  
    Title: pentagon ufo investigation lockheed martin 1bac3d41  
-   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
+   Link:<a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Flights of FantasyOn page 36 of the command history obtained by Salas, it states very clearly that the. “801st Radar Squadro...</p></details>
+   Link:<a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Flights of FantasyOn page 36 of the command history obtained by Salas, it states very clearly that the. “801st Radar Squadro...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles  
-   Link: <a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Disabled Missiles at Malmstrom Air Force Base?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Disabled Missiles at Malmstrom Air Force Base?...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: What Disabled Missiles at Malmstrom Air Force Base?  
-   Link: <a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX5NY/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1249963363159613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1249963363159613/</a>  
+   Link:<a href="https://www.facebook.com/FOX5NY/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1249963363159613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1249963363159613/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: usafaclasses.org  
-   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
+   Link:<a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  

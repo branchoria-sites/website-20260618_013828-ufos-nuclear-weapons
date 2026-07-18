@@ -452,20 +452,20 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_bl
 
 ## Introduction
 
-[Project Blue Book]({{ 'blue-book/' | relative_url }}) offers one of the clearest historical lessons about the burden of proof in UFO research. The programme investigated thousands of reports over more than two decades and ended with hundreds of cases still labelled [unidentified]({{ 'unidentified/' | relative_url }}). Yet the Air Force did not treat those unresolved cases as proof of extraterrestrial spacecraft. Instead, its final position was that some reports could not be explained from the available evidence, while no investigated case provided evidence of alien vehicles or advanced non-human technology. That distinction remains central to debates about UFOs near nuclear facilities and other sensitive sites: an unexplained event is not automatically evidence for an extraordinary conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+[Project Blue Book]({{ 'blue-book/' | relative_url }}) offers one of the clearest historical lessons about the burden of proof in UFO research. The programme investigated thousands of reports over more than two decades and ended with hundreds of cases still labelled [unidentified]({{ 'unidentified/' | relative_url }}). Yet the Air Force did not treat those unresolved cases as proof of extraterrestrial spacecraft. Instead, its final position was that some reports could not be explained from the available evidence, while no investigated case provided evidence of alien vehicles or advanced non-human technology. That distinction remains central to debates about UFOs near nuclear facilities and other sensitive sites: an unexplained event is not automatically evidence for an extraordinary conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers assessing extraterrestrial claims, Blue Book's value lies less in any single sighting than in the methodological lesson it leaves behind. The archive shows how uncertainty, incomplete information, and unexplained observations can persist without justifying a leap to an alien explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+For readers assessing extraterrestrial claims, Blue Book's value lies less in any single sighting than in the methodological lesson it leaves behind. The archive shows how uncertainty, incomplete information, and unexplained observations can persist without justifying a leap to an alien explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHGn_yPSgg0" title="Why This UFO Sighting Was Different | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer">Why This UFO Sighting Was Different | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 434.5K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHGn_yPSgg0">Open on YouTube</a></p></div></div></div>
 
 ## Unresolved Cases Versus Proven Origins
 
-One of the most misunderstood facts about Project Blue Book is the figure most often cited by both [sceptics]({{ 'sceptics/' | relative_url }}) and believers: 701 cases remained unidentified when the project closed. Out of 12,618 reported sightings, those 701 incidents could not be conclusively matched to known causes under the standards used by investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA+2Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — Of a total of 12,618 sightings reported to Proje...</span></span></span>
+One of the most misunderstood facts about Project Blue Book is the figure most often cited by both [sceptics]({{ 'sceptics/' | relative_url }}) and believers: 701 cases remained unidentified when the project closed. Out of 12,618 reported sightings, those 701 incidents could not be conclusively matched to known causes under the standards used by investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA+2Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — Of a total of 12,618 sightings reported to Proje...</span></span></span>
 
-However, "unidentified" was an evidential category, not an origin category. It meant investigators lacked enough information to reach a confident explanation. The Air Force's official summary explicitly stated that there was no evidence indicating the unidentified sightings were extraterrestrial vehicles. The presence of unknowns therefore coexisted with the conclusion that alien visitation had not been demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+However, "unidentified" was an evidential category, not an origin category. It meant investigators lacked enough information to reach a confident explanation. The Air Force's official summary explicitly stated that there was no evidence indicating the unidentified sightings were extraterrestrial vehicles. The presence of unknowns therefore coexisted with the conclusion that alien visitation had not been demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
 This distinction is especially important in discussions of UFOs around nuclear weapons facilities. If a report near a missile field remains [unresolved]({{ 'unresolved/' | relative_url }}), Blue Book's historical approach suggests only that the available evidence failed to identify the object. It does not establish what the object was, much less that it came from another world.
 
@@ -480,18 +480,18 @@ A useful way to frame the lesson is:
 
 </div>
 
-Blue Book produced examples of the first two categories but did not produce publicly accepted evidence for the third. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+Blue Book produced examples of the first two categories but did not produce publicly accepted evidence for the third.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.7K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
 ## Why Official Summaries Matter
 
-The final Air Force assessment remains significant because it separated unanswered questions from proven conclusions. When Project Blue Book ended in 1969, the Air Force stated that no investigated UFO had been found to represent advanced technology beyond contemporary scientific knowledge, no case indicated a threat to national security, and no evidence showed extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+The final Air Force assessment remains significant because it separated unanswered questions from proven conclusions. When Project Blue Book ended in 1969, the Air Force stated that no investigated UFO had been found to represent advanced technology beyond contemporary scientific knowledge, no case indicated a threat to national security, and no evidence showed extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
-Critics have long debated whether some individual cases deserved more attention or whether certain investigations were handled poorly. Even within Blue Book's history, scientific consultant J. Allen Hynek criticised aspects of the programme's investigative practices and believed some cases warranted deeper study. Yet those criticisms concern the quality of investigation, not the existence of demonstrated extraterrestrial evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Critics have long debated whether some individual cases deserved more attention or whether certain investigations were handled poorly. Even within Blue Book's history, scientific consultant J. Allen Hynek criticised aspects of the programme's investigative practices and believed some cases warranted deeper study. Yet those criticisms concern the quality of investigation, not the existence of demonstrated extraterrestrial evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-This distinction often disappears in popular discussions. A reader may hear that "hundreds of Blue Book cases remain unexplained" and assume the unresolved cases constitute positive evidence for aliens. The historical record supports a narrower conclusion: unresolved cases indicate limits in available evidence, not confirmation of a particular extraordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+This distinction often disappears in popular discussions. A reader may hear that "hundreds of Blue Book cases remain unexplained" and assume the unresolved cases constitute positive evidence for aliens. The historical record supports a narrower conclusion: unresolved cases indicate limits in available evidence, not confirmation of a particular extraordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
 The burden-of-proof lesson is therefore asymmetric. Investigators must explain why a conventional explanation fits the evidence, but advocates of extraterrestrial claims must also provide affirmative evidence that supports an alien origin. A lack of explanation alone does not meet that standard.
 
@@ -499,213 +499,213 @@ The burden-of-proof lesson is therefore asymmetric. Investigators must explain w
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits of a Historical Archive
 
-Project Blue Book is a valuable archive, but it is still a historical archive. Many reports were collected decades ago under uneven conditions. Witness accounts varied in quality, some records were incomplete, and many cases lacked the kinds of sensor data that modern investigators would want. As a result, some incidents remain difficult to evaluate today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</span></span></span>
+Project Blue Book is a valuable archive, but it is still a historical archive. Many reports were collected decades ago under uneven conditions. Witness accounts varied in quality, some records were incomplete, and many cases lacked the kinds of sensor data that modern investigators would want. As a result, some incidents remain difficult to evaluate today.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</span></span></span>
 
-The archive's existence therefore creates two realities at once. First, it preserves genuine unexplained cases that continue to attract attention. Second, it demonstrates how difficult it is to move from "unexplained" to "proved". Even after years of investigation and thousands of files, the programme ended with uncertainty rather than confirmation of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book &#124; Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1947 to 1969, 12,618 sightings we...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The archive's existence therefore creates two realities at once. First, it preserves genuine unexplained cases that continue to attract attention. Second, it demonstrates how difficult it is to move from "unexplained" to "proved". Even after years of investigation and thousands of files, the programme ended with uncertainty rather than confirmation of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book &#124; Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1947 to 1969, 12,618 sightings we...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-This is particularly relevant when examining claims involving nuclear weapons. Historical records may show unusual observations, credible witnesses, or unresolved events. Yet Blue Book's experience suggests that the evidential gap between an unknown object and a demonstrated alien craft is far larger than many discussions assume. The archive preserves mysteries, but mysteries are not the same thing as proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2National Archives Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+This is particularly relevant when examining claims involving nuclear weapons. Historical records may show unusual observations, credible witnesses, or unresolved events. Yet Blue Book's experience suggests that the evidential gap between an unknown object and a demonstrated alien craft is far larger than many discussions assume. The archive preserves mysteries, but mysteries are not the same thing as proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2National Archives Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 397 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
 
 ## The Lasting Burden-of-Proof Lesson
 
-Project Blue Book remains a reference point because it shows how an investigation can contain hundreds of unresolved cases without producing evidence that extraterrestrial visitors were present. The programme's most durable lesson is methodological rather than sensational: unexplained observations deserve investigation, but extraordinary conclusions require affirmative evidence, not merely the absence of an ordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+Project Blue Book remains a reference point because it shows how an investigation can contain hundreds of unresolved cases without producing evidence that extraterrestrial visitors were present. The programme's most durable lesson is methodological rather than sensational: unexplained observations deserve investigation, but extraordinary conclusions require affirmative evidence, not merely the absence of an ordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
-For debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), that lesson remains highly relevant. An unidentified event may be important, worthy of further inquiry, and potentially significant for security. Yet the burden of proving extraterrestrial involvement remains separate from the fact that a case has not been solved. Project Blue Book's record shows that those two ideas should not be conflated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2National Archives Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
+For debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), that lesson remains highly relevant. An unidentified event may be important, worthy of further inquiry, and potentially significant for security. Yet the burden of proving extraterrestrial involvement remains separate from the fact that a case has not been solved. Project Blue Book's record shows that those two ideas should not be conflated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2National Archives Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Blue Book&#x27;s Lesson on Unknown Cases. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Blue Book&#x27;s Lesson on Unknown Cases. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly connected to UFO investigations and methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connected to UFO investigations and methodology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Clarifies why unknown does not equal extraterrestrial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies why unknown does not equal extraterrestrial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides modern context for unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern context for unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses the persistence of unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the persistence of unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New never used Voice Control Quadcopter 2.4 ghz 360 degree flips D4V DIYI Model"><img src="{{ '/assets/images/marketplace-covers/574df4921567a6070813.jpg' | relative_url }}" alt="Listing image for New never used Voice Control Quadcopter 2.4 ghz 360 degree flips D4V DIYI Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">New never used Voice Control Quadcopter 2.4 ghz 360 degree flips D4V DIYI Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New never used Voice Control Quadcopter 2.4 ghz 360 degree flips D4V DIYI Model"><img src="{{ '/assets/images/marketplace-covers/574df4921567a6070813.jpg' | relative_url }}" alt="Listing image for New never used Voice Control Quadcopter 2.4 ghz 360 degree flips D4V DIYI Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">New never used Voice Control Quadcopter 2.4 ghz 360 degree flips D4V DIYI Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ESP32 Flight Control Open Source Quadcopter ESPDrone Drone Model Wifi"><img src="{{ '/assets/images/marketplace-covers/744d4962bb1487852129.jpg' | relative_url }}" alt="Listing image for ESP32 Flight Control Open Source Quadcopter ESPDrone Drone Model Wifi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">ESP32 Flight Control Open Source Quadcopter ESPDrone Drone Model Wifi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ESP32 Flight Control Open Source Quadcopter ESPDrone Drone Model Wifi"><img src="{{ '/assets/images/marketplace-covers/744d4962bb1487852129.jpg' | relative_url }}" alt="Listing image for ESP32 Flight Control Open Source Quadcopter ESPDrone Drone Model Wifi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">ESP32 Flight Control Open Source Quadcopter ESPDrone Drone Model Wifi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How to build a quadcopter drone A complete guide to building a radio controll..."><img src="{{ '/assets/images/marketplace-covers/f798b8aeca7ecf5c7ad5.jpg' | relative_url }}" alt="Listing image for How to build a quadcopter drone A complete guide to building a radio controll..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">How to build a quadcopter drone A complete guide to building a radio controll...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How to build a quadcopter drone A complete guide to building a radio controll..."><img src="{{ '/assets/images/marketplace-covers/f798b8aeca7ecf5c7ad5.jpg' | relative_url }}" alt="Listing image for How to build a quadcopter drone A complete guide to building a radio controll..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">How to build a quadcopter drone A complete guide to building a radio controll...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Flight Drone model PFBD77"><img src="{{ '/assets/images/marketplace-covers/775fbe0ab5c176b49e3a.jpg' | relative_url }}" alt="Listing image for Pro Flight Drone model PFBD77" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">Pro Flight Drone model PFBD77</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter model">Search <span data-ebay-domain-label>eBay.co.uk</span>: quadcopter model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Flight Drone model PFBD77"><img src="{{ '/assets/images/marketplace-covers/775fbe0ab5c176b49e3a.jpg' | relative_url }}" alt="Listing image for Pro Flight Drone model PFBD77" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">Pro Flight Drone model PFBD77</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for quadcopter model">Search<span data-ebay-domain-label>eBay.co.uk</span>: quadcopter model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=quadcopter+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="quadcopter model" data-ebay-reference="blue-book-2170e0-blue-book-s-lesson-on-unknown-cases-ufos-and-nuclear-weapons-quadcopter-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -721,7 +721,7 @@ For debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -741,7 +741,7 @@ For debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -773,7 +773,7 @@ For debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -825,7 +825,7 @@ For debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -870,7 +870,7 @@ For debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -911,158 +911,158 @@ For debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — Of a total of 12,618 sightings reported to Proje...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — Of a total of 12,618 sightings reported to Proje...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: Majestic 12 or "MJ-12" Reference Report.Read more  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThere are not now nor ever have been, any extraterrestrial visitors or eq...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThere are not now nor ever have been, any extraterrestrial visitors or eq...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1947 to 1969, 12,618 sightings we...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1947 to 1969, 12,618 sightings we...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1experience gained from investigating. UFO reports since. 1948, the conclusions of Project. Blue Book are: l! n...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1experience gained from investigating. UFO reports since. 1948, the conclusions of Project. Blue Book are: l! n...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?9 Feb 2018 — According to a U.S. Air Force Fact Sheet, a total of 12,618 sightings were re...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?9 Feb 2018 — According to a U.S. Air Force Fact Sheet, a total of 12,618 sightings were re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: upload.wikimedia.org  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: rg collections  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...Project Blue Book: UFO Sightings (National Archives Identifier: 40027753) Ca...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...Project Blue Book: UFO Sightings (National Archives Identifier: 40027753) Ca...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. Each case file...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings. Each case file...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, 1947-1969: United States Air...30 Apr 2023 — Indexes for UFO sightings recorded by Project Blue Book extract...</p></details>
+   Link:<a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, 1947-1969: United States Air...30 Apr 2023 — Indexes for UFO sightings recorded by Project Blue Book extract...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
    Title: unidentified flying objects what we know  
-   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: What We KnowThe Condon Report also found no evidence for the existence of extraterrestrials...</p></details>
+   Link:<a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: What We KnowThe Condon Report also found no evidence for the existence of extraterrestrials...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the...Read more...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | Origins22 Dec 2024 — The project had investigated some 12,618 UFO sightings, and of those 701 remain...</p></details>
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | Origins22 Dec 2024 — The project had investigated some 12,618 UFO sightings, and of those 701 remain...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
    Title: ufo reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A major event occurred in 1990 over Belgium. On 30–31 March, large, unknown triangular-shaped objects were reported. This followed months...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A major event occurred in 1990 over Belgium. On 30–31 March, large, unknown triangular-shaped objects were reported. This followed months...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete List of Project Blue Book&#x27;s Unsolved CasesThis list of 701 UFO reports represents all of the unexplained sightings recorded by t...</p></details>
+   Link:<a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complete List of Project Blue Book&#x27;s Unsolved CasesThis list of 701 UFO reports represents all of the unexplained sightings recorded by t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/capturemovieslive/posts/920519265989580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/920519265989580/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force&#x27;s Project Blue Book UFO studiesProject Blue Book had two goals: To determine if UFOs were a threat to national security, and...</p></details>
+   Link:<a href="https://www.facebook.com/groups/capturemovieslive/posts/920519265989580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/920519265989580/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force&#x27;s Project Blue Book UFO studiesProject Blue Book had two goals: To determine if UFOs were a threat to national security, and...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
+   Link:<a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue BookHigh-altitude testing of the U-2 soon led to an unexpected side effect--a tremendous increase...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue BookHigh-altitude testing of the U-2 soon led to an unexpected side effect--a tremendous increase...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: corriere.it  
-   Link: <a href="https://www.corriere.it/la-lettura/19_marzo_18/project-blue-book-serie-tv-history-channel-1a2251ae-498f-11e9-bd93-d4c05434d013.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.corriere.it/la-lettura/19_marzo_18/project-blue-book-serie-tv-history-channel-1a2251ae-498f-11e9-bd93-d4c05434d013.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>«Project Blue Book»: il mistero irrisolto di 701 ufo18 Mar 2019 — La serie tv di History Channel dedicata agli avvistamenti di oggetti vo...</p></details>
+   Link:<a href="https://www.corriere.it/la-lettura/19_marzo_18/project-blue-book-serie-tv-history-channel-1a2251ae-498f-11e9-bd93-d4c05434d013.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.corriere.it/la-lettura/19_marzo_18/project-blue-book-serie-tv-history-channel-1a2251ae-498f-11e9-bd93-d4c05434d013.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>«Project Blue Book»: il mistero irrisolto di 701 ufo18 Mar 2019 — La serie tv di History Channel dedicata agli avvistamenti di oggetti vo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: a first tranche of files dating back to 1948 has been released to provide greate  
-   Link: <a href="https://www.facebook.com/euronews/posts/a-first-tranche-of-files-dating-back-to-1948-has-been-released-to-provide-greate/1350344777140849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euronews/posts/a-first-tranche-of-files-dating-back-to-1948-has-been-released-to-provide-greate/1350344777140849/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A first tranche of files dating back to 1948 has been...Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unid...</p></details>
+   Link:<a href="https://www.facebook.com/euronews/posts/a-first-tranche-of-files-dating-back-to-1948-has-been-released-to-provide-greate/1350344777140849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euronews/posts/a-first-tranche-of-files-dating-back-to-1948-has-been-released-to-provide-greate/1350344777140849/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A first tranche of files dating back to 1948 has been...Of a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;unid...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abc7ny.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
+   Link:<a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were repor...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives MuseumFor more than 20 years, the U.S. Air Force documented and analyzed UFO sightings through...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives MuseumFor more than 20 years, the U.S. Air Force documented and analyzed UFO sightings through...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — The hearing was held following a government report which had record...</p></details>
+   Link:<a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — The hearing was held following a government report which had record...</p></details>

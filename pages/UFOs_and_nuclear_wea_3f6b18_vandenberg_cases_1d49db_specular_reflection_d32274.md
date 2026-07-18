@@ -280,7 +280,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specul
 
 ## Introduction
 
-Could sunlight glints look like a UFO attack? In the debate over the 1964 Vandenberg/Big Sur missile-filming incident, that question sits at the centre of one of the most important sceptical explanations. Former Air Force officer Robert Jacobs later described footage that allegedly showed a UFO manoeuvring around a test warhead and firing beams of light at it. Kingston A. George, an engineer involved with the programme, argued that the film instead captured ordinary but visually deceptive optical events: sunlight reflecting from small objects in space and brief flashes produced during decoy deployment. According to this view, the apparent “attack” emerged from the way distant objects appear through specialised low-light tracking cameras rather than from any actual beam weapon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Bob Jacobs was one of the key field team membe...</span></span></span>
+Could sunlight glints look like a UFO attack? In the debate over the 1964 Vandenberg/Big Sur missile-filming incident, that question sits at the centre of one of the most important sceptical explanations. Former Air Force officer Robert Jacobs later described footage that allegedly showed a UFO manoeuvring around a test warhead and firing beams of light at it. Kingston A. George, an engineer involved with the programme, argued that the film instead captured ordinary but visually deceptive optical events: sunlight reflecting from small objects in space and brief flashes produced during decoy deployment. According to this view, the apparent “attack” emerged from the way distant objects appear through specialised low-light tracking cameras rather than from any actual beam weapon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Bob Jacobs was one of the key field team membe...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-1-dark.svg" | relative_url }}" alt="Light glints illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ The significance of the dispute goes beyond one UFO claim. It raises a broader q
 
 ## What specular reflection means in missile tracking
 
-A specular reflection is a mirror-like reflection of light. Instead of scattering sunlight in many directions, a smooth surface reflects it strongly in one particular direction. If an observer happens to be located along that reflected path, the object can suddenly appear much brighter than it really is. Astronomers and satellite observers regularly encounter this phenomenon as a “glint” or flash. Even small objects can momentarily become conspicuous when geometry aligns correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1903.05839" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Shiny New Method for SETI: Specular Reflections from Interplanetary ArtifactsMarch 14, 2019...</span><span class="citation-popover-meta">Published: March 14, 2019</span></span></span>
+A specular reflection is a mirror-like reflection of light. Instead of scattering sunlight in many directions, a smooth surface reflects it strongly in one particular direction. If an observer happens to be located along that reflected path, the object can suddenly appear much brighter than it really is. Astronomers and satellite observers regularly encounter this phenomenon as a “glint” or flash. Even small objects can momentarily become conspicuous when geometry aligns correctly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1903.05839" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Shiny New Method for SETI: Specular Reflections from Interplanetary ArtifactsMarch 14, 2019...</span><span class="citation-popover-meta">Published: March 14, 2019</span></span></span>
 
-George argued that this effect was fundamental to understanding what the Big Sur tracking system recorded. The Boston University telescope used for the missile tests was designed to obtain low-light imagery of distant objects. According to his account, the re-entry vehicle itself was too small to be clearly resolved as a detailed shape on the camera sensor. What the system primarily detected was reflected sunlight rather than a sharply defined object. He wrote that the warhead image would have occupied only a few scan lines on the recording system and that observations of hard objects were largely dependent on specular reflections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
+George argued that this effect was fundamental to understanding what the Big Sur tracking system recorded. The Boston University telescope used for the missile tests was designed to obtain low-light imagery of distant objects. According to his account, the re-entry vehicle itself was too small to be clearly resolved as a detailed shape on the camera sensor. What the system primarily detected was reflected sunlight rather than a sharply defined object. He wrote that the warhead image would have occupied only a few scan lines on the recording system and that observations of hard objects were largely dependent on specular reflections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
 
 This distinction matters because a bright point of light on film does not necessarily reveal an object's size, shape, orientation, or precise structure. A tiny reflective surface can appear as a brilliant spot, while a much larger object may remain invisible if it is not reflecting light toward the camera.
 
@@ -313,7 +313,7 @@ Several factors can exaggerate the effect:
 
 </div>
 
-As a result, viewers may perceive structure or motion that the camera cannot actually resolve. What appears to be a distinct craft may, in some circumstances, be only a bright reflection from a very small object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
+As a result, viewers may perceive structure or motion that the camera cannot actually resolve. What appears to be a distinct craft may, in some circumstances, be only a bright reflection from a very small object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zjs5HxjDimY" title="TalkingStickTV - Dr. Robert Jacobs - The Global Hibakusha Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zjs5HxjDimY" target="_blank" rel="noopener noreferrer">TalkingStickTV - Dr. Robert Jacobs - The Global Hibakusha Project</a></p><p class="youtube-embed-meta">Channel: talkingsticktv</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zjs5HxjDimY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zjs5HxjDimY">Open on YouTube</a></p></div></div></div>
@@ -324,7 +324,7 @@ The most dramatic element of the Jacobs account is the alleged beam-of-light str
 
 A common visual intuition comes from seeing searchlights, laser pointers, or spotlights on Earth. In the atmosphere, the path of a beam becomes visible because light scatters from dust, water droplets, smoke, or other particles suspended in the air. Without those particles, only the illuminated target and the source are visible.
 
-George argued that a directed-energy beam travelling through the near-vacuum of space would not normally appear as a bright line stretching between two objects. In his explanation, the visible beam described in later retellings was therefore inconsistent with how such a phenomenon would be expected to look in space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
+George argued that a directed-energy beam travelling through the near-vacuum of space would not normally appear as a bright line stretching between two objects. In his explanation, the visible beam described in later retellings was therefore inconsistent with how such a phenomenon would be expected to look in space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
 
 This point does not by itself prove that no unusual event occurred. However, it highlights a recurring problem in interpreting historical UFO imagery: people often project familiar atmospheric visual experiences onto scenes recorded outside the atmosphere.
 
@@ -332,7 +332,7 @@ This point does not by itself prove that no unusual event occurred. However, it 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-2-dark.svg" | relative_url }}" alt="Light glints illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The difference between a flash and a beam
 
-George maintained that the missile test involved decoy deployment. Small explosive charges were used to release [decoys]({{ 'decoys/' | relative_url }}) and associated countermeasure materials. He stated that these events appeared on the imagery as brief flashes of light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
+George maintained that the missile test involved decoy deployment. Small explosive charges were used to release [decoys]({{ 'decoys/' | relative_url }}) and associated countermeasure materials. He stated that these events appeared on the imagery as brief flashes of light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
 
 A flash recorded on successive frames can sometimes be interpreted as something more elaborate:
 
@@ -369,207 +369,207 @@ When observers review such footage without detailed knowledge of the camera syst
 
 </div>
 
-These issues are particularly important in the Big Sur case because the original film has never become publicly available for independent optical analysis. Much of the debate therefore relies on witness recollections, later descriptions, and competing reconstructions of what the imagery supposedly showed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Bob Jacobs was one of the key field team membe...</span></span></span>
+These issues are particularly important in the Big Sur case because the original film has never become publicly available for independent optical analysis. Much of the debate therefore relies on witness recollections, later descriptions, and competing reconstructions of what the imagery supposedly showed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Bob Jacobs was one of the key field team membe...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-3-dark.svg" | relative_url }}" alt="Light glints illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strength and limits of the glint explanation
 
-George's explanation offers a technically grounded mechanism for transforming ordinary missile-test events into something that could later be remembered as extraordinary. Specular reflections, brief deployment flashes, and camera limitations are all real phenomena known to affect long-range aerospace imaging. His argument also directly addresses the alleged beam by questioning whether a visible beam path in space is physically plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
+George's explanation offers a technically grounded mechanism for transforming ordinary missile-test events into something that could later be remembered as extraordinary. Specular reflections, brief deployment flashes, and camera limitations are all real phenomena known to affect long-range aerospace imaging. His argument also directly addresses the alleged beam by questioning whether a visible beam path in space is physically plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Open source on astronomyufo.com.</span></span></span>
 
-Supporters of the UFO interpretation counter that witness testimony, particularly from Jacobs and Major Florenz Mansmann, described something more structured and deliberate than random flashes or reflections. They argue that optical explanations do not fully account for reports of an object apparently manoeuvring around the warhead before the flashes occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[CUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">ANOTHER LOOK AT THE BIG SUR INCIDENTMarch 28, 2007 — by R HASTINGS · Cited by 1 — These persons contend that the agency had only a p...</span><span class="citation-popover-meta">Published: March 28, 2007</span></span></span>
+Supporters of the UFO interpretation counter that witness testimony, particularly from Jacobs and Major Florenz Mansmann, described something more structured and deliberate than random flashes or reflections. They argue that optical explanations do not fully account for reports of an object apparently manoeuvring around the warhead before the flashes occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[CUFOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">ANOTHER LOOK AT THE BIG SUR INCIDENTMarch 28, 2007 — by R HASTINGS · Cited by 1 — These persons contend that the agency had only a p...</span><span class="citation-popover-meta">Published: March 28, 2007</span></span></span>
 
-The central difficulty is that both interpretations depend heavily on descriptions of footage that is not publicly available. Without the film itself, the debate cannot be resolved by modern image analysis. What remains is a clash between two explanatory frameworks: one treats the reported beams and bright objects as evidence of an extraordinary intervention, while the other sees them as a predictable consequence of how sunlight glints, distant targets, and specialised tracking cameras can combine to create highly misleading visual impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Bob Jacobs was one of the key field team membe...</span></span></span>
+The central difficulty is that both interpretations depend heavily on descriptions of footage that is not publicly available. Without the film itself, the debate cannot be resolved by modern image analysis. What remains is a clash between two explanatory frameworks: one treats the reported beams and bright objects as evidence of an extraordinary intervention, while the other sees them as a predictable consequence of how sunlight glints, distant targets, and specialised tracking cameras can combine to create highly misleading visual impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Bob Jacobs was one of the key field team membe...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could sunlight glints look like a UFO attack?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could sunlight glints look like a UFO attack?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains how advanced technology can appear mysterious to observers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how advanced technology can appear mysterious to observers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Offers useful background on aerospace observation, imaging, and technical interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers useful background on aerospace observation, imaging, and technical interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on distinguishing real phenomena from observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on distinguishing real phenomena from observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Provides the broader UFO-and-missile context behind the optical-artifact debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader UFO-and-missile context behind the optical-artifact debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="light-glints-could-sunlight-glints-look-like-a-ufo-attack-ufos-and-nuclear-weapons-ufo-poster-book-books-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ The central difficulty is that both interpretations depend heavily on descriptio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ The central difficulty is that both interpretations depend heavily on descriptio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ The central difficulty is that both interpretations depend heavily on descriptio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ The central difficulty is that both interpretations depend heavily on descriptio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ The central difficulty is that both interpretations depend heavily on descriptio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,104 +775,104 @@ The central difficulty is that both interpretations depend heavily on descriptio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1903.05839" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.05839</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Shiny New Method for SETI: Specular Reflections from Interplanetary ArtifactsMarch 14, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1903.05839" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.05839</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Shiny New Method for SETI: Specular Reflections from Interplanetary ArtifactsMarch 14, 2019...</p></details>
    Published: March 14, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: astronomyufo.com  
-   Link: <a href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/bigsur.htm</a>  
+   Link:<a href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/bigsur.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/hastings.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANOTHER LOOK AT THE BIG SUR INCIDENTMarch 28, 2007 — by R HASTINGS · Cited by 1 — These persons contend that the agency had only a p...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/hastings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANOTHER LOOK AT THE BIG SUR INCIDENTMarch 28, 2007 — by R HASTINGS · Cited by 1 — These persons contend that the agency had only a p...</p></details>
    Published: March 28, 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Bob Jacobs was one of the key field team membe...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Bob Jacobs was one of the key field team membe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/1993/01/the-big-sur-ufo-an-identified-hying-object/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1993/01/the-big-sur-ufo-an-identified-hying-object/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Big Sur &#x27;UFO&#x27;: An Identified Hying ObjectThe Big Sur &#x27;UFO&#x27;: An Identified Hying Object. Kingston A. George. From: Volume 17, No. 2 Wi...</p></details>
+   Link:<a href="https://skepticalinquirer.org/1993/01/the-big-sur-ufo-an-identified-hying-object/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1993/01/the-big-sur-ufo-an-identified-hying-object/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Big Sur &#x27;UFO&#x27;: An Identified Hying ObjectThe Big Sur &#x27;UFO&#x27;: An Identified Hying Object. Kingston A. George. From: Volume 17, No. 2 Wi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-15.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Atlas warhead, then direct a laser beam at it that bumped it out of the way and caused it to tumble out of orbit [sic] and miss the i...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-15.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Atlas warhead, then direct a laser beam at it that bumped it out of the way and caused it to tumble out of orbit [sic] and miss the i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Inquiry&#x27;[Buzzing Bee](&amp;#123;&amp;#123; &#x27;buzzing-bee/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — Decades later, he concocted a story that we had filmed...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Inquiry&#x27;[Buzzing Bee](&amp;#123;&amp;#123; &#x27;buzzing-bee/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — Decades later, he concocted a story that we had filmed...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: The Big Sur  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in September 1964?The bright flashes Jacobs described may have been the result of sunlight glinting off material or...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in September 1964?The bright flashes Jacobs described may have been the result of sunlight glinting off material or...</p></details>
    Published: September 1964  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/w/walk-through%2Bmetal%2Bdetectors" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/w/walk-through%2Bmetal%2Bdetectors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample records for walk-through metal detectorsThe redirection is achieved through specular reflection, making it nonresonant and arbitra...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/w/walk-through%2Bmetal%2Bdetectors" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/w/walk-through%2Bmetal%2Bdetectors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sample records for walk-through metal detectorsThe redirection is achieved through specular reflection, making it nonresonant and arbitra...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/bigsur2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/bigsur2.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deliberate Deception: The Big Sur UFO FilmingIf the tabloids were not paid off to run as many mislead- ins, bizarre stories on UFOs and U...</p></details>
+   Link:<a href="https://www.nicap.org/reports/bigsur2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/bigsur2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deliberate Deception: The Big Sur UFO FilmingIf the tabloids were not paid off to run as many mislead- ins, bizarre stories on UFOs and U...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/402236954/A-Shot-Across-the-Bow-Robert-Hastings-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/402236954/A-Shot-Across-the-Bow-Robert-Hastings-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cks of glinting sunlight, and their details would not be...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/402236954/A-Shot-Across-the-Bow-Robert-Hastings-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/402236954/A-Shot-Across-the-Bow-Robert-Hastings-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cks of glinting sunlight, and their details would not be...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1964 that captured images of a UFO shooting a test missile out of...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1964 that captured images of a UFO shooting a test missile out of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Talking Stick TV  
-   Link: <a href="http://www.youtube.com/watch?v=Zjs5HxjDimY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Zjs5HxjDimY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Big Sur&quot; UFO incident 1964 &quot;Robert Jacobs&quot; UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Zjs5HxjDimY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Zjs5HxjDimY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Big Sur&quot; UFO incident 1964 &quot;Robert Jacobs&quot; UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufohastings.com  
    Title: deep denial or disinformation  
-   Link: <a href="https://www.ufohastings.com/articles/deep-denial-or-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/deep-denial-or-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs &amp; Nukes5 May 2009 — Mansmann&#x27;s unqualified endorsement of Bob Jacobs&#x27; account of having filmed a UFO near a dummy nuclear warhead in...</p></details>
+   Link:<a href="https://www.ufohastings.com/articles/deep-denial-or-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/deep-denial-or-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs &amp; Nukes5 May 2009 — Mansmann&#x27;s unqualified endorsement of Bob Jacobs&#x27; account of having filmed a UFO near a dummy nuclear warhead in...</p></details>
    Published: May 2009  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: digital.library.unt.edu  
-   Link: <a href="https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CR9 Mar 1976 — people saw UFO approach, beam lights down which reflected off... March 19, 1966; Big Rapids, Michigan 5:20 a.m.; UFO sur...</p></details>
+   Link:<a href="https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc993849/m2/1/high_res_d/76-52SP_1976march9.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CR9 Mar 1976 — people saw UFO approach, beam lights down which reflected off... March 19, 1966; Big Rapids, Michigan 5:20 a.m.; UFO sur...</p></details>
    Published: March 19, 1966  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: yumpu.com  
    Title: A Shot Across the Bow  
-   Link: <a href="https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO Studies2 Jan 2013 — A SHOT ACROSS THE BOW: ANOTHER&lt;br /&gt;. LOOK AT THE BIG SUR INCIDENT&lt;br /&gt;. The Big Sur &lt;strong&gt;UFO&lt;/str...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO Studies2 Jan 2013 — A SHOT ACROSS THE BOW: ANOTHER&lt;br /&gt;. LOOK AT THE BIG SUR INCIDENT&lt;br /&gt;. The Big Sur &lt;strong&gt;UFO&lt;/str...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theportugalnews.com  
    Title: ufo shot down an icbm  
-   Link: <a href="https://www.theportugalnews.com/news/2022-08-23/ufo-shot-down-an-icbm/69689" target="_blank" rel="noopener noreferrer nofollow">https://www.theportugalnews.com/news/2022-08-23/ufo-shot-down-an-icbm/69689</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Aug 2022 — Dr. Jacobs&#x27; team locked the missile right at launch. The old tracking systems showed the rocket. The new massive telescope...</p></details>
+   Link:<a href="https://www.theportugalnews.com/news/2022-08-23/ufo-shot-down-an-icbm/69689" target="_blank" rel="noopener noreferrer nofollow">https://www.theportugalnews.com/news/2022-08-23/ufo-shot-down-an-icbm/69689</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Aug 2022 — Dr. Jacobs&#x27; team locked the missile right at launch. The old tracking systems showed the rocket. The new massive telescope...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: UF O attacks Nuclear Missile Warhead  
-   Link: <a href="https://www.youtube.com/watch?v=jjeJy_5WiQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjeJy_5WiQ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO attacks Nuclear Missile Warhead - The Big Sur UAP...Witnesses reported sightings of a strange of the Big Sur UFO incident to life th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jjeJy_5WiQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjeJy_5WiQ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO attacks Nuclear Missile Warhead - The Big Sur UAP...Witnesses reported sightings of a strange of the Big Sur UFO incident to life th...</p></details>

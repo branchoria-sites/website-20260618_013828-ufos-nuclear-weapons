@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-drones/
 description: Focused pages that expand on Drones.
-date: '2026-06-17'
+date: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9
 parent_title: Drones
@@ -16,7 +16,7 @@ parent_permalink: /drones/
 
 # Explore Topics in Drones
 
-The following pages expand on the main **[Drones]({{ '/drones/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Drones]({{ '/drones/' | relative_url }})** page and cover its key branches in.
 
 - [Bugey stunt]({{ '/bugey-stunt/' | relative_url }})
 - [Detection]({{ '/detection/' | relative_url }})

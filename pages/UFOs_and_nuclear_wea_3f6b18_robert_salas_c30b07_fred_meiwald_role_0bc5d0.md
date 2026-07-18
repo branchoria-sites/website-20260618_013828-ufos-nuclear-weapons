@@ -280,17 +280,17 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_fred_meiwa
 
 ## Introduction
 
-Fred Meiwald occupies an unusual place in the debate over [Robert Salas]({{ 'salas/' | relative_url }})’s claims about UFO activity at Malmstrom Air Force Base. He is not the source of the original story, nor is he an independent witness to every detail Salas later described. His importance comes from a narrower but significant role: Meiwald was the missile commander on duty with Salas, and his recollections helped establish that the disputed incident Salas remembered was associated with Oscar Flight rather than the better-documented Echo Flight shutdown. In discussions about Salas’s credibility, Meiwald therefore matters less as proof of a UFO and more as a witness whose testimony affected the identification of the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
+Fred Meiwald occupies an unusual place in the debate over [Robert Salas]({{ 'salas/' | relative_url }})’s claims about UFO activity at Malmstrom Air Force Base. He is not the source of the original story, nor is he an independent witness to every detail Salas later described. His importance comes from a narrower but significant role: Meiwald was the missile commander on duty with Salas, and his recollections helped establish that the disputed incident Salas remembered was associated with Oscar Flight rather than the better-documented Echo Flight shutdown. In discussions about Salas’s credibility, Meiwald therefore matters less as proof of a UFO and more as a witness whose testimony affected the identification of the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_fred_meiwald_role_0bc5d0-Illustration-1-dark.svg" | relative_url }}" alt="Meiwald illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_fred_meiwald_role_0bc5d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_fred_meiwald_role_0bc5d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding what Meiwald did—and did not—corroborate is essential. Supporters often cite him as confirmation that Salas was recalling a genuine Oscar Flight episode. Critics note that Meiwald’s testimony does not independently verify all aspects of Salas’s later narrative. The value of his evidence lies in this distinction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">Echo Flight UFO Incident Not Unique: Retired Col</span><span class="citation-popover-snippet">17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</span></span></span>
+Understanding what Meiwald did—and did not—corroborate is essential. Supporters often cite him as confirmation that Salas was recalling a genuine Oscar Flight episode. Critics note that Meiwald’s testimony does not independently verify all aspects of Salas’s later narrative. The value of his evidence lies in this distinction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">Echo Flight UFO Incident Not Unique: Retired Col</span><span class="citation-popover-snippet">17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</span></span></span>
 
 ## What Position Did Meiwald Hold?
 
-On the night Salas later described, Fred Meiwald was the missile combat crew commander and Salas was the deputy commander in the underground launch control capsule. Salas’s own account identifies Meiwald as the senior officer on duty during the alleged Oscar Flight incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
+On the night Salas later described, Fred Meiwald was the missile combat crew commander and Salas was the deputy commander in the underground launch control capsule. Salas’s own account identifies Meiwald as the senior officer on duty during the alleged Oscar Flight incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
 
-This position gives Meiwald particular relevance. Unlike later commentators, he was not reconstructing events from documents alone. He was one of the two officers assigned to the launch control centre during the alert period. Because the capsule crew consisted of only two officers, any effort to verify Salas’s recollections naturally led researchers and Salas himself back to Meiwald. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
+This position gives Meiwald particular relevance. Unlike later commentators, he was not reconstructing events from documents alone. He was one of the two officers assigned to the launch control centre during the alert period. Because the capsule crew consisted of only two officers, any effort to verify Salas’s recollections naturally led researchers and Salas himself back to Meiwald.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</span><span class="citation-popover-meta">Published: March 24, 1967</span></span></span>
 
 The question, however, is not merely whether Meiwald was present. It is whether his memory independently supports the same sequence of events Salas described decades later.
 
@@ -303,15 +303,15 @@ One of the most important developments in the history of Salas’s story concern
 
 ### Why the Location Became Controversial
 
-When Salas first began publicly discussing the missile shutdown in the 1990s, he associated his experience with the well-known Echo Flight malfunction of 16 March 1967. That event is documented in Air Force records and involved the simultaneous loss of alert status by ten Minuteman missiles. Later examination of duty assignments and witness accounts raised doubts that Salas had actually been on duty at Echo Flight during that shutdown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+When Salas first began publicly discussing the missile shutdown in the 1990s, he associated his experience with the well-known Echo Flight malfunction of 16 March 1967. That event is documented in Air Force records and involved the simultaneous loss of alert status by ten Minuteman missiles. Later examination of duty assignments and witness accounts raised doubts that Salas had actually been on duty at Echo Flight during that shutdown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-This created a serious credibility problem. If Salas had attached his memory to the wrong incident, critics argued that his account might be a conflation of separate events rather than an accurate recollection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+This created a serious credibility problem. If Salas had attached his memory to the wrong incident, critics argued that his account might be a conflation of separate events rather than an accurate recollection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 ### How Meiwald Became Important
 
-According to multiple accounts of the controversy, Meiwald helped establish that the event Salas remembered occurred at Oscar Flight on 24 March 1967 rather than at Echo Flight on 16 March. Researchers investigating the case found evidence that pointed to a different date and duty assignment, and Salas later consulted Meiwald regarding their crew status and location. Meiwald's recollections supported the conclusion that the two officers had been paired at Oscar Flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
+According to multiple accounts of the controversy, Meiwald helped establish that the event Salas remembered occurred at Oscar Flight on 24 March 1967 rather than at Echo Flight on 16 March. Researchers investigating the case found evidence that pointed to a different date and duty assignment, and Salas later consulted Meiwald regarding their crew status and location. Meiwald's recollections supported the conclusion that the two officers had been paired at Oscar Flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
 
-For supporters of Salas, this was an important correction rather than a contradiction. They argue that the revised identification strengthened the account because it aligned Salas’s memory with the actual crew assignment. Critics, by contrast, see the need for such a correction as evidence that the narrative evolved over time. Either way, Meiwald's contribution was central to the shift from an Echo Flight story to an Oscar Flight story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
+For supporters of Salas, this was an important correction rather than a contradiction. They argue that the revised identification strengthened the account because it aligned Salas’s memory with the actual crew assignment. Critics, by contrast, see the need for such a correction as evidence that the narrative evolved over time. Either way, Meiwald's contribution was central to the shift from an Echo Flight story to an Oscar Flight story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_fred_meiwald_role_0bc5d0-Illustration-2-dark.svg" | relative_url }}" alt="Meiwald illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_fred_meiwald_role_0bc5d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_fred_meiwald_role_0bc5d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,11 +319,11 @@ For supporters of Salas, this was an important correction rather than a contradi
 
 The strongest claim made by supporters is that Meiwald confirmed that unusual events occurred during their Oscar Flight alert and that Salas was not inventing the incident outright.
 
-Robert Hastings, a prominent researcher of UFO reports near nuclear weapons facilities, reported that Meiwald said Salas had described the Oscar Flight events “very accurately.” Hastings also presented Meiwald as supporting the existence of a UFO-related episode associated with missile problems at Oscar Flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">Echo Flight UFO Incident Not Unique: Retired Col</span><span class="citation-popover-snippet">17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</span></span></span>
+Robert Hastings, a prominent researcher of UFO reports near nuclear weapons facilities, reported that Meiwald said Salas had described the Oscar Flight events “very accurately.” Hastings also presented Meiwald as supporting the existence of a UFO-related episode associated with missile problems at Oscar Flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">Echo Flight UFO Incident Not Unique: Retired Col</span><span class="citation-popover-snippet">17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</span></span></span>
 
-From the perspective of those who accept the Oscar Flight account, this is significant because it provides testimony from the senior officer who was present in the capsule. Instead of relying solely on Salas’s memory, proponents can point to another participant who generally agreed that something unusual occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">Echo Flight UFO Incident Not Unique: Retired Col</span><span class="citation-popover-snippet">17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</span></span></span>
+From the perspective of those who accept the Oscar Flight account, this is significant because it provides testimony from the senior officer who was present in the capsule. Instead of relying solely on Salas’s memory, proponents can point to another participant who generally agreed that something unusual occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">Echo Flight UFO Incident Not Unique: Retired Col</span><span class="citation-popover-snippet">17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</span></span></span>
 
-Yet the scope of that [corroboration]({{ 'corroboration/' | relative_url }}) is narrower than it is sometimes portrayed. Available discussions of Meiwald’s statements indicate that some of the information he repeated came from reports relayed to him by security personnel rather than from his own direct observation. As with Salas, much of the UFO element depends on what guards allegedly reported rather than on what Meiwald personally saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
+Yet the scope of that [corroboration]({{ 'corroboration/' | relative_url }}) is narrower than it is sometimes portrayed. Available discussions of Meiwald’s statements indicate that some of the information he repeated came from reports relayed to him by security personnel rather than from his own direct observation. As with Salas, much of the UFO element depends on what guards allegedly reported rather than on what Meiwald personally saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u1dFrxdhBgY" title="The Night UFOs Shut Down America&#x27;s Nukes | Robert Salas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u1dFrxdhBgY" target="_blank" rel="noopener noreferrer">The Night UFOs Shut Down America&#x27;s Nukes | Robert Salas</a></p><p class="youtube-embed-meta">Channel: Danny Jones Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u1dFrxdhBgY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u1dFrxdhBgY">Open on YouTube</a></p></div></div></div>
@@ -337,9 +337,9 @@ Several limitations are frequently raised:
 * Meiwald was part of the same crew and was recalling events decades after they occurred.
 * He was not a direct visual witness to the alleged object hovering above the facility.
 * Publicly available evidence does not show that he independently documented the event at the time.
-* His recollections have largely been circulated through interviews, correspondence and UFO researchers rather than through contemporaneous military records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
+* His recollections have largely been circulated through interviews, correspondence and UFO researchers rather than through contemporaneous military records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
 
-These limitations do not automatically invalidate his testimony. Witness corroboration often matters even when memories are recorded years later. However, historians and investigators generally place greater weight on independent contemporary documentation than on mutually reinforcing recollections from participants recalling the same event many years afterward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+These limitations do not automatically invalidate his testimony. Witness corroboration often matters even when memories are recorded years later. However, historians and investigators generally place greater weight on independent contemporary documentation than on mutually reinforcing recollections from participants recalling the same event many years afterward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 This is why Meiwald's testimony occupies a middle ground in the debate. It is stronger than having only Salas’s account, because it comes from another officer who was assigned to the same launch crew. Yet it falls short of providing decisive confirmation that a UFO caused missile malfunctions.
 
@@ -348,183 +348,183 @@ This is why Meiwald's testimony occupies a middle ground in the debate. It is st
 
 ## Why Meiwald Remains Relevant
 
-Within the broader discussion of Robert Salas’s credibility, Fred Meiwald’s most important contribution is not proof of a UFO but clarification of the historical record. His recollections helped identify Oscar Flight as the location associated with Salas’s story and provided support for the claim that Salas was remembering a real incident involving their crew rather than simply borrowing the documented Echo Flight shutdown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
+Within the broader discussion of Robert Salas’s credibility, Fred Meiwald’s most important contribution is not proof of a UFO but clarification of the historical record. His recollections helped identify Oscar Flight as the location associated with Salas’s story and provided support for the claim that Salas was remembering a real incident involving their crew rather than simply borrowing the documented Echo Flight shutdown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert3.blogspot.com">[timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert3.blogspot.com</span><span class="citation-popover-snippet">Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</span></span></span>
 
-At the same time, Meiwald’s testimony does not resolve the larger dispute over what actually happened. It strengthens the case that Salas was referring to an Oscar Flight event involving their crew, but it does not independently establish every element of the UFO narrative. For that reason, Meiwald is best understood as a corroborating witness to the existence and location of the episode, not as a conclusive witness to its ultimate cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com+2timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">Echo Flight UFO Incident Not Unique: Retired Col</span><span class="citation-popover-snippet">17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</span></span></span>
+At the same time, Meiwald’s testimony does not resolve the larger dispute over what actually happened. It strengthens the case that Salas was referring to an Oscar Flight event involving their crew, but it does not independently establish every element of the UFO narrative. For that reason, Meiwald is best understood as a corroborating witness to the existence and location of the episode, not as a conclusive witness to its ultimate cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com+2timhebert3.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">Echo Flight UFO Incident Not Unique: Retired Col</span><span class="citation-popover-snippet">17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Fred Meiwald Add to the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Fred Meiwald Add to the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Explores witness corroboration, military testimony, and evidentiary debates similar to those surrounding Meiwald&#x27;s role.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores witness corroboration, military testimony, and evidentiary debates similar to those surrounding Meiwald&#x27;s role.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers historical context for assessing UFO reports, witness credibility, and competing interpretations of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers historical context for assessing UFO reports, witness credibility, and competing interpretations of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating witness testimony and corroboration claims in UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating witness testimony and corroboration claims in UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly covers nuclear missile incidents, witness testimony, and the broader context surrounding Salas, Meiwald, and Malmstrom discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers nuclear missile incidents, witness testimony, and the broader context surrounding Salas, Meiwald, and Malmstrom discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift"><img src="{{ '/assets/images/marketplace-covers/cb805875adbedc804d3a.jpg' | relative_url }}" alt="Listing image for Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Space Alien Abduction UFO Metal Wall Art, Funny UFO Metal Sign Home Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO metal sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO metal sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+metal+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO metal sign" data-ebay-reference="meiwald-what-did-fred-meiwald-add-to-the-story-ufos-and-nuclear-weapons-ufo-metal-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ At the same time, Meiwald’s testimony does not resolve the larger dispute over
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ At the same time, Meiwald’s testimony does not resolve the larger dispute over
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ At the same time, Meiwald’s testimony does not resolve the larger dispute over
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ At the same time, Meiwald’s testimony does not resolve the larger dispute over
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ At the same time, Meiwald’s testimony does not resolve the larger dispute over
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,93 +730,93 @@ At the same time, Meiwald’s testimony does not resolve the larger dispute over
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: timhebert3.blogspot.com  
-   Link: <a href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow">https://timhebert3.blogspot.com/?m=0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</p></details>
+   Link:<a href="https://timhebert3.blogspot.com/?m=0" target="_blank" rel="noopener noreferrer nofollow">https://timhebert3.blogspot.com/?m=0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oscar Flight: A Mysterious UFO Tale That Never Was...30 Jan 2014 — Fred Meiwald would set the location of their alert at Oscar Flight...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theufochronicles.com  
    Title: Echo Flight UFO Incident Not Unique: Retired Col  
-   Link: <a href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2011/06/echo-flight-ufo-incident-not-unique.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2011 — Meiwald, who told me that Salas has reported the UFO-related events at Oscar Flight “very accurately.” During the incident...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: kevinrandle.blogspot.com  
    Title: robert salas and me  
-   Link: <a href="https://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Robert Salas and Me19 May 2013 — Of course, there was a series of UFO sightings near Belt, Montana on the day th...</p></details>
+   Link:<a href="https://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Robert Salas and Me19 May 2013 — Of course, there was a series of UFO sightings near Belt, Montana on the day th...</p></details>
    Published: May 2013  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theufochronicles.com  
    Title: echooscar witch hunt  
-   Link: <a href="https://www.theufochronicles.com/2010/09/echooscar-witch-hunt.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2010/09/echooscar-witch-hunt.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Echo/Oscar Witch Hunt26 Sept 2010 — Credible testimony relating to the incident indicates that all of the flight&#x27;s Minuteman missiles...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2010/09/echooscar-witch-hunt.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2010/09/echooscar-witch-hunt.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Echo/Oscar Witch Hunt26 Sept 2010 — Credible testimony relating to the incident indicates that all of the flight&#x27;s Minuteman missiles...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: usafaclasses.org  
-   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</p></details>
+   Link:<a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAFA ClassesBob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were j...</p></details>
    Published: March 24, 1967  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Airmen to Govt.: Come Clean on UFOsBut Salas said it&#x27;s a &quot;falsehood&quot; that UFOs are not a national security threat and claims he sp...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Airmen to Govt.: Come Clean on UFOsBut Salas said it&#x27;s a &quot;falsehood&quot; that UFOs are not a national security threat and claims he sp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/203412665109/posts/10164649887465110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203412665109/posts/10164649887465110/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Was anyone there when the UFOs shut down all the sites, I think in 69? I was, we were on our way to a job when Job Control called and...</p></details>
+   Link:<a href="https://www.facebook.com/groups/203412665109/posts/10164649887465110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203412665109/posts/10164649887465110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was anyone there when the UFOs shut down all the sites, I think in 69? I was, we were on our way to a job when Job Control called and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: Robert Salas's #UFO story begins as the best ones always do  
-   Link: <a href="https://www.facebook.com/coffeeordiemag/posts/robert-salass-ufo-story-begins-as-the-best-ones-always-do-on-night-shift-working/3980723115486904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coffeeordiemag/posts/robert-salass-ufo-story-begins-as-the-best-ones-always-do-on-night-shift-working/3980723115486904/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 24 1967 Captain Robert Salas USAF (Ret.) was a missile launch officer at Malmstrom AFB in Montana Echo Flight. He and his launch...</p></details>
+   Link:<a href="https://www.facebook.com/coffeeordiemag/posts/robert-salass-ufo-story-begins-as-the-best-ones-always-do-on-night-shift-working/3980723115486904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coffeeordiemag/posts/robert-salass-ufo-story-begins-as-the-best-ones-always-do-on-night-shift-working/3980723115486904/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 24 1967 Captain Robert Salas USAF (Ret.) was a missile launch officer at Malmstrom AFB in Montana Echo Flight. He and his launch...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: meer.com  
    Title: 75269 curse of the malmstrom nuclear ufo incident 1967  
-   Link: <a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
+   Link:<a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t of Echo Flight, was Lieutenant Robert Salas (who has since become a...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t of Echo Flight, was Lieutenant Robert Salas (who has since become a...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — [military witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) do present potential safety of flight concerns, and there ar...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — [military witnesses](&amp;#123;&amp;#123; &#x27;witnesses/&#x27; | relative_url &amp;#125;&amp;#125;) do present potential safety of flight concerns, and there ar...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jasoncolavito.com  
    Title: unexplained files tells us to fear nuclear obsessed ufos  
-   Link: <a href="https://www.jasoncolavito.com/blog/unexplained-files-tells-us-to-fear-nuclear-obsessed-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/unexplained-files-tells-us-to-fear-nuclear-obsessed-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Walter Figel, and Col. Frederick Meiwald) have confirmed bona fide UFO activity during the missile shutdowns. My...Read more...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/blog/unexplained-files-tells-us-to-fear-nuclear-obsessed-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/unexplained-files-tells-us-to-fear-nuclear-obsessed-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walter Figel, and Col. Frederick Meiwald) have confirmed bona fide UFO activity during the missile shutdowns. My...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/11rwli7/march_24_2023_is_the_56th_anniversary_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11rwli7/march_24_2023_is_the_56th_anniversary_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2023 is the 56th anniversary of the Shutdown...This video includes the audio recording of Colonel Fred Meiwald&#x27;s testimony to...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/11rwli7/march_24_2023_is_the_56th_anniversary_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/11rwli7/march_24_2023_is_the_56th_anniversary_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2023 is the 56th anniversary of the Shutdown...This video includes the audio recording of Colonel Fred Meiwald&#x27;s testimony to...</p></details>
    Published: March 24, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/130272506/Hoaxes-Involving-Military-Incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/130272506/Hoaxes-Involving-Military-Incidents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uring OSCAR Flight Missile Malfunctions&quot;. Retrieved 30...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/130272506/Hoaxes-Involving-Military-Incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/130272506/Hoaxes-Involving-Military-Incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uring OSCAR Flight Missile Malfunctions&quot;. Retrieved 30...Read more...</p></details>

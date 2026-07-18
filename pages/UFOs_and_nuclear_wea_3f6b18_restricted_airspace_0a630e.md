@@ -482,17 +482,17 @@ Restricted airspace changes the UFO-and-nuclear-weapons question from “what wa
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e-overview.webp" | relative_url }}" alt="Overview image for Airspace" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because many modern “UFO” reports near sensitive sites may be [drones]({{ 'drones/' | relative_url }}), balloons, aircraft, sensor artefacts or [misidentified lights]({{ 'misidentification/' | relative_url }}), yet the risk is still real. The US Nuclear Regulatory Commission now requires nuclear power plant licensees to report drone sightings over their facilities, and those reports go to the NRC, the Federal Aviation Administration, the FBI and local law enforcement. The NRC also stresses a key boundary: nuclear plant security forces do not themselves have authority to interdict or shoot down aircraft, including drones, over their facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span></span></span>
+That distinction matters because many modern “UFO” reports near sensitive sites may be [drones]({{ 'drones/' | relative_url }}), balloons, aircraft, sensor artefacts or [misidentified lights]({{ 'misidentification/' | relative_url }}), yet the risk is still real. The US Nuclear Regulatory Commission now requires nuclear power plant licensees to report drone sightings over their facilities, and those reports go to the NRC, the Federal Aviation Administration, the FBI and local law enforcement. The NRC also stresses a key boundary: nuclear plant security forces do not themselves have authority to interdict or shoot down aircraft, including drones, over their facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span></span></span>
 
 ## Restricted Airspace Is a Warning System, Not a Force Field
 
 Restricted airspace is often misunderstood as a physical shield. It is not. It is a legal and operational boundary that tells pilots, drone operators, air traffic controllers and security agencies that entry is limited, prohibited or conditional. Its first value is prevention: making lawful operators stay away. Its second value is triage: when something enters anyway, responders know the event deserves attention.
 
-In the United States, one important tool is the FAA’s use of special security instructions under 14 CFR section 99.7. The FAA may issue such instructions, in consultation with the Department of Defense or other federal security or intelligence agencies, for situations judged detrimental to national defence. The rule requires aircraft operators in specified defence-related airspace to comply with national-security instructions issued by the FAA under agreement with defence, security or intelligence agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Open source on faa.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.cornell.edu/cfr/text/14/99.7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute14 CFR § 99.7</span><span class="citation-popover-snippet">Special security instructions. &#124; Electronic Code of Federal Regulations (e-CFR) &#124; US Law &#124; LII / Legal Information Institute...</span></span></span>
+In the United States, one important tool is the FAA’s use of special security instructions under 14 CFR section 99.7. The FAA may issue such instructions, in consultation with the Department of Defense or other federal security or intelligence agencies, for situations judged detrimental to national defence. The rule requires aircraft operators in specified defence-related airspace to comply with national-security instructions issued by the FAA under agreement with defence, security or intelligence agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Open source on faa.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.cornell.edu/cfr/text/14/99.7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute14 CFR § 99.7</span><span class="citation-popover-snippet">Special security instructions. &#124; Electronic Code of Federal Regulations (e-CFR) &#124; US Law &#124; LII / Legal Information Institute...</span></span></span>
 
-For drones, the FAA states that operations are prohibited from the surface up to 400 feet above ground level over designated national security sensitive facilities, including some military bases, national landmarks and certain critical infrastructure such as nuclear power plants. This restriction applies to all types and purposes of uncrewed aircraft flight operations, not only commercial drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Open source on faa.gov.</span></span></span>
+For drones, the FAA states that operations are prohibited from the surface up to 400 feet above ground level over designated national security sensitive facilities, including some military bases, national landmarks and certain critical infrastructure such as nuclear power plants. This restriction applies to all types and purposes of uncrewed aircraft flight operations, not only commercial drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Open source on faa.gov.</span></span></span>
 
-The UK uses a similar logic, though through its own aviation law. The Civil Aviation Authority explains that the Secretary of State can prohibit, restrict or impose conditions on civil aircraft in UK airspace where necessary in the public interest, with restrictions taking the form of prohibited, restricted or danger areas. Requests for access to permanent prohibited and restricted areas are handled through exemption processes, and temporary restrictions can be publicised through notices to airmen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Airspace restrictions &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">Civil Aviation Authority Airspace restrictions &#124; UK Civil Aviation Authority</span></span></span> Around nuclear installations specifically, UK restrictions have applied to defined radii and altitude limits around listed sites; a parliamentary answer described restricted airspace around nuclear licensed sites as typically extending from 0.5 to 2 miles and from 1,000 to 2,400 feet, with unauthorised flight in the vicinity of nuclear sites treated as a criminal offence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2015-12-15/20272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentUnmanned Air Systems: Nuclear Installations15 Dec 2015 — These impose restricted airspace of a radius between 0.5 and 2 mile...</span></span></span>
+The UK uses a similar logic, though through its own aviation law. The Civil Aviation Authority explains that the Secretary of State can prohibit, restrict or impose conditions on civil aircraft in UK airspace where necessary in the public interest, with restrictions taking the form of prohibited, restricted or danger areas. Requests for access to permanent prohibited and restricted areas are handled through exemption processes, and temporary restrictions can be publicised through notices to airmen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Airspace restrictions &#124; UK Civil Aviation Authority</span><span class="citation-popover-snippet">Civil Aviation Authority Airspace restrictions &#124; UK Civil Aviation Authority</span></span></span> Around nuclear installations specifically, UK restrictions have applied to defined radii and altitude limits around listed sites; a parliamentary answer described restricted airspace around nuclear licensed sites as typically extending from 0.5 to 2 miles and from 1,000 to 2,400 feet, with unauthorised flight in the vicinity of nuclear sites treated as a criminal offence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://questions-statements.parliament.uk/written-questions/detail/2015-12-15/20272" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: questions-statements.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">questions-statements.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentUnmanned Air Systems: Nuclear Installations15 Dec 2015 — These impose restricted airspace of a radius between 0.5 and 2 mile...</span></span></span>
 
 The security lesson is simple: restricted airspace does not prove that an intruder is exotic, but it does raise the response threshold. A light in ordinary sky may be logged as an aviation oddity. The same light crossing a protected nuclear perimeter must be treated as a possible surveillance, safety, smuggling, protest, sabotage or intelligence event until evidence narrows the explanation.
 
@@ -516,7 +516,7 @@ A nuclear-linked site should not begin by asking whether an unknown object is a 
 
 This is where modern drone incidents have sharpened the old UFO debate. In older nuclear-UFO cases, accounts often turn on witness recollection, fragmentary records and later interpretation. In contemporary incidents, the practical problem is more immediate: small uncrewed aircraft may be too low, slow or numerous for traditional air-defence systems, yet too legally sensitive for ad hoc kinetic response.
 
-The NRC’s fact sheet captures this implementation tension. It says nuclear plants are hardened, maintain armed security forces, physical barriers, intrusion detection and surveillance systems, and are regulated against design-basis threats. But it also says plant security forces do not have authority to shoot down or interdict aircraft, including drones. That means the right response is not simply “take it down”; it is coordinated [reporting]({{ 'reporting/' | relative_url }}), law enforcement involvement and evidence-led threat assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span></span></span>
+The NRC’s fact sheet captures this implementation tension. It says nuclear plants are hardened, maintain armed security forces, physical barriers, intrusion detection and surveillance systems, and are regulated against design-basis threats. But it also says plant security forces do not have authority to shoot down or interdict aircraft, including drones. That means the right response is not simply “take it down”; it is coordinated [reporting]({{ 'reporting/' | relative_url }}), law enforcement involvement and evidence-led threat assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yY-iebpKygk" title="Pentagon&#x27;s new UFO files show no evidence of aliens found" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s new UFO files show no evidence of aliens found</a></p><p class="youtube-embed-meta">Channel: 13WHAM ABC News &middot; Views: 27.0K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yY-iebpKygk">Open on YouTube</a></p></div></div></div>
@@ -525,11 +525,11 @@ The NRC’s fact sheet captures this implementation tension. It says nuclear pla
 
 A good escalation system has more than one lane. Unknown aerial activity near a nuclear site may need immediate safety action, criminal investigation, intelligence review and later UAP analysis, but those functions should not be collapsed into one sensational category.
 
-For civil nuclear plants in the United States, the reporting path is now explicit for drones: licensees report sightings to the NRC, FAA, FBI and local law enforcement. That arrangement recognises that a drone over a nuclear plant is simultaneously an aviation issue, a nuclear-security issue, a possible federal crime and a local policing matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span></span></span>
+For civil nuclear plants in the United States, the reporting path is now explicit for drones: licensees report sightings to the NRC, FAA, FBI and local law enforcement. That arrangement recognises that a drone over a nuclear plant is simultaneously an aviation issue, a nuclear-security issue, a possible federal crime and a local policing matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span></span></span>
 
-For military UAP reporting, the All-domain Anomaly Resolution Office, known as AARO, is the US government body tasked with detection, identification and mitigation of unidentified anomalous phenomena near national security areas, in coordination with the intelligence community. The Department of Defense said in 2024 that AARO had received 757 reports for the May 2023 to June 2024 reporting period and previous unreported incidents, while also noting that many resolved cases turned out to be ordinary objects such as balloons, birds, drones, satellites and aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
+For military UAP reporting, the All-domain Anomaly Resolution Office, known as AARO, is the US government body tasked with detection, identification and mitigation of unidentified anomalous phenomena near national security areas, in coordination with the intelligence community. The Department of Defense said in 2024 that AARO had received 757 reports for the May 2023 to June 2024 reporting period and previous unreported incidents, while also noting that many resolved cases turned out to be ordinary objects such as balloons, birds, drones, satellites and aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
 
-That same 2024 Defence Department discussion is useful because it holds two ideas together. It says unidentified objects near national security sites must be treated seriously and investigated rigorously, but it also states that AARO had found no verifiable evidence of extraterrestrial beings, activity or technology, and that resolved cases had not pointed to breakthrough technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
+That same 2024 Defence Department discussion is useful because it holds two ideas together. It says unidentified objects near national security sites must be treated seriously and investigated rigorously, but it also states that AARO had found no verifiable evidence of extraterrestrial beings, activity or technology, and that resolved cases had not pointed to breakthrough technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
 
 For a base commander or site security manager, the implication is practical: do not wait for a philosophical answer before acting. An event can be escalated as a restricted-airspace violation, a safety hazard or a suspected surveillance incident without claiming it is alien. Conversely, calling something a UAP should not downgrade the response into folklore. The label should trigger better data collection, not looser reasoning.
 
@@ -539,11 +539,11 @@ For a base commander or site security manager, the implication is practical: do 
 
 The safest response posture is neither ridicule nor panic. It is a structured sequence that protects the site while preserving the possibility of ordinary explanations.
 
-First, the site should **stabilise operations**. That may mean pausing exposed work, moving personnel away from vulnerable areas, sheltering key teams, notifying air traffic control, restricting vehicle movement or protecting aircraft and sensitive equipment. A 2026 official Air Force clarification on Barksdale Air Force Base said the base experienced several unauthorised drone incursions beginning on 9 March 2026; leadership issued a shelter-in-place order out of caution after the initial event, lifted it the same morning, and said operations continued while the incident remained under federal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirtland.af.mil">[Kirtland Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirtland.af.mil</span><span class="citation-popover-title">Kirtland Air Force Base FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Kirtland Air Force BaseFACT CHECK: Barksdale Drone IncursionMarch 31, 2026 — 31 Mar 2026 — To clear up inaccurate and incomplete reportin...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+First, the site should **stabilise operations**. That may mean pausing exposed work, moving personnel away from vulnerable areas, sheltering key teams, notifying air traffic control, restricting vehicle movement or protecting aircraft and sensitive equipment. A 2026 official Air Force clarification on Barksdale Air Force Base said the base experienced several unauthorised drone incursions beginning on 9 March 2026; leadership issued a shelter-in-place order out of caution after the initial event, lifted it the same morning, and said operations continued while the incident remained under federal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirtland.af.mil">[Kirtland Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirtland.af.mil</span><span class="citation-popover-title">Kirtland Air Force Base FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Kirtland Air Force BaseFACT CHECK: Barksdale Drone IncursionMarch 31, 2026 — 31 Mar 2026 — To clear up inaccurate and incomplete reportin...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
-Second, the site should **collect evidence before it degrades**. [Security logs]({{ 'security-logs/' | relative_url }}), tower communications, radar data, access-control records, CCTV footage, radio-frequency detections, witness statements and mobile-phone images all have value. The goal is not to produce a dramatic narrative, but to make later identification possible. AARO has highlighted a recurring problem in UAP work: many reports lack enough scientific data for analysis, leaving cases in active archives until better information emerges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
+Second, the site should **collect evidence before it degrades**. [Security logs]({{ 'security-logs/' | relative_url }}), tower communications, radar data, access-control records, CCTV footage, radio-frequency detections, witness statements and mobile-phone images all have value. The goal is not to produce a dramatic narrative, but to make later identification possible. AARO has highlighted a recurring problem in UAP work: many reports lack enough scientific data for analysis, leaving cases in active archives until better information emerges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
 
-Third, responders should **avoid unlicensed countermeasures**. Jamming, spoofing, capture systems and kinetic defeat can create aviation hazards, interfere with communications or exceed a site’s legal authority. This is especially important around nuclear facilities, where an improvised response can be more dangerous than the observed object. The NRC’s position that plant security forces lack authority to interdict or shoot down aircraft is a reminder that defensive seriousness must operate inside the law. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span></span></span>
+Third, responders should **avoid unlicensed countermeasures**. Jamming, spoofing, capture systems and kinetic defeat can create aviation hazards, interfere with communications or exceed a site’s legal authority. This is especially important around nuclear facilities, where an improvised response can be more dangerous than the observed object. The NRC’s position that plant security forces lack authority to interdict or shoot down aircraft is a reminder that defensive seriousness must operate inside the law.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security &#124; Nuclear Regulatory Commission</span></span></span>
 
 Fourth, agencies should **classify the event by behaviour, not mythology**. A single drifting object, a swarm moving across a flight line, a repeated night-time pattern, an object near a weapons storage area and a sensor-only anomaly should not all be treated alike. The most useful categories are operational: accidental incursion, careless hobbyist, authorised but poorly communicated flight, criminal activity, protest, hostile surveillance, foreign intelligence collection, sensor error, natural phenomenon or unresolved UAP.
 
@@ -556,11 +556,11 @@ This approach keeps the nuclear-UFO issue grounded. It accepts that unknown acti
 
 Recent incidents at military sites show why restricted-airspace response has become more urgent. They are not proof of alien involvement, but they demonstrate the exact implementation challenge that older UFO cases raised in a less instrumented era: unknown objects can appear near highly sensitive assets, remain difficult to identify in real time, and force commanders to choose between continuity of operations and caution.
 
-At Barksdale Air Force Base in Louisiana, a key US strategic bomber base, official statements in March 2026 confirmed multiple unauthorised drone incursions. Reporting citing a base statement said Barksdale detected unauthorised drones operating in its airspace during the week of 9 March, and that flying a drone over a military installation is both a safety issue and a federal criminal offence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentLarge number of &#x27;unidentified drones&#x27; spotted over base...March 20, 2026 — 20 Mar 2026 — “Barksdale Air Force Base detect...</span><span class="citation-popover-meta">Published: March 20, 2026</span></span></span> The base later clarified that the incursions varied in duration and number, that a short shelter-in-place order followed the initial event, and that the matter was under active federal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirtland.af.mil">[Kirtland Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirtland.af.mil</span><span class="citation-popover-title">Kirtland Air Force Base FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Kirtland Air Force BaseFACT CHECK: Barksdale Drone IncursionMarch 31, 2026 — 31 Mar 2026 — To clear up inaccurate and incomplete reportin...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
+At Barksdale Air Force Base in Louisiana, a key US strategic bomber base, official statements in March 2026 confirmed multiple unauthorised drone incursions. Reporting citing a base statement said Barksdale detected unauthorised drones operating in its airspace during the week of 9 March, and that flying a drone over a military installation is both a safety issue and a federal criminal offence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentLarge number of &#x27;unidentified drones&#x27; spotted over base...March 20, 2026 — 20 Mar 2026 — “Barksdale Air Force Base detect...</span><span class="citation-popover-meta">Published: March 20, 2026</span></span></span> The base later clarified that the incursions varied in duration and number, that a short shelter-in-place order followed the initial event, and that the matter was under active federal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirtland.af.mil">[Kirtland Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirtland.af.mil</span><span class="citation-popover-title">Kirtland Air Force Base FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Kirtland Air Force BaseFACT CHECK: Barksdale Drone IncursionMarch 31, 2026 — 31 Mar 2026 — To clear up inaccurate and incomplete reportin...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
-At Wright-Patterson Air Force Base in Ohio, drones reportedly forced a roughly four-hour airspace closure in December 2024. A base spokesperson said the drones varied in size, did not affect base facilities, and represented the first reported sightings of that kind at the installation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Mysterious drone sightings shut down one of the largest</span><span class="citation-popover-snippet">News Mysterious drone sightings shut down one of the largest</span></span></span>
+At Wright-Patterson Air Force Base in Ohio, drones reportedly forced a roughly four-hour airspace closure in December 2024. A base spokesperson said the drones varied in size, did not affect base facilities, and represented the first reported sightings of that kind at the installation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Mysterious drone sightings shut down one of the largest</span><span class="citation-popover-snippet">News Mysterious drone sightings shut down one of the largest</span></span></span>
 
-In the UK, small uncrewed systems were spotted near and over RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford from 20 November 2024, according to a US Air Forces in Europe statement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Forces Africa Statement on Installation Security in the</span><span class="citation-popover-snippet">Air Forces Africa Statement on Installation Security in the</span></span></span> Reuters reported that unidentified drones were seen over US Air Force bases in England across several days, while the UK Ministry of Defence said it took threats seriously and was supporting the US response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US Air Force says drones spotted over its military bases in England</span><span class="citation-popover-snippet">US Air Force says drones spotted over its military bases in England</span></span></span>
+In the UK, small uncrewed systems were spotted near and over RAF Lakenheath, RAF Mildenhall, RAF Feltwell and RAF Fairford from 20 November 2024, according to a US Air Forces in Europe statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafe.af.mil/News/Press-Releases/Display/Article/3976904/us-air-forces-in-europe-air-forces-africa-statement-on-installation-security-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[usafe.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Forces Africa Statement on Installation Security in the</span><span class="citation-popover-snippet">Air Forces Africa Statement on Installation Security in the</span></span></span> Reuters reported that unidentified drones were seen over US Air Force bases in England across several days, while the UK Ministry of Defence said it took threats seriously and was supporting the US response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US Air Force says drones spotted over its military bases in England</span><span class="citation-popover-snippet">US Air Force says drones spotted over its military bases in England</span></span></span>
 
 These cases matter for the nuclear-weapons context because several affected installations are part of wider strategic or high-security military infrastructure, even where governments do not confirm specific weapons details. The responsible inference is not “UFOs are targeting nuclear weapons”. It is that nuclear-relevant and strategic sites need airspace security systems built for small, ambiguous, legally complicated objects.
 
@@ -568,11 +568,11 @@ These cases matter for the nuclear-weapons context because several affected inst
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e-Illustration-3-dark.svg" | relative_url }}" alt="Airspace illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UK Nuclear Picture Shows the Value of Careful Record-Keeping
 
-The United Kingdom provides a useful caution against overstating the record. In a 2026 Freedom of Information response, the Office for Nuclear Regulation said it did not hold the requested information on unexplained aerial or airspace incidents near UK regulated nuclear sites since 1 January 2010. It said it had searched internal systems and had not identified incidents where the cause of reported aerial activity was unidentified, adding that its understanding was that no such incidents had been recorded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.org.uk/publications/corporate-publications/foi-releases/2026/02/unexplained-airspace-or-aerial-incidents-near-regulated-nuclear-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.org.uk">[Office for Nuclear Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.org.uk</span><span class="citation-popover-snippet">Open source on onr.org.uk.</span></span></span>
+The United Kingdom provides a useful caution against overstating the record. In a 2026 Freedom of Information response, the Office for Nuclear Regulation said it did not hold the requested information on unexplained aerial or airspace incidents near UK regulated nuclear sites since 1 January 2010. It said it had searched internal systems and had not identified incidents where the cause of reported aerial activity was unidentified, adding that its understanding was that no such incidents had been recorded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.onr.org.uk/publications/corporate-publications/foi-releases/2026/02/unexplained-airspace-or-aerial-incidents-near-regulated-nuclear-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onr.org.uk">[Office for Nuclear Regulation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onr.org.uk</span><span class="citation-popover-snippet">Open source on onr.org.uk.</span></span></span>
 
 That does not prove no unusual activity ever occurred near any UK nuclear site. It tells us something narrower but important: at least for that ONR request and the categories searched, the regulator did not hold records of unidentified aerial incidents. For readers of UFO-and-nuclear claims, this is a useful distinction. Absence of a regulator-held record is not absolute proof of absence; but it is a warning against treating scattered claims, rumours or social-media posts as equivalent to official incident records.
 
-At the same time, drone incidents near UK defence sites have increased. Reuters reported in February 2026 that UK military bases recorded 266 uncrewed aerial vehicle incidents near defence sites in 2025, up from 126 in 2024, and that the government was giving military officers expanded powers to destroy drones operating near bases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Drone incidents at UK military bases doubled last year &#124; Reuters</span><span class="citation-popover-snippet">Drone incidents at UK military bases doubled last year &#124; Reuters</span></span></span> That is a defence-site trend, not a civil nuclear-site UFO finding, but it explains why the response environment is changing.
+At the same time, drone incidents near UK defence sites have increased. Reuters reported in February 2026 that UK military bases recorded 266 uncrewed aerial vehicle incidents near defence sites in 2025, up from 126 in 2024, and that the government was giving military officers expanded powers to destroy drones operating near bases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Drone incidents at UK military bases doubled last year &#124; Reuters</span><span class="citation-popover-snippet">Drone incidents at UK military bases doubled last year &#124; Reuters</span></span></span> That is a defence-site trend, not a civil nuclear-site UFO finding, but it explains why the response environment is changing.
 
 The lesson for nuclear facilities is that record architecture matters. A site may have security logs, aviation notifications, police records, regulator reports and intelligence channels that do not automatically merge. Without consistent definitions and retention, later investigators can be left arguing over whether “nothing happened”, “nothing was identified”, or “nothing was recorded in the place searched”.
 
@@ -620,194 +620,194 @@ The current evidence points to a sober answer. Unidentified or unauthorised acti
 The strongest response is not to assume aliens, and not to assume harmlessness. It is to treat restricted airspace as a decision trigger: protect the site, preserve the evidence, involve the right authorities and let the explanation follow the data.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Should Bases Handle Unknown Objects?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Should Bases Handle Unknown Objects?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Covers aerospace security, classified projects, and airspace issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers aerospace security, classified projects, and airspace issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines how governments respond to unusual aerospace activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how governments respond to unusual aerospace activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Touches on aerospace secrecy and unusual flight claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Touches on aerospace secrecy and unusual flight claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses official investigation and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses official investigation and classification of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s."><img src="{{ '/assets/images/marketplace-covers/9b0ed8c5489bffe4f8e8.jpg' | relative_url }}" alt="Listing image for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s."><img src="{{ '/assets/images/marketplace-covers/9b0ed8c5489bffe4f8e8.jpg' | relative_url }}" alt="Listing image for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set"><img src="{{ '/assets/images/marketplace-covers/9275acdcda4f45050c56.jpg' | relative_url }}" alt="Listing image for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set"><img src="{{ '/assets/images/marketplace-covers/9275acdcda4f45050c56.jpg' | relative_url }}" alt="Listing image for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Army style Patches Badges Iron On Sew On"><img src="{{ '/assets/images/marketplace-covers/00f8e02be3749ec22364.jpg' | relative_url }}" alt="Listing image for Military Army style Patches Badges Iron On Sew On" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Military Army style Patches Badges Iron On Sew On</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Army style Patches Badges Iron On Sew On"><img src="{{ '/assets/images/marketplace-covers/00f8e02be3749ec22364.jpg' | relative_url }}" alt="Listing image for Military Army style Patches Badges Iron On Sew On" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Military Army style Patches Badges Iron On Sew On</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique"><img src="{{ '/assets/images/marketplace-covers/f9b15aa68b812b6fe3ce.jpg' | relative_url }}" alt="Listing image for United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique"><img src="{{ '/assets/images/marketplace-covers/f9b15aa68b812b6fe3ce.jpg' | relative_url }}" alt="Listing image for United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">United States Air Force Patch Iron Sew On Embroidered Badge US Military Applique</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="airspace-how-should-bases-handle-unknown-objects-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -823,7 +823,7 @@ The strongest response is not to assume aliens, and not to assume harmlessness. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -843,7 +843,7 @@ The strongest response is not to assume aliens, and not to assume harmlessness. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -875,7 +875,7 @@ The strongest response is not to assume aliens, and not to assume harmlessness. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -927,7 +927,7 @@ The strongest response is not to assume aliens, and not to assume harmlessness. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -972,7 +972,7 @@ The strongest response is not to assume aliens, and not to assume harmlessness. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1013,337 +1013,337 @@ The strongest response is not to assume aliens, and not to assume harmlessness. 
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/critical_infrastructure</a>  
+   Link:<a href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/critical_infrastructure</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2015-12-15/20272" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2015-12-15/20272</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentUnmanned Air Systems: Nuclear Installations15 Dec 2015 — These impose restricted airspace of a radius between 0.5 and 2 mile...</p></details>
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2015-12-15/20272" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2015-12-15/20272</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentUnmanned Air Systems: Nuclear Installations15 Dec 2015 — These impose restricted airspace of a radius between 0.5 and 2 mile...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.sky.com  
    Title: News Mysterious drone sightings shut down one of the largest  
-   Link: <a href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051</a>  
+   Link:<a href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: US Air Force says drones spotted over its military bases in England  
-   Link: <a href="https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/</a>  
+   Link:<a href="https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us-air-force-says-drones-spotted-over-its-military-bases-england-2024-11-26/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: Drone incidents at UK military bases doubled last year | Reuters  
-   Link: <a href="https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/</a>  
+   Link:<a href="https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/pilots/safety/notams_tfr/tfrweb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/pilots/safety/notams_tfr/tfrweb.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/pilots/safety/notams_tfr/tfrweb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/pilots/safety/notams_tfr/tfrweb.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
    Title: Restricting Drones Near Critical Infrastructure Sites  
-   Link: <a href="https://www.faa.gov/newsroom/restricting-drones-near-critical-infrastructure-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/restricting-drones-near-critical-infrastructure-sites</a>  
+   Link:<a href="https://www.faa.gov/newsroom/restricting-drones-near-critical-infrastructure-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/restricting-drones-near-critical-infrastructure-sites</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/ntap_aug_18/part1_Section3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/ntap_aug_18/part1_Section3.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/ntap_aug_18/part1_Section3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/ntap_aug_18/part1_Section3.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faa.gov  
    Title: UAS Detection Mitigation Systems ARC Final Report 02052024  
-   Link: <a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap2_section_1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap2_section_1.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: faa.gov  
    Title: UAS ID ARC Final Report with Appendices  
-   Link: <a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS%20ID%20ARC%20Final%20Report%20with%20Appendices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS%20ID%20ARC%20Final%20Report%20with%20Appendices.pdf</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS%20ID%20ARC%20Final%20Report%20with%20Appendices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS%20ID%20ARC%20Final%20Report%20with%20Appendices.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/us_restrictions/procedures" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/us_restrictions/procedures</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/us_restrictions/procedures" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/us_restrictions/procedures</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_2.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_2.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: faa.gov  
    Title: Second Edition Integration of Civil UAS NAS Roadmap July%202018  
-   Link: <a href="https://www.faa.gov/sites/faa.gov/files/uas/resources/policy_library/Second_Edition_Integration_of_Civil_UAS_NAS_Roadmap_July%25202018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/uas/resources/policy_library/Second_Edition_Integration_of_Civil_UAS_NAS_Roadmap_July%25202018.pdf</a>  
+   Link:<a href="https://www.faa.gov/sites/faa.gov/files/uas/resources/policy_library/Second_Edition_Integration_of_Civil_UAS_NAS_Roadmap_July%25202018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/uas/resources/policy_library/Second_Edition_Integration_of_Civil_UAS_NAS_Roadmap_July%25202018.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: faa.gov  
    Title: establishes restrictions drone operations over additional military facilities  
-   Link: <a href="https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities</a>  
+   Link:<a href="https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: faa.gov  
    Title: 7210.3EE Chg 2 dtd 1 22 26 Final  
-   Link: <a href="https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/7210.3EE_Chg_2_dtd_1-22-26_Final.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap2_section_1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap2_section_1.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: faa.gov  
    Title: suasarc 4102008  
-   Link: <a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/suasarc-4102008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/suasarc-4102008.pdf</a>  
+   Link:<a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/suasarc-4102008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/suasarc-4102008.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: faa.gov  
    Title: jo 7200.23a unmanned aircraft systems (uas)  
-   Link: <a href="https://www.faa.gov/documentlibrary/media/order/jo_7200.23a_unmanned_aircraft_systems_%28uas%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentlibrary/media/order/jo_7200.23a_unmanned_aircraft_systems_%28uas%29.pdf</a>  
+   Link:<a href="https://www.faa.gov/documentlibrary/media/order/jo_7200.23a_unmanned_aircraft_systems_%28uas%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentlibrary/media/order/jo_7200.23a_unmanned_aircraft_systems_%28uas%29.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: faa.gov  
    Title: FA A Establishes Restrictions on Drone Operations Near  
-   Link: <a href="https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-near-us-navy-vessels" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-near-us-navy-vessels</a>  
+   Link:<a href="https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-near-us-navy-vessels" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-near-us-navy-vessels</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_UAP_Program_Report_User_Guide-20231211.pdf?ver=dJtqTlbDr3HqkIVDW8MP4Q%3D%3D</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nrc.no  
-   Link: <a href="https://www.nrc.no/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.no/</a>  
+   Link:<a href="https://www.nrc.no/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.no/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/</a>  
+   Link:<a href="https://www.nrc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2418/ML24184A122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2418/ML24184A122.pdf</a>  
+   Link:<a href="https://www.nrc.gov/docs/ML2418/ML24184A122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2418/ML24184A122.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: law.cornell.edu  
    Title: Legal Information Institute14 CFR § 99.7  
-   Link: <a href="https://www.law.cornell.edu/cfr/text/14/99.7" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/cfr/text/14/99.7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Special security instructions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute...</p></details>
+   Link:<a href="https://www.law.cornell.edu/cfr/text/14/99.7" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/cfr/text/14/99.7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Special security instructions. | Electronic Code of Federal Regulations (e-CFR) | US Law | LII / Legal Information Institute...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: caa.co.uk  
    Title: Civil Aviation Authority Airspace restrictions | UK Civil Aviation Authority  
-   Link: <a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/</a>  
+   Link:<a href="https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: kirtland.af.mil  
    Title: Kirtland Air Force Base FACT CHECK: Barksdale Drone Incursion  
-   Link: <a href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirtland Air Force BaseFACT CHECK: Barksdale Drone IncursionMarch 31, 2026 — 31 Mar 2026 — To clear up inaccurate and incomplete reportin...</p></details>
+   Link:<a href="https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/News/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirtland Air Force BaseFACT CHECK: Barksdale Drone IncursionMarch 31, 2026 — 31 Mar 2026 — To clear up inaccurate and incomplete reportin...</p></details>
    Published: March 31, 2026  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentLarge number of &#x27;unidentified drones&#x27; spotted over base...March 20, 2026 — 20 Mar 2026 — “Barksdale Air Force Base detect...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/barksdale-louisiana-drones-lockdown-b2942878.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentLarge number of &#x27;unidentified drones&#x27; spotted over base...March 20, 2026 — 20 Mar 2026 — “Barksdale Air Force Base detect...</p></details>
    Published: March 20, 2026  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: onr.org.uk  
-   Link: <a href="https://www.onr.org.uk/publications/corporate-publications/foi-releases/2026/02/unexplained-airspace-or-aerial-incidents-near-regulated-nuclear-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/publications/corporate-publications/foi-releases/2026/02/unexplained-airspace-or-aerial-incidents-near-regulated-nuclear-sites</a>  
+   Link:<a href="https://www.onr.org.uk/publications/corporate-publications/foi-releases/2026/02/unexplained-airspace-or-aerial-incidents-near-regulated-nuclear-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/publications/corporate-publications/foi-releases/2026/02/unexplained-airspace-or-aerial-incidents-near-regulated-nuclear-sites</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 2022 126 FOI response letter drone sightings 30062022 Redacted  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6311e079e90e077b70cc374f/2022_126_FOI_response_letter_drone_sightings_30062022_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6311e079e90e077b70cc374f/2022_126_FOI_response_letter_drone_sightings_30062022_Redacted.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6311e079e90e077b70cc374f/2022_126_FOI_response_letter_drone_sightings_30062022_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6311e079e90e077b70cc374f/2022_126_FOI_response_letter_drone_sightings_30062022_Redacted.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: assets.publishing.service.gov.uk  
    Title: RA2330 Issue 10  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6970ee49011505255b2d42fb/RA2330_Issue_10.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
+   Link:<a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/unidentified-drones-3-british-air-bases-us-forces/story?id=116236414" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/unidentified-drones-3-british-air-bases-us-forces/story?id=116236414</a>  
+   Link:<a href="https://abcnews.com/International/unidentified-drones-3-british-air-bases-us-forces/story?id=116236414" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/unidentified-drones-3-british-air-bases-us-forces/story?id=116236414</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: onr.org.uk  
-   Link: <a href="https://www.onr.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/</a>  
+   Link:<a href="https://www.onr.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: onr.org.uk  
    Title: land use planning  
-   Link: <a href="https://www.onr.org.uk/our-work/what-we-regulate/other-regulationslegislations/land-use-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/our-work/what-we-regulate/other-regulationslegislations/land-use-planning</a>  
+   Link:<a href="https://www.onr.org.uk/our-work/what-we-regulate/other-regulationslegislations/land-use-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/our-work/what-we-regulate/other-regulationslegislations/land-use-planning</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: onr.org.uk  
    Title: about us  
-   Link: <a href="https://www.onr.org.uk/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/about-us</a>  
+   Link:<a href="https://www.onr.org.uk/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/about-us</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: onr.org.uk  
-   Link: <a href="https://www.onr.org.uk/publications/publication-search?type=researchReportPublication" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/publications/publication-search?type=researchReportPublication</a>  
+   Link:<a href="https://www.onr.org.uk/publications/publication-search?type=researchReportPublication" target="_blank" rel="noopener noreferrer nofollow">https://www.onr.org.uk/publications/publication-search?type=researchReportPublication</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: legislation.gov.uk  
    Title: uksi 20161003 en  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2016/1003/pdfs/uksi_20161003_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/1003/pdfs/uksi_20161003_en.pdf</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2016/1003/pdfs/uksi_20161003_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/1003/pdfs/uksi_20161003_en.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2007/1929/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2007/1929/made/data.xht?view=snippet&amp;wrap=true</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2007/1929/made/data.xht?view=snippet&amp;wrap=true" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2007/1929/made/data.xht?view=snippet&amp;wrap=true</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2016/1003/contents/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/1003/contents/made</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2016/1003/contents/made" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2016/1003/contents/made</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/15773" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/15773</a>  
+   Link:<a href="https://www.caa.co.uk/publication/download/15773" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/15773</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/</a>  
+   Link:<a href="https://www.facebook.com/FAA/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FAA/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: x.com  
-   Link: <a href="https://x.com/lemonodor/status/1944385799262277882" target="_blank" rel="noopener noreferrer nofollow">https://x.com/lemonodor/status/1944385799262277882</a>  
+   Link:<a href="https://x.com/lemonodor/status/1944385799262277882" target="_blank" rel="noopener noreferrer nofollow">https://x.com/lemonodor/status/1944385799262277882</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: Wikipedia  
    Title: Federal Aviation Administration  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Aviation_Administration</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: Wikipedia  
    Title: 2024 drone sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/2024_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_drone_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2024_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_drone_sightings</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40FAAnews/featured" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40FAAnews/featured</a>  
+   Link:<a href="https://www.youtube.com/%40FAAnews/featured" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40FAAnews/featured</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: GOV.UK  
    Title: the response to an foi on the use of drones within the cnc 2  
-   Link: <a href="https://www.gov.uk/government/publications/the-response-to-an-foi-on-the-use-of-drones-within-the-cnc--2" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-response-to-an-foi-on-the-use-of-drones-within-the-cnc--2</a>  
+   Link:<a href="https://www.gov.uk/government/publications/the-response-to-an-foi-on-the-use-of-drones-within-the-cnc--2" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-response-to-an-foi-on-the-use-of-drones-within-the-cnc--2</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/organisations/office-for-nuclear-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/office-for-nuclear-regulation</a>  
+   Link:<a href="https://www.gov.uk/government/organisations/office-for-nuclear-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/office-for-nuclear-regulation</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: uk.finance.yahoo.com  
-   Link: <a href="https://uk.finance.yahoo.com/quote/NRC/" target="_blank" rel="noopener noreferrer nofollow">https://uk.finance.yahoo.com/quote/NRC/</a>  
+   Link:<a href="https://uk.finance.yahoo.com/quote/NRC/" target="_blank" rel="noopener noreferrer nofollow">https://uk.finance.yahoo.com/quote/NRC/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: uk.linkedin.com  
    Title: office for nuclear regulation  
-   Link: <a href="https://uk.linkedin.com/company/office-for-nuclear-regulation" target="_blank" rel="noopener noreferrer nofollow">https://uk.linkedin.com/company/office-for-nuclear-regulation</a>  
+   Link:<a href="https://uk.linkedin.com/company/office-for-nuclear-regulation" target="_blank" rel="noopener noreferrer nofollow">https://uk.linkedin.com/company/office-for-nuclear-regulation</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/federal-aviation-administration-faa" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/federal-aviation-administration-faa</a>  
+   Link:<a href="https://skybrary.aero/articles/federal-aviation-administration-faa" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/federal-aviation-administration-faa</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: catalog.hathitrust.org  
-   Link: <a href="https://catalog.hathitrust.org/Record/101828893" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/101828893</a>  
+   Link:<a href="https://catalog.hathitrust.org/Record/101828893" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/101828893</a>  
 
 ### Additional References
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QY6naT5OZSc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Fails To Counter Mysterious Aircraft Over Langley Base; &#x27;Sensitive Sites Filmed&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QY6naT5OZSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QY6naT5OZSc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Fails To Counter Mysterious Aircraft Over Langley Base; &#x27;Sensitive Sites Filmed&#x27;...</p></details>
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: youtube.com  
    Title: Pentagon's new UFO files show no evidence of aliens found  
-   Link: <a href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yY-iebpKygk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers from both parties, whistleblower David Grusch call for UAP records be declassified | FULL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yY-iebpKygk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yY-iebpKygk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers from both parties, whistleblower David Grusch call for UAP records be declassified | FULL...</p></details>
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CgcfZaC_pPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CgcfZaC_pPg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strike near UAE nuclear power plant | ABC NEWS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CgcfZaC_pPg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CgcfZaC_pPg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strike near UAE nuclear power plant | ABC NEWS...</p></details>
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2024/03/26/2024-06391/issuance-of-multiple-exemptions-regarding-security-notifications-reports-and-recording-keeping" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/03/26/2024-06391/issuance-of-multiple-exemptions-regarding-security-notifications-reports-and-recording-keeping</a>  
+   Link:<a href="https://www.federalregister.gov/documents/2024/03/26/2024-06391/issuance-of-multiple-exemptions-regarding-security-notifications-reports-and-recording-keeping" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/03/26/2024-06391/issuance-of-multiple-exemptions-regarding-security-notifications-reports-and-recording-keeping</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: youtube.com  
    Title: Drone strike near UAE nuclear power plant | ABC NEWS  
-   Link: <a href="https://www.youtube.com/watch?v=8hX50uV9fNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8hX50uV9fNY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strikes UAE nuclear power plant in blow to Iran ceasefire...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8hX50uV9fNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8hX50uV9fNY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strikes UAE nuclear power plant in blow to Iran ceasefire...</p></details>
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWHhzJ8kQXS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHhzJ8kQXS/</a>  
+   Link:<a href="https://www.instagram.com/p/DWHhzJ8kQXS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHhzJ8kQXS/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: norad.mil  
-   Link: <a href="https://www.norad.mil/About-NORAD/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/About-NORAD/</a>  
+   Link:<a href="https://www.norad.mil/About-NORAD/" target="_blank" rel="noopener noreferrer nofollow">https://www.norad.mil/About-NORAD/</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: adsgroup.org.uk  
-   Link: <a href="https://www.adsgroup.org.uk/wp-content/uploads/2019/10/ADS-policy-paper-on-counter-drone-use-cases-October-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.adsgroup.org.uk/wp-content/uploads/2019/10/ADS-policy-paper-on-counter-drone-use-cases-October-2019.pdf</a>  
+   Link:<a href="https://www.adsgroup.org.uk/wp-content/uploads/2019/10/ADS-policy-paper-on-counter-drone-use-cases-October-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.adsgroup.org.uk/wp-content/uploads/2019/10/ADS-policy-paper-on-counter-drone-use-cases-October-2019.pdf</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/</a>  
+   Link:<a href="https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/10/31/dod-invites-past-and-present-military-personnel-and-contractors-to-report-uap-activity-via-new-portal/</a>  

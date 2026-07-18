@@ -280,7 +280,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_d
 
 ## Introduction
 
-The 2018 Greenpeace drone action at the Bugey nuclear power station became one of the clearest demonstrations of how a small civilian drone could challenge public confidence in nuclear-site security without posing anything like a military threat. In a carefully staged protest, Greenpeace flew a Superman-shaped drone into the [restricted airspace]({{ 'airspace/' | relative_url }}) around the plant and deliberately crashed it against a spent-fuel storage building. The organisation's aim was not physical damage but a public test of whether a sensitive nuclear installation could detect, identify and stop a simple aerial intruder. The incident matters within the broader story of [drones]({{ 'drones/' | relative_url }}) and nuclear-site security because it shifted debate away from mysterious objects and towards a more practical question: how credible are claims that nuclear perimeters are secure against low-cost airborne incursions? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
+The 2018 Greenpeace drone action at the Bugey nuclear power station became one of the clearest demonstrations of how a small civilian drone could challenge public confidence in nuclear-site security without posing anything like a military threat. In a carefully staged protest, Greenpeace flew a Superman-shaped drone into the [restricted airspace]({{ 'airspace/' | relative_url }}) around the plant and deliberately crashed it against a spent-fuel storage building. The organisation's aim was not physical damage but a public test of whether a sensitive nuclear installation could detect, identify and stop a simple aerial intruder. The incident matters within the broader story of [drones]({{ 'drones/' | relative_url }}) and nuclear-site security because it shifted debate away from mysterious objects and towards a more practical question: how credible are claims that nuclear perimeters are secure against low-cost airborne incursions?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-1-dark.svg" | relative_url }}" alt="Bugey stunt illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,20 +288,20 @@ The 2018 Greenpeace drone action at the Bugey nuclear power station became one o
 
 ### How the Bugey drone stunt unfolded
 
-On 3 July 2018, Greenpeace France flew a small drone disguised as Superman into the no-fly zone surrounding the Bugey nuclear power station near Lyon. According to Greenpeace and multiple news reports, the drone crossed the perimeter and was intentionally crashed into the wall of a spent-fuel pool building associated with Reactor 2. Greenpeace released video footage showing the flight path and impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
+On 3 July 2018, Greenpeace France flew a small drone disguised as Superman into the no-fly zone surrounding the Bugey nuclear power station near Lyon. According to Greenpeace and multiple news reports, the drone crossed the perimeter and was intentionally crashed into the wall of a spent-fuel pool building associated with Reactor 2. Greenpeace released video footage showing the flight path and impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
 
-The protest was designed for maximum symbolic effect. Rather than targeting a reactor containment structure, Greenpeace chose a building connected to spent nuclear fuel storage. Anti-nuclear campaigners had long argued that spent-fuel facilities represented a comparatively vulnerable part of the nuclear complex. Greenpeace stated that the stunt was intended to demonstrate that an aircraft carrying a more dangerous payload could potentially reach a sensitive area before being intercepted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Common Dreams]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
+The protest was designed for maximum symbolic effect. Rather than targeting a reactor containment structure, Greenpeace chose a building connected to spent nuclear fuel storage. Anti-nuclear campaigners had long argued that spent-fuel facilities represented a comparatively vulnerable part of the nuclear complex. Greenpeace stated that the stunt was intended to demonstrate that an aircraft carrying a more dangerous payload could potentially reach a sensitive area before being intercepted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Common Dreams]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
 
-EDF, the operator of France's nuclear fleet, rejected Greenpeace's interpretation. The company stated that the drones had no impact on plant safety and argued that the relevant structures were robust and designed to withstand accidents and natural hazards. EDF also announced legal action following the intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
+EDF, the operator of France's nuclear fleet, rejected Greenpeace's interpretation. The company stated that the drones had no impact on plant safety and argued that the relevant structures were robust and designed to withstand accidents and natural hazards. EDF also announced legal action following the intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FF3dokaSCrU" title="Un drone-Superman de Greenpeace se crashe sur la centrale nucléaire du Bugey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FF3dokaSCrU" target="_blank" rel="noopener noreferrer">Un drone-Superman de Greenpeace se crashe sur la centrale nucléaire du Bugey</a></p><p class="youtube-embed-meta">Channel: Le Nouvel Obs</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FF3dokaSCrU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FF3dokaSCrU">Open on YouTube</a></p></div></div></div>
 
 ### Why the Superman costume mattered
 
-The Superman theme was not merely publicity. Greenpeace deliberately transformed a threatening security question into a highly visible public demonstration. The drone was unmistakably theatrical, allowing activists to argue that if a harmless, brightly decorated device could reach its target, a malicious operator would not necessarily need advanced technology to create concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsGreenpeace intentionally crashes drone into French...Jul 3, 2018 — In this photo released by Greenpeace, a drone resembling the...</span></span></span>
+The Superman theme was not merely publicity. Greenpeace deliberately transformed a threatening security question into a highly visible public demonstration. The drone was unmistakably theatrical, allowing activists to argue that if a harmless, brightly decorated device could reach its target, a malicious operator would not necessarily need advanced technology to create concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsGreenpeace intentionally crashes drone into French...Jul 3, 2018 — In this photo released by Greenpeace, a drone resembling the...</span></span></span>
 
-This approach distinguished the event from earlier reports of [unidentified]({{ 'unidentified/' | relative_url }}) drones around French nuclear facilities. Rather than leaving authorities and the public guessing about who was responsible, Greenpeace openly claimed responsibility. The result was an unusually transparent test case for evaluating aerial perimeter security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsGreenpeace intentionally crashes drone into French...Jul 3, 2018 — In this photo released by Greenpeace, a drone resembling the...</span></span></span>
+This approach distinguished the event from earlier reports of [unidentified]({{ 'unidentified/' | relative_url }}) drones around French nuclear facilities. Rather than leaving authorities and the public guessing about who was responsible, Greenpeace openly claimed responsibility. The result was an unusually transparent test case for evaluating aerial perimeter security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsGreenpeace intentionally crashes drone into French...Jul 3, 2018 — In this photo released by Greenpeace, a drone resembling the...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-3-dark.svg" | relative_url }}" alt="Bugey stunt illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,13 +317,13 @@ The Bugey action tested several elements simultaneously:
 * Whether restricted airspace could be penetrated.
 * Whether operators could recognise a small drone quickly enough.
 * Whether response forces could intervene before the drone reached a selected target.
-* Whether the public narrative of security matched observable performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
+* Whether the public narrative of security matched observable performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2AirSight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
 
 </div>
 
-From Greenpeace's perspective, the answer was clear: the stunt demonstrated that access from the air was easier than many people assumed. Greenpeace repeatedly emphasised that the spent-fuel building was reached without the drone being stopped before impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-07-03/greenpeace-fly-superman-drone-into-nuclear-facility/9936884" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">greenpeace fly superman drone into nuclear facility</span><span class="citation-popover-snippet">ABC NewsGreenpeace &#x27;crash&#x27; Superman drone into French nuclear...Jul 3, 2018 — The drone, which was decked out to resemble a tiny Superma...</span></span></span>
+From Greenpeace's perspective, the answer was clear: the stunt demonstrated that access from the air was easier than many people assumed. Greenpeace repeatedly emphasised that the spent-fuel building was reached without the drone being stopped before impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2018-07-03/greenpeace-fly-superman-drone-into-nuclear-facility/9936884" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">greenpeace fly superman drone into nuclear facility</span><span class="citation-popover-snippet">ABC NewsGreenpeace &#x27;crash&#x27; Superman drone into French nuclear...Jul 3, 2018 — The drone, which was decked out to resemble a tiny Superma...</span></span></span>
 
-EDF's counterargument was equally important. The company did not concede that the facility itself had been rendered vulnerable. Instead, it argued that the presence of a drone over the site did not automatically imply that critical safety systems were at risk. In other words, perimeter penetration and catastrophic vulnerability are not the same thing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
+EDF's counterargument was equally important. The company did not concede that the facility itself had been rendered vulnerable. Instead, it argued that the presence of a drone over the site did not automatically imply that critical safety systems were at risk. In other words, perimeter penetration and catastrophic vulnerability are not the same thing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
 
 That distinction lies at the heart of the debate. A protest can reveal a surveillance or intrusion problem without proving that a successful attack on a nuclear facility would be feasible.
 
@@ -334,209 +334,209 @@ That distinction lies at the heart of the debate. A protest can reveal a surveil
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-2-dark.svg" | relative_url }}" alt="Bugey stunt illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the incident revealed about public vulnerability claims
 
-The most lasting impact of the Bugey stunt was reputational rather than physical. Nuclear operators often reassure the public that their facilities are heavily protected. Greenpeace sought to challenge that confidence by producing visual evidence of a drone reaching a sensitive location. The resulting images were far more persuasive to many observers than abstract discussions about security procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsGreenpeace intentionally crashes drone into French...Jul 3, 2018 — In this photo released by Greenpeace, a drone resembling the...</span></span></span>
+The most lasting impact of the Bugey stunt was reputational rather than physical. Nuclear operators often reassure the public that their facilities are heavily protected. Greenpeace sought to challenge that confidence by producing visual evidence of a drone reaching a sensitive location. The resulting images were far more persuasive to many observers than abstract discussions about security procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsGreenpeace intentionally crashes drone into French...Jul 3, 2018 — In this photo released by Greenpeace, a drone resembling the...</span></span></span>
 
 The event also highlighted a recurring weakness in public discussions of nuclear security: different parties often use the word "vulnerable" in different ways.
 
-For Greenpeace, vulnerability meant that an outsider could reach a protected structure and expose a gap in [detection]({{ 'detection/' | relative_url }}) or interception. For EDF, vulnerability meant the ability to cause meaningful damage to safety-critical systems. Both sides could therefore claim support from the same incident while reaching different conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Common Dreams]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
+For Greenpeace, vulnerability meant that an outsider could reach a protected structure and expose a gap in [detection]({{ 'detection/' | relative_url }}) or interception. For EDF, vulnerability meant the ability to cause meaningful damage to safety-critical systems. Both sides could therefore claim support from the same incident while reaching different conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2Common Dreams]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
 
-The stunt occurred after years of activist attempts to expose weaknesses at French nuclear facilities through physical intrusions and other demonstrations. Because Greenpeace had repeatedly tested security boundaries, the Bugey flight was interpreted not as an isolated prank but as part of a sustained campaign questioning whether official assurances matched real-world performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/greenpeace-crashes-superman-shaped-drone-french-nuclear-plant-125119772--finance.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Greenpeace crashed a Superman-shaped drone into a French nuclear plant on Tues...</span></span></span>
+The stunt occurred after years of activist attempts to expose weaknesses at French nuclear facilities through physical intrusions and other demonstrations. Because Greenpeace had repeatedly tested security boundaries, the Bugey flight was interpreted not as an isolated prank but as part of a sustained campaign questioning whether official assurances matched real-world performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aol.com/greenpeace-crashes-superman-shaped-drone-french-nuclear-plant-125119772--finance.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Greenpeace crashed a Superman-shaped drone into a French nuclear plant on Tues...</span></span></span>
 
-Within the wider discussion of UFOs, unidentified aerial phenomena and nuclear sites, the Bugey case offers a useful lesson. Aerial intrusions do not need exotic technology to create serious concern. A brightly painted commercial drone operated by activists generated international headlines, triggered security responses and reignited debate over nuclear protection. The incident demonstrated that some modern nuclear-site "mysteries" are best understood not through speculation about unknown craft but through the very real challenge of monitoring and defending airspace against small, inexpensive drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
+Within the wider discussion of UFOs, unidentified aerial phenomena and nuclear sites, the Bugey case offers a useful lesson. Aerial intrusions do not need exotic technology to create serious concern. A brightly painted commercial drone operated by activists generated international headlines, triggered security responses and reignited debate over nuclear protection. The incident demonstrated that some modern nuclear-site "mysteries" are best understood not through speculation about unknown craft but through the very real challenge of monitoring and defending airspace against small, inexpensive drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p9snjXYGORw" title="French nuclear plant to restart after jellyfish &#x27;invasion&#x27; | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p9snjXYGORw" target="_blank" rel="noopener noreferrer">French nuclear plant to restart after jellyfish &#x27;invasion&#x27; | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p9snjXYGORw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p9snjXYGORw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What a Superman drone proved at Bugey. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What a Superman drone proved at Bugey. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOveDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
-        </h4>
-        <p class="fr-book-author">By Michael J. Boyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOveDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
+</h4>
+<p class="fr-book-author">By Michael J. Boyle</p>
         
-        <p class="fr-book-desc">Explains how small drones challenge security assumptions at sensitive sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how small drones challenge security assumptions at sensitive sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Offers broader insight into aviation technology and security culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader insight into aviation technology and security culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age Lib/E on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12386249-M.jpg" alt="Cover for The Drone Age Lib/E" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age Lib/E">The Drone Age Lib/E</a>
-        </h4>
-        <p class="fr-book-author">By Michael J Boyle, Mike Lenz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age Lib/E on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12386249-M.jpg" alt="Cover for The Drone Age Lib/E" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age Lib/E">The Drone Age Lib/E</a>
+</h4>
+<p class="fr-book-author">By Michael J Boyle, Mike Lenz</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Fits the site&#x27;s wider focus on aerial intrusions and nuclear facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the site&#x27;s wider focus on aerial intrusions and nuclear facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age Lib/E</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age Lib/E</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bugey-stunt-what-a-superman-drone-proved-at-bugey-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ Within the wider discussion of UFOs, unidentified aerial phenomena and nuclear s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ Within the wider discussion of UFOs, unidentified aerial phenomena and nuclear s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ Within the wider discussion of UFOs, unidentified aerial phenomena and nuclear s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ Within the wider discussion of UFOs, unidentified aerial phenomena and nuclear s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ Within the wider discussion of UFOs, unidentified aerial phenomena and nuclear s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,117 +742,117 @@ Within the wider discussion of UFOs, unidentified aerial phenomena and nuclear s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</p></details>
+   Link:<a href="https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/greenpeace-crashes-superman-shaped-drone-into-french-nuclear-plant-idUSKBN1JT17G/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace crashes Superman-shaped drone into French...Jul 3, 2018 — Greenpeace crashed a Superman-shaped drone into a French nuc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: euronews.com  
-   Link: <a href="https://www.euronews.com/video/2018/07/03/greenpeace-crash-drone-into-french-nuclear-plant-to-highlight-security-issues" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/video/2018/07/03/greenpeace-crash-drone-into-french-nuclear-plant-to-highlight-security-issues</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the no-fly zone of the nuclear plant of Bugey, Rhone valley, France...</p></details>
+   Link:<a href="https://www.euronews.com/video/2018/07/03/greenpeace-crash-drone-into-french-nuclear-plant-to-highlight-security-issues" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/video/2018/07/03/greenpeace-crash-drone-into-french-nuclear-plant-to-highlight-security-issues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the no-fly zone of the nuclear plant of Bugey, Rhone valley, France...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: euronews.com  
-   Link: <a href="https://www.euronews.com/2018/07/03/greenpeace-activists-pilot-and-crash-drone-into-french-nuclear-plant-s-no-fly-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2018/07/03/greenpeace-activists-pilot-and-crash-drone-into-french-nuclear-plant-s-no-fly-zone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace pilots and crashes drone into nuclear plant&#x27;s...Jul 3, 2018 — Greenpeace activists piloted a drone into the no-fly zo...</p></details>
+   Link:<a href="https://www.euronews.com/2018/07/03/greenpeace-activists-pilot-and-crash-drone-into-french-nuclear-plant-s-no-fly-zone" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2018/07/03/greenpeace-activists-pilot-and-crash-drone-into-french-nuclear-plant-s-no-fly-zone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace pilots and crashes drone into nuclear plant&#x27;s...Jul 3, 2018 — Greenpeace activists piloted a drone into the no-fly zo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: airsight.com  
-   Link: <a href="https://www.airsight.com/en/news/greenpeace-drone-stunt-highlights-security-gaps-at-nuclear-plants" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/en/news/greenpeace-drone-stunt-highlights-security-gaps-at-nuclear-plants</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fortunately, the drone didn&#x27;t cause any damage. However, the drone did serve to make the group&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.airsight.com/en/news/greenpeace-drone-stunt-highlights-security-gaps-at-nuclear-plants" target="_blank" rel="noopener noreferrer nofollow">https://www.airsight.com/en/news/greenpeace-drone-stunt-highlights-security-gaps-at-nuclear-plants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fortunately, the drone didn&#x27;t cause any damage. However, the drone did serve to make the group&#x27;s...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/greenpeace-crashes-superman-shaped-drone-french-nuclear-plant-125119772--finance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/greenpeace-crashes-superman-shaped-drone-french-nuclear-plant-125119772--finance.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace crashes Superman-shaped drone into French...Greenpeace crashed a Superman-shaped drone into a French nuclear plant on Tues...</p></details>
+   Link:<a href="https://www.aol.com/greenpeace-crashes-superman-shaped-drone-french-nuclear-plant-125119772--finance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/greenpeace-crashes-superman-shaped-drone-french-nuclear-plant-125119772--finance.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace crashes Superman-shaped drone into French...Greenpeace crashed a Superman-shaped drone into a French nuclear plant on Tues...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/greenpeace-activists-storm-stage-frances-nuclear-summit-confront-macron-2026-03-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/greenpeace-activists-storm-stage-frances-nuclear-summit-confront-macron-2026-03-10/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace activists storm stage at France&#x27;s nuclear...10 Mar 2026 — Two Greenpeace activists broke onto the stage at the start of a glo...</p></details>
+   Link:<a href="https://www.reuters.com/world/greenpeace-activists-storm-stage-frances-nuclear-summit-confront-macron-2026-03-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/greenpeace-activists-storm-stage-frances-nuclear-summit-confront-macron-2026-03-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace activists storm stage at France&#x27;s nuclear...10 Mar 2026 — Two Greenpeace activists broke onto the stage at the start of a glo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsGreenpeace intentionally crashes drone into French...Jul 3, 2018 — In this photo released by Greenpeace, a drone resembling the...</p></details>
+   Link:<a href="https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/greenpeace-intentionally-crashes-drone-french-nuclear-power-plant/story?id=56343027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsGreenpeace intentionally crashes drone into French...Jul 3, 2018 — In this photo released by Greenpeace, a drone resembling the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: commondreams.org  
-   Link: <a href="https://www.commondreams.org/news/2018/07/03/watch-greenpeace-crashes-superman-drone-nuclear-power-plant-expose-facilitys-dangers" target="_blank" rel="noopener noreferrer nofollow">https://www.commondreams.org/news/2018/07/03/watch-greenpeace-crashes-superman-drone-nuclear-power-plant-expose-facilitys-dangers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch: Greenpeace Crashes Superman Drone Into...Greenpeace France on Tuesday crashed a drone dressed as Superman into the Bugey nuclear...</p></details>
+   Link:<a href="https://www.commondreams.org/news/2018/07/03/watch-greenpeace-crashes-superman-drone-nuclear-power-plant-expose-facilitys-dangers" target="_blank" rel="noopener noreferrer nofollow">https://www.commondreams.org/news/2018/07/03/watch-greenpeace-crashes-superman-drone-nuclear-power-plant-expose-facilitys-dangers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch: Greenpeace Crashes Superman Drone Into...Greenpeace France on Tuesday crashed a drone dressed as Superman into the Bugey nuclear...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abc.net.au  
    Title: greenpeace fly superman drone into nuclear facility  
-   Link: <a href="https://www.abc.net.au/news/2018-07-03/greenpeace-fly-superman-drone-into-nuclear-facility/9936884" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-07-03/greenpeace-fly-superman-drone-into-nuclear-facility/9936884</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsGreenpeace &#x27;crash&#x27; Superman drone into French nuclear...Jul 3, 2018 — The drone, which was decked out to resemble a tiny Superma...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2018-07-03/greenpeace-fly-superman-drone-into-nuclear-facility/9936884" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2018-07-03/greenpeace-fly-superman-drone-into-nuclear-facility/9936884</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsGreenpeace &#x27;crash&#x27; Superman drone into French nuclear...Jul 3, 2018 — The drone, which was decked out to resemble a tiny Superma...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://fr.wikipedia.org/wiki/Greenpeace" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Greenpeace</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Greenpeace" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Greenpeace</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/video/56345339/" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/video/56345339/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Drone intentionally flown into nuclear power plantGreenpeace France crashed a drone designed to look like Superman into a French nu...</p></details>
+   Link:<a href="https://abcnews.com/video/56345339/" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/video/56345339/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video Drone intentionally flown into nuclear power plantGreenpeace France crashed a drone designed to look like Superman into a French nu...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: coptrz.com  
-   Link: <a href="https://coptrz.com/blog/coptrz-news-greenpeace-drone-stunt-highlight-need-for-drone-detection-at-nuclear-facilities/" target="_blank" rel="noopener noreferrer nofollow">https://coptrz.com/blog/coptrz-news-greenpeace-drone-stunt-highlight-need-for-drone-detection-at-nuclear-facilities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace drone stunt highlights need for drone detection4 Jul 2025 — Greenpeace have posted footage on their Facebook page of them flyi...</p></details>
+   Link:<a href="https://coptrz.com/blog/coptrz-news-greenpeace-drone-stunt-highlight-need-for-drone-detection-at-nuclear-facilities/" target="_blank" rel="noopener noreferrer nofollow">https://coptrz.com/blog/coptrz-news-greenpeace-drone-stunt-highlight-need-for-drone-detection-at-nuclear-facilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace drone stunt highlights need for drone detection4 Jul 2025 — Greenpeace have posted footage on their Facebook page of them flyi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: foxnews.com  
    Title: greenpeace activists crash superman shaped drone into french nuclear plant  
-   Link: <a href="https://www.foxnews.com/world/greenpeace-activists-crash-superman-shaped-drone-into-french-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/world/greenpeace-activists-crash-superman-shaped-drone-into-french-nuclear-plant</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace activists crash Superman-shaped drone into...Jul 3, 2018 — The drone, piloted by one of Greenpeace&#x27;s activists, slammed into...</p></details>
+   Link:<a href="https://www.foxnews.com/world/greenpeace-activists-crash-superman-shaped-drone-into-french-nuclear-plant" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/world/greenpeace-activists-crash-superman-shaped-drone-into-french-nuclear-plant</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace activists crash Superman-shaped drone into...Jul 3, 2018 — The drone, piloted by one of Greenpeace&#x27;s activists, slammed into...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gulfnews.com  
    Title: greenpeace activists crash drone into french nuclear plant 1.2246141  
-   Link: <a href="https://gulfnews.com/world/europe/greenpeace-activists-crash-drone-into-french-nuclear-plant-1.2246141" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/world/europe/greenpeace-activists-crash-drone-into-french-nuclear-plant-1.2246141</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace activists &#x27;crash&#x27; drone into French nuclear plant5 Nov 2018 — LYON: Greenpeace activists said Tuesday they had flown a drone f...</p></details>
+   Link:<a href="https://gulfnews.com/world/europe/greenpeace-activists-crash-drone-into-french-nuclear-plant-1.2246141" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/world/europe/greenpeace-activists-crash-drone-into-french-nuclear-plant-1.2246141</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace activists &#x27;crash&#x27; drone into French nuclear plant5 Nov 2018 — LYON: Greenpeace activists said Tuesday they had flown a drone f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sortirdunucleaire.org  
-   Link: <a href="https://www.sortirdunucleaire.org/Greenpeace-crashes-Superman-shaped-drone-into" target="_blank" rel="noopener noreferrer nofollow">https://www.sortirdunucleaire.org/Greenpeace-crashes-Superman-shaped-drone-into</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace crashes Superman-shaped drone into French...PARIS, July 3, 2018 (Reuters) - Greenpeace crashed a Superman-shaped drone into a...</p></details>
+   Link:<a href="https://www.sortirdunucleaire.org/Greenpeace-crashes-Superman-shaped-drone-into" target="_blank" rel="noopener noreferrer nofollow">https://www.sortirdunucleaire.org/Greenpeace-crashes-Superman-shaped-drone-into</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace crashes Superman-shaped drone into French...PARIS, July 3, 2018 (Reuters) - Greenpeace crashed a Superman-shaped drone into a...</p></details>
    Published: July 3, 2018  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: courthousenews.com  
    Title: greenpeace drone toy plane crash into french nuclear plant  
-   Link: <a href="https://www.courthousenews.com/greenpeace-drone-toy-plane-crash-into-french-nuclear-plant/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/greenpeace-drone-toy-plane-crash-into-french-nuclear-plant/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace Drone, Toy Plane Crash Into French Nuclear...Jul 3, 2018 — The drone, which was decorated like a miniature Superman, slammed...</p></details>
+   Link:<a href="https://www.courthousenews.com/greenpeace-drone-toy-plane-crash-into-french-nuclear-plant/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/greenpeace-drone-toy-plane-crash-into-french-nuclear-plant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace Drone, Toy Plane Crash Into French Nuclear...Jul 3, 2018 — The drone, which was decorated like a miniature Superman, slammed...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dronelife.com  
    Title: greenpeace kamikaze drone political protest tool  
-   Link: <a href="https://dronelife.com/2018/07/04/greenpeace-kamikaze-drone-political-protest-tool/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2018/07/04/greenpeace-kamikaze-drone-political-protest-tool/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace Uses Kamikaze Drone as Political Protest ToolJul 4, 2018 — Environmental organization Greenpeace has crashed a drone disguised...</p></details>
+   Link:<a href="https://dronelife.com/2018/07/04/greenpeace-kamikaze-drone-political-protest-tool/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2018/07/04/greenpeace-kamikaze-drone-political-protest-tool/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greenpeace Uses Kamikaze Drone as Political Protest ToolJul 4, 2018 — Environmental organization Greenpeace has crashed a drone disguised...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: m.facebook.com  
    Title: greenpeace intentionally crashes superman drone  
-   Link: <a href="https://m.facebook.com/ABCNews/videos/greenpeace-intentionally-crashes-superman-drone/10157419586768812/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/ABCNews/videos/greenpeace-intentionally-crashes-superman-drone/10157419586768812/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>activists deck out a drone to resemble Superman...The environmental group says the aircraft was harmless but aimed to highlight the lax...</p></details>
+   Link:<a href="https://m.facebook.com/ABCNews/videos/greenpeace-intentionally-crashes-superman-drone/10157419586768812/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/ABCNews/videos/greenpeace-intentionally-crashes-superman-drone/10157419586768812/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>activists deck out a drone to resemble Superman...The environmental group says the aircraft was harmless but aimed to highlight the lax...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=p9snjXYGORw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p9snjXYGORw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>roughout the week after they were forced offline by a swarm of jellyfish...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=p9snjXYGORw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p9snjXYGORw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>roughout the week after they were forced offline by a swarm of jellyfish...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Nuclear power in France  
-   Link: <a href="https://en.wikipedia.org/wiki/Nuclear_power_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nuclear_power_in_France</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear power in FranceThe largest source of electricity in France has been nuclear power, with a generation of 379.5 TWh in 2019 and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Nuclear_power_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nuclear_power_in_France</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear power in FranceThe largest source of electricity in France has been nuclear power, with a generation of 379.5 TWh in 2019 and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Un drone-Superman de Greenpeace se crashe sur la centrale nucléaire du Bugey  
-   Link: <a href="https://www.youtube.com/watch?v=FF3dokaSCrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FF3dokaSCrU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Un drone déguisé en Superman s&#x27;écrase sur la centrale nucléaire du Bugey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FF3dokaSCrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FF3dokaSCrU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Un drone déguisé en Superman s&#x27;écrase sur la centrale nucléaire du Bugey...</p></details>

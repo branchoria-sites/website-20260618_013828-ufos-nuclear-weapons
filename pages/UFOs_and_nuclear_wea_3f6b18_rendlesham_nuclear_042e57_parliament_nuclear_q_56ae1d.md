@@ -274,46 +274,46 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parl
 
 ## Introduction
 
-The most direct parliamentary examination of the [Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest nuclear allegations occurred not in 1980, but seventeen years later. In October 1997, former Chief of the Defence Staff Lord Hill-Norton used a series of written questions in the House of Lords to test three linked claims: whether nuclear weapons had been stored at RAF Bentwaters and RAF Woodbridge, whether [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena had directed beams of light into a weapons storage area, and whether the government possessed records supporting those allegations. The answers did not validate the claims. Instead, they revealed how British governments managed sensitive nuclear questions: by maintaining a long-standing policy of neither confirming nor denying nuclear weapon locations and by stating that the Ministry of Defence had no evidence that it had received reports of beams striking nuclear weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+The most direct parliamentary examination of the [Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest nuclear allegations occurred not in 1980, but seventeen years later. In October 1997, former Chief of the Defence Staff Lord Hill-Norton used a series of written questions in the House of Lords to test three linked claims: whether nuclear weapons had been stored at RAF Bentwaters and RAF Woodbridge, whether [unidentified]({{ 'unidentified/' | relative_url }}) aerial phenomena had directed beams of light into a weapons storage area, and whether the government possessed records supporting those allegations. The answers did not validate the claims. Instead, they revealed how British governments managed sensitive nuclear questions: by maintaining a long-standing policy of neither confirming nor denying nuclear weapon locations and by stating that the Ministry of Defence had no evidence that it had received reports of beams striking nuclear weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-1-dark.svg" | relative_url }}" alt="Parliament illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For students of the “[UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }})” debate, these exchanges are important because they show the boundary between parliamentary scrutiny and official [secrecy]({{ 'secrecy/' | relative_url }}). Parliament asked directly about the most dramatic Rendlesham allegations; ministers responded narrowly and cautiously, without endorsing the underlying narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+For students of the “[UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }})” debate, these exchanges are important because they show the boundary between parliamentary scrutiny and official [secrecy]({{ 'secrecy/' | relative_url }}). Parliament asked directly about the most dramatic Rendlesham allegations; ministers responded narrowly and cautiously, without endorsing the underlying narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
 ## Lord Hill-Norton’s questions about weapons and beams
 
-On 28 October 1997, Lord Hill-Norton submitted a cluster of written questions concerning allegations that had recently gained attention through books and witness accounts associated with the Rendlesham case. His questions focused on specific factual claims rather than on UFOs in general. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+On 28 October 1997, Lord Hill-Norton submitted a cluster of written questions concerning allegations that had recently gained attention through books and witness accounts associated with the Rendlesham case. His questions focused on specific factual claims rather than on UFOs in general.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-One question asked whether allegations that nuclear weapons had been stored at RAF [Bentwaters]({{ 'bentwaters/' | relative_url }}) and RAF Woodbridge in violation of treaty obligations were true. Another asked whether the government was aware of reports from United States Air Force personnel claiming that nuclear weapons stored in the Woodbridge Weapons Storage Area had been struck by light beams from an unidentified craft during the December 1980 events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+One question asked whether allegations that nuclear weapons had been stored at RAF [Bentwaters]({{ 'bentwaters/' | relative_url }}) and RAF Woodbridge in violation of treaty obligations were true. Another asked whether the government was aware of reports from United States Air Force personnel claiming that nuclear weapons stored in the Woodbridge Weapons Storage Area had been struck by light beams from an unidentified craft during the December 1980 events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-These questions are significant because they targeted the strongest version of the Rendlesham nuclear story. By the late 1990s, the discussion had moved beyond reports of unusual lights in the forest and toward claims that the incident involved direct interaction with a nuclear weapons facility. Lord Hill-Norton's intervention brought those allegations into the official parliamentary record and required a formal government response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+These questions are significant because they targeted the strongest version of the Rendlesham nuclear story. By the late 1990s, the discussion had moved beyond reports of unusual lights in the forest and toward claims that the incident involved direct interaction with a nuclear weapons facility. Lord Hill-Norton's intervention brought those allegations into the official parliamentary record and required a formal government response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X2c3_vG7yhs" title="Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer">Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 332.0K &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X2c3_vG7yhs">Open on YouTube</a></p></div></div></div>
 
 ## The neither-confirm-nor-deny nuclear policy
 
-The government's answer to the weapons-storage question did not address the specific allegation. Instead, Minister of State for Defence Procurement Lord Gilbert invoked a standard policy used for nuclear deployments. He stated that it had always been government policy neither to confirm nor deny where nuclear weapons were located, whether in the United Kingdom or elsewhere, and whether in the past or the present. He further indicated that such information would be withheld under the applicable government information rules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+The government's answer to the weapons-storage question did not address the specific allegation. Instead, Minister of State for Defence Procurement Lord Gilbert invoked a standard policy used for nuclear deployments. He stated that it had always been government policy neither to confirm nor deny where nuclear weapons were located, whether in the United Kingdom or elsewhere, and whether in the past or the present. He further indicated that such information would be withheld under the applicable government information rules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-This response is often misunderstood. It was not a confirmation that nuclear weapons were present at Bentwaters or Woodbridge, nor was it a denial. Rather, it reflected a broader defence policy that had been applied to nuclear weapon locations for decades and continued to be used in later parliamentary exchanges concerning other bases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+This response is often misunderstood. It was not a confirmation that nuclear weapons were present at Bentwaters or Woodbridge, nor was it a denial. Rather, it reflected a broader defence policy that had been applied to nuclear weapon locations for decades and continued to be used in later parliamentary exchanges concerning other bases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-The practical effect was that Parliament could ask whether weapons had been stored at a particular installation, but ministers would not publicly verify or reject the claim. For researchers, this means that the 1997 answer cannot be treated as evidence either for or against the existence of nuclear weapons at the bases. It primarily demonstrates the operation of an established secrecy policy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+The practical effect was that Parliament could ask whether weapons had been stored at a particular installation, but ministers would not publicly verify or reject the claim. For researchers, this means that the 1997 answer cannot be treated as evidence either for or against the existence of nuclear weapons at the bases. It primarily demonstrates the operation of an established secrecy policy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-2-dark.svg" | relative_url }}" alt="Parliament illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read the denial of received beam reports
 
-The most revealing answer concerned the allegation that beams from an unidentified craft had struck nuclear weapons in the Woodbridge storage area. Lord Gilbert replied that there was “no evidence to suggest that the Ministry of Defence received any such reports.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+The most revealing answer concerned the allegation that beams from an unidentified craft had struck nuclear weapons in the Woodbridge storage area. Lord Gilbert replied that there was “no evidence to suggest that the Ministry of Defence received any such reports.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-The wording matters. The government did not declare that the event was impossible, disproven, or fabricated. Nor did it state that the reports definitely existed. Instead, the answer was framed around the Ministry of Defence's records and knowledge. The statement addressed whether the Ministry had received such reports, not whether any individual witness had later made the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+The wording matters. The government did not declare that the event was impossible, disproven, or fabricated. Nor did it state that the reports definitely existed. Instead, the answer was framed around the Ministry of Defence's records and knowledge. The statement addressed whether the Ministry had received such reports, not whether any individual witness had later made the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
 This distinction has shaped later debate:
 
 * Supporters of the Rendlesham nuclear narrative often note that the answer did not explicitly refute witness testimony.
 * [Sceptics]({{ 'sceptics/' | relative_url }}) emphasise that the Ministry reported no evidence that it had received official reports describing beams striking nuclear weapons.
-* Historians generally treat the answer as evidence that no corresponding report was found within the Ministry's known records at the time the question was answered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+* Historians generally treat the answer as evidence that no corresponding report was found within the Ministry's known records at the time the question was answered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-In policy terms, the answer was a records-based statement rather than a comprehensive investigation of every later allegation associated with the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+In policy terms, the answer was a records-based statement rather than a comprehensive investigation of every later allegation associated with the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UfKwQgmHfII" title="Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer">Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 388.3K &middot; Uploaded: October 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UfKwQgmHfII">Open on YouTube</a></p></div></div></div>
@@ -322,213 +322,213 @@ In policy terms, the answer was a records-based statement rather than a comprehe
 
 The 1997 exchange is notable less for what it disclosed than for what it clarified about official handling of sensitive claims.
 
-First, Parliament demonstrated that questions about nuclear aspects of the Rendlesham case could be raised directly and formally. The allegations were not ignored; they were entered into Hansard and answered on the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+First, Parliament demonstrated that questions about nuclear aspects of the Rendlesham case could be raised directly and formally. The allegations were not ignored; they were entered into Hansard and answered on the record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-Second, the government separated two issues that are often merged in popular accounts. The question of nuclear weapon storage was treated as a matter covered by long-standing secrecy policy. The question of alleged light beams was treated as a matter of documentary evidence and official [reporting]({{ 'reporting/' | relative_url }}). The responses therefore addressed different issues using different standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+Second, the government separated two issues that are often merged in popular accounts. The question of nuclear weapon storage was treated as a matter covered by long-standing secrecy policy. The question of alleged light beams was treated as a matter of documentary evidence and official [reporting]({{ 'reporting/' | relative_url }}). The responses therefore addressed different issues using different standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-Third, the exchange illustrates a recurring feature of nuclear-related UFO controversies. Official responses frequently focus on what can be confirmed from government records, while the most dramatic claims often originate from witness recollections, later testimony, or secondary accounts. The result is a persistent gap between public narratives and documented governmental evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+Third, the exchange illustrates a recurring feature of nuclear-related UFO controversies. Official responses frequently focus on what can be confirmed from government records, while the most dramatic claims often originate from witness recollections, later testimony, or secondary accounts. The result is a persistent gap between public narratives and documented governmental evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-3-dark.svg" | relative_url }}" alt="Parliament illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_parliament_nuclear_q_56ae1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the parliamentary record remains important
 
-For the Rendlesham case specifically, the 1997 questions remain one of the few occasions when the nuclear allegations were addressed directly within the UK Parliament. The exchange neither authenticated the claim that an unidentified craft fired beams into a weapons storage area nor disproved every version of that story. What it did establish is narrower but historically important: the government relied on its neither-confirm-nor-deny nuclear policy regarding weapons locations and stated that it had no evidence that the Ministry of Defence had received reports of beams striking nuclear weapons at RAF Woodbridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+For the Rendlesham case specifically, the 1997 questions remain one of the few occasions when the nuclear allegations were addressed directly within the UK Parliament. The exchange neither authenticated the claim that an unidentified craft fired beams into a weapons storage area nor disproved every version of that story. What it did establish is narrower but historically important: the government relied on its neither-confirm-nor-deny nuclear policy regarding weapons locations and stated that it had no evidence that the Ministry of Defence had received reports of beams striking nuclear weapons at RAF Woodbridge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
-As a result, the parliamentary record occupies a unique place in the Rendlesham debate. It is one of the clearest official statements available on the nuclear allegations, yet it leaves the central controversy [unresolved]({{ 'unresolved/' | relative_url }}). The exchange shows exactly what ministers were willing to say publicly—and, just as importantly, what they declined to confirm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
+As a result, the parliamentary record occupies a unique place in the Rendlesham debate. It is one of the clearest official statements available on the nuclear allegations, yet it leaves the central controversy [unresolved]({{ 'unresolved/' | relative_url }}). The exchange shows exactly what ministers were willing to say publicly—and, just as importantly, what they declined to confirm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Raf Bentwaters And Woodbridg Nuclear Weapons Allegations</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l5AtkxuOhcc" title="2002 interview Former Admiral Hill Norton NATO Military Chairman On UFO Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l5AtkxuOhcc" target="_blank" rel="noopener noreferrer">2002 interview Former Admiral Hill Norton NATO Military Chairman On UFO Disclosure</a></p><p class="youtube-embed-meta">Channel: Info-Collector-Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l5AtkxuOhcc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l5AtkxuOhcc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Parliament revealed and avoided. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Parliament revealed and avoided. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Provides essential context for the allegations that later reached Parliament and the MoD.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context for the allegations that later reached Parliament and the MoD.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explains how government departments handled UFO reports and public scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how government departments handled UFO reports and public scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines official testimony, government responses, and evidentiary standards relevant to parliamentary scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official testimony, government responses, and evidentiary standards relevant to parliamentary scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and nukes">UFOs and nukes</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and nukes">UFOs and nukes</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses the broader nuclear-weapons claims that framed the parliamentary questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the broader nuclear-weapons claims that framed the parliamentary questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/3ef81f2f0d2a9cad1cde.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/3ef81f2f0d2a9cad1cde.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="parliament-what-parliament-revealed-and-avoided-ufos-and-nuclear-weapons-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ As a result, the parliamentary record occupies a unique place in the Rendlesham 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ As a result, the parliamentary record occupies a unique place in the Rendlesham 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ As a result, the parliamentary record occupies a unique place in the Rendlesham 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ As a result, the parliamentary record occupies a unique place in the Rendlesham 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ As a result, the parliamentary record occupies a unique place in the Rendlesham 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,104 +734,104 @@ As a result, the parliamentary record occupies a unique place in the Rendlesham 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
    Title: Raf Bentwaters And Woodbridg Nuclear Weapons Allegations  
-   Link: <a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati28 Oct 1997 — Nuclear weapons were stored at RAF Bentwaters and RAF Woodbrid...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hansard.parliament.uk  
-   Link: <a href="https://hansard.parliament.uk/Commons/2007-07-18/debates/070718106000026/RAFLakenheathNuclearWeapons" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2007-07-18/debates/070718106000026/RAFLakenheathNuclearWeapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Lakenheath: Nuclear Weapons - Hansard - UK Parliament18 Jul 2007 — It is NATO and UK policy to neither confirm nor deny the pr...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Commons/2007-07-18/debates/070718106000026/RAFLakenheathNuclearWeapons" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2007-07-18/debates/070718106000026/RAFLakenheathNuclearWeapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Lakenheath: Nuclear Weapons - Hansard - UK Parliament18 Jul 2007 — It is NATO and UK policy to neither confirm nor deny the pr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hansard.parliament.uk  
    Title: Hansard RAF Lakenheath  
-   Link: <a href="https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lakenheath - Hansard - UK Parliament8 Jul 2008 — It is both UK and NATO policy to neither confirm nor deny the presence of nuclear weapon...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lakenheath - Hansard - UK Parliament8 Jul 2008 — It is both UK and NATO policy to neither confirm nor deny the presence of nuclear weapon...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
-   Link: <a href="https://hansard.parliament.uk/debates/GetDebateAsText/1570a209-00e1-494f-8ac9-173bb3292039" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/debates/GetDebateAsText/1570a209-00e1-494f-8ac9-173bb3292039</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>text... RAF Bentwaters for the storage of nuclear weapons have been concluded; and if he will make a statement. Mr. Stanley I have nothin...</p></details>
+   Link:<a href="https://hansard.parliament.uk/debates/GetDebateAsText/1570a209-00e1-494f-8ac9-173bb3292039" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/debates/GetDebateAsText/1570a209-00e1-494f-8ac9-173bb3292039</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>text... RAF Bentwaters for the storage of nuclear weapons have been concluded; and if he will make a statement. Mr. Stanley I have nothin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hansard Written Answers text for 14 Oct 199814 Oct 1998 — Written Answers. Wednesday, 14th October 1998. Unidentified Flying Objects. Lor...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld199798/ldhansrd/vo981014/text/81014w01.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hansard Written Answers text for 14 Oct 199814 Oct 1998 — Written Answers. Wednesday, 14th October 1998. Unidentified Flying Objects. Lor...</p></details>
    Published: October 1998  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
    Title: uk Nuclear Weapons  
-   Link: <a href="https://hansard.parliament.uk/Commons/1986-11-04/debates/2d367bf4-b1f7-422d-9366-7ecaa62dd091/NuclearWeapons" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1986-11-04/debates/2d367bf4-b1f7-422d-9366-7ecaa62dd091/NuclearWeapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons - Hansard - UK Parliament4 Nov 1986 — asked the Secretary of State for Defence whether approval has been given for the constructi...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Commons/1986-11-04/debates/2d367bf4-b1f7-422d-9366-7ecaa62dd091/NuclearWeapons" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/1986-11-04/debates/2d367bf4-b1f7-422d-9366-7ecaa62dd091/NuclearWeapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons - Hansard - UK Parliament4 Nov 1986 — asked the Secretary of State for Defence whether approval has been given for the constructi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: uk Nuclear Weapons (Underground Storage)  
-   Link: <a href="https://hansard.parliament.uk/commons/1986-07-14/debates/91717560-3328-4452-b28b-4a4f9d274271/NuclearWeapons%28UndergroundStorage%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1986-07-14/debates/91717560-3328-4452-b28b-4a4f9d274271/NuclearWeapons%28UndergroundStorage%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons (Underground Storage) - Hansard14 Jul 1986 — Hansard record of the item: &#x27;Nuclear Weapons (Underground Storage)&#x27; on Monday 14 Ju...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/1986-07-14/debates/91717560-3328-4452-b28b-4a4f9d274271/NuclearWeapons%28UndergroundStorage%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1986-07-14/debates/91717560-3328-4452-b28b-4a4f9d274271/NuclearWeapons%28UndergroundStorage%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons (Underground Storage) - Hansard14 Jul 1986 — Hansard record of the item: &#x27;Nuclear Weapons (Underground Storage)&#x27; on Monday 14 Ju...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: uk Nuclear Holocaust  
-   Link: <a href="https://hansard.parliament.uk/lords/1984-03-21/debates/cb904d0f-e5b1-4594-96ce-cca151114e6d/NuclearHolocaust" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1984-03-21/debates/cb904d0f-e5b1-4594-96ce-cca151114e6d/NuclearHolocaust</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Holocaust - Hansard - UK Parliament21 Mar 1984 — The noble Lord said: My Lords, in moving this Motion, it is first necessary for me to sh...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/1984-03-21/debates/cb904d0f-e5b1-4594-96ce-cca151114e6d/NuclearHolocaust" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1984-03-21/debates/cb904d0f-e5b1-4594-96ce-cca151114e6d/NuclearHolocaust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Holocaust - Hansard - UK Parliament21 Mar 1984 — The noble Lord said: My Lords, in moving this Motion, it is first necessary for me to sh...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: asser.nl  
-   Link: <a href="https://www.asser.nl/asserpress/books/?rId=4293" target="_blank" rel="noopener noreferrer nofollow">https://www.asser.nl/asserpress/books/?rId=4293</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Depleted Uranium Weapons and International LawDepleted Uranium Munitions under International Law: A Precautionary Approach provides an in...</p></details>
+   Link:<a href="https://www.asser.nl/asserpress/books/?rId=4293" target="_blank" rel="noopener noreferrer nofollow">https://www.asser.nl/asserpress/books/?rId=4293</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Depleted Uranium Weapons and International LawDepleted Uranium Munitions under International Law: A Precautionary Approach provides an in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: morningstaronline.co.uk  
-   Link: <a href="https://morningstaronline.co.uk/article/declassified-government-documents-reveal-us-forces-britain-are-exempt-nuclear-safety-rules" target="_blank" rel="noopener noreferrer nofollow">https://morningstaronline.co.uk/article/declassified-government-documents-reveal-us-forces-britain-are-exempt-nuclear-safety-rules</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified government documents reveal US forces in...7 Apr 2025 — Declassified government documents have revealed that US military ba...</p></details>
+   Link:<a href="https://morningstaronline.co.uk/article/declassified-government-documents-reveal-us-forces-britain-are-exempt-nuclear-safety-rules" target="_blank" rel="noopener noreferrer nofollow">https://morningstaronline.co.uk/article/declassified-government-documents-reveal-us-forces-britain-are-exempt-nuclear-safety-rules</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified government documents reveal US forces in...7 Apr 2025 — Declassified government documents have revealed that US military ba...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incident, and all the men and women in the military who have been...Read more...</p></details>
+   Link:<a href="https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/Rendlesham_Forest_incident_1980/Georgina%20Bruni%20-%20You%20Can%27t%20Tell%20the%20People.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest incident, and all the men and women in the military who have been...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: centaur.reading.ac.uk  
-   Link: <a href="https://centaur.reading.ac.uk/69597/1/21813746_White_thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/69597/1/21813746_White_thesis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading.ac.uk21813746_White_thesis.pdf - CentAUR - University of Readingby K White · 2016 · Cited by 1 — USAF operations at RAF Bentwater...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/69597/1/21813746_White_thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/69597/1/21813746_White_thesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading.ac.uk21813746_White_thesis.pdf - CentAUR - University of Readingby K White · 2016 · Cited by 1 — USAF operations at RAF Bentwater...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Rendlesham Forest: The Night Something Landed in Britain  
-   Link: <a href="http://www.youtube.com/watch?v=grvf-eEJJPA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=grvf-eEJJPA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lord Hill-Norton Rendlesham Forest UFO nuclear weapons “The Most Extraordinary Footage of all” - UNKNOWN UFO IN CALIFORNIA | Ancient Alie...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=grvf-eEJJPA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=grvf-eEJJPA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lord Hill-Norton Rendlesham Forest UFO nuclear weapons “The Most Extraordinary Footage of all” - UNKNOWN UFO IN CALIFORNIA | Ancient Alie...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Rendlesham Forest: Lt. Col. Charles Halt responds to Larry Warren&#x27;s &#x27;lying&#x27; claims | Reality Check...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFOs & Nukes  
-   Link: <a href="http://www.youtube.com/watch?v=1CjOHiEmGTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1CjOHiEmGTQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Hill-Norton House of Lords NATO - NEW MILITARY CHAIRMAN - COLOUR British Movietone...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1CjOHiEmGTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1CjOHiEmGTQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Hill-Norton House of Lords NATO - NEW MILITARY CHAIRMAN - COLOUR British Movietone...</p></details>
    Published: September 2010  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfKwQgmHfII</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Rendlesham UFO incident: Does new film &#x27;Capel Green&#x27; have new evidence?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UfKwQgmHfII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UfKwQgmHfII</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Rendlesham UFO incident: Does new film &#x27;Capel Green&#x27; have new evidence?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2005-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2005-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsdefe-24-2005-1.pdfWeapons Storage Area at RAF Woodbridge were struck by light beams fired... Lord Hill-Norton h...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2005-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2005-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsdefe-24-2005-1.pdfWeapons Storage Area at RAF Woodbridge were struck by light beams fired... Lord Hill-Norton h...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=l5AtkxuOhcc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=l5AtkxuOhcc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Hastings Press conference 2010 - UFO and Nukes...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=l5AtkxuOhcc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=l5AtkxuOhcc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Hastings Press conference 2010 - UFO and Nukes...</p></details>

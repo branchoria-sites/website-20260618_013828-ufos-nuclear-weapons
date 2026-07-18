@@ -280,19 +280,19 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptic
 
 ## Introduction
 
-The strongest sceptical response to the alien-disarmament claim was not that missile failures never happened, but that the evidence does not justify the conclusion that extraterrestrial craft caused them. Following the 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event, critics argued that the witnesses had described real military incidents, equipment malfunctions and unusual observations, yet had not demonstrated a reliable causal link between those events and an alien intervention. The debate therefore centred less on whether something occurred at nuclear sites and more on how much weight should be given to decades-old testimony, reconstructed memories and circumstantial associations. The split in public reaction reflected this distinction: some audiences saw credible [military witnesses]({{ 'witnesses/' | relative_url }}) raising unanswered questions, while sceptics saw a familiar pattern in which extraordinary conclusions outran the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Ex-Air Force Personnel: UFOs Deactivated Nukes</span><span class="citation-popover-snippet">CBS NewsEx-Air Force Personnel: UFOs Deactivated NukesSeptember 28, 2010 — 28 Sept 2010 — Former Air Force personnel testifying to the ex...</span><span class="citation-popover-meta">Published: September 28, 2010</span></span></span>
+The strongest sceptical response to the alien-disarmament claim was not that missile failures never happened, but that the evidence does not justify the conclusion that extraterrestrial craft caused them. Following the 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event, critics argued that the witnesses had described real military incidents, equipment malfunctions and unusual observations, yet had not demonstrated a reliable causal link between those events and an alien intervention. The debate therefore centred less on whether something occurred at nuclear sites and more on how much weight should be given to decades-old testimony, reconstructed memories and circumstantial associations. The split in public reaction reflected this distinction: some audiences saw credible [military witnesses]({{ 'witnesses/' | relative_url }}) raising unanswered questions, while sceptics saw a familiar pattern in which extraordinary conclusions outran the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Ex-Air Force Personnel: UFOs Deactivated Nukes</span><span class="citation-popover-snippet">CBS NewsEx-Air Force Personnel: UFOs Deactivated NukesSeptember 28, 2010 — 28 Sept 2010 — Former Air Force personnel testifying to the ex...</span><span class="citation-popover-meta">Published: September 28, 2010</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptical_reactions_1f886e-Illustration-1-dark.svg" | relative_url }}" alt="Sceptics illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptical_reactions_1f886e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptical_reactions_1f886e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Sceptics Found Weak in the Claims
 
-The most common sceptical criticism concerned the leap from correlation to causation. Witnesses such as [Robert Salas]({{ 'salas/' | relative_url }}) described missile shutdowns occurring around the same time that security personnel reportedly observed unusual aerial objects. Sceptics argued that even if both reports were accurate, simultaneous events do not automatically establish that one caused the other. [Technical failures]({{ 'failures/' | relative_url }}) in complex missile systems were documented realities of Cold War operations, and critics maintained that proving an alien connection would require evidence beyond testimony and timing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</span><span class="citation-popover-meta">Published: February 26, 2026</span></span></span>
+The most common sceptical criticism concerned the leap from correlation to causation. Witnesses such as [Robert Salas]({{ 'salas/' | relative_url }}) described missile shutdowns occurring around the same time that security personnel reportedly observed unusual aerial objects. Sceptics argued that even if both reports were accurate, simultaneous events do not automatically establish that one caused the other. [Technical failures]({{ 'failures/' | relative_url }}) in complex missile systems were documented realities of Cold War operations, and critics maintained that proving an alien connection would require evidence beyond testimony and timing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</span><span class="citation-popover-meta">Published: February 26, 2026</span></span></span>
 
-A second criticism focused on the absence of contemporaneous documentation explicitly linking [unidentified]({{ 'unidentified/' | relative_url }}) objects to missile malfunctions. The declassified records presented by proponents documented missile outages and operational problems, but sceptics noted that these records generally did not conclude that UFOs caused the failures. Instead, the UFO interpretation was often supplied later through witness recollections and retrospective analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
+A second criticism focused on the absence of contemporaneous documentation explicitly linking [unidentified]({{ 'unidentified/' | relative_url }}) objects to missile malfunctions. The declassified records presented by proponents documented missile outages and operational problems, but sceptics noted that these records generally did not conclude that UFOs caused the failures. Instead, the UFO interpretation was often supplied later through witness recollections and retrospective analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
 
-The Malmstrom case became the central battleground. Sceptics pointed to Air Force investigations and technical reports that treated the missile failures as engineering and systems issues rather than evidence of external interference. Critics also highlighted disputes over which missile flight experienced the shutdowns and whether later witness accounts matched the documentary record. These inconsistencies did not necessarily prove that witnesses were dishonest, but they weakened confidence in a straightforward alien-disarmament narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</span><span class="citation-popover-meta">Published: February 26, 2026</span></span></span>
+The Malmstrom case became the central battleground. Sceptics pointed to Air Force investigations and technical reports that treated the missile failures as engineering and systems issues rather than evidence of external interference. Critics also highlighted disputes over which missile flight experienced the shutdowns and whether later witness accounts matched the documentary record. These inconsistencies did not necessarily prove that witnesses were dishonest, but they weakened confidence in a straightforward alien-disarmament narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</span><span class="citation-popover-meta">Published: February 26, 2026</span></span></span>
 
-Another recurring sceptical argument concerned evidential standards. Extraordinary claims about non-human intelligence disabling strategic nuclear weapons would, critics argued, require exceptionally strong [corroboration]({{ 'corroboration/' | relative_url }}): [radar]({{ 'radar/' | relative_url }}) data, photographs, instrument records, or official findings directly supporting the claim. Testimony alone, even from military personnel, was viewed as insufficient to establish such a remarkable conclusion. Benjamin Radford and other sceptical commentators argued that the 2010 presentations largely revisited longstanding allegations rather than introducing decisive new proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Hastings (ufologist</span><span class="citation-popover-snippet">Robert Hastings (ufologist</span></span></span>
+Another recurring sceptical argument concerned evidential standards. Extraordinary claims about non-human intelligence disabling strategic nuclear weapons would, critics argued, require exceptionally strong [corroboration]({{ 'corroboration/' | relative_url }}): [radar]({{ 'radar/' | relative_url }}) data, photographs, instrument records, or official findings directly supporting the claim. Testimony alone, even from military personnel, was viewed as insufficient to establish such a remarkable conclusion. Benjamin Radford and other sceptical commentators argued that the 2010 presentations largely revisited longstanding allegations rather than introducing decisive new proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Hastings (ufologist</span><span class="citation-popover-snippet">Robert Hastings (ufologist</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syGME_XtHkg" title="Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer">Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 1.7M &middot; Uploaded: June 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syGME_XtHkg">Open on YouTube</a></p></div></div></div>
@@ -301,9 +301,9 @@ Another recurring sceptical argument concerned evidential standards. Extraordina
 
 One of the most persistent sceptical concerns involved the long gap between the alleged events and the public testimony. Many of the incidents discussed at the National Press Club had occurred decades earlier, during the 1960s and 1970s. Human memory is known to change over time, especially when recollections are repeatedly revisited, discussed and interpreted through new information.
 
-Sceptics therefore questioned whether witnesses were recalling events exactly as they occurred or reconstructing them through years of reflection. This did not require accusing the witnesses of fabrication. Rather, critics argued that sincere individuals can remember genuine experiences inaccurately, particularly when dealing with unusual or emotionally significant incidents. In this view, the passage of forty years complicated efforts to separate what was directly observed from conclusions reached later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</span><span class="citation-popover-meta">Published: February 26, 2026</span></span></span>
+Sceptics therefore questioned whether witnesses were recalling events exactly as they occurred or reconstructing them through years of reflection. This did not require accusing the witnesses of fabrication. Rather, critics argued that sincere individuals can remember genuine experiences inaccurately, particularly when dealing with unusual or emotionally significant incidents. In this view, the passage of forty years complicated efforts to separate what was directly observed from conclusions reached later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</span><span class="citation-popover-meta">Published: February 26, 2026</span></span></span>
 
-The timing of disclosures also attracted attention. Some sceptics asked why dramatic claims about alien interference with nuclear weapons often became more detailed over the years. They argued that later accounts sometimes appeared more definitive than earlier records. Supporters interpreted this as witnesses finally feeling free to speak openly; sceptics saw it as a warning sign that narratives might be evolving rather than simply being revealed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOsBut Salas said it&#x27;s a &quot;falsehood&quot; that UFOs are not a national security threat and clai...</span></span></span>
+The timing of disclosures also attracted attention. Some sceptics asked why dramatic claims about alien interference with nuclear weapons often became more detailed over the years. They argued that later accounts sometimes appeared more definitive than earlier records. Supporters interpreted this as witnesses finally feeling free to speak openly; sceptics saw it as a warning sign that narratives might be evolving rather than simply being revealed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOsBut Salas said it&#x27;s a &quot;falsehood&quot; that UFOs are not a national security threat and clai...</span></span></span>
 
 A related issue involved the challenge of verifying testimony after so much time had passed. Records may be incomplete, personnel may have died, and technical documentation may no longer exist. This left researchers with a mixture of memories, partial records and competing interpretations, creating a situation in which definitive resolution became increasingly difficult.
 
@@ -316,207 +316,207 @@ A related issue involved the challenge of verifying testimony after so much time
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptical_reactions_1f886e-Illustration-2-dark.svg" | relative_url }}" alt="Sceptics illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptical_reactions_1f886e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_skeptical_reactions_1f886e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Ridicule Shaped Public Understanding
 
-The public reception of the 2010 event revealed a long-standing divide in UFO culture. Some news organisations treated the testimony as a serious challenge deserving investigation because it involved former military personnel discussing nuclear-security matters. Coverage often emphasised the witnesses' backgrounds and the significance of the allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Ex-Air Force Personnel: UFOs Deactivated Nukes</span><span class="citation-popover-snippet">CBS NewsEx-Air Force Personnel: UFOs Deactivated NukesSeptember 28, 2010 — 28 Sept 2010 — Former Air Force personnel testifying to the ex...</span><span class="citation-popover-meta">Published: September 28, 2010</span></span></span>
+The public reception of the 2010 event revealed a long-standing divide in UFO culture. Some news organisations treated the testimony as a serious challenge deserving investigation because it involved former military personnel discussing nuclear-security matters. Coverage often emphasised the witnesses' backgrounds and the significance of the allegations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Ex-Air Force Personnel: UFOs Deactivated Nukes</span><span class="citation-popover-snippet">CBS NewsEx-Air Force Personnel: UFOs Deactivated NukesSeptember 28, 2010 — 28 Sept 2010 — Former Air Force personnel testifying to the ex...</span><span class="citation-popover-meta">Published: September 28, 2010</span></span></span>
 
-Other outlets adopted a far more sceptical or humorous tone. The very idea that extraterrestrials might be disabling nuclear missiles was frequently presented as inherently implausible or even absurd. Headlines, commentary and opinion pieces sometimes framed the event as another example of Washington's capacity to host unusual press conferences rather than as a credible national-security issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/archive/local/2010/09/28/ufo-visits-hmmm-cookies-yummm/f6fdd6cc-ca9d-11df-8eee-2e1a26a3708e/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post UFO visits?</span><span class="citation-popover-snippet">Hmmm. Cookies? Yummm.September 28, 2010 — 27 Sept 2010 — The cookies they serve at press conferences at the National Press Club are the s...</span><span class="citation-popover-meta">Published: September 28, 2010</span></span></span>
+Other outlets adopted a far more sceptical or humorous tone. The very idea that extraterrestrials might be disabling nuclear missiles was frequently presented as inherently implausible or even absurd. Headlines, commentary and opinion pieces sometimes framed the event as another example of Washington's capacity to host unusual press conferences rather than as a credible national-security issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/archive/local/2010/09/28/ufo-visits-hmmm-cookies-yummm/f6fdd6cc-ca9d-11df-8eee-2e1a26a3708e/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post UFO visits?</span><span class="citation-popover-snippet">Hmmm. Cookies? Yummm.September 28, 2010 — 27 Sept 2010 — The cookies they serve at press conferences at the National Press Club are the s...</span><span class="citation-popover-meta">Published: September 28, 2010</span></span></span>
 
 This ridicule had two effects. For believers and many witnesses, it reinforced the argument that UFO reports were dismissed culturally before being evaluated on their merits. For sceptics, however, humour served a different purpose: it signalled how large the evidential gap appeared between the claims being made and the proof being offered.
 
-The result was a public conversation that often became polarised. Supporters interpreted scepticism as closed-mindedness, while critics viewed belief in alien intervention as a conclusion unsupported by evidence. Lost between those positions was a narrower question that many sceptics considered more productive: whether unusual events occurred around nuclear facilities, regardless of whether those events had anything to do with extraterrestrial intelligence. That distinction remains central to sceptical assessments of the alien-disarmament claim today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[newyorker.com+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">How the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — The Pentagon Started Taking UFOs Seriously...</span><span class="citation-popover-meta">Published: April 30, 2021</span></span></span>
+The result was a public conversation that often became polarised. Supporters interpreted scepticism as closed-mindedness, while critics viewed belief in alien intervention as a conclusion unsupported by evidence. Lost between those positions was a narrower question that many sceptics considered more productive: whether unusual events occurred around nuclear facilities, regardless of whether those events had anything to do with extraterrestrial intelligence. That distinction remains central to sceptical assessments of the alien-disarmament claim today.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[newyorker.com+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">How the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — The Pentagon Started Taking UFOs Seriously...</span><span class="citation-popover-meta">Published: April 30, 2021</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/10n29IRC8OU" title="1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer">1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone</a></p><p class="youtube-embed-meta">Channel: Queen City News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=10n29IRC8OU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sceptics Pushed Back So Hard. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sceptics Pushed Back So Hard. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Directly relevant to debates over UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to debates over UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses evidence standards and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses evidence standards and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Represents the claims critics often evaluate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the claims critics often evaluate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores memory, belief formation and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores memory, belief formation and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set"><img src="{{ '/assets/images/marketplace-covers/72b2e404367cb3b56822.jpg' | relative_url }}" alt="Listing image for The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set"><img src="{{ '/assets/images/marketplace-covers/72b2e404367cb3b56822.jpg' | relative_url }}" alt="Listing image for The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for China, Soviet Union, West: Political 1980s Book"><img src="{{ '/assets/images/marketplace-covers/75a180f000165fd10718.jpg' | relative_url }}" alt="Listing image for China, Soviet Union, West: Political 1980s Book" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">China, Soviet Union, West: Political 1980s Book</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for China, Soviet Union, West: Political 1980s Book"><img src="{{ '/assets/images/marketplace-covers/75a180f000165fd10718.jpg' | relative_url }}" alt="Listing image for China, Soviet Union, West: Political 1980s Book" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">China, Soviet Union, West: Political 1980s Book</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Iron Curtain Barbed Wire Cold War Historical Memorabilia Hungary Germany"><img src="{{ '/assets/images/marketplace-covers/df845394037b0befc37e.jpg' | relative_url }}" alt="Listing image for The Iron Curtain Barbed Wire Cold War Historical Memorabilia Hungary Germany" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Iron Curtain Barbed Wire Cold War Historical Memorabilia Hungary Germany</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Iron Curtain Barbed Wire Cold War Historical Memorabilia Hungary Germany"><img src="{{ '/assets/images/marketplace-covers/df845394037b0befc37e.jpg' | relative_url }}" alt="Listing image for The Iron Curtain Barbed Wire Cold War Historical Memorabilia Hungary Germany" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Iron Curtain Barbed Wire Cold War Historical Memorabilia Hungary Germany</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia"><img src="{{ '/assets/images/marketplace-covers/eac320d5712486bb7128.jpg' | relative_url }}" alt="Listing image for Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia"><img src="{{ '/assets/images/marketplace-covers/eac320d5712486bb7128.jpg' | relative_url }}" alt="Listing image for Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="sceptics-why-sceptics-pushed-back-so-hard-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ The result was a public conversation that often became polarised. Supporters int
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ The result was a public conversation that often became polarised. Supporters int
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ The result was a public conversation that often became polarised. Supporters int
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ The result was a public conversation that often became polarised. Supporters int
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ The result was a public conversation that often became polarised. Supporters int
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,129 +722,129 @@ The result was a public conversation that often became polarised. Supporters int
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Robert Hastings (ufologist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</p></details>
    Published: February 26, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — The Pentagon Started Taking UFOs Seriously...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Pentagon Started Taking U.F.O.s SeriouslyApril 30, 2021 — 30 Apr 2021 — The Pentagon Started Taking UFOs Seriously...</p></details>
    Published: April 30, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RobertThe name Robert is an ancient Germanic given name, from Proto-Germanic *Hrōþi- &quot;fame&quot; and *berhta- &quot;bright&quot; (Hrōþiberhtaz). Comp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Robert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RobertThe name Robert is an ancient Germanic given name, from Proto-Germanic *Hrōþi- &quot;fame&quot; and *berhta- &quot;bright&quot; (Hrōþiberhtaz). Comp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ncidents at nuclear missile bases and test sites during the Cold War era...</p></details>
+   Link:<a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncidents at nuclear missile bases and test sites during the Cold War era...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: press.org  
    Title: Club Rewind  
-   Link: <a href="https://www.press.org/newsroom/video/press-club-rewind-562013" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/newsroom/video/press-club-rewind-562013</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Press Club Rewind - 5.6.2013Press Club Rewind is a weekly review of events at the National Press Club. In this weeks&#x27; edition: An array o...</p></details>
+   Link:<a href="https://www.press.org/newsroom/video/press-club-rewind-562013" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/newsroom/video/press-club-rewind-562013</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Press Club Rewind - 5.6.2013Press Club Rewind is a weekly review of events at the National Press Club. In this weeks&#x27; edition: An array o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
    Title: CBS News Ex-Air Force Personnel: UFOs Deactivated Nukes  
-   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsEx-Air Force Personnel: UFOs Deactivated NukesSeptember 28, 2010 — 28 Sept 2010 — Former Air Force personnel testifying to the ex...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsEx-Air Force Personnel: UFOs Deactivated NukesSeptember 28, 2010 — 28 Sept 2010 — Former Air Force personnel testifying to the ex...</p></details>
    Published: September 28, 2010  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOsBut Salas said it&#x27;s a &quot;falsehood&quot; that UFOs are not a national security threat and clai...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOsBut Salas said it&#x27;s a &quot;falsehood&quot; that UFOs are not a national security threat and clai...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
    Title: great expectations ufos in congress  
-   Link: <a href="https://skepticalinquirer.org/exclusive/great-expectations-ufos-in-congress/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/great-expectations-ufos-in-congress/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Expectations: UFOs in Congress25 May 2022 — It would be the first congressional hearing on UFOs in fifty years! Full transparency w...</p></details>
+   Link:<a href="https://skepticalinquirer.org/exclusive/great-expectations-ufos-in-congress/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/great-expectations-ufos-in-congress/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great Expectations: UFOs in Congress25 May 2022 — It would be the first congressional hearing on UFOs in fifty years! Full transparency w...</p></details>
    Published: May 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: washingtonpost.com  
    Title: The Washington Post UFO visits?  
-   Link: <a href="https://www.washingtonpost.com/archive/local/2010/09/28/ufo-visits-hmmm-cookies-yummm/f6fdd6cc-ca9d-11df-8eee-2e1a26a3708e/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/local/2010/09/28/ufo-visits-hmmm-cookies-yummm/f6fdd6cc-ca9d-11df-8eee-2e1a26a3708e/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hmmm. Cookies? Yummm.September 28, 2010 — 27 Sept 2010 — The cookies they serve at press conferences at the National Press Club are the s...</p></details>
+   Link:<a href="https://www.washingtonpost.com/archive/local/2010/09/28/ufo-visits-hmmm-cookies-yummm/f6fdd6cc-ca9d-11df-8eee-2e1a26a3708e/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/local/2010/09/28/ufo-visits-hmmm-cookies-yummm/f6fdd6cc-ca9d-11df-8eee-2e1a26a3708e/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hmmm. Cookies? Yummm.September 28, 2010 — 27 Sept 2010 — The cookies they serve at press conferences at the National Press Club are the s...</p></details>
    Published: September 28, 2010  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oxfordlearnersdictionaries.com  
-   Link: <a href="https://www.oxfordlearnersdictionaries.com/definition/english/robert" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/robert</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, pronunciation, picture, example sentences, grammar, usage notes, synonyms and more...</p></details>
+   Link:<a href="https://www.oxfordlearnersdictionaries.com/definition/english/robert" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/robert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, pronunciation, picture, example sentences, grammar, usage notes, synonyms and more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: usafaclasses.org  
-   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob&#x27;s HistoryIn my three years at Malmstrom, it was rare for any missile to go into NO-GO status for any reason, much less ten within sec...</p></details>
+   Link:<a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob&#x27;s HistoryIn my three years at Malmstrom, it was rare for any missile to go into NO-GO status for any reason, much less ten within sec...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1leitre/former_us_air_force_officer_robert_salas_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1leitre/former_us_air_force_officer_robert_salas_who/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force officer Robert SalasHe testifies about a UFO incident on the morning of March 16, 1967 where 16 nuclear missiles simu...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1leitre/former_us_air_force_officer_robert_salas_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1leitre/former_us_air_force_officer_robert_salas_who/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force officer Robert SalasHe testifies about a UFO incident on the morning of March 16, 1967 where 16 nuclear missiles simu...</p></details>
    Published: March 16, 1967  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/robert" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/robert</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROBERT definition and meaning | Collins English DictionaryRobert in British English (ˈrɒbət IPA Pronunciation Guide) noun a common name...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/robert" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/robert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ROBERT definition and meaning | Collins English DictionaryRobert in British English (ˈrɒbət IPA Pronunciation Guide) noun a common name...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: former us air force captain says ufos attacked a nuclear missile base in the 196  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force captain says UFOs attacked a nuclear...UFOs and nukes In 2010, seven former US Air Force personnel described their p...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force captain says UFOs attacked a nuclear...UFOs and nukes In 2010, seven former US Air Force personnel described their p...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gizmodo.com  
    Title: former military officers to speak out in washington on 5645273  
-   Link: <a href="https://gizmodo.com/former-military-officers-to-speak-out-in-washington-on-5645273" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/former-military-officers-to-speak-out-in-washington-on-5645273</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former military officers to speak out in Washington on...22 Sept 2010 — A group of former military officers are convening at the...</p></details>
+   Link:<a href="https://gizmodo.com/former-military-officers-to-speak-out-in-washington-on-5645273" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/former-military-officers-to-speak-out-in-washington-on-5645273</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former military officers to speak out in Washington on...22 Sept 2010 — A group of former military officers are convening at the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NEWSMAX/posts/im-convinced-they-are-not-from-here-robert-salas-a-former-air-force-missile-offi/1461145989391332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/im-convinced-they-are-not-from-here-robert-salas-a-former-air-force-missile-offi/1461145989391332/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP (unidentified aerial phenomenon) while visiting and disabling...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NEWSMAX/posts/im-convinced-they-are-not-from-here-robert-salas-a-former-air-force-missile-offi/1461145989391332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NEWSMAX/posts/im-convinced-they-are-not-from-here-robert-salas-a-former-air-force-missile-offi/1461145989391332/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP (unidentified aerial phenomenon) while visiting and disabling...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t a site a short distance away, Oscar Flight rather than Echo...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t a site a short distance away, Oscar Flight rather than Echo...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Military Can't Explain These UFOs at US & Russian Nuclear Weapons Sites  
-   Link: <a href="http://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=syGME_XtHkg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical analysis of UFO nuclear missile claims Robert Salas Malmstrom incident House committee holds UFO hearing Associated Press...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=syGME_XtHkg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical analysis of UFO nuclear missile claims Robert Salas Malmstrom incident House committee holds UFO hearing Associated Press...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kashmirmediawatch/posts/-a-former-us-air-force-officer-robert-salas-claims-ufos-appeared-near-malmstrom-/1369866531823854/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kashmirmediawatch/posts/-a-former-us-air-force-officer-robert-salas-claims-ufos-appeared-near-malmstrom-/1369866531823854/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trom Air Force Base and disabled multiple nuclear missiles in...</p></details>
+   Link:<a href="https://www.facebook.com/kashmirmediawatch/posts/-a-former-us-air-force-officer-robert-salas-claims-ufos-appeared-near-malmstrom-/1369866531823854/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kashmirmediawatch/posts/-a-former-us-air-force-officer-robert-salas-claims-ufos-appeared-near-malmstrom-/1369866531823854/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trom Air Force Base and disabled multiple nuclear missiles in...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: c-span.org  
    Title: user clip malmstrom nuclear ufo 1967  
-   Link: <a href="https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738" target="_blank" rel="noopener noreferrer nofollow">https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>User Clip: Malmstrom Nuclear UFO 1967 | VideoHearing that references the Robert Bob Salas incident at Malmstrom Air Force Base, Montana...</p></details>
+   Link:<a href="https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738" target="_blank" rel="noopener noreferrer nofollow">https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>User Clip: Malmstrom Nuclear UFO 1967 | VideoHearing that references the Robert Bob Salas incident at Malmstrom Air Force Base, Montana...</p></details>

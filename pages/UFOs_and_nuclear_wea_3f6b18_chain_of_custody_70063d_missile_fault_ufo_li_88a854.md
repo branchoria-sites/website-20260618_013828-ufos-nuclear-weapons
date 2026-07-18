@@ -272,7 +272,7 @@ This distinction matters because a missile failure and a UFO sighting are two [s
 
 In nuclear-UFO debates, official technical records are usually strongest when answering the question, “Did something happen?” They are often much weaker when answering, “What caused it?”
 
-The best-known example is the March 1967 Echo Flight incident at Malmstrom Air Force Base. Declassified Air Force historical records confirm that all ten Minuteman missiles in Echo Flight simultaneously entered a “No-Go” condition and lost strategic alert status. The malfunction was real and documented. The same record, however, states that rumours of UFO activity around Echo Flight during the fault were investigated and “disproven”, that a Mobile Strike Team reported no unusual sightings, and that [radar]({{ 'radar/' | relative_url }}) personnel reported no relevant atmospheric or radar anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo... not report...</span></span></span>
+The best-known example is the March 1967 Echo Flight incident at Malmstrom Air Force Base. Declassified Air Force historical records confirm that all ten Minuteman missiles in Echo Flight simultaneously entered a “No-Go” condition and lost strategic alert status. The malfunction was real and documented. The same record, however, states that rumours of UFO activity around Echo Flight during the fault were investigated and “disproven”, that a Mobile Strike Team reported no unusual sightings, and that [radar]({{ 'radar/' | relative_url }}) personnel reported no relevant atmospheric or radar anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo... not report...</span></span></span>
 
 This creates an important evidential split:
 
@@ -281,7 +281,7 @@ This creates an important evidential split:
 
 * The missile outage is supported by official documentation.
 * The claim that a UFO caused the outage is not established by that documentation.
-* The surviving record actually contains information arguing against a confirmed UFO connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo... not report...</span></span></span>
+* The surviving record actually contains information arguing against a confirmed UFO connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo... not report...</span></span></span>
 
 </div>
 
@@ -309,7 +309,7 @@ To establish causation, investigators would ideally want:
 
 In many historic cases, some of these elements are absent, unavailable, or appear only decades later through interviews and memoirs. The result is a shift from documented evidence to retrospective reconstruction.
 
-The Malmstrom controversy illustrates this problem clearly. Former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) and other witnesses have long argued that unusual aerial objects were present during missile shutdown incidents and that the timing suggests a connection. Their accounts are a significant part of the public narrative. However, the official historical record confirming the missile fault does not itself establish that connection, and critics have noted that much of the UFO claim relies on testimony emerging long after the event rather than on a continuous documentary trail preserved from 1967. Tim Hebert's Blog+3Press.org+3UFO Evidence <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+The Malmstrom controversy illustrates this problem clearly. Former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) and other witnesses have long argued that unusual aerial objects were present during missile shutdown incidents and that the timing suggests a connection. Their accounts are a significant part of the public narrative. However, the official historical record confirming the missile fault does not itself establish that connection, and critics have noted that much of the UFO claim relies on testimony emerging long after the event rather than on a continuous documentary trail preserved from 1967. Tim Hebert's Blog+3Press.org+3UFO Evidence<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
 
 This is the key custody break. The documented missile event and the UFO narrative coexist, but the surviving evidence linking them is incomplete and disputed.
 
@@ -334,9 +334,9 @@ The evidential burden is not merely to show that a UFO was reported and that a f
 
 The dispute becomes sharper when later investigations propose conventional mechanisms.
 
-Engineering discussions surrounding the Echo Flight shutdown have long explored technical explanations involving electrical disturbances, [logic-coupler]({{ 'logic-coupler/' | relative_url }}) problems, signal injection, or other system vulnerabilities. Various researchers have debated which explanation best fits the known facts, but these discussions at least attempt to connect the observed failure to identifiable engineering mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapledger.com">[UAP Ledger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapledger.com</span><span class="citation-popover-title">An engineering</span><span class="citation-popover-snippet">UAP LedgerMalmstrom AFB Nuclear Incident · UAP Ledger &#124; UAP Intelligence...March 16, 1967 — All ten Minuteman I missiles at Echo Flight...</span><span class="citation-popover-meta">Published: March 16, 1967</span></span></span>
+Engineering discussions surrounding the Echo Flight shutdown have long explored technical explanations involving electrical disturbances, [logic-coupler]({{ 'logic-coupler/' | relative_url }}) problems, signal injection, or other system vulnerabilities. Various researchers have debated which explanation best fits the known facts, but these discussions at least attempt to connect the observed failure to identifiable engineering mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapledger.com">[UAP Ledger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapledger.com</span><span class="citation-popover-title">An engineering</span><span class="citation-popover-snippet">UAP LedgerMalmstrom AFB Nuclear Incident · UAP Ledger &#124; UAP Intelligence...March 16, 1967 — All ten Minuteman I missiles at Echo Flight...</span><span class="citation-popover-meta">Published: March 16, 1967</span></span></span>
 
-More recently, reporting on investigations conducted for the Pentagon's All-domain Anomaly Resolution Office (AARO) described evidence that some Cold War-era missile incidents were connected to electromagnetic-effects testing rather than extraterrestrial intervention. According to reporting on the investigation, researchers concluded that certain missile shutdown stories could be traced to tests involving equipment designed to simulate electromagnetic pulse effects on strategic systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
+More recently, reporting on investigations conducted for the Pentagon's All-domain Anomaly Resolution Office (AARO) described evidence that some Cold War-era missile incidents were connected to electromagnetic-effects testing rather than extraterrestrial intervention. According to reporting on the investigation, researchers concluded that certain missile shutdown stories could be traced to tests involving equipment designed to simulate electromagnetic pulse effects on strategic systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
 
 Whether every historical claim is fully resolved remains debated. What matters for chain-of-custody analysis is that documented technical explanations can be examined, challenged, and tested against records. A UFO explanation requires the same standard of evidence.
 
@@ -367,194 +367,194 @@ For that reason, a recorded missile fault should be treated as evidence that a m
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_missile_fault_ufo_li_88a854-Illustration-3-dark.svg" | relative_url }}" alt="Fault Links illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_missile_fault_ufo_li_88a854-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_missile_fault_ufo_li_88a854-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the incident survives but the UFO link does not. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the incident survives but the UFO link does not. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores how reports are classified and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reports are classified and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Focuses on how claims are evaluated and what evidence survives scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how claims are evaluated and what evidence survives scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides insight into investigation practices and evidentiary limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into investigation practices and evidentiary limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly examines missile shutdown stories, testimony, and evidentiary disputes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines missile shutdown stories, testimony, and evidentiary disputes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="fault-links-when-the-incident-survives-but-the-ufo-link-does-not-ufos-and-nuclear-weapons-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ For that reason, a recorded missile fault should be treated as evidence that a m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ For that reason, a recorded missile fault should be treated as evidence that a m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ For that reason, a recorded missile fault should be treated as evidence that a m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ For that reason, a recorded missile fault should be treated as evidence that a m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ For that reason, a recorded missile fault should be treated as evidence that a m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,105 +760,105 @@ For that reason, a recorded missile fault should be treated as evidence that a m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/news-conferences/news-conference-[unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-[unidentified</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era...</p></details>
+   Link:<a href="https://www.press.org/events/news-conferences/news-conference-[unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-[unidentified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: military.com  
    Title: air force veterans who are ufo true believers return newly attentive washington  
-   Link: <a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Veterans Who Are UFO True Believers Return to...Oct 19, 2021 — &quot;I waited 40 years before I opened my mouth, and that&#x27;s a long...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Veterans Who Are UFO True Believers Return to...Oct 19, 2021 — &quot;I waited 40 years before I opened my mouth, and that&#x27;s a long...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo... not report...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo... not report...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufoevidence.com  
    Title: UFO Evidence Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom AFB “Echo Flight” Shutdown - UFOevidenceMultiple witnesses provided affidavits describing reported UAP activity and briefings a...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom AFB “Echo Flight” Shutdown - UFOevidenceMultiple witnesses provided affidavits describing reported UAP activity and briefings a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Carlson has always claimed that no UFOs were involved.Read more...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Carlson has always claimed that no UFOs were involved.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uapledger.com  
    Title: An engineering  
-   Link: <a href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow">https://uapledger.com/cases/malmstrom-afb-1967</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP LedgerMalmstrom AFB Nuclear Incident · UAP Ledger | UAP Intelligence...March 16, 1967 — All ten Minuteman I missiles at Echo Flight...</p></details>
+   Link:<a href="https://uapledger.com/cases/malmstrom-afb-1967" target="_blank" rel="noopener noreferrer nofollow">https://uapledger.com/cases/malmstrom-afb-1967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP LedgerMalmstrom AFB Nuclear Incident · UAP Ledger | UAP Intelligence...March 16, 1967 — All ten Minuteman I missiles at Echo Flight...</p></details>
    Published: March 16, 1967  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Robert Salas  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert SalasBeginning in the late 1990s, Salas received widespread publicity for his claims that UFOs disabled a missile flight he was...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert SalasBeginning in the late 1990s, Salas received widespread publicity for his claims that UFOs disabled a missile flight he was...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case1017.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case1017.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To summarize the events of that morning: UFOs were sighted by security personnel...Read more...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case1017.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case1017.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To summarize the events of that morning: UFOs were sighted by security personnel...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: philarchive.org  
-   Link: <a href="https://philarchive.org/archive/TONTES-3" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/TONTES-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking ET SeriouslyThe question “Are aliens here?” is poorly formed. It invites a binary response to what is funda- mentally a probabilis...</p></details>
+   Link:<a href="https://philarchive.org/archive/TONTES-3" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/TONTES-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taking ET SeriouslyThe question “Are aliens here?” is poorly formed. It invites a binary response to what is funda- mentally a probabilis...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson</a>  
+   Link:<a href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Flights of FantasyHe still asserted, however, that UFOs were reported at both missile sites -- E-Flight and O-Flight – on March 16...</p></details>
+   Link:<a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Flights of FantasyHe still asserted, however, that UFOs were reported at both missile sites -- E-Flight and O-Flight – on March 16...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base...Retired U.S. Air Force launch officer Captain Robert Salas joins NewsNation t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base...Retired U.S. Air Force launch officer Captain Robert Salas joins NewsNation t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rova.nz  
    Title: captain robert salas exposes malmstrom afb ufo shutdown to congress  
-   Link: <a href="https://www.rova.nz/podcasts/total-disclosure-ufos-coverups-and-conspiracy/episodes/captain-robert-salas-exposes-malmstrom-afb-ufo-shutdown-to-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.rova.nz/podcasts/total-disclosure-ufos-coverups-and-conspiracy/episodes/captain-robert-salas-exposes-malmstrom-afb-ufo-shutdown-to-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Captain Robert Salas EXPOSES Malmstrom AFB UFO...13 Sept 2025 — In 1967, 10 nuclear missiles mysteriously went offline at Malmstrom Air...</p></details>
+   Link:<a href="https://www.rova.nz/podcasts/total-disclosure-ufos-coverups-and-conspiracy/episodes/captain-robert-salas-exposes-malmstrom-afb-ufo-shutdown-to-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.rova.nz/podcasts/total-disclosure-ufos-coverups-and-conspiracy/episodes/captain-robert-salas-exposes-malmstrom-afb-ufo-shutdown-to-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Captain Robert Salas EXPOSES Malmstrom AFB UFO...13 Sept 2025 — In 1967, 10 nuclear missiles mysteriously went offline at Malmstrom Air...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: meer.com  
    Title: 75269 curse of the malmstrom nuclear ufo incident 1967  
-   Link: <a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
+   Link:<a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thesun.co.uk  
    Title: former air force veteran ufo sighting nuclear missiles  
-   Link: <a href="https://www.thesun.co.uk/news/38548201/former-air-force-veteran-ufo-sighting-nuclear-missiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38548201/former-air-force-veteran-ufo-sighting-nuclear-missiles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force veteran recalls horrifying moment &#x27;UFOs shut...17 Mar 2026 — Robert Salas said 20 Minuteman I intercontinental ballistic missi...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/38548201/former-air-force-veteran-ufo-sighting-nuclear-missiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38548201/former-air-force-veteran-ufo-sighting-nuclear-missiles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force veteran recalls horrifying moment &#x27;UFOs shut...17 Mar 2026 — Robert Salas said 20 Minuteman I intercontinental ballistic missi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Bfje8u3M4fI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Bfje8u3M4fI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom Air Force Base missile failure UFO 1967 What Disabled Missiles at Malmstrom Air Force Base?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Bfje8u3M4fI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Bfje8u3M4fI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom Air Force Base missile failure UFO 1967 What Disabled Missiles at Malmstrom Air Force Base?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufos. Are they ET? Perhaps Russia captured alien tech, and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufos. Are they ET? Perhaps Russia captured alien tech, and...Read more...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_powe
 
 ## Introduction
 
-When claims arise that UFOs interfered with nuclear missiles, it is easy to focus on the unusual sighting and overlook a more mundane possibility: electrical [failures]({{ 'failures/' | relative_url }}). [Missile fields]({{ 'missile-fields/' | relative_url }}) depend on extensive networks of batteries, chargers, power supplies, cables, monitoring circuits and backup systems. A fault in any part of that chain can produce sudden alarms, equipment shutdowns or “No-Go” conditions that appear dramatic to operators. In several documented cases, investigations found ordinary electrical or maintenance-related causes rather than evidence of an external force acting on the weapons system. The key lesson is not that every missile anomaly has a simple explanation, but that power systems are complex enough to generate alarming failures on their own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
+When claims arise that UFOs interfered with nuclear missiles, it is easy to focus on the unusual sighting and overlook a more mundane possibility: electrical [failures]({{ 'failures/' | relative_url }}). [Missile fields]({{ 'missile-fields/' | relative_url }}) depend on extensive networks of batteries, chargers, power supplies, cables, monitoring circuits and backup systems. A fault in any part of that chain can produce sudden alarms, equipment shutdowns or “No-Go” conditions that appear dramatic to operators. In several documented cases, investigations found ordinary electrical or maintenance-related causes rather than evidence of an external force acting on the weapons system. The key lesson is not that every missile anomaly has a simple explanation, but that power systems are complex enough to generate alarming failures on their own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658-Illustration-1-dark.svg" | relative_url }}" alt="Power Faults illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -301,7 +301,7 @@ Several ordinary mechanisms can create serious operational effects:
 
 </div>
 
-Because strategic missile systems are designed to fail safely, a suspected electrical problem often results in equipment automatically declaring itself unavailable or requiring inspection. To an observer, multiple systems suddenly going offline may appear extraordinary. To engineers, it is often exactly how a safety-conscious system is expected to react when power integrity becomes uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warren.af.mil">[warren.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warren.af.mil</span><span class="citation-popover-title">90th Missile Wing &gt; F.E</span><span class="citation-popover-snippet">Warren Air Force Base &gt; DisplayThe group maintains up to 150 launch facilities and associated missiles, as well as 15 launch control cent...</span></span></span>
+Because strategic missile systems are designed to fail safely, a suspected electrical problem often results in equipment automatically declaring itself unavailable or requiring inspection. To an observer, multiple systems suddenly going offline may appear extraordinary. To engineers, it is often exactly how a safety-conscious system is expected to react when power integrity becomes uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warren.af.mil">[warren.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warren.af.mil</span><span class="citation-popover-title">90th Missile Wing &gt; F.E</span><span class="citation-popover-snippet">Warren Air Force Base &gt; DisplayThe group maintains up to 150 launch facilities and associated missiles, as well as 15 launch control cent...</span></span></span>
 
 This distinction matters in UFO-related debates. A launch facility entering a fault condition is a documented event. Demonstrating that an external object caused that condition is a much higher evidentiary hurdle.
 
@@ -310,11 +310,11 @@ This distinction matters in UFO-related debates. A launch facility entering a fa
 
 ## The F.E. Warren battery-charger fire example
 
-One useful illustration comes from a documented Minuteman III launch facility fire at F.E. Warren Air Force Base. An Air Force accident investigation examined damage associated with launch-facility support equipment, including the battery charger and associated electrical systems. Investigators documented charring, equipment damage and the removal of the battery charger for detailed testing and disassembly. The report also noted how changes in charger operation affected battery behaviour and maintenance conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
+One useful illustration comes from a documented Minuteman III launch facility fire at F.E. Warren Air Force Base. An Air Force accident investigation examined damage associated with launch-facility support equipment, including the battery charger and associated electrical systems. Investigators documented charring, equipment damage and the removal of the battery charger for detailed testing and disassembly. The report also noted how changes in charger operation affected battery behaviour and maintenance conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
 
-What makes this case important is not the fire itself but what it demonstrates about missile infrastructure. The incident shows that support equipment can experience failures serious enough to require extensive technical investigation without invoking exotic explanations. Engineers examined components, insulation damage, charging systems, cable conditions and maintenance records to determine what happened. The investigative process focused on physical evidence rather than speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
+What makes this case important is not the fire itself but what it demonstrates about missile infrastructure. The incident shows that support equipment can experience failures serious enough to require extensive technical investigation without invoking exotic explanations. Engineers examined components, insulation damage, charging systems, cable conditions and maintenance records to determine what happened. The investigative process focused on physical evidence rather than speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
 
-Missile fields contain hundreds of geographically dispersed facilities maintained over vast areas. At F.E. Warren, the missile complex covers thousands of square miles and includes numerous launch facilities and control centres. In such environments, electrical equipment failures are not hypothetical possibilities; they are expected risks managed through maintenance, inspection and redundancy programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warren.af.mil">[warren.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warren.af.mil</span><span class="citation-popover-title">90th Missile Wing &gt; F.E</span><span class="citation-popover-snippet">Warren Air Force Base &gt; DisplayThe group maintains up to 150 launch facilities and associated missiles, as well as 15 launch control cent...</span></span></span>
+Missile fields contain hundreds of geographically dispersed facilities maintained over vast areas. At F.E. Warren, the missile complex covers thousands of square miles and includes numerous launch facilities and control centres. In such environments, electrical equipment failures are not hypothetical possibilities; they are expected risks managed through maintenance, inspection and redundancy programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warren.af.mil">[warren.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warren.af.mil</span><span class="citation-popover-title">90th Missile Wing &gt; F.E</span><span class="citation-popover-snippet">Warren Air Force Base &gt; DisplayThe group maintains up to 150 launch facilities and associated missiles, as well as 15 launch control cent...</span></span></span>
 
 The significance for UFO-related claims is straightforward. If documented [electrical faults]({{ 'electrical-fault/' | relative_url }}), charger problems and equipment failures already occur within missile infrastructure, then any claim that a missile malfunction resulted from an unknown external influence must first rule out those well-established failure modes.
 
@@ -324,11 +324,11 @@ The significance for UFO-related claims is straightforward. If documented [elect
 
 One recurring feature of nuclear-UFO stories is the contrast between witness recollections and technical records. Witnesses may sincerely remember unusual lights, security alerts or unexpected equipment behaviour. However, maintenance documents often provide a different kind of evidence: timestamps, fault codes, component inspections, replacement records and engineering findings.
 
-The famous 1967 Echo Flight incident at Malmstrom Air Force Base illustrates the importance of this distinction. The missile shutdown itself is documented. However, the official command history associated with the malfunction reported that rumours of UFO activity connected to the fault were investigated and considered disproven within the technical record. The missiles required troubleshooting and restoration, but the documented evidence did not establish UFO causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The famous 1967 Echo Flight incident at Malmstrom Air Force Base illustrates the importance of this distinction. The missile shutdown itself is documented. However, the official command history associated with the malfunction reported that rumours of UFO activity connected to the fault were investigated and considered disproven within the technical record. The missiles required troubleshooting and restoration, but the documented evidence did not establish UFO causation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 This does not automatically prove every malfunction had a mundane cause. Rather, it highlights how investigations proceed. Engineers do not begin by asking whether something extraordinary happened. They begin by examining power supplies, connectors, batteries, communications links, guidance electronics and maintenance history. Only after conventional explanations are excluded would a more unusual hypothesis become necessary.
 
-Maintenance trails are especially valuable because electrical faults leave evidence. Burned insulation, degraded connectors, abnormal battery conditions, charger damage, voltage anomalies and replacement records can all be examined after an incident. Rumours and retrospective interpretations rarely provide that level of testable detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
+Maintenance trails are especially valuable because electrical faults leave evidence. Burned insulation, degraded connectors, abnormal battery conditions, charger damage, voltage anomalies and replacement records can all be examined after an incident. Rumours and retrospective interpretations rarely provide that level of testable detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/meAZ_NLC7fQ" title="Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer">Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=meAZ_NLC7fQ">Open on YouTube</a></p></div></div></div>
@@ -340,202 +340,202 @@ Maintenance trails are especially valuable because electrical faults leave evide
 
 The debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) often focuses on dramatic narratives, yet the strongest evidence usually comes from technical documentation. Missile systems are among the most complex and heavily monitored machines ever built. Their support infrastructure includes thousands of components that can fail in predictable ways.
 
-Electrical interruptions, charger malfunctions, battery problems and connection faults may lack the intrigue of UFO stories, but they possess something more valuable for investigators: known mechanisms, physical evidence and repeatable failure patterns. Documented incidents at missile facilities show that serious operational disruptions can emerge from ordinary electrical problems, making them essential baseline explanations whenever claims of mysterious interference arise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
+Electrical interruptions, charger malfunctions, battery problems and connection faults may lack the intrigue of UFO stories, but they possess something more valuable for investigators: known mechanisms, physical evidence and repeatable failure patterns. Documented incidents at missile facilities show that serious operational disruptions can emerge from ordinary electrical problems, making them essential baseline explanations whenever claims of mysterious interference arise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
 
-In the specific question of alleged UFO interference with nuclear weapons, power-system failures serve as a reminder that an alarming outcome does not automatically imply an extraordinary cause. Before attributing a missile-site anomaly to an unknown external influence, investigators must first account for the far more common reality that complex electrical systems sometimes fail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
+In the specific question of alleged UFO interference with nuclear weapons, power-system failures serve as a reminder that an alarming outcome does not automatically imply an extraordinary cause. Before attributing a missile-site anomaly to an unknown external influence, investigators must first account for the far more common reality that complex electrical systems sometimes fail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">Air &amp; Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</span><span class="citation-popover-meta">Published: October 31, 2008</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658-Illustration-3-dark.svg" | relative_url }}" alt="Power Faults illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Ordinary Faults Behind Alarming Missile Failures. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Ordinary Faults Behind Alarming Missile Failures. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Details accidents, maintenance failures, electrical faults, and system vulnerabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details accidents, maintenance failures, electrical faults, and system vulnerabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Illustrates engineering troubleshooting and aerospace-system reliability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates engineering troubleshooting and aerospace-system reliability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Minuteman+David+Stumpf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Minuteman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10868676-M.jpg" alt="Cover for Minuteman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Minuteman+David+Stumpf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Minuteman">Minuteman</a>
-        </h4>
-        <p class="fr-book-author">By David Stumpf, Jay W. Kelley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Minuteman+David+Stumpf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Minuteman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10868676-M.jpg" alt="Cover for Minuteman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Minuteman+David+Stumpf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Minuteman">Minuteman</a>
+</h4>
+<p class="fr-book-author">By David Stumpf, Jay W. Kelley</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Minuteman+David+Stumpf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Military art and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Minuteman+David+Stumpf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Provides the UFO claims that technical fault explanations seek to evaluate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the UFO claims that technical fault explanations seek to evaluate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Minuteman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minuteman</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Minuteman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Minuteman</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign"><img src="{{ '/assets/images/marketplace-covers/fa52c50b688a809de2af.jpg' | relative_url }}" alt="Listing image for Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign"><img src="{{ '/assets/images/marketplace-covers/fa52c50b688a809de2af.jpg' | relative_url }}" alt="Listing image for Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER"><img src="{{ '/assets/images/marketplace-covers/b1cc61fed2dab645957c.jpg' | relative_url }}" alt="Listing image for WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER"><img src="{{ '/assets/images/marketplace-covers/b1cc61fed2dab645957c.jpg' | relative_url }}" alt="Listing image for WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/9f9f644488592a1aae82.jpg' | relative_url }}" alt="Listing image for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/9f9f644488592a1aae82.jpg' | relative_url }}" alt="Listing image for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print"><img src="{{ '/assets/images/marketplace-covers/df45560e3ef0d9aec885.jpg' | relative_url }}" alt="Listing image for War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print"><img src="{{ '/assets/images/marketplace-covers/df45560e3ef0d9aec885.jpg' | relative_url }}" alt="Listing image for War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="power-faults-the-ordinary-faults-behind-alarming-missile-failures-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ In the specific question of alleged UFO interference with nuclear weapons, power
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ In the specific question of alleged UFO interference with nuclear weapons, power
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ In the specific question of alleged UFO interference with nuclear weapons, power
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ In the specific question of alleged UFO interference with nuclear weapons, power
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ In the specific question of alleged UFO interference with nuclear weapons, power
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,104 +741,104 @@ In the specific question of alleged UFO interference with nuclear weapons, power
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: warren.af.mil  
    Title: 90th Missile Wing > F.E  
-   Link: <a href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren Air Force Base &gt; DisplayThe group maintains up to 150 launch facilities and associated missiles, as well as 15 launch control cent...</p></details>
+   Link:<a href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warren Air Force Base &gt; DisplayThe group maintains up to 150 launch facilities and associated missiles, as well as 15 launch control cent...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Francis E. Warren Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Francis E. Warren Air Force BaseIt is one of three strategic-missile bases in the U.S. It was named in honor of Medal of Honor recipie...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Francis E. Warren Air Force BaseIt is one of three strategic-missile bases in the U.S. It was named in honor of Medal of Honor recipie...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: warren.af.mil  
    Title: fe warren history  
-   Link: <a href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331281/fe-warren-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331281/fe-warren-history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>af.milF.E. Warren HistoryIn 1958, the 4320th Strategic Missile Wing was established with responsibility for 24 Atlas missile sites under...</p></details>
+   Link:<a href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331281/fe-warren-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331281/fe-warren-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>af.milF.E. Warren HistoryIn 1958, the 4320th Strategic Missile Wing was established with responsibility for 24 Atlas missile sites under...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airandspaceforces.com  
    Title: Air & Space Forces Magazine UNITED STATES AIR FORCE MISSILE ACCIDENT  
-   Link: <a href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/PDF/SiteCollectionDocuments/Reports/2008/November/Day03/AFSPC_AIB_MMIII_LF.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineUNITED STATES AIR FORCE MISSILE ACCIDENT...October 31, 2008 — After the site was powered down on 29 May 2008...</p></details>
    Published: October 31, 2008  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cumulis.epa.gov  
-   Link: <a href="https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&amp;id=0800017" target="_blank" rel="noopener noreferrer nofollow">https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&amp;id=0800017</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WARREN AIR FORCE BASE | Superfund Site ProfileIn 1958, the base became a Strategic Air Command site. ​Since then, it has served as an ope...</p></details>
+   Link:<a href="https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&amp;id=0800017" target="_blank" rel="noopener noreferrer nofollow">https://cumulis.epa.gov/supercpad/SiteProfiles/index.cfm?fuseaction=second.cleanup&amp;id=0800017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WARREN AIR FORCE BASE | Superfund Site ProfileIn 1958, the base became a Strategic Air Command site. ​Since then, it has served as an ope...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: minutemanmissile.com  
    Title: Wing V  
-   Link: <a href="https://minutemanmissile.com/afbwing5.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/afbwing5.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren Air Force Base - Minuteman MissileFE Warren Air Force Base is the oldest continuously active military installation established wit...</p></details>
+   Link:<a href="https://minutemanmissile.com/afbwing5.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/afbwing5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warren Air Force Base - Minuteman MissileFE Warren Air Force Base is the oldest continuously active military installation established wit...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fewarrenhousing.com  
-   Link: <a href="https://www.fewarrenhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.fewarrenhousing.com/history</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren AFB, WY | HistoryThe first missiles at Warren were various Atlas SM-65 models, from 1960 to 1965, under the newly activated 90th S...</p></details>
+   Link:<a href="https://www.fewarrenhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.fewarrenhousing.com/history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warren AFB, WY | HistoryThe first missiles at Warren were various Atlas SM-65 models, from 1960 to 1965, under the newly activated 90th S...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/toiworldnews/videos/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/947219247939317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/toiworldnews/videos/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/947219247939317/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
+   Link:<a href="https://www.facebook.com/toiworldnews/videos/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/947219247939317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/toiworldnews/videos/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/947219247939317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1gxhibg/ufos_not_just_monitoring_nuclear_missile_sites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gxhibg/ufos_not_just_monitoring_nuclear_missile_sites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs not just monitoring nuclear missile sites but also...Serious US Department of War releases UFO and potential alien life files. r/al...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1gxhibg/ufos_not_just_monitoring_nuclear_missile_sites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gxhibg/ufos_not_just_monitoring_nuclear_missile_sites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs not just monitoring nuclear missile sites but also...Serious US Department of War releases UFO and potential alien life files. r/al...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: minutemanmissile.com  
-   Link: <a href="https://minutemanmissile.com/documents/PeacekeeperDeactivationFinalEnvironmentalImpactStatement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/PeacekeeperDeactivationFinalEnvironmentalImpactStatement.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Cheyenne (July 31). Wheatland (August 1), and Torrington (August 2) for the Air Force to present the...Read more...</p></details>
+   Link:<a href="https://minutemanmissile.com/documents/PeacekeeperDeactivationFinalEnvironmentalImpactStatement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/PeacekeeperDeactivationFinalEnvironmentalImpactStatement.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Cheyenne (July 31). Wheatland (August 1), and Torrington (August 2) for the Air Force to present the...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Someone has to take care of all those missiles!  
-   Link: <a href="https://www.facebook.com/FEWarrenAirForceBase/videos/someone-has-to-take-care-of-all-those-missiles-90th-mmxs-director-of-operations-/551780026631920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FEWarrenAirForceBase/videos/someone-has-to-take-care-of-all-those-missiles-90th-mmxs-director-of-operations-/551780026631920/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>90th MMXS...90th MMXS Director of Operations, Captain Brian Nagel, explains how SAFE, SECURE and RELIABLE, our missile maintenance teams...</p></details>
+   Link:<a href="https://www.facebook.com/FEWarrenAirForceBase/videos/someone-has-to-take-care-of-all-those-missiles-90th-mmxs-director-of-operations-/551780026631920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FEWarrenAirForceBase/videos/someone-has-to-take-care-of-all-those-missiles-90th-mmxs-director-of-operations-/551780026631920/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>90th MMXS...90th MMXS Director of Operations, Captain Brian Nagel, explains how SAFE, SECURE and RELIABLE, our missile maintenance teams...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO disabled nuclear missiles at Malmstrom  
-   Link: <a href="http://www.youtube.com/watch?v=0ngU3zJKdpQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0ngU3zJKdpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO nuclear missile shutdown power failure Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK Nati...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0ngU3zJKdpQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0ngU3zJKdpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO nuclear missile shutdown power failure Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK Nati...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/Photos/igphoto/2001949701/mediaid/2846446/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2001949701/mediaid/2846446/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ren Air Force Base missile...Read more...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/Photos/igphoto/2001949701/mediaid/2846446/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Photos/igphoto/2001949701/mediaid/2846446/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ren Air Force Base missile...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/752780219227785/posts/1364929778012823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/752780219227785/posts/1364929778012823/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>k? There was an Autovon switch about 150 miles north of Grand...</p></details>
+   Link:<a href="https://www.facebook.com/groups/752780219227785/posts/1364929778012823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/752780219227785/posts/1364929778012823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>k? There was an Autovon switch about 150 miles north of Grand...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theworld.org  
    Title: did ufos bring us brink nuclear launch  
-   Link: <a href="https://theworld.org/stories/2016/08/01/did-ufos-bring-us-brink-nuclear-launch" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/08/01/did-ufos-bring-us-brink-nuclear-launch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did UFOs bring US to brink of nuclear launch?1 Aug 2016 — Did a UFO cause power failure at nuclear missile base? Missile technicians clai...</p></details>
+   Link:<a href="https://theworld.org/stories/2016/08/01/did-ufos-bring-us-brink-nuclear-launch" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/08/01/did-ufos-bring-us-brink-nuclear-launch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did UFOs bring US to brink of nuclear launch?1 Aug 2016 — Did a UFO cause power failure at nuclear missile base? Missile technicians clai...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown  
-   Link: <a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs DISABLED U.S. Nuclear Missiles At HEIGHT Of Cold War, According To Former USAF Officials...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs DISABLED U.S. Nuclear Missiles At HEIGHT Of Cold War, According To Former USAF Officials...</p></details>

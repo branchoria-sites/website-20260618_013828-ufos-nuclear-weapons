@@ -274,21 +274,21 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_respons
 
 ## Introduction
 
-When a drone appears over a nuclear facility, the most immediate question is often not what the object is, but who has the authority to stop it. Modern nuclear-site security systems can frequently detect suspicious aircraft, track their movements and alert authorities. Yet [detection]({{ 'detection/' | relative_url }}) does not automatically grant the legal power to interfere with the aircraft. In many countries, and particularly in the United States, civilian nuclear operators face a persistent “authority gap”: guards may observe a drone over protected [airspace]({{ 'airspace/' | relative_url }}) but lack the legal authority to jam its signals, seize control of it, or shoot it down. The result is a potentially dangerous handoff between plant security, aviation regulators and law-enforcement agencies at precisely the moment when rapid action may matter most. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
+When a drone appears over a nuclear facility, the most immediate question is often not what the object is, but who has the authority to stop it. Modern nuclear-site security systems can frequently detect suspicious aircraft, track their movements and alert authorities. Yet [detection]({{ 'detection/' | relative_url }}) does not automatically grant the legal power to interfere with the aircraft. In many countries, and particularly in the United States, civilian nuclear operators face a persistent “authority gap”: guards may observe a drone over protected [airspace]({{ 'airspace/' | relative_url }}) but lack the legal authority to jam its signals, seize control of it, or shoot it down. The result is a potentially dangerous handoff between plant security, aviation regulators and law-enforcement agencies at precisely the moment when rapid action may matter most.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-1-dark.svg" | relative_url }}" alt="Authority gap illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader story of [drones]({{ 'drones/' | relative_url }}) and modern nuclear-site security scares, this governance problem helps explain why some incidents generate frustration and public speculation. A drone may be identified as a conventional aircraft rather than a mysterious object, yet authorities can still struggle to respond in real time because responsibility is fragmented across multiple agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
+Within the broader story of [drones]({{ 'drones/' | relative_url }}) and modern nuclear-site security scares, this governance problem helps explain why some incidents generate frustration and public speculation. A drone may be identified as a conventional aircraft rather than a mysterious object, yet authorities can still struggle to respond in real time because responsibility is fragmented across multiple agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
 
 ## Why Detection Does Not Equal Interdiction
 
 Nuclear facilities increasingly deploy sensors capable of spotting low-flying drones. The challenge begins after detection.
 
-Commercial nuclear plant security forces generally do not possess the authority to bring down an aircraft merely because it has entered restricted airspace. The U.S. Nuclear Regulatory Commission (NRC) has repeatedly stated that nuclear power plant security personnel are not authorised to interdict or shoot down aircraft, including drones, over their facilities. Instead, operators are expected to report sightings and coordinate with federal, state and local authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
+Commercial nuclear plant security forces generally do not possess the authority to bring down an aircraft merely because it has entered restricted airspace. The U.S. Nuclear Regulatory Commission (NRC) has repeatedly stated that nuclear power plant security personnel are not authorised to interdict or shoot down aircraft, including drones, over their facilities. Instead, operators are expected to report sightings and coordinate with federal, state and local authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
 
-This creates a practical dilemma. A small drone can cross a facility perimeter in seconds, conduct surveillance, collect imagery or test response procedures, and then depart before outside responders arrive. Even when plant personnel know an overflight is unlawful, they may have few lawful options beyond observation, documentation and notification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.aerodefense.tech/drone-power-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.aerodefense.tech">[blog.aerodefense.tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.aerodefense.tech</span><span class="citation-popover-title">drone power plant</span><span class="citation-popover-snippet">Federal law prohibits private entities from jamming, shooting down, or otherwise interfering with aircraft, including drones. Power plant...</span></span></span>
+This creates a practical dilemma. A small drone can cross a facility perimeter in seconds, conduct surveillance, collect imagery or test response procedures, and then depart before outside responders arrive. Even when plant personnel know an overflight is unlawful, they may have few lawful options beyond observation, documentation and notification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.aerodefense.tech/drone-power-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.aerodefense.tech">[blog.aerodefense.tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.aerodefense.tech</span><span class="citation-popover-title">drone power plant</span><span class="citation-popover-snippet">Federal law prohibits private entities from jamming, shooting down, or otherwise interfering with aircraft, including drones. Power plant...</span></span></span>
 
-The problem became particularly visible after repeated drone incursions near sensitive facilities. Following a series of drone overflights at the [Palo Verde]({{ 'palo-verde/' | relative_url }}) Nuclear Generating Station in Arizona, internal discussions later reported by journalists reflected concern that restricted airspace alone would not stop a determined operator and that law enforcement might not arrive quickly enough to engage the pilot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</span></span></span>
+The problem became particularly visible after repeated drone incursions near sensitive facilities. Following a series of drone overflights at the [Palo Verde]({{ 'palo-verde/' | relative_url }}) Nuclear Generating Station in Arizona, internal discussions later reported by journalists reflected concern that restricted airspace alone would not stop a determined operator and that law enforcement might not arrive quickly enough to engage the pilot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pwGr1nbcDI4" title="Sheri Biggs Warns Drones Have Been Spotted Over Nuclear Plants And Airports &#x27;In Multiple States&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pwGr1nbcDI4" target="_blank" rel="noopener noreferrer">Sheri Biggs Warns Drones Have Been Spotted Over Nuclear Plants And Airports &#x27;In Multiple States&#x27;</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pwGr1nbcDI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pwGr1nbcDI4">Open on YouTube</a></p></div></div></div>
@@ -299,17 +299,17 @@ The authority gap exists because responsibility for drones is divided among inst
 
 ### Aviation regulators control the airspace
 
-Civil aviation authorities are responsible for maintaining flight safety. Rules restricting drone flights around sensitive facilities are designed not only to protect those facilities but also to prevent unsafe interference with legitimate aircraft operations. For that reason, actions such as radio-frequency jamming can create risks beyond the immediate target and are tightly regulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">critical infrastructure</span><span class="citation-popover-snippet">Federal Aviation AdministrationCritical Infrastructure and Public VenuesFeb 22, 2023 — Operations are prohibited from the ground up to 40...</span></span></span>
+Civil aviation authorities are responsible for maintaining flight safety. Rules restricting drone flights around sensitive facilities are designed not only to protect those facilities but also to prevent unsafe interference with legitimate aircraft operations. For that reason, actions such as radio-frequency jamming can create risks beyond the immediate target and are tightly regulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">critical infrastructure</span><span class="citation-popover-snippet">Federal Aviation AdministrationCritical Infrastructure and Public VenuesFeb 22, 2023 — Operations are prohibited from the ground up to 40...</span></span></span>
 
 ### Nuclear operators protect the site
 
-Plant security teams are responsible for physical protection of reactors, spent-fuel facilities and other sensitive infrastructure. They can monitor, investigate and report incidents, but in many jurisdictions their powers stop short of disabling aircraft. The NRC's guidance reflects this distinction between site security responsibilities and aviation enforcement powers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
+Plant security teams are responsible for physical protection of reactors, spent-fuel facilities and other sensitive infrastructure. They can monitor, investigate and report incidents, but in many jurisdictions their powers stop short of disabling aircraft. The NRC's guidance reflects this distinction between site security responsibilities and aviation enforcement powers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-2-dark.svg" | relative_url }}" alt="Authority gap illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Federal security agencies hold most counter-drone powers
 
-In the United States, specialised counter-unmanned aircraft authorities are concentrated within a limited group of federal agencies. Certain military, homeland-security and law-enforcement entities can employ technologies that disrupt, seize or destroy threatening drones under specific legal conditions. Those authorities generally do not extend automatically to commercial nuclear operators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronelife.com">[DRONELIFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronelife.com</span><span class="citation-popover-snippet">drones threaten nuclear power plants counter drone part 3Jan 31, 2025 — Currently, only a handful of federal agencies are author...</span></span></span>
+In the United States, specialised counter-unmanned aircraft authorities are concentrated within a limited group of federal agencies. Certain military, homeland-security and law-enforcement entities can employ technologies that disrupt, seize or destroy threatening drones under specific legal conditions. Those authorities generally do not extend automatically to commercial nuclear operators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronelife.com">[DRONELIFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronelife.com</span><span class="citation-popover-snippet">drones threaten nuclear power plants counter drone part 3Jan 31, 2025 — Currently, only a handful of federal agencies are author...</span></span></span>
 
 The result is a layered system in which the organisation that first sees the threat is often not the organisation legally empowered to neutralise it.
 
@@ -317,11 +317,11 @@ The result is a layered system in which the organisation that first sees the thr
 
 The restrictions are not simply bureaucratic obstacles. They reflect competing public-safety concerns.
 
-A drone is legally considered an aircraft in many regulatory frameworks. Interfering with aircraft communications, transmitting jamming signals or destroying an aircraft can have consequences beyond the immediate incident. A falling drone may injure people or damage property. Radio-frequency interference can affect other systems. Mistaken identification is also a concern, especially during fast-moving events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.aerodefense.tech/drone-power-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.aerodefense.tech">[blog.aerodefense.tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.aerodefense.tech</span><span class="citation-popover-title">drone power plant</span><span class="citation-popover-snippet">Federal law prohibits private entities from jamming, shooting down, or otherwise interfering with aircraft, including drones. Power plant...</span></span></span>
+A drone is legally considered an aircraft in many regulatory frameworks. Interfering with aircraft communications, transmitting jamming signals or destroying an aircraft can have consequences beyond the immediate incident. A falling drone may injure people or damage property. Radio-frequency interference can affect other systems. Mistaken identification is also a concern, especially during fast-moving events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.aerodefense.tech/drone-power-plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.aerodefense.tech">[blog.aerodefense.tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.aerodefense.tech</span><span class="citation-popover-title">drone power plant</span><span class="citation-popover-snippet">Federal law prohibits private entities from jamming, shooting down, or otherwise interfering with aircraft, including drones. Power plant...</span></span></span>
 
-Governments therefore tend to reserve counter-drone powers for specially authorised entities operating under defined rules. The same legal framework that prevents reckless responses can also slow legitimate defensive action when an [unidentified]({{ 'unidentified/' | relative_url }}) drone appears over critical infrastructure. This tension lies at the heart of the authority-gap debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiacp.org/resources/resolution/expired-a-joint-resolution-to-support-the-enhancement-of-authorities-for-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiacp.org">[IACP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiacp.org</span><span class="citation-popover-snippet">IACPEXPIRED A Joint Resolution To Support The Enhancement...Jul 13, 2023 — Expand DOJ and DHS existing authorities to protect critical i...</span></span></span>
+Governments therefore tend to reserve counter-drone powers for specially authorised entities operating under defined rules. The same legal framework that prevents reckless responses can also slow legitimate defensive action when an [unidentified]({{ 'unidentified/' | relative_url }}) drone appears over critical infrastructure. This tension lies at the heart of the authority-gap debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiacp.org/resources/resolution/expired-a-joint-resolution-to-support-the-enhancement-of-authorities-for-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiacp.org">[IACP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiacp.org</span><span class="citation-popover-snippet">IACPEXPIRED A Joint Resolution To Support The Enhancement...Jul 13, 2023 — Expand DOJ and DHS existing authorities to protect critical i...</span></span></span>
 
-For nuclear facilities, the issue is particularly sensitive because operators are expected to defend against sophisticated threats while simultaneously remaining constrained by aviation law and communications regulations. A facility may be physically hardened against attack yet still dependent on external agencies for aerial threat mitigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nei.org/news/2018/4-reasons-us-nuclear-plants-safe-from-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nei.org">[NEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nei.org</span><span class="citation-popover-title">4 reasons us nuclear plants safe from drones</span><span class="citation-popover-snippet">4 Reasons Why U.S. Nuclear Power Plants Are Safe from...Aug 6, 2018 — U.S. nuclear power plants are extremely well-protected against...</span></span></span>
+For nuclear facilities, the issue is particularly sensitive because operators are expected to defend against sophisticated threats while simultaneously remaining constrained by aviation law and communications regulations. A facility may be physically hardened against attack yet still dependent on external agencies for aerial threat mitigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nei.org/news/2018/4-reasons-us-nuclear-plants-safe-from-drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nei.org">[NEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nei.org</span><span class="citation-popover-title">4 reasons us nuclear plants safe from drones</span><span class="citation-popover-snippet">4 Reasons Why U.S. Nuclear Power Plants Are Safe from...Aug 6, 2018 — U.S. nuclear power plants are extremely well-protected against...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Wf_vvdHLOs" title="Why the US can&#x27;t stop the drone swarms flying over its military bases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Wf_vvdHLOs" target="_blank" rel="noopener noreferrer">Why the US can&#x27;t stop the drone swarms flying over its military bases</a></p><p class="youtube-embed-meta">Channel: Sandboxx</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Wf_vvdHLOs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Wf_vvdHLOs">Open on YouTube</a></p></div></div></div>
@@ -330,11 +330,11 @@ For nuclear facilities, the issue is particularly sensitive because operators ar
 
 Recent legislative and policy debates have increasingly focused on whether critical infrastructure operators should receive limited counter-drone authority.
 
-Supporters argue that nuclear plants, electrical substations and other high-value facilities need the ability to respond immediately to hostile or suspicious drones. Several legislative proposals have sought to expand counter-unmanned aircraft powers beyond a small set of federal agencies and permit trained personnel at designated critical infrastructure sites to detect and mitigate drone threats under federal oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peters.senate.gov/newsroom/press-releases/senators-peters-and-blackburn-introduce-bipartisan-bill-to-protect-us-nuclear-facilities-from-drone-threats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peters.senate.gov">[peters.senate.gov+2commercialuavnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peters.senate.gov</span><span class="citation-popover-title">Senators Peters and Blackburn Introduce Bipartisan Bill</span><span class="citation-popover-snippet">May 14, 2025 — US Senators Gary Peters (D-MI) and Marsha Blackburn (R-TN) introduced bipartisan legislation to protect our nation&#x27;s nucle...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+Supporters argue that nuclear plants, electrical substations and other high-value facilities need the ability to respond immediately to hostile or suspicious drones. Several legislative proposals have sought to expand counter-unmanned aircraft powers beyond a small set of federal agencies and permit trained personnel at designated critical infrastructure sites to detect and mitigate drone threats under federal oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peters.senate.gov/newsroom/press-releases/senators-peters-and-blackburn-introduce-bipartisan-bill-to-protect-us-nuclear-facilities-from-drone-threats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peters.senate.gov">[peters.senate.gov+2commercialuavnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peters.senate.gov</span><span class="citation-popover-title">Senators Peters and Blackburn Introduce Bipartisan Bill</span><span class="citation-popover-snippet">May 14, 2025 — US Senators Gary Peters (D-MI) and Marsha Blackburn (R-TN) introduced bipartisan legislation to protect our nation&#x27;s nucle...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
-Advocates for reform point to the growing number of drone incidents reported around nuclear facilities and argue that current arrangements leave a dangerous delay between detection and action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/news-features/massive-uptick-in-official-drone-sightings-by-nuclear-power-plants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">massive uptick in official drone sightings by nuclear power plants</span><span class="citation-popover-snippet">The War ZoneNuclear Power Plants Report Massive Uptick In Drone...21 Dec 2024 — Drone flights over nuclear facilities have been increasi...</span></span></span>
+Advocates for reform point to the growing number of drone incidents reported around nuclear facilities and argue that current arrangements leave a dangerous delay between detection and action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/news-features/massive-uptick-in-official-drone-sightings-by-nuclear-power-plants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">massive uptick in official drone sightings by nuclear power plants</span><span class="citation-popover-snippet">The War ZoneNuclear Power Plants Report Massive Uptick In Drone...21 Dec 2024 — Drone flights over nuclear facilities have been increasi...</span></span></span>
 
-Critics, however, warn that broader authority could create aviation-safety risks, increase the chances of mistaken engagements and complicate oversight. They argue that expanding the number of organisations allowed to interfere with aircraft requires careful safeguards, training standards and accountability mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiacp.org/resources/resolution/expired-a-joint-resolution-to-support-the-enhancement-of-authorities-for-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiacp.org">[IACP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiacp.org</span><span class="citation-popover-snippet">IACPEXPIRED A Joint Resolution To Support The Enhancement...Jul 13, 2023 — Expand DOJ and DHS existing authorities to protect critical i...</span></span></span>
+Critics, however, warn that broader authority could create aviation-safety risks, increase the chances of mistaken engagements and complicate oversight. They argue that expanding the number of organisations allowed to interfere with aircraft requires careful safeguards, training standards and accountability mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theiacp.org/resources/resolution/expired-a-joint-resolution-to-support-the-enhancement-of-authorities-for-the" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theiacp.org">[IACP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theiacp.org</span><span class="citation-popover-snippet">IACPEXPIRED A Joint Resolution To Support The Enhancement...Jul 13, 2023 — Expand DOJ and DHS existing authorities to protect critical i...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-3-dark.svg" | relative_url }}" alt="Authority gap illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,203 +342,203 @@ Critics, however, warn that broader authority could create aviation-safety risks
 
 The authority gap helps explain why drone incidents around nuclear facilities can appear more mysterious than they actually are.
 
-Observers may assume that if a drone is seen over a highly protected installation, authorities will immediately identify and stop it. In reality, security personnel may detect the object yet remain unable to take direct action. The drone can therefore remain unidentified in public [reporting]({{ 'reporting/' | relative_url }}) even when officials strongly suspect it is a conventional unmanned aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
+Observers may assume that if a drone is seen over a highly protected installation, authorities will immediately identify and stop it. In reality, security personnel may detect the object yet remain unable to take direct action. The drone can therefore remain unidentified in public [reporting]({{ 'reporting/' | relative_url }}) even when officials strongly suspect it is a conventional unmanned aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
 
-This dynamic feeds uncertainty. A sighting can begin as a straightforward security event, evolve into a public mystery because the operator is never identified, and eventually enter wider discussions about unexplained aerial phenomena. The crucial issue is often not a failure of detection but a failure of legal and organisational alignment. Until authority, technology and responsibility are more closely integrated, nuclear facilities will continue to face a situation in which seeing the drone and stopping the drone are two very different things. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission+2peters.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
+This dynamic feeds uncertainty. A sighting can begin as a straightforward security event, evolve into a public mystery because the operator is never identified, and eventually enter wider discussions about unexplained aerial phenomena. The crucial issue is often not a failure of detection but a failure of legal and organisational alignment. Until authority, technology and responsibility are more closely integrated, nuclear facilities will continue to face a situation in which seeing the drone and stopping the drone are two very different things.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission+2peters.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A0MMkPlaEto" title="SHOCKER: Drone swarm over U.S. nuclear air base and we don&#x27;t have a clue of the who, what, or why?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A0MMkPlaEto" target="_blank" rel="noopener noreferrer">SHOCKER: Drone swarm over U.S. nuclear air base and we don&#x27;t have a clue of the who, what, or why?</a></p><p class="youtube-embed-meta">Channel: Legally Armed America</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A0MMkPlaEto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A0MMkPlaEto">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who can actually stop the drone?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who can actually stop the drone?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOveDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
-        </h4>
-        <p class="fr-book-author">By Michael J. Boyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOveDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
+</h4>
+<p class="fr-book-author">By Michael J. Boyle</p>
         
-        <p class="fr-book-desc">Examines legal and governmental responses to drone threats.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines legal and governmental responses to drone threats.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Medea Benjamin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By Medea Benjamin</p>
         
-        <p class="fr-book-desc">Discusses policy and authority questions surrounding drones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses policy and authority questions surrounding drones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret state on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452446-M.jpg" alt="Cover for The secret state" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
-        </h4>
-        <p class="fr-book-author">By Peter Hennessy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret state on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/452446-M.jpg" alt="Cover for The secret state" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
+</h4>
+<p class="fr-book-author">By Peter Hennessy</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Geschichte 1940-1970, Military planning, Nuclear weapons, Cold War, Kernoorlog.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Geschichte 1940-1970, Military planning, Nuclear weapons, Cold War, Kernoorlog.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age Lib/E on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12386249-M.jpg" alt="Cover for The Drone Age Lib/E" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age Lib/E">The Drone Age Lib/E</a>
-        </h4>
-        <p class="fr-book-author">By Michael J Boyle, Mike Lenz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age Lib/E on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12386249-M.jpg" alt="Cover for The Drone Age Lib/E" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age Lib/E">The Drone Age Lib/E</a>
+</h4>
+<p class="fr-book-author">By Michael J Boyle, Mike Lenz</p>
         
-        <p class="fr-book-desc">First published 2020.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+state&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret state</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+state&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret state</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="authority-gap-who-can-actually-stop-the-drone-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,127 +744,127 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</p></details>
+   Link:<a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityWhile nuclear power plant security forces do not have the authority t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/us-military-mystery-drones-response</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</p></details>
+   Link:<a href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/us-military-mystery-drones-response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These incidents have raised serious concerns among state lawmakers and prompted calls for a state of emergency. Some speculated foreign a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: blog.aerodefense.tech  
    Title: drone power plant  
-   Link: <a href="https://blog.aerodefense.tech/drone-power-plant" target="_blank" rel="noopener noreferrer nofollow">https://blog.aerodefense.tech/drone-power-plant</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal law prohibits private entities from jamming, shooting down, or otherwise interfering with aircraft, including drones. Power plant...</p></details>
+   Link:<a href="https://blog.aerodefense.tech/drone-power-plant" target="_blank" rel="noopener noreferrer nofollow">https://blog.aerodefense.tech/drone-power-plant</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal law prohibits private entities from jamming, shooting down, or otherwise interfering with aircraft, including drones. Power plant...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dronelife.com  
-   Link: <a href="https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>drones threaten nuclear power plants counter drone part 3Jan 31, 2025 — Currently, only a handful of federal agencies are author...</p></details>
+   Link:<a href="https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drones threaten nuclear power plants counter drone part 3Jan 31, 2025 — Currently, only a handful of federal agencies are author...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nei.org  
    Title: 4 reasons us nuclear plants safe from drones  
-   Link: <a href="https://www.nei.org/news/2018/4-reasons-us-nuclear-plants-safe-from-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.nei.org/news/2018/4-reasons-us-nuclear-plants-safe-from-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Reasons Why U.S. Nuclear Power Plants Are Safe from...Aug 6, 2018 — U.S. nuclear power plants are extremely well-protected against...</p></details>
+   Link:<a href="https://www.nei.org/news/2018/4-reasons-us-nuclear-plants-safe-from-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.nei.org/news/2018/4-reasons-us-nuclear-plants-safe-from-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Reasons Why U.S. Nuclear Power Plants Are Safe from...Aug 6, 2018 — U.S. nuclear power plants are extremely well-protected against...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: peters.senate.gov  
    Title: Senators Peters and Blackburn Introduce Bipartisan Bill  
-   Link: <a href="https://www.peters.senate.gov/newsroom/press-releases/senators-peters-and-blackburn-introduce-bipartisan-bill-to-protect-us-nuclear-facilities-from-drone-threats" target="_blank" rel="noopener noreferrer nofollow">https://www.peters.senate.gov/newsroom/press-releases/senators-peters-and-blackburn-introduce-bipartisan-bill-to-protect-us-nuclear-facilities-from-drone-threats</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2025 — US Senators Gary Peters (D-MI) and Marsha Blackburn (R-TN) introduced bipartisan legislation to protect our nation&#x27;s nucle...</p></details>
+   Link:<a href="https://www.peters.senate.gov/newsroom/press-releases/senators-peters-and-blackburn-introduce-bipartisan-bill-to-protect-us-nuclear-facilities-from-drone-threats" target="_blank" rel="noopener noreferrer nofollow">https://www.peters.senate.gov/newsroom/press-releases/senators-peters-and-blackburn-introduce-bipartisan-bill-to-protect-us-nuclear-facilities-from-drone-threats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2025 — US Senators Gary Peters (D-MI) and Marsha Blackburn (R-TN) introduced bipartisan legislation to protect our nation&#x27;s nucle...</p></details>
    Published: May 14, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: commercialuavnews.com  
-   Link: <a href="https://www.commercialuavnews.com/senate-bill-critical-infrastructure-counter-uas-authority-" target="_blank" rel="noopener noreferrer nofollow">https://www.commercialuavnews.com/senate-bill-critical-infrastructure-counter-uas-authority-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>plants and power grid facilities, with training requirements and a 2031 sunset...</p></details>
+   Link:<a href="https://www.commercialuavnews.com/senate-bill-critical-infrastructure-counter-uas-authority-" target="_blank" rel="noopener noreferrer nofollow">https://www.commercialuavnews.com/senate-bill-critical-infrastructure-counter-uas-authority-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>plants and power grid facilities, with training requirements and a 2031 sunset...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dronelife.com  
    Title: ndaa fy 2026 key counter uas provisions explained  
-   Link: <a href="https://dronelife.com/2025/12/09/ndaa-fy-2026-key-counter-uas-provisions-explained/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/12/09/ndaa-fy-2026-key-counter-uas-provisions-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NDAA FY 2026: Key Counter-UAS Provisions ExplainedDec 9, 2025 — The FY26 NDAA expands counter-UAS authority across DoD, DOE, DHS, and DOJ...</p></details>
+   Link:<a href="https://dronelife.com/2025/12/09/ndaa-fy-2026-key-counter-uas-provisions-explained/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/12/09/ndaa-fy-2026-key-counter-uas-provisions-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NDAA FY 2026: Key Counter-UAS Provisions ExplainedDec 9, 2025 — The FY26 NDAA expands counter-UAS authority across DoD, DOE, DHS, and DOJ...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: twz.com  
    Title: massive uptick in official drone sightings by nuclear power plants  
-   Link: <a href="https://www.twz.com/news-features/massive-uptick-in-official-drone-sightings-by-nuclear-power-plants" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/massive-uptick-in-official-drone-sightings-by-nuclear-power-plants</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNuclear Power Plants Report Massive Uptick In Drone...21 Dec 2024 — Drone flights over nuclear facilities have been increasi...</p></details>
+   Link:<a href="https://www.twz.com/news-features/massive-uptick-in-official-drone-sightings-by-nuclear-power-plants" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/massive-uptick-in-official-drone-sightings-by-nuclear-power-plants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNuclear Power Plants Report Massive Uptick In Drone...21 Dec 2024 — Drone flights over nuclear facilities have been increasi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: faa.gov  
    Title: critical infrastructure  
-   Link: <a href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/critical_infrastructure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCritical Infrastructure and Public VenuesFeb 22, 2023 — Operations are prohibited from the ground up to 40...</p></details>
+   Link:<a href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/critical_infrastructure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationCritical Infrastructure and Public VenuesFeb 22, 2023 — Operations are prohibited from the ground up to 40...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationFederal Aviation AdministrationThe Federal Aviation Administration is an operating mode of the U.S. Depart...</p></details>
+   Link:<a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationFederal Aviation AdministrationThe Federal Aviation Administration is an operating mode of the U.S. Depart...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theiacp.org  
-   Link: <a href="https://www.theiacp.org/resources/resolution/expired-a-joint-resolution-to-support-the-enhancement-of-authorities-for-the" target="_blank" rel="noopener noreferrer nofollow">https://www.theiacp.org/resources/resolution/expired-a-joint-resolution-to-support-the-enhancement-of-authorities-for-the</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IACPEXPIRED A Joint Resolution To Support The Enhancement...Jul 13, 2023 — Expand DOJ and DHS existing authorities to protect critical i...</p></details>
+   Link:<a href="https://www.theiacp.org/resources/resolution/expired-a-joint-resolution-to-support-the-enhancement-of-authorities-for-the" target="_blank" rel="noopener noreferrer nofollow">https://www.theiacp.org/resources/resolution/expired-a-joint-resolution-to-support-the-enhancement-of-authorities-for-the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IACPEXPIRED A Joint Resolution To Support The Enhancement...Jul 13, 2023 — Expand DOJ and DHS existing authorities to protect critical i...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: y12.doe.gov  
    Title: nnsa release y 12 deploys system counter unauthorized unmanned aircraft systems  
-   Link: <a href="https://www.y12.doe.gov/news/press-releases/nnsa-release-y-12-deploys-system-counter-unauthorized-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.y12.doe.gov/news/press-releases/nnsa-release-y-12-deploys-system-counter-unauthorized-unmanned-aircraft-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Release: Y-12 Deploys System to Counter...The Y-12 National Security Complex has deployed a system to counter all unauthorized unmanned...</p></details>
+   Link:<a href="https://www.y12.doe.gov/news/press-releases/nnsa-release-y-12-deploys-system-counter-unauthorized-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.y12.doe.gov/news/press-releases/nnsa-release-y-12-deploys-system-counter-unauthorized-unmanned-aircraft-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Release: Y-12 Deploys System to Counter...The Y-12 National Security Complex has deployed a system to counter all unauthorized unmanned...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: csgmidwest.org  
-   Link: <a href="https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones and Nuclear Power Plant SecurityNuclear power plant security forces do not have authority to attempt to interdict or shoot down ai...</p></details>
+   Link:<a href="https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones and Nuclear Power Plant SecurityNuclear power plant security forces do not have authority to attempt to interdict or shoot down ai...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: armscontrol.org  
-   Link: <a href="https://www.armscontrol.org/act/2019-12/news-briefs/nrc-will-not-require-drone-defenses" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/act/2019-12/news-briefs/nrc-will-not-require-drone-defenses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NRC Will Not Require Drone DefensesThe U.S. Nuclear Regulatory Commission (NRC) announced on Oct. 30 that it would not require nuclear po...</p></details>
+   Link:<a href="https://www.armscontrol.org/act/2019-12/news-briefs/nrc-will-not-require-drone-defenses" target="_blank" rel="noopener noreferrer nofollow">https://www.armscontrol.org/act/2019-12/news-briefs/nrc-will-not-require-drone-defenses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NRC Will Not Require Drone DefensesThe U.S. Nuclear Regulatory Commission (NRC) announced on Oct. 30 that it would not require nuclear po...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/dec/15/mayorkas-north-east-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/15/mayorkas-north-east-drone-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite federal efforts, social and political tensions remain high due to insufficient official information. To address security concerns...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/dec/15/mayorkas-north-east-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/dec/15/mayorkas-north-east-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite federal efforts, social and political tensions remain high due to insufficient official information. To address security concerns...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unmannedairspace.info  
-   Link: <a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-department-for-energy-publishes-rfi-for-c-uas-protection-of-nuclear-sites/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-department-for-energy-publishes-rfi-for-c-uas-protection-of-nuclear-sites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department for Energy publishes RFI for C-UAS...“Sandia National Laboratories (SNL), on behalf of the Center for Security, Technology...</p></details>
+   Link:<a href="https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-department-for-energy-publishes-rfi-for-c-uas-protection-of-nuclear-sites/" target="_blank" rel="noopener noreferrer nofollow">https://www.unmannedairspace.info/counter-uas-systems-and-policies/us-department-for-energy-publishes-rfi-for-c-uas-protection-of-nuclear-sites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Department for Energy publishes RFI for C-UAS...“Sandia National Laboratories (SNL), on behalf of the Center for Security, Technology...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: industrialcyber.co  
-   Link: <a href="https://industrialcyber.co/regulation-standards-and-compliance/us-bill-allows-critical-infrastructure-operators-to-detect-and-neutralize-rogue-drones-closing-key-defense-gaps/" target="_blank" rel="noopener noreferrer nofollow">https://industrialcyber.co/regulation-standards-and-compliance/us-bill-allows-critical-infrastructure-operators-to-detect-and-neutralize-rogue-drones-closing-key-defense-gaps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Senator introduced legislation aimed at strengthening defenses against drone threats targeting critical infrastructure, proposing to...R...</p></details>
+   Link:<a href="https://industrialcyber.co/regulation-standards-and-compliance/us-bill-allows-critical-infrastructure-operators-to-detect-and-neutralize-rogue-drones-closing-key-defense-gaps/" target="_blank" rel="noopener noreferrer nofollow">https://industrialcyber.co/regulation-standards-and-compliance/us-bill-allows-critical-infrastructure-operators-to-detect-and-neutralize-rogue-drones-closing-key-defense-gaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senator introduced legislation aimed at strengthening defenses against drone threats targeting critical infrastructure, proposing to...R...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: energy.gov  
    Title: protecting nnsa facilities counter unmanned aircraft systems  
-   Link: <a href="https://www.energy.gov/nnsa/protecting-nnsa-facilities-counter-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/protecting-nnsa-facilities-counter-unmanned-aircraft-systems</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting NNSA Facilities: Counter Unmanned Aircraft...Apr 17, 2026 — Flying a UAS over or near an NNSA facility without authorization...</p></details>
+   Link:<a href="https://www.energy.gov/nnsa/protecting-nnsa-facilities-counter-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/protecting-nnsa-facilities-counter-unmanned-aircraft-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting NNSA Facilities: Counter Unmanned Aircraft...Apr 17, 2026 — Flying a UAS over or near an NNSA facility without authorization...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thebulletin.org  
    Title: memo to trump address the new threat of drone vulnerable nuclear reactors  
-   Link: <a href="https://thebulletin.org/2025/01/memo-to-trump-address-the-new-threat-of-drone-vulnerable-nuclear-reactors/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2025/01/memo-to-trump-address-the-new-threat-of-drone-vulnerable-nuclear-reactors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin of the Atomic ScientistsAddress the new threat of drone-vulnerable nuclear reactorsJan 17, 2025 — At the very least, the United...</p></details>
+   Link:<a href="https://thebulletin.org/2025/01/memo-to-trump-address-the-new-threat-of-drone-vulnerable-nuclear-reactors/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2025/01/memo-to-trump-address-the-new-threat-of-drone-vulnerable-nuclear-reactors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin of the Atomic ScientistsAddress the new threat of drone-vulnerable nuclear reactorsJan 17, 2025 — At the very least, the United...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thebulletin.org  
    Title: its past time to start protecting us nuclear power reactors from drones  
-   Link: <a href="https://thebulletin.org/2025/09/its-past-time-to-start-protecting-us-nuclear-power-reactors-from-drones/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2025/09/its-past-time-to-start-protecting-us-nuclear-power-reactors-from-drones/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lacked the authority to shoot the drones down or any reliable means to detect and disable them. RELATED: The 2025 nuclear year in review...</p></details>
+   Link:<a href="https://thebulletin.org/2025/09/its-past-time-to-start-protecting-us-nuclear-power-reactors-from-drones/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2025/09/its-past-time-to-start-protecting-us-nuclear-power-reactors-from-drones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lacked the authority to shoot the drones down or any reliable means to detect and disable them. RELATED: The 2025 nuclear year in review...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hklaw.com  
    Title: Holland & Knight Citing National Security Needs, the FCC and FAA Take  
-   Link: <a href="https://www.hklaw.com/en/insights/publications/2026/05/citing-national-security-needs-the-fcc-and-faa-take-steps-on-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.hklaw.com/en/insights/publications/2026/05/citing-national-security-needs-the-fcc-and-faa-take-steps-on-uas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Holland &amp; KnightCiting National Security Needs, the FCC and FAA Take...May 12, 2026 — Commercial drone growth has raised security concer...</p></details>
+   Link:<a href="https://www.hklaw.com/en/insights/publications/2026/05/citing-national-security-needs-the-fcc-and-faa-take-steps-on-uas" target="_blank" rel="noopener noreferrer nofollow">https://www.hklaw.com/en/insights/publications/2026/05/citing-national-security-needs-the-fcc-and-faa-take-steps-on-uas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Holland &amp; KnightCiting National Security Needs, the FCC and FAA Take...May 12, 2026 — Commercial drone growth has raised security concer...</p></details>
    Published: May 12, 2026  

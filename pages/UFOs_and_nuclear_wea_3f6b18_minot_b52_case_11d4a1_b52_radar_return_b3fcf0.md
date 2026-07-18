@@ -280,17 +280,17 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_rada
 
 ## Introduction
 
-The most disputed element of the 24 October 1968 Minot incident is not the orange lights reported from the missile field but the [radar]({{ 'radar/' | relative_url }}) contact tracked by the crew of a Strategic Air Command B-52. Unlike a distant visual sighting, a radar target appearing near a bomber creates an immediate operational problem: the crew must determine whether it is another aircraft on a collision course, a radar malfunction, or something not yet identified. That is why the radar episode remains central to discussions of the Minot case. Before it became part of UFO literature, it was treated as a potential flight-safety issue by military personnel. Surviving records include aircrew statements, communications transcripts and a set of radarscope photographs preserved in the [Project Blue Book]({{ 'blue-book/' | relative_url }}) file, making it one of the more heavily documented radar-related UFO incidents of the era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 Nov...</span></span></span>
+The most disputed element of the 24 October 1968 Minot incident is not the orange lights reported from the missile field but the [radar]({{ 'radar/' | relative_url }}) contact tracked by the crew of a Strategic Air Command B-52. Unlike a distant visual sighting, a radar target appearing near a bomber creates an immediate operational problem: the crew must determine whether it is another aircraft on a collision course, a radar malfunction, or something not yet identified. That is why the radar episode remains central to discussions of the Minot case. Before it became part of UFO literature, it was treated as a potential flight-safety issue by military personnel. Surviving records include aircrew statements, communications transcripts and a set of radarscope photographs preserved in the [Project Blue Book]({{ 'blue-book/' | relative_url }}) file, making it one of the more heavily documented radar-related UFO incidents of the era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 Nov...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-1-dark.svg" | relative_url }}" alt="Radar return illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Captain McCaslin said the radar showed
 
-Accounts from the Minot case consistently describe the B-52 crew detecting an [unidentified]({{ 'unidentified/' | relative_url }}) radar return while operating in the vicinity of reports already being received from the missile field. The contact attracted attention because it appeared to be a discrete target rather than a vague radar disturbance. According to later reconstructions based on the Blue Book file, the radar return seemed to close on the aircraft and at points appeared sufficiently near to raise concern about conflicting traffic. Surviving documentation includes numerous radarscope images taken from the aircraft's radar display, a rare feature in a military UFO case. Minot AFB UFO Case+2Minot AFB UFO Case <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 Nov...</span></span></span>
+Accounts from the Minot case consistently describe the B-52 crew detecting an [unidentified]({{ 'unidentified/' | relative_url }}) radar return while operating in the vicinity of reports already being received from the missile field. The contact attracted attention because it appeared to be a discrete target rather than a vague radar disturbance. According to later reconstructions based on the Blue Book file, the radar return seemed to close on the aircraft and at points appeared sufficiently near to raise concern about conflicting traffic. Surviving documentation includes numerous radarscope images taken from the aircraft's radar display, a rare feature in a military UFO case. Minot AFB UFO Case+2Minot AFB UFO Case<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 Nov...</span></span></span>
 
-Captain William McCaslin, the radar navigator, became one of the key witnesses because his position gave him direct responsibility for interpreting radar information. In later discussions of the case, proponents and [sceptics]({{ 'sceptics/' | relative_url }}) alike focused on his description of a target that appeared to behave like a real object rather than random electronic noise. The significance is not that radar automatically proves a physical craft; radar systems can generate false returns. The significance is that trained crew members initially treated the contact as operationally meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
+Captain William McCaslin, the radar navigator, became one of the key witnesses because his position gave him direct responsibility for interpreting radar information. In later discussions of the case, proponents and [sceptics]({{ 'sceptics/' | relative_url }}) alike focused on his description of a target that appeared to behave like a real object rather than random electronic noise. The significance is not that radar automatically proves a physical craft; radar systems can generate false returns. The significance is that trained crew members initially treated the contact as operationally meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
 
-The existence of multiple radarscope photographs has helped keep the debate alive. Researchers examining the case have argued that the images show a target persisting across a sequence of displays rather than a single fleeting anomaly. Critics counter that photographs of radar screens do not by themselves establish the nature, distance or physical reality of the target. The photographs preserve evidence that something appeared on the display, but they do not settle what produced it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Download PDF All Radarscope Photographs (14). Download PDF Bomb Navigation Systems Mechanic, CDC32150K,Vol. 4, 1978.Read more...</span></span></span>
+The existence of multiple radarscope photographs has helped keep the debate alive. Researchers examining the case have argued that the images show a target persisting across a sequence of displays rather than a single fleeting anomaly. Critics counter that photographs of radar screens do not by themselves establish the nature, distance or physical reality of the target. The photographs preserve evidence that something appeared on the display, but they do not settle what produced it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Download PDF All Radarscope Photographs (14). Download PDF Bomb Navigation Systems Mechanic, CDC32150K,Vol. 4, 1978.Read more...</span></span></span>
 
 ## Why co-altitude traffic would alarm a bomber crew
 
@@ -310,20 +310,20 @@ A target that appears to be:
 
 can immediately become a safety concern.
 
-In practical terms, the first question is not whether the target is extraordinary. The first question is whether it might be another aircraft. A radar contact interpreted as co-altitude traffic demands attention because a mistaken assumption could lead to a mid-air collision. This explains why the Minot radar episode carried more operational weight than many UFO reports based solely on ground observations. The crew's concern can be understood within normal aviation procedures without assuming any unusual explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
+In practical terms, the first question is not whether the target is extraordinary. The first question is whether it might be another aircraft. A radar contact interpreted as co-altitude traffic demands attention because a mistaken assumption could lead to a mid-air collision. This explains why the Minot radar episode carried more operational weight than many UFO reports based solely on ground observations. The crew's concern can be understood within normal aviation procedures without assuming any unusual explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
 
-This distinction is important in the wider nuclear-weapons context. A strange light seen from a missile site might be logged as a security report. A radar target near a nuclear-capable bomber potentially affects flight safety, mission execution and command awareness. That difference helps explain why the event generated extensive documentation and later investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
+This distinction is important in the wider nuclear-weapons context. A strange light seen from a missile site might be logged as a security report. A radar target near a nuclear-capable bomber potentially affects flight safety, mission execution and command awareness. That difference helps explain why the event generated extensive documentation and later investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V5dMHH4w9aM" title="AudioBlog: PART 2: A 1968 UFO Incident at Minot AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V5dMHH4w9aM" target="_blank" rel="noopener noreferrer">AudioBlog: PART 2: A 1968 UFO Incident at Minot AFB</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V5dMHH4w9aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V5dMHH4w9aM">Open on YouTube</a></p></div></div></div>
 
 ## Did the radar contact represent a real object?
 
-The strongest argument that the contact represented a real object is that it was reportedly tracked by trained operators and was considered significant enough to be discussed in official [reporting]({{ 'reporting/' | relative_url }}). The combination of witness testimony, communications records and radarscope imagery distinguishes the case from many UFO reports that rely on memory alone. Researchers who have examined the surviving material argue that the radar target displayed persistence and behaviour consistent with an actual airborne object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
+The strongest argument that the contact represented a real object is that it was reportedly tracked by trained operators and was considered significant enough to be discussed in official [reporting]({{ 'reporting/' | relative_url }}). The combination of witness testimony, communications records and radarscope imagery distinguishes the case from many UFO reports that rely on memory alone. Researchers who have examined the surviving material argue that the radar target displayed persistence and behaviour consistent with an actual airborne object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
 
-However, radar evidence is rarely straightforward. A radar return can indicate a physical object without revealing what that object is. Even if the display represented a genuine target, the available records do not conclusively identify it as an unknown craft. The surviving evidence shows that the crew believed they were tracking something worthy of attention; it does not independently establish the target's identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
+However, radar evidence is rarely straightforward. A radar return can indicate a physical object without revealing what that object is. Even if the display represented a genuine target, the available records do not conclusively identify it as an unknown craft. The surviving evidence shows that the crew believed they were tracking something worthy of attention; it does not independently establish the target's identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
 
-This distinction often gets lost in retellings. The core evidential question is not whether a radar blip existed—surviving photographs suggest that it did—but whether the blip corresponded to an extraordinary object rather than a conventional aircraft, atmospheric effect or radar artefact. That question remains [unresolved]({{ 'unresolved/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Download PDF All Radarscope Photographs (14). Download PDF Bomb Navigation Systems Mechanic, CDC32150K,Vol. 4, 1978.Read more...</span></span></span>
+This distinction often gets lost in retellings. The core evidential question is not whether a radar blip existed—surviving photographs suggest that it did—but whether the blip corresponded to an extraordinary object rather than a conventional aircraft, atmospheric effect or radar artefact. That question remains [unresolved]({{ 'unresolved/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Download PDF All Radarscope Photographs (14). Download PDF Bomb Navigation Systems Mechanic, CDC32150K,Vol. 4, 1978.Read more...</span></span></span>
 
 ## Alternative explanations for the radar return
 
@@ -333,25 +333,25 @@ Several conventional explanations have been proposed over the years.
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-2-dark.svg" | relative_url }}" alt="Radar return illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Radar anomaly or propagation effects
 
-Military radar systems can produce [false targets]({{ 'false-targets/' | relative_url }}) through atmospheric conditions, anomalous propagation, reflections and other technical effects. Under some circumstances, radar energy can bend unusually through layers of air with differing temperature and humidity, creating misleading returns. Such effects are a standard consideration in radar analysis and cannot be excluded solely because operators initially considered a target credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
+Military radar systems can produce [false targets]({{ 'false-targets/' | relative_url }}) through atmospheric conditions, anomalous propagation, reflections and other technical effects. Under some circumstances, radar energy can bend unusually through layers of air with differing temperature and humidity, creating misleading returns. Such effects are a standard consideration in radar analysis and cannot be excluded solely because operators initially considered a target credible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
 
 ### Another aircraft
 
-A conventional aircraft remains one of the simplest explanations. The challenge is that available records have not produced a widely accepted identification of a specific aircraft matching all aspects of the reported encounter. Supporters of the UFO interpretation argue that this lack of identification is significant; sceptics note that incomplete air traffic records and imperfect recollections are common in historical investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
+A conventional aircraft remains one of the simplest explanations. The challenge is that available records have not produced a widely accepted identification of a specific aircraft matching all aspects of the reported encounter. Supporters of the UFO interpretation argue that this lack of identification is significant; sceptics note that incomplete air traffic records and imperfect recollections are common in historical investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r8lINLDPnQg" title="AudioBlog: A 1968 UFO Incident at Minot AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r8lINLDPnQg" target="_blank" rel="noopener noreferrer">AudioBlog: A 1968 UFO Incident at Minot AFB</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r8lINLDPnQg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r8lINLDPnQg">Open on YouTube</a></p></div></div></div>
 
 ### Misinterpretation of radar information
 
-Radar displays require interpretation. Apparent motion on a scope does not always correspond directly to an object's actual flight path. Relative motion between aircraft, display characteristics and operator assumptions can sometimes create an impression of unusual behaviour. Critics of extraordinary interpretations argue that this possibility deserves serious consideration before concluding that an unknown craft was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
+Radar displays require interpretation. Apparent motion on a scope does not always correspond directly to an object's actual flight path. Relative motion between aircraft, display characteristics and operator assumptions can sometimes create an impression of unusual behaviour. Critics of extraordinary interpretations argue that this possibility deserves serious consideration before concluding that an unknown craft was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UefLw3NEM48" title="AudioBlog: Part 3: A 1968 UFO Incident at Minot AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer">AudioBlog: Part 3: A 1968 UFO Incident at Minot AFB</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UefLw3NEM48">Open on YouTube</a></p></div></div></div>
 
 ### A combined radar-and-visual event
 
-One reason the Minot case remains difficult is that radar and visual reports occurred in the same general sequence. Some researchers contend that the overlap strengthens the case for a genuine object. Others argue that once personnel become aware of unusual reports, later observations can be influenced by expectation and interpretation. The surviving record does not decisively eliminate either possibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
+One reason the Minot case remains difficult is that radar and visual reports occurred in the same general sequence. Some researchers contend that the overlap strengthens the case for a genuine object. Others argue that once personnel become aware of unusual reports, later observations can be influenced by expectation and interpretation. The surviving record does not decisively eliminate either possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
 ## Why the radar return remains the key evidential dispute
 
@@ -363,194 +363,194 @@ What survives today is unusual but incomplete evidence: witness testimony from t
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-3-dark.svg" | relative_url }}" alt="Radar return illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_b52_radar_return_b3fcf0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the B 52 radar contact a real object?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the B 52 radar contact a real object?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Radar and aviation evidence are central themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Radar and aviation evidence are central themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Includes military aviation testimony relevant to radar discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes military aviation testimony relevant to radar discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines evidence categories including radar-associated encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence categories including radar-associated encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating sightings and instrumentation data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating sightings and instrumentation data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="radar-return-was-the-b-52-radar-contact-a-real-object-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ What survives today is unusual but incomplete evidence: witness testimony from t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ What survives today is unusual but incomplete evidence: witness testimony from t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ What survives today is unusual but incomplete evidence: witness testimony from t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ What survives today is unusual but incomplete evidence: witness testimony from t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ What survives today is unusual but incomplete evidence: witness testimony from t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,65 +756,65 @@ What survives today is unusual but incomplete evidence: witness testimony from t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative of UFO Events at Minot Air Force Base, North...16 While researching the case, we were fortunate to discover first-ge...</p></details>
+   Link:<a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative of UFO Events at Minot Air Force Base, North...16 While researching the case, we were fortunate to discover first-ge...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: explorescu.org  
-   Link: <a href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</p></details>
+   Link:<a href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</p></details>
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...Drawing from declassified Project Blue Book case files, radar logs, f...</p></details>
+   Link:<a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...Drawing from declassified Project Blue Book case files, radar logs, f...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 Nov...</p></details>
+   Link:<a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 Nov...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/radarscopes/radarscope-index.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Download PDF All Radarscope Photographs (14). Download PDF Bomb Navigation Systems Mechanic, CDC32150K,Vol. 4, 1978.Read more...</p></details>
+   Link:<a href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/radarscopes/radarscope-index.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Download PDF All Radarscope Photographs (14). Download PDF Bomb Navigation Systems Mechanic, CDC32150K,Vol. 4, 1978.Read more...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThe objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a threat to the security...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThe objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a threat to the security...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UefLw3NEM48</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1968-10-24: Credible Pilots &amp; Aircrew Document Minot UFO Tom Owens UAP · 276 views...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UefLw3NEM48</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1968-10-24: Credible Pilots &amp; Aircrew Document Minot UFO Tom Owens UAP · 276 views...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=V5dMHH4w9aM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=V5dMHH4w9aM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AudioBlog: Part 3: A 1968 UFO Incident at Minot AFB...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=V5dMHH4w9aM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=V5dMHH4w9aM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AudioBlog: Part 3: A 1968 UFO Incident at Minot AFB...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vh02kMSJec8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vh02kMSJec8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AudioBlog: A 1968 UFO Incident at Minot AFB...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vh02kMSJec8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vh02kMSJec8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AudioBlog: A 1968 UFO Incident at Minot AFB...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=r8lINLDPnQg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r8lINLDPnQg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AudioBlog: PART 2: A 1968 UFO Incident at Minot AFB...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=r8lINLDPnQg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=r8lINLDPnQg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AudioBlog: PART 2: A 1968 UFO Incident at Minot AFB...</p></details>

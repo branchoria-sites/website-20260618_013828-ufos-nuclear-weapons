@@ -278,7 +278,7 @@ In the debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | r
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_sworn_ufo_affidavits_4aa6d9-Illustration-1-dark.svg" | relative_url }}" alt="Affidavits illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_sworn_ufo_affidavits_4aa6d9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_sworn_ufo_affidavits_4aa6d9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What a sworn UFO affidavit can do is establish that a named individual is making a specific account and is willing to attach their identity and reputation to it. What it usually cannot do on its own is prove that the reported object was extraordinary, that a nuclear malfunction was caused by that object, or that the witness had complete access to all relevant information. Understanding that distinction is essential when evaluating nuclear-UFO cases, many of which depend heavily on testimony recorded years or decades after the alleged events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Malmstrom UFO Testimonials Affidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events su</span><span class="citation-popover-snippet">DocumentCloudMalmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+What a sworn UFO affidavit can do is establish that a named individual is making a specific account and is willing to attach their identity and reputation to it. What it usually cannot do on its own is prove that the reported object was extraordinary, that a nuclear malfunction was caused by that object, or that the witness had complete access to all relevant information. Understanding that distinction is essential when evaluating nuclear-UFO cases, many of which depend heavily on testimony recorded years or decades after the alleged events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Malmstrom UFO Testimonials Affidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events su</span><span class="citation-popover-snippet">DocumentCloudMalmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
 ## What an Affidavit Establishes
 
@@ -296,7 +296,7 @@ In the nuclear-weapons context, affidavits can establish several important point
 
 </div>
 
-The 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event organised around the UFO–nuclear weapons issue illustrates this use of affidavits. The released Malmstrom Air Force Base affidavits documented the recollections of former airmen concerning alleged UFO activity around missile facilities in Montana during the 1960s. The documents preserve their testimony and make it available for scrutiny. They demonstrate that identifiable former personnel reported such experiences. They do not, by themselves, demonstrate that the reported objects caused missile failures or that investigators confirmed an extraordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Malmstrom UFO Testimonials Affidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events su</span><span class="citation-popover-snippet">DocumentCloudMalmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
+The 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event organised around the UFO–nuclear weapons issue illustrates this use of affidavits. The released Malmstrom Air Force Base affidavits documented the recollections of former airmen concerning alleged UFO activity around missile facilities in Montana during the 1960s. The documents preserve their testimony and make it available for scrutiny. They demonstrate that identifiable former personnel reported such experiences. They do not, by themselves, demonstrate that the reported objects caused missile failures or that investigators confirmed an extraordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud Malmstrom UFO Testimonials Affidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events su</span><span class="citation-popover-snippet">DocumentCloudMalmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surro...</span></span></span>
 
 This is a crucial evidential distinction. An affidavit proves that a witness made a claim. It does not automatically prove the claim is correct.
 
@@ -307,7 +307,7 @@ This is a crucial evidential distinction. An affidavit proves that a witness mad
 
 Many of the most discussed nuclear-UFO affidavits were written decades after the events they describe. That does not make them false, but it does introduce questions that historians, investigators, and courts routinely consider when assessing testimony.
 
-Research on witness evidence consistently shows that memory is not a fixed recording. Recollections can fade, become simplified, absorb later information, or be influenced by repeated discussion and retelling. Contemporary legal guidance in several jurisdictions explicitly recognises that memory changes over time and that contemporaneous documents often provide a more reliable benchmark than recollection alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Verywell Mind+3Research Briefings+3Hill Dickinson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-title">POST PN 0607</span><span class="citation-popover-snippet">Research BriefingsImproving Witness Testimony17 Jul 2019 — Witness testimony plays a key role in criminal investigations and trials. Howe...</span></span></span>
+Research on witness evidence consistently shows that memory is not a fixed recording. Recollections can fade, become simplified, absorb later information, or be influenced by repeated discussion and retelling. Contemporary legal guidance in several jurisdictions explicitly recognises that memory changes over time and that contemporaneous documents often provide a more reliable benchmark than recollection alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Verywell Mind+3Research Briefings+3Hill Dickinson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-title">POST PN 0607</span><span class="citation-popover-snippet">Research BriefingsImproving Witness Testimony17 Jul 2019 — Witness testimony plays a key role in criminal investigations and trials. Howe...</span></span></span>
 
 For nuclear-UFO cases, access to information is just as important as memory. A missile launch officer, security policeman, maintenance technician, or [radar]({{ 'radar/' | relative_url }}) operator may have had excellent visibility into one part of an incident while knowing little about other parts.
 
@@ -339,7 +339,7 @@ Several factors tend to increase credibility:
 
 The strongest affidavits align with documents created at the time of the event. Operational logs, maintenance reports, command histories, radar records, and investigation files can confirm dates, locations, personnel assignments, and equipment status.
 
-If a witness recalls a missile outage and official records show that such an outage occurred, confidence in at least part of the account increases. The affidavit and the record become mutually reinforcing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">malmstromufo</span><span class="citation-popover-snippet">malmstromufo</span></span></span>
+If a witness recalls a missile outage and official records show that such an outage occurred, confidence in at least part of the account increases. The affidavit and the record become mutually reinforcing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">malmstromufo</span><span class="citation-popover-snippet">malmstromufo</span></span></span>
 
 ### Independent Corroboration
 
@@ -378,7 +378,7 @@ One common issue is the absence of supporting documentation. If a witness report
 
 Another issue is internal inconsistency. If the same witness gives materially different versions of an event over time, investigators must decide which account is most reliable.
 
-Conflicts between affidavits and contemporary records can be especially significant. In the Malmstrom case, for example, declassified Air Force documentation confirms that a serious missile alert-status failure occurred at Echo Flight in March 1967. However, the same historical record states that rumours of UFO activity associated with the fault were investigated and "disproven." That does not prove no unusual object was present, but it does show that the official record does not support the strongest causal claim often associated with the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault Documents+2ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">malmstromufo</span><span class="citation-popover-snippet">malmstromufo</span></span></span>
+Conflicts between affidavits and contemporary records can be especially significant. In the Malmstrom case, for example, declassified Air Force documentation confirms that a serious missile alert-status failure occurred at Echo Flight in March 1967. However, the same historical record states that rumours of UFO activity associated with the fault were investigated and "disproven." That does not prove no unusual object was present, but it does show that the official record does not support the strongest causal claim often associated with the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault Documents+2ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">malmstromufo</span><span class="citation-popover-snippet">malmstromufo</span></span></span>
 
 When later testimony and contemporary records point in different directions, neither can simply be ignored. The discrepancy itself becomes part of the evidence.
 
@@ -416,194 +416,194 @@ In the nuclear-UFO field, affidavits are most useful when treated as evidence of
 What they cannot do on their own is establish that an unidentified object disabled nuclear weapons, that an extraordinary technology was involved, or that official investigations reached the same conclusions as the witnesses. Those stronger claims require corroboration from contemporaneous records, technical data, and documented investigative findings. Until such corroboration exists, affidavits remain important pieces of evidence—but not conclusive proof.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does a Sworn UFO Affidavit Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does a Sworn UFO Affidavit Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps distinguish witness sincerity from proof of extraordinary origin.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps distinguish witness sincerity from proof of extraordinary origin.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how formal statements from pilots, officials, and military figures affect public evaluation of UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how formal statements from pilots, officials, and military figures affect public evaluation of UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Provides broader context on the strengths and limits of sworn human recollection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on the strengths and limits of sworn human recollection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Built around named former military witnesses and nuclear-site cases, closely matching affidavit-evidence questions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around named former military witnesses and nuclear-site cases, closely matching affidavit-evidence questions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="affidavits-e86da3-what-does-a-sworn-ufo-affidavit-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ What they cannot do on their own is establish that an unidentified object disabl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ What they cannot do on their own is establish that an unidentified object disabl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ What they cannot do on their own is establish that an unidentified object disabl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ What they cannot do on their own is establish that an unidentified object disabl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -768,7 +768,7 @@ What they cannot do on their own is establish that an unidentified object disabl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -809,102 +809,102 @@ What they cannot do on their own is establish that an unidentified object disabl
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufoevidence.com  
    Title: Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Mar 1967 (same timeframe) — That same history excerpt states UFO [rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) around Echo Flight were “disproven.” ~24 Mar 1967 (...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Mar 1967 (same timeframe) — That same history excerpt states UFO [rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) around Echo Flight were “disproven.” ~24 Mar 1967 (...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Carlson has always claimed that no UFOs were involved...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Carlson has always claimed that no UFOs were involved...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: timhebert.blogspot.com  
    Title: Case Closed!  
-   Link: <a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Re-Evaluation of the Echo Flight IncidentJuly 29, 2011 — Amazingly, after 44 years, these individuals have never surfaced to be identif...</p></details>
    Published: July 29, 2011  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchbriefings.files.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
    Title: POST PN 0607  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsImproving Witness Testimony17 Jul 2019 — Witness testimony plays a key role in criminal investigations and trials. Howe...</p></details>
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0607/POST-PN-0607.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsImproving Witness Testimony17 Jul 2019 — Witness testimony plays a key role in criminal investigations and trials. Howe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cbsnews.com  
    Title: ex air force personnel ufos deactivated nukes  
-   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force Personnel: UFOs Deactivated NukesSep 28, 2010 — UFO researcher Robert Hastings of Albuquerque, N.M., who organized the Natio...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force Personnel: UFOs Deactivated NukesSep 28, 2010 — UFO researcher Robert Hastings of Albuquerque, N.M., who organized the Natio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hilldickinson.com  
    Title: encoding of memories witness and documentary evidence  
-   Link: <a href="https://www.hilldickinson.com/our-view/articles/encoding-of-memories-witness-and-documentary-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.hilldickinson.com/our-view/articles/encoding-of-memories-witness-and-documentary-evidence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding of memories, witness and documentary evidence29 Oct 2024 — Explains that when assessing witness evidence, the Court is alive to...</p></details>
+   Link:<a href="https://www.hilldickinson.com/our-view/articles/encoding-of-memories-witness-and-documentary-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.hilldickinson.com/our-view/articles/encoding-of-memories-witness-and-documentary-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encoding of memories, witness and documentary evidence29 Oct 2024 — Explains that when assessing witness evidence, the Court is alive to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: verywellmind.com  
-   Link: <a href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</p></details>
+   Link:<a href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/UFOCasebook/UFOCasebook427.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/UFOCasebook/UFOCasebook427.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conference at National Press ClubSep 19, 2010 — A report from CBS on the UFO conference included details about the participants at the co...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/UFOCasebook/UFOCasebook427.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/UFOCasebook/UFOCasebook427.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conference at National Press ClubSep 19, 2010 — A report from CBS on the UFO conference included details about the participants at the co...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scotcourts.gov.uk  
-   Link: <a href="https://www.scotcourts.gov.uk/taking-action/commercial-actions/guidance-on-use-signed-witness-statements-or-affidavits/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotcourts.gov.uk/taking-action/commercial-actions/guidance-on-use-signed-witness-statements-or-affidavits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance on use signed witness statements or affidavitsA witness statement which is not an affidavit should include a declaration that th...</p></details>
+   Link:<a href="https://www.scotcourts.gov.uk/taking-action/commercial-actions/guidance-on-use-signed-witness-statements-or-affidavits/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotcourts.gov.uk/taking-action/commercial-actions/guidance-on-use-signed-witness-statements-or-affidavits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance on use signed witness statements or affidavitsA witness statement which is not an affidavit should include a declaration that th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...&quot;The Day Aliens Flexed Their Power: The Malmstrom Air Base UFO Incident of 1967...</p></details>
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...&quot;The Day Aliens Flexed Their Power: The Malmstrom Air Base UFO Incident of 1967...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: enyolaw.com  
-   Link: <a href="https://enyolaw.com/news/witness-evidence-and-memory-distortion-what-lawyers-can-do-to-reduce-the-impact-of-memory-distortion-of-witnesses-in-international-arbitration/" target="_blank" rel="noopener noreferrer nofollow">https://enyolaw.com/news/witness-evidence-and-memory-distortion-what-lawyers-can-do-to-reduce-the-impact-of-memory-distortion-of-witnesses-in-international-arbitration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness Evidence and Memory Distortion: What lawyers...31 Mar 2021 — Factual witness evidence can often be the making or the downfall of...</p></details>
+   Link:<a href="https://enyolaw.com/news/witness-evidence-and-memory-distortion-what-lawyers-can-do-to-reduce-the-impact-of-memory-distortion-of-witnesses-in-international-arbitration/" target="_blank" rel="noopener noreferrer nofollow">https://enyolaw.com/news/witness-evidence-and-memory-distortion-what-lawyers-can-do-to-reduce-the-impact-of-memory-distortion-of-witnesses-in-international-arbitration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witness Evidence and Memory Distortion: What lawyers...31 Mar 2021 — Factual witness evidence can often be the making or the downfall of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/while-it-may-sound-like-a-science-fiction-story-the-retired-us-air-force-launch-/952255520514799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/while-it-may-sound-like-a-science-fiction-story-the-retired-us-air-force-launch-/952255520514799/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>there were aliens aboard it&#x27; When Air Force Lt. Col. Richard French was an alleged lead investigator of Project...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/while-it-may-sound-like-a-science-fiction-story-the-retired-us-air-force-launch-/952255520514799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/while-it-may-sound-like-a-science-fiction-story-the-retired-us-air-force-launch-/952255520514799/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>there were aliens aboard it&#x27; When Air Force Lt. Col. Richard French was an alleged lead investigator of Project...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: strathprints.strath.ac.uk  
    Title: Nicolson Auchie 2017 Assessing witness credibility and reliability  
-   Link: <a href="https://strathprints.strath.ac.uk/59416/1/Nicolson_Auchie_2017_Assessing_witness_credibility_and_reliability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/59416/1/Nicolson_Auchie_2017_Assessing_witness_credibility_and_reliability.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>witness credibility and reliabilityby D Nicolson · 2017 · Cited by 6 — Instead, admissibility should depend on weighing up a variety of c...</p></details>
+   Link:<a href="https://strathprints.strath.ac.uk/59416/1/Nicolson_Auchie_2017_Assessing_witness_credibility_and_reliability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/59416/1/Nicolson_Auchie_2017_Assessing_witness_credibility_and_reliability.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>witness credibility and reliabilityby D Nicolson · 2017 · Cited by 6 — Instead, admissibility should depend on weighing up a variety of c...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom nuclear missiles shutdown by UFO in 1967 · r/aliens - Captain Robert...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom nuclear missiles shutdown by UFO in 1967 · r/aliens - Captain Robert...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Retired Air Force Captain [Robert Salas](&#123;&#123; 'salas/' | relative_url &#125;&#125;) on UFOs and Nuclear Disarmament  
-   Link: <a href="http://www.youtube.com/watch?v=_dwXMcGhk3M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_dwXMcGhk3M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Hastings UFOs nuclear weapons press conference 2010 affidavits 2010 🇺🇸 #UFOB [REPORT] CNN Robert Hastings on the press conference...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_dwXMcGhk3M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_dwXMcGhk3M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Hastings UFOs nuclear weapons press conference 2010 affidavits 2010 🇺🇸 #UFOB [REPORT] CNN Robert Hastings on the press conference...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jamestownpress.com  
-   Link: <a href="https://www.jamestownpress.com/articles/the-governments-response-to-the-ufo-news-conference/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamestownpress.com/articles/the-governments-response-to-the-ufo-news-conference/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The government&#x27;s response to the UFO news conferenceOct 7, 2010 — The Federal Aviation Administration (FAA) responded with its usual rhet...</p></details>
+   Link:<a href="https://www.jamestownpress.com/articles/the-governments-response-to-the-ufo-news-conference/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamestownpress.com/articles/the-governments-response-to-the-ufo-news-conference/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The government&#x27;s response to the UFO news conferenceOct 7, 2010 — The Federal Aviation Administration (FAA) responded with its usual rhet...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO i...</p></details>
+   Link:<a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO i...</p></details>

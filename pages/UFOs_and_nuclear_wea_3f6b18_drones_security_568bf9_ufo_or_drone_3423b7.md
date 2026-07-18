@@ -274,7 +274,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_
 
 ## Introduction
 
-Modern nuclear-site UFO scares often begin with a simple problem: something is seen near sensitive infrastructure, but there is not enough information to identify it. In many recent cases, [drones]({{ 'drones/' | relative_url }}) provide a more plausible explanation than exotic technology. Small unmanned aircraft can appear as hovering lights, operate at low altitude, evade easy identification and trigger alarms from security personnel who may have only seconds to observe them. Yet the fact that a drone explanation is plausible does not automatically resolve a case. A report can remain officially [unidentified]({{ 'unidentified/' | relative_url }}) because evidence is incomplete, not because the object displayed extraordinary capabilities. Recent assessments by NASA and the US government's All-domain Anomaly Resolution Office (AARO) repeatedly emphasise that many UAP reports involve ordinary objects, while poor data quality often prevents immediate identification. NASA Science+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThere are numerous balloons and drones in the air at any moment. Observers may report some of th...</span></span></span>
+Modern nuclear-site UFO scares often begin with a simple problem: something is seen near sensitive infrastructure, but there is not enough information to identify it. In many recent cases, [drones]({{ 'drones/' | relative_url }}) provide a more plausible explanation than exotic technology. Small unmanned aircraft can appear as hovering lights, operate at low altitude, evade easy identification and trigger alarms from security personnel who may have only seconds to observe them. Yet the fact that a drone explanation is plausible does not automatically resolve a case. A report can remain officially [unidentified]({{ 'unidentified/' | relative_url }}) because evidence is incomplete, not because the object displayed extraordinary capabilities. Recent assessments by NASA and the US government's All-domain Anomaly Resolution Office (AARO) repeatedly emphasise that many UAP reports involve ordinary objects, while poor data quality often prevents immediate identification. NASA Science+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThere are numerous balloons and drones in the air at any moment. Observers may report some of th...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7-Illustration-1-dark.svg" | relative_url }}" alt="UFO or drone illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ A small drone can produce many of the characteristics commonly associated with m
 
 </div>
 
-NASA's independent UAP study noted that drones and balloons are constantly present in modern [airspace]({{ 'airspace/' | relative_url }}) and can be reported as anomalous when observational data are limited. The study argued that poor-quality observations often create ambiguity that survives long after the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThere are numerous balloons and drones in the air at any moment. Observers may report some of th...</span></span></span>
+NASA's independent UAP study noted that drones and balloons are constantly present in modern [airspace]({{ 'airspace/' | relative_url }}) and can be reported as anomalous when observational data are limited. The study argued that poor-quality observations often create ambiguity that survives long after the event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThere are numerous balloons and drones in the air at any moment. Observers may report some of th...</span></span></span>
 
 In practice, many nuclear-site incidents start as "unidentified" simply because responders are dealing with fragmentary information in real time.
 
@@ -308,9 +308,9 @@ In practice, many nuclear-site incidents start as "unidentified" simply because 
 
 The strongest argument for the drone explanation is not theoretical. It is that drones are already known to appear around sensitive facilities.
 
-The 2014 wave of incursions over French nuclear power plants remains one of the clearest examples. Multiple facilities reported unauthorised overflights by unidentified drones, prompting police investigations and public concern. The incidents demonstrated that coordinated or repeated drone activity near nuclear infrastructure was entirely feasible using known technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2014/oct/30/drones-spotted-over-seven-french-nuclear-sites-says-edf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[OSTI.gov+3The Guardian+3The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">drones spotted over seven french nuclear sites says edf</span><span class="citation-popover-snippet">The GuardianDrones spotted over seven French nuclear sites, says EDFOct 30, 2014 — France&#x27;s state-run power firm Électricité de France (E...</span></span></span>
+The 2014 wave of incursions over French nuclear power plants remains one of the clearest examples. Multiple facilities reported unauthorised overflights by unidentified drones, prompting police investigations and public concern. The incidents demonstrated that coordinated or repeated drone activity near nuclear infrastructure was entirely feasible using known technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/environment/2014/oct/30/drones-spotted-over-seven-french-nuclear-sites-says-edf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[OSTI.gov+3The Guardian+3The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">drones spotted over seven french nuclear sites says edf</span><span class="citation-popover-snippet">The GuardianDrones spotted over seven French nuclear sites, says EDFOct 30, 2014 — France&#x27;s state-run power firm Électricité de France (E...</span></span></span>
 
-More recently, European military and nuclear-related facilities have continued to report drone intrusions. In late 2025, French authorities investigated drone activity near the naval base that hosts France's nuclear-armed submarine fleet, illustrating how drone concerns extend beyond civilian nuclear plants to strategic military assets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/f4cac3cfea631c08d74515e69253a982" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News France intercepts illegal drone overflight at nuclear submarine base</span><span class="citation-popover-snippet">On Thursday night, several drones were detected flying over the base, though military officials have not specified the exact number or ty...</span></span></span>
+More recently, European military and nuclear-related facilities have continued to report drone intrusions. In late 2025, French authorities investigated drone activity near the naval base that hosts France's nuclear-armed submarine fleet, illustrating how drone concerns extend beyond civilian nuclear plants to strategic military assets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/f4cac3cfea631c08d74515e69253a982" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News France intercepts illegal drone overflight at nuclear submarine base</span><span class="citation-popover-snippet">On Thursday night, several drones were detected flying over the base, though military officials have not specified the exact number or ty...</span></span></span>
 
 Several features make drones particularly compatible with reports from nuclear sites:
 
@@ -332,7 +332,7 @@ The drone hypothesis is powerful, but it is not a universal answer.
 
 Sometimes investigators simply lack enough evidence to determine whether a drone was present. Witnesses may report lights without recording images. [Radar]({{ 'radar/' | relative_url }}) coverage may be incomplete. Sensor systems may not have tracked the object continuously. In such cases, "probably a drone" remains a hypothesis rather than a confirmed explanation.
 
-There are also situations in which reported behaviour appears difficult to reconcile with known commercial drones. Such claims can include unusual speeds, extreme endurance, abrupt manoeuvres or inconsistent sensor readings. However, these reports require careful scrutiny because perception errors, atmospheric effects and sensor limitations can exaggerate apparent performance. NASA's UAP study stressed that many unusual observations result from insufficiently characterised data rather than demonstrated extraordinary capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThere are numerous balloons and drones in the air at any moment. Observers may report some of th...</span></span></span>
+There are also situations in which reported behaviour appears difficult to reconcile with known commercial drones. Such claims can include unusual speeds, extreme endurance, abrupt manoeuvres or inconsistent sensor readings. However, these reports require careful scrutiny because perception errors, atmospheric effects and sensor limitations can exaggerate apparent performance. NASA's UAP study stressed that many unusual observations result from insufficiently characterised data rather than demonstrated extraordinary capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThere are numerous balloons and drones in the air at any moment. Observers may report some of th...</span></span></span>
 
 Importantly, rejecting a confirmed drone explanation is not the same as proving something exotic occurred. An [unresolved]({{ 'unresolved/' | relative_url }}) case may simply reflect missing information.
 
@@ -340,7 +340,7 @@ Importantly, rejecting a confirmed drone explanation is not the same as proving 
 
 The most common path from "UFO" to "unresolved" is not evidence of advanced technology. It is evidence scarcity.
 
-[AARO]({{ 'aaro/' | relative_url }})'s historical review observed that many UAP reports contain little beyond narrative descriptions, while available sensor information is often limited or incomplete. The office has repeatedly argued that additional and higher-quality data would likely resolve many currently unidentified cases. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Most UAP sightings have no data associated with them beyond an o...</span></span></span>
+[AARO]({{ 'aaro/' | relative_url }})'s historical review observed that many UAP reports contain little beyond narrative descriptions, while available sensor information is often limited or incomplete. The office has repeatedly argued that additional and higher-quality data would likely resolve many currently unidentified cases. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Most UAP sightings have no data associated with them beyond an o...</span></span></span>
 
 This creates a recurring pattern around nuclear facilities:
 
@@ -373,7 +373,7 @@ Security restrictions limit public disclosure. Sensor capabilities may be classi
 
 As a result, outside observers often see only fragments of an event. A report may emerge describing lights over a reactor complex or weapons-related installation, while the underlying evidence remains unavailable. This information gap can encourage speculation that the object was extraordinary when the actual obstacle is limited access to data.
 
-The same dynamic appears repeatedly in official UAP investigations. AARO has stated that hundreds of reported anomalies have eventually been resolved as balloons, birds, drones, satellites or conventional aircraft, while a smaller number remain unresolved pending further analysis. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</span></span></span>
+The same dynamic appears repeatedly in official UAP investigations. AARO has stated that hundreds of reported anomalies have eventually been resolved as balloons, birds, drones, satellites or conventional aircraft, while a smaller number remain unresolved pending further analysis. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7-Illustration-3-dark.svg" | relative_url }}" alt="UFO or drone illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -386,194 +386,194 @@ Modern drone technology has dramatically expanded the number of ordinary objects
 As a result, many contemporary nuclear-site mysteries sit in an uncomfortable middle ground. They are not clearly explained, but neither do they demonstrate technology beyond known human capabilities. The unresolved status of a report frequently reflects missing data rather than extraordinary evidence. In that sense, a modern nuclear-site UFO is often best understood not as proof of a deeper mystery, but as a reminder of how difficult identification becomes when security concerns, limited observations and increasingly capable drones intersect.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When is a UFO just a drone?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When is a UFO just a drone?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Shows how competing explanations arise from limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how competing explanations arise from limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how unidentified cases are investigated and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unidentified cases are investigated and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOveDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
-        </h4>
-        <p class="fr-book-author">By Michael J. Boyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOveDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
+</h4>
+<p class="fr-book-author">By Michael J. Boyle</p>
         
-        <p class="fr-book-desc">Provides a conventional explanation framework for many sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a conventional explanation framework for many sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly addresses unidentified aerial reports near nuclear sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses unidentified aerial reports near nuclear sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="ufo-or-drone-when-is-a-ufo-just-a-drone-ufos-and-nuclear-weapons-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ As a result, many contemporary nuclear-site mysteries sit in an uncomfortable mi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ As a result, many contemporary nuclear-site mysteries sit in an uncomfortable mi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ As a result, many contemporary nuclear-site mysteries sit in an uncomfortable mi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ As a result, many contemporary nuclear-site mysteries sit in an uncomfortable mi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ As a result, many contemporary nuclear-site mysteries sit in an uncomfortable mi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,146 +779,146 @@ As a result, many contemporary nuclear-site mysteries sit in an uncomfortable mi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThere are numerous balloons and drones in the air at any moment. Observers may report some of th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThere are numerous balloons and drones in the air at any moment. Observers may report some of th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study ReportSep 14, 2023 — NASA&#x27;s new Director of UAP Research will develop and oversee the implement...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study ReportSep 14, 2023 — NASA&#x27;s new Director of UAP Research will develop and oversee the implement...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: osti.gov  
-   Link: <a href="https://www.osti.gov/servlets/purl/1356834" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/servlets/purl/1356834</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the Threat of Unmanned Aerial Vehicles (UAV)...by A Solodov · 2017 · Cited by 175 — Fall 2014: In France, several unidentified...</p></details>
+   Link:<a href="https://www.osti.gov/servlets/purl/1356834" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/servlets/purl/1356834</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the Threat of Unmanned Aerial Vehicles (UAV)...by A Solodov · 2017 · Cited by 175 — Fall 2014: In France, several unidentified...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — This report covers UAP from May 1, 2023, to June 1, 2024, an...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — This report covers UAP from May 1, 2023, to June 1, 2024, an...</p></details>
    Published: May 1, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and myla...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCommon objects/causes frequently reported as UAP include: Airborne clutter: Includes windborne debris like plastic bags and myla...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons and...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAARO assesses with high confidence that the object was consistent with a cluster of fully and partially inflat...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Most UAP sightings have no data associated with them beyond an o...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Most UAP sightings have no data associated with them beyond an o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: drones spotted over seven french nuclear sites says edf  
-   Link: <a href="https://www.theguardian.com/environment/2014/oct/30/drones-spotted-over-seven-french-nuclear-sites-says-edf" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2014/oct/30/drones-spotted-over-seven-french-nuclear-sites-says-edf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianDrones spotted over seven French nuclear sites, says EDFOct 30, 2014 — France&#x27;s state-run power firm Électricité de France (E...</p></details>
+   Link:<a href="https://www.theguardian.com/environment/2014/oct/30/drones-spotted-over-seven-french-nuclear-sites-says-edf" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2014/oct/30/drones-spotted-over-seven-french-nuclear-sites-says-edf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianDrones spotted over seven French nuclear sites, says EDFOct 30, 2014 — France&#x27;s state-run power firm Électricité de France (E...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: more drones spotted over french nuclear power stations  
-   Link: <a href="https://www.theguardian.com/environment/2014/oct/31/more-drones-spotted-over-french-nuclear-power-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2014/oct/31/more-drones-spotted-over-french-nuclear-power-stations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 31, 2014 — French authorities detect drones over two nuclear power plants, the latest in a baffling series of incidents across the co...</p></details>
+   Link:<a href="https://www.theguardian.com/environment/2014/oct/31/more-drones-spotted-over-french-nuclear-power-stations" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2014/oct/31/more-drones-spotted-over-french-nuclear-power-stations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 31, 2014 — French authorities detect drones over two nuclear power plants, the latest in a baffling series of incidents across the co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apnews.com  
    Title: AP News France intercepts illegal drone overflight at nuclear submarine base  
-   Link: <a href="https://apnews.com/article/f4cac3cfea631c08d74515e69253a982" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/f4cac3cfea631c08d74515e69253a982</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Thursday night, several drones were detected flying over the base, though military officials have not specified the exact number or ty...</p></details>
+   Link:<a href="https://apnews.com/article/f4cac3cfea631c08d74515e69253a982" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/f4cac3cfea631c08d74515e69253a982</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Thursday night, several drones were detected flying over the base, though military officials have not specified the exact number or ty...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: mystery drones spotted paris eiffel louvre  
-   Link: <a href="https://www.theguardian.com/world/2015/feb/24/mystery-drones-spotted-paris-eiffel-louvre" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2015/feb/24/mystery-drones-spotted-paris-eiffel-louvre</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones spotted flying over ParisFeb 24, 2015 — Paris police say they have spotted at least five drones flying over the French cap...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2015/feb/24/mystery-drones-spotted-paris-eiffel-louvre" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2015/feb/24/mystery-drones-spotted-paris-eiffel-louvre</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery drones spotted flying over ParisFeb 24, 2015 — Paris police say they have spotted at least five drones flying over the French cap...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iaea.org  
    Title: france national report 7rm  
-   Link: <a href="https://www.iaea.org/sites/default/files/france_national_report_7rm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/france_national_report_7rm.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FRANCEThe results as a whole were summarised in the interim report submitted to the government in July 2015. This first reconnaissance ph...</p></details>
+   Link:<a href="https://www.iaea.org/sites/default/files/france_national_report_7rm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/france_national_report_7rm.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FRANCEThe results as a whole were summarised in the interim report submitted to the government in July 2015. This first reconnaissance ph...</p></details>
    Published: July 2015  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsWe surmise based on the information you have access to that they&#x27;re just balloons. Filled wit...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsWe surmise based on the information you have access to that they&#x27;re just balloons. Filled wit...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: 7news.com.au  
-   Link: <a href="https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon received hundreds of new UAP reports, but says...15 Nov 2024 — Forty-nine cases during the [reporting](&amp;#123;&amp;#123; &#x27;reporting/&#x27; | relative_url &amp;#125;&amp;#125;) period were resolved durin...</p></details>
+   Link:<a href="https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693" target="_blank" rel="noopener noreferrer nofollow">https://7news.com.au/news/world/pentagon-received-hundreds-of-new-uap-reports-but-says-no-evidence-of-extraterrestrial-activity-c-16771693</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon received hundreds of new UAP reports, but says...15 Nov 2024 — Forty-nine cases during the [reporting](&amp;#123;&amp;#123; &#x27;reporting/&#x27; | relative_url &amp;#125;&amp;#125;) period were resolved durin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/167nwhe/aaros_videos_the_us_government_cannot_identify/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: suasnews.com  
-   Link: <a href="https://www.suasnews.com/2014/11/three-arrests-fail-to-staunch-mystery-of-drones-flying-over-french-nuclear-plants/" target="_blank" rel="noopener noreferrer nofollow">https://www.suasnews.com/2014/11/three-arrests-fail-to-staunch-mystery-of-drones-flying-over-french-nuclear-plants/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three arrests fail to staunch mystery of drones flying over...Nov 6, 2014 — The French nuclear operator EDF admits 13 drone incidents in...</p></details>
+   Link:<a href="https://www.suasnews.com/2014/11/three-arrests-fail-to-staunch-mystery-of-drones-flying-over-french-nuclear-plants/" target="_blank" rel="noopener noreferrer nofollow">https://www.suasnews.com/2014/11/three-arrests-fail-to-staunch-mystery-of-drones-flying-over-french-nuclear-plants/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three arrests fail to staunch mystery of drones flying over...Nov 6, 2014 — The French nuclear operator EDF admits 13 drone incidents in...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: in 2026 unidentified aerial phenomena have become a serious topic within officia  
-   Link: <a href="https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2026, unidentified aerial phenomena have become a...While many reported objects have been explained as drones, balloons, or sensor er...</p></details>
+   Link:<a href="https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2026, unidentified aerial phenomena have become a...While many reported objects have been explained as drones, balloons, or sensor er...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...Jon Kosloski, AARO director, said their first step in investigating a possible sighti...</p></details>
+   Link:<a href="https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...Jon Kosloski, AARO director, said their first step in investigating a possible sighti...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
+   Link:<a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>

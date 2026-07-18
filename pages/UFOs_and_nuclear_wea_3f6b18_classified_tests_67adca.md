@@ -488,11 +488,11 @@ This matters for the nuclear-UFO debate because [secrecy]({{ 'secrecy/' | relati
 
 The early atomic age created a crowded secret sky. The United States was testing nuclear weapons, monitoring Soviet nuclear progress, developing high-altitude reconnaissance aircraft and building missile-warning systems. Many of these programmes were designed around nuclear intelligence: detecting Soviet tests, photographing missile sites, mapping bomber bases, or proving whether US weapons could survive and respond after a nuclear attack.
 
-Project [Mogul]({{ 'mogul/' | relative_url }}) is an early example of the mechanism. [AARO]({{ 'aaro/' | relative_url }})’s 2024 historical report describes Mogul as a US Army Air Force programme, active from 1947 to 1949, that used high-altitude balloons carrying sensors intended to detect long-range sound waves from Soviet nuclear tests or missiles. AARO assesses that a crashed Mogul balloon near Roswell, New Mexico, was the source of early UFO claims there. The important point for this page is not Roswell folklore itself, but the pattern: nuclear intelligence equipment operated under secrecy, left confusing physical traces, and was not publicly explainable at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+Project [Mogul]({{ 'mogul/' | relative_url }}) is an early example of the mechanism. [AARO]({{ 'aaro/' | relative_url }})’s 2024 historical report describes Mogul as a US Army Air Force programme, active from 1947 to 1949, that used high-altitude balloons carrying sensors intended to detect long-range sound waves from Soviet nuclear tests or missiles. AARO assesses that a crashed Mogul balloon near Roswell, New Mexico, was the source of early UFO claims there. The important point for this page is not Roswell folklore itself, but the pattern: nuclear intelligence equipment operated under secrecy, left confusing physical traces, and was not publicly explainable at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-The same pattern became larger with the U-2. The CIA entered high-altitude reconnaissance in the mid-1950s, when most commercial aircraft flew far below the U-2’s operating altitude. The CIA’s own historical account says the U-2’s silver body could catch sunlight at dawn or dusk and appear fiery to pilots and air traffic controllers below. Blue Book investigators could sometimes check sightings against secret U-2 flight logs, but they could not reveal the true explanation to the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</span></span></span>
+The same pattern became larger with the U-2. The CIA entered high-altitude reconnaissance in the mid-1950s, when most commercial aircraft flew far below the U-2’s operating altitude. The CIA’s own historical account says the U-2’s silver body could catch sunlight at dawn or dusk and appear fiery to pilots and air traffic controllers below. Blue Book investigators could sometimes check sightings against secret U-2 flight logs, but they could not reveal the true explanation to the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</span></span></span>
 
-That secrecy had a measurable effect on UFO records. CIA-linked historical estimates say U-2 and OXCART flights accounted for more than half of all UFO reports from the late 1950s through the 1960s, and that the Air Force made misleading public statements to protect sensitive national security projects. AARO’s 2024 report repeats the core point: Project Aquatone, the U-2 programme, was authorised to collect intelligence on Soviet nuclear deployments, and many reports spiked when the U-2 was in flight, especially from airline pilots. FAS Project on Government Secrecy+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</span></span></span>
+That secrecy had a measurable effect on UFO records. CIA-linked historical estimates say U-2 and OXCART flights accounted for more than half of all UFO reports from the late 1950s through the 1960s, and that the Air Force made misleading public statements to protect sensitive national security projects. AARO’s 2024 report repeats the core point: Project Aquatone, the U-2 programme, was authorised to collect intelligence on Soviet nuclear deployments, and many reports spiked when the U-2 was in flight, especially from airline pilots. FAS Project on Government Secrecy+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca-Illustration-1-dark.svg" | relative_url }}" alt="Secret Tests illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -500,9 +500,9 @@ That secrecy had a measurable effect on UFO records. CIA-linked historical estim
 
 Nuclear sites were not ordinary backdrops. They were surrounded by [restricted airspace]({{ 'airspace/' | relative_url }}), radar coverage, armed security, compartmented operations and unusual tests. That meant an [unidentified]({{ 'unidentified/' | relative_url }}) light near a missile field could be interpreted as a possible intruder, a Soviet system, a sensor fault, a classified US test, or something stranger. Even when the event was mundane, the setting made it feel consequential.
 
-The US Air Force’s Project Blue Book collected 12,618 UFO reports between 1947 and 1969, with 701 left classified as “unidentified”. Its official conclusion was that no investigated report showed a national security threat, technology beyond modern scientific knowledge, or evidence of extraterrestrial vehicles. Yet that public conclusion sat alongside a separate reality: some classified aircraft explanations could not be disclosed when witnesses asked what they had seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
+The US Air Force’s Project Blue Book collected 12,618 UFO reports between 1947 and 1969, with 701 left classified as “unidentified”. Its official conclusion was that no investigated report showed a national security threat, technology beyond modern scientific knowledge, or evidence of extraterrestrial vehicles. Yet that public conclusion sat alongside a separate reality: some classified aircraft explanations could not be disclosed when witnesses asked what they had seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
-The overlap with nuclear weapons becomes clearer when looking at test ranges and launch sites. Operation Dominic I in 1962 involved 36 atmospheric nuclear detonations in the Pacific, including high-altitude Fishbowl tests lofted by rockets from Johnston Island to study nuclear detonations as defensive weapons against ballistic missiles. These were spectacular, technical and geographically vast operations; they produced lights, rocket launches, instrumentation activity and military movements that could look anomalous to observers outside the compartment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/18-DOMINIC%20I%20-%202021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtra.mil">[Defense Threat Reduction Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtra.mil</span><span class="citation-popover-title">Defense Threat Reduction Agency Fact</span><span class="citation-popover-snippet">Defense Threat Reduction Agency Fact</span></span></span>
+The overlap with nuclear weapons becomes clearer when looking at test ranges and launch sites. Operation Dominic I in 1962 involved 36 atmospheric nuclear detonations in the Pacific, including high-altitude Fishbowl tests lofted by rockets from Johnston Island to study nuclear detonations as defensive weapons against ballistic missiles. These were spectacular, technical and geographically vast operations; they produced lights, rocket launches, instrumentation activity and military movements that could look anomalous to observers outside the compartment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/18-DOMINIC%20I%20-%202021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtra.mil">[Defense Threat Reduction Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtra.mil</span><span class="citation-popover-title">Defense Threat Reduction Agency Fact</span><span class="citation-popover-snippet">Defense Threat Reduction Agency Fact</span></span></span>
 
 There was also a human factor. Missile crews, guards and pilots were trained to report anomalies, not to ignore them. But they were not necessarily cleared into every test, exercise or intelligence programme occurring around them. That is how a sincere witness can be both reliable about seeing something and wrong about what caused it.
 
@@ -511,11 +511,11 @@ There was also a human factor. Missile crews, guards and pilots were trained to 
 
 ## Disinformation and cover stories were part of the problem
 
-The Cold War did not merely produce accidental confusion. It also produced deliberate cover stories. The CIA history of UFO involvement says the 1953 Robertson Panel recommended public education to reduce anxiety about UFO reports, while also recommending monitoring some civilian UFO groups for possible subversive activity. CIA officials then restricted knowledge of the panel’s sponsorship, a decision the CIA historian later judged damaging to the Agency’s credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</span></span></span>
+The Cold War did not merely produce accidental confusion. It also produced deliberate cover stories. The CIA history of UFO involvement says the 1953 Robertson Panel recommended public education to reduce anxiety about UFO reports, while also recommending monitoring some civilian UFO groups for possible subversive activity. CIA officials then restricted knowledge of the panel’s sponsorship, a decision the CIA historian later judged damaging to the Agency’s credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</span></span></span>
 
-The most straightforward classified-cover mechanism was substitution. If a U-2 sighting was reported, investigators might attribute it to ice crystals, temperature inversions or another harmless explanation rather than reveal the aircraft. In narrow security terms, that protected a spy plane. In public-trust terms, it taught UFO researchers to suspect that official explanations were incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</span></span></span>
+The most straightforward classified-cover mechanism was substitution. If a U-2 sighting was reported, investigators might attribute it to ice crystals, temperature inversions or another harmless explanation rather than reveal the aircraft. In narrow security terms, that protected a spy plane. In public-trust terms, it taught UFO researchers to suspect that official explanations were incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</span></span></span>
 
-Later [reporting]({{ 'reporting/' | relative_url }}) and declassified material suggest that some activity went beyond passive concealment. A 2025 Wall Street Journal investigation reported that Pentagon-linked disinformation and fake UFO materials were used to obscure classified weapons work, including stealth development around Area 51, and that AARO had uncovered evidence of “potential pranks and inauthentic materials” not included in the first public historical report because the inquiry was unfinished. That reporting should be treated carefully until the promised official follow-up is public, but it fits the older documented pattern: secrecy sometimes protected real programmes by allowing or encouraging false UFO interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
+Later [reporting]({{ 'reporting/' | relative_url }}) and declassified material suggest that some activity went beyond passive concealment. A 2025 Wall Street Journal investigation reported that Pentagon-linked disinformation and fake UFO materials were used to obscure classified weapons work, including stealth development around Area 51, and that AARO had uncovered evidence of “potential pranks and inauthentic materials” not included in the first public historical report because the inquiry was unfinished. That reporting should be treated carefully until the promised official follow-up is public, but it fits the older documented pattern: secrecy sometimes protected real programmes by allowing or encouraging false UFO interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
 
 This is why “government cover-up” is too blunt a phrase. In many cases, the likely cover-up was not of alien technology, but of aircraft, sensors, test failures, security vulnerabilities or intelligence methods. That distinction matters. It preserves the evidence that officials sometimes misled the public, without turning every misleading statement into evidence of extraterrestrial contact.
 
@@ -523,9 +523,9 @@ This is why “government cover-up” is too blunt a phrase. In many cases, the 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca-Illustration-2-dark.svg" | relative_url }}" alt="Secret Tests illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Area 51 shows how secret tests become UFO mythology
 
-Area 51 is the clearest Cold War example of a real secret site becoming a UFO symbol. The National Security Archive notes that declassified documents confirm Groom Lake’s central role in U-2 development, later OXCART work and other secret aircraft activity. Its 2013 release described newly declassified U-2 material, including references to Area 51 and Groom Lake, names of pilots, overseas operations and intelligence missions connected to nuclear and missile targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security ArchiveThe Secret History of the U-2 - and Area 51...</span></span></span>
+Area 51 is the clearest Cold War example of a real secret site becoming a UFO symbol. The National Security Archive notes that declassified documents confirm Groom Lake’s central role in U-2 development, later OXCART work and other secret aircraft activity. Its 2013 release described newly declassified U-2 material, including references to Area 51 and Groom Lake, names of pilots, overseas operations and intelligence missions connected to nuclear and missile targets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security ArchiveThe Secret History of the U-2 - and Area 51...</span></span></span>
 
-A later National Security Archive posting states that Area 51 is better understood as a US government test facility for secret aircraft projects, including the U-2, OXCART and F-117, rather than as a site for extraterrestrials. It also notes that the facility hosted secretly obtained Soviet MiG fighters during the Cold War, which adds another layer of plausible visual confusion: unfamiliar aircraft were not imaginary, but they were terrestrial and classified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
+A later National Security Archive posting states that Area 51 is better understood as a US government test facility for secret aircraft projects, including the U-2, OXCART and F-117, rather than as a site for extraterrestrials. It also notes that the facility hosted secretly obtained Soviet MiG fighters during the Cold War, which adds another layer of plausible visual confusion: unfamiliar aircraft were not imaginary, but they were terrestrial and classified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive.gwu.edu</span><span class="citation-popover-snippet">Open source on gwu.edu.</span></span></span>
 
 The U-2 and OXCART looked strange because they operated outside normal experience. The F-117 looked strange because its angular stealth shape did not resemble conventional aircraft. A distant, briefly glimpsed classified aircraft near a closed range could therefore create a true observation and a false interpretation at the same time. That is the basic mechanism behind many “secret tests looked like UFOs” cases.
 
@@ -542,7 +542,7 @@ Several problems make proof difficult:
 * **Cover explanations entered the paper trail.** If a true cause was hidden, the surviving file may preserve the false public explanation rather than the classified one.
 * **Declassification is uneven.** A programme name may be released decades before its test logs, locations or failures are fully available.
 * **Witness memory changes over time.** A sincere account given decades later may blend the original observation with later media, rumours or newly declassified facts.
-* **Some events really remain unresolved.** AARO itself says historical nuclear-related UAP cases often have little actionable data beyond limited firsthand narratives, even though it continues to investigate them because of the sensitivity of the setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+* **Some events really remain unresolved.** AARO itself says historical nuclear-related UAP cases often have little actionable data beyond limited firsthand narratives, even though it continues to investigate them because of the sensitivity of the setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 The strongest analysis therefore separates three categories. First are identified classified causes, such as U-2 flights that investigators could match to reports. Second are plausible classified causes, where the setting and era fit but the records are incomplete. Third are unresolved cases, where secrecy may be relevant but cannot be used as a substitute for evidence.
 
@@ -563,194 +563,194 @@ The sober conclusion is not that Cold War secrecy explains all UFO reports near 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Secret Tests Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Secret Tests Look Like UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows how secret programs generated UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how secret programs generated UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances official testimony with unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances official testimony with unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains classified aircraft development behind many mystery sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains classified aircraft development behind many mystery sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Explores secrecy, advanced technology, and speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores secrecy, advanced technology, and speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141"><img src="{{ '/assets/images/marketplace-covers/29353cbbf7e0a295e172.jpg' | relative_url }}" alt="Listing image for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141"><img src="{{ '/assets/images/marketplace-covers/29353cbbf7e0a295e172.jpg' | relative_url }}" alt="Listing image for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2"><img src="{{ '/assets/images/marketplace-covers/9b3033d51e616bd60814.jpg' | relative_url }}" alt="Listing image for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2"><img src="{{ '/assets/images/marketplace-covers/9b3033d51e616bd60814.jpg' | relative_url }}" alt="Listing image for All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">All Your Base Morale Patch Tactical Military Army USA Flag Hook &amp; Loop 3x2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s"><img src="{{ '/assets/images/marketplace-covers/3df59e491f4bd48b162b.jpg' | relative_url }}" alt="Listing image for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s"><img src="{{ '/assets/images/marketplace-covers/3df59e491f4bd48b162b.jpg' | relative_url }}" alt="Listing image for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base"><img src="{{ '/assets/images/marketplace-covers/42b976f322a11a4afaf1.jpg' | relative_url }}" alt="Listing image for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base"><img src="{{ '/assets/images/marketplace-covers/42b976f322a11a4afaf1.jpg' | relative_url }}" alt="Listing image for Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Fakal PMC Patch - Private Military Company PSC Forward Operations Group Base</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="secret-tests-when-secret-tests-look-like-ufos-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -766,7 +766,7 @@ The sober conclusion is not that Cold War secrecy explains all UFO reports near 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -786,7 +786,7 @@ The sober conclusion is not that Cold War secrecy explains all UFO reports near 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -818,7 +818,7 @@ The sober conclusion is not that Cold War secrecy explains all UFO reports near 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -870,7 +870,7 @@ The sober conclusion is not that Cold War secrecy explains all UFO reports near 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -915,7 +915,7 @@ The sober conclusion is not that Cold War secrecy explains all UFO reports near 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -956,225 +956,225 @@ The sober conclusion is not that Cold War secrecy explains all UFO reports near 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
    Title: DOC 0005517742  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the mys- tery of UFOs, its programs tha...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the mys- tery of UFOs, its programs tha...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cia.gov  
    Title: ask molly what really went on at area 51  
-   Link: <a href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/</a>  
+   Link:<a href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
    Title: DOC 0000192682  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
    Title: DOC 0005517761  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517761.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517677" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517677</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517677" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517677</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/declassified-intelligence-analyses-former-soviet-union-produced-cias-directorate" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/declassified-intelligence-analyses-former-soviet-union-produced-cias-directorate</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/declassified-intelligence-analyses-former-soviet-union-produced-cias-directorate" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/declassified-intelligence-analyses-former-soviet-union-produced-cias-directorate</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.com  
    Title: ufos near nuclear facilities uss roosevelt [rendlesham](&#123;&#123; 'rendlesham/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
+   Link:<a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.com  
    Title: ufo sightings cia robertson condon  
-   Link: <a href="https://www.history.com/articles/ufo-sightings-cia-robertson-condon" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-cia-robertson-condon</a>  
+   Link:<a href="https://www.history.com/articles/ufo-sightings-cia-robertson-condon" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-cia-robertson-condon</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/OperationDOMINICNuclearTests1962" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/OperationDOMINICNuclearTests1962</a>  
+   Link:<a href="https://archive.org/details/OperationDOMINICNuclearTests1962" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/OperationDOMINICNuclearTests1962</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-010_REPORT_ON_CONVERSATIONS_WITH_SOVIET_SCIENTISTS_ON_SUBJECT_OF_UNIDENTIFIED_FLYING_OBJECTS_IS_THE_USSR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-010_REPORT_ON_CONVERSATIONS_WITH_SOVIET_SCIENTISTS_ON_SUBJECT_OF_UNIDENTIFIED_FLYING_OBJECTS_IS_THE_USSR.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-010_REPORT_ON_CONVERSATIONS_WITH_SOVIET_SCIENTISTS_ON_SUBJECT_OF_UNIDENTIFIED_FLYING_OBJECTS_IS_THE_USSR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-010_REPORT_ON_CONVERSATIONS_WITH_SOVIET_SCIENTISTS_ON_SUBJECT_OF_UNIDENTIFIED_FLYING_OBJECTS_IS_THE_USSR.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.org  
-   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
+   Link:<a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: time.com  
    Title: ufo sighting history national security  
-   Link: <a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
+   Link:<a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dtra.mil  
    Title: Defense Threat Reduction Agency Fact  
-   Link: <a href="https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/18-DOMINIC%20I%20-%202021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/18-DOMINIC%20I%20-%202021.pdf</a>  
+   Link:<a href="https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/18-DOMINIC%20I%20-%202021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dtra.mil/Portals/125/Documents/NTPR/newDocs/18-DOMINIC%20I%20-%202021.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveThe Secret History of the U-2 - and Area 51...</p></details>
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveThe Secret History of the U-2 - and Area 51...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nsarchive.gwu.edu  
-   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
+   Link:<a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: wsj.com  
    Title: what trumps ufo deep dive might reveal to americans b2268ae7  
-   Link: <a href="https://www.wsj.com/politics/national-security/what-trumps-ufo-deep-dive-might-reveal-to-americans-b2268ae7" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/what-trumps-ufo-deep-dive-might-reveal-to-americans-b2268ae7</a>  
+   Link:<a href="https://www.wsj.com/politics/national-security/what-trumps-ufo-deep-dive-might-reveal-to-americans-b2268ae7" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/what-trumps-ufo-deep-dive-might-reveal-to-americans-b2268ae7</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: wsj.com  
    Title: The Pentagon's UFO Coverup  
-   Link: <a href="https://www.wsj.com/podcasts/the-journal/the-pentagon-ufo-coverup/878d1588-66f3-4a43-b1ce-169b1b4c1d0e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/podcasts/the-journal/the-pentagon-ufo-coverup/878d1588-66f3-4a43-b1ce-169b1b4c1d0e</a>  
+   Link:<a href="https://www.wsj.com/podcasts/the-journal/the-pentagon-ufo-coverup/878d1588-66f3-4a43-b1ce-169b1b4c1d0e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/podcasts/the-journal/the-pentagon-ufo-coverup/878d1588-66f3-4a43-b1ce-169b1b4c1d0e</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: atomicarchive.com  
-   Link: <a href="https://www.atomicarchive.com/media/photographs/testing/us/dominic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/media/photographs/testing/us/dominic.html</a>  
+   Link:<a href="https://www.atomicarchive.com/media/photographs/testing/us/dominic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/media/photographs/testing/us/dominic.html</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1295673443855365/posts/8561311377291499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/8561311377291499/</a>  
+   Link:<a href="https://www.facebook.com/groups/1295673443855365/posts/8561311377291499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1295673443855365/posts/8561311377291499/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: en.wikisource.org  
    Title: Volume 1  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nuclearweaponarchive.org  
-   Link: <a href="https://nuclearweaponarchive.org/Usa/Tests/Dominic.html" target="_blank" rel="noopener noreferrer nofollow">https://nuclearweaponarchive.org/Usa/Tests/Dominic.html</a>  
+   Link:<a href="https://nuclearweaponarchive.org/Usa/Tests/Dominic.html" target="_blank" rel="noopener noreferrer nofollow">https://nuclearweaponarchive.org/Usa/Tests/Dominic.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: britannica.com  
    Title: Project Blue Book | Definition, History, Aliens, UFOs, & Facts  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart  
-   Link: <a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iOmM9PkTqpk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Disabled Missiles at Malmstrom Air Force Base?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iOmM9PkTqpk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Disabled Missiles at Malmstrom Air Force Base?...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: llnl.gov  
-   Link: <a href="https://www.llnl.gov/sites/www/files/1962.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/sites/www/files/1962.pdf</a>  
+   Link:<a href="https://www.llnl.gov/sites/www/files/1962.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llnl.gov/sites/www/files/1962.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: What Disabled Missiles at Malmstrom Air Force Base?  
-   Link: <a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon&#x27;s New UFO Files: What They Really Reveal...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon&#x27;s New UFO Files: What They Really Reveal...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX5NY/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1249963363159613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1249963363159613/</a>  
+   Link:<a href="https://www.facebook.com/FOX5NY/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1249963363159613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1249963363159613/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/aldotcom/posts/a-former-redstone-arsenal-scientist-helped-expose-how-the-defense-department-has/1097682635739966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aldotcom/posts/a-former-redstone-arsenal-scientist-helped-expose-how-the-defense-department-has/1097682635739966/</a>  
+   Link:<a href="https://www.facebook.com/aldotcom/posts/a-former-redstone-arsenal-scientist-helped-expose-how-the-defense-department-has/1097682635739966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aldotcom/posts/a-former-redstone-arsenal-scientist-helped-expose-how-the-defense-department-has/1097682635739966/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMornings/posts/a-former-military-intelligence-officer-testified-to-a-house-subcommittee-that-he/679626900858131/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/a-former-military-intelligence-officer-testified-to-a-house-subcommittee-that-he/679626900858131/</a>  
+   Link:<a href="https://www.facebook.com/CBSMornings/posts/a-former-military-intelligence-officer-testified-to-a-house-subcommittee-that-he/679626900858131/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/a-former-military-intelligence-officer-testified-to-a-house-subcommittee-that-he/679626900858131/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DKyH9DyzR0l/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKyH9DyzR0l/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DKyH9DyzR0l/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKyH9DyzR0l/?hl=en</a>  

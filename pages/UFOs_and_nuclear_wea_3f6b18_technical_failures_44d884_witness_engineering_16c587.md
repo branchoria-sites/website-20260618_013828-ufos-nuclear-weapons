@@ -274,7 +274,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witn
 
 ## Introduction
 
-In debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), the most important question is often not whether witnesses saw something unusual. It is whether the reported sighting matches the documented sequence of technical events. Witness testimony and engineering records are two different evidence streams. Both can be valuable, but they answer different questions. A guard may sincerely report a strange object over a missile site, while maintenance records may show a fault developing through known system pathways. To argue that a UFO interfered with a nuclear system, the timelines of observation and malfunction must align precisely, and the technical evidence must support a causal connection rather than a coincidence. This timeline test is where many famous cases become far more complicated than simple summaries suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+In debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), the most important question is often not whether witnesses saw something unusual. It is whether the reported sighting matches the documented sequence of technical events. Witness testimony and engineering records are two different evidence streams. Both can be valuable, but they answer different questions. A guard may sincerely report a strange object over a missile site, while maintenance records may show a fault developing through known system pathways. To argue that a UFO interfered with a nuclear system, the timelines of observation and malfunction must align precisely, and the technical evidence must support a causal connection rather than a coincidence. This timeline test is where many famous cases become far more complicated than simple summaries suggest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587-Illustration-1-dark.svg" | relative_url }}" alt="Timeline Tests illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,9 +286,9 @@ The witness side includes security guards, missile crew members, radar operators
 
 The engineering side consists of maintenance logs, command histories, fault reports, status changes, troubleshooting records and post-incident investigations. These documents record what the equipment actually did and when it did it.
 
-The challenge arises because the existence of one type of evidence does not automatically validate the other. A missile shutdown can be real without UFO involvement. Likewise, a genuine sighting can occur without causing a weapons-system failure. Establishing interference requires both streams to converge on the same sequence of events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The challenge arises because the existence of one type of evidence does not automatically validate the other. A missile shutdown can be real without UFO involvement. Likewise, a genuine sighting can occur without causing a weapons-system failure. Establishing interference requires both streams to converge on the same sequence of events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-The Malmstrom missile incidents illustrate this distinction clearly. The missile malfunction itself is documented. What remains disputed is whether reported aerial phenomena occurred at the relevant locations and times, and whether they had any relationship to the [technical failures]({{ 'failures/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The Malmstrom missile incidents illustrate this distinction clearly. The missile malfunction itself is documented. What remains disputed is whether reported aerial phenomena occurred at the relevant locations and times, and whether they had any relationship to the [technical failures]({{ 'failures/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 ## What a Strong Timeline Would Need to Show
 
@@ -330,9 +330,9 @@ Consequently, a convincing timeline must establish that the reported object was 
 
 The 1967 Malmstrom incidents are often presented as examples of UFOs disabling nuclear missiles. However, the timeline evidence remains the central area of disagreement.
 
-A declassified history of the Echo Flight malfunction records that all launch facilities in the flight lost strategic alert status nearly simultaneously and entered a "No-Go" condition. The same document also states that rumours of UFO activity during the fault were investigated and considered disproven by the reporting chain. According to the record, personnel questioned after the event reported no unusual observations, and [radar]({{ 'radar/' | relative_url }})-related checks produced negative findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+A declassified history of the Echo Flight malfunction records that all launch facilities in the flight lost strategic alert status nearly simultaneously and entered a "No-Go" condition. The same document also states that rumours of UFO activity during the fault were investigated and considered disproven by the reporting chain. According to the record, personnel questioned after the event reported no unusual observations, and [radar]({{ 'radar/' | relative_url }})-related checks produced negative findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-Years later, former missile launch officer [Robert Salas]({{ 'salas/' | relative_url }}) and other witnesses described unusual aerial objects near missile facilities and argued that these events were connected to missile shutdowns. Their accounts became a major part of the public narrative surrounding Malmstrom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[Press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era.Read more...</span></span></span>
+Years later, former missile launch officer [Robert Salas]({{ 'salas/' | relative_url }}) and other witnesses described unusual aerial objects near missile facilities and argued that these events were connected to missile shutdowns. Their accounts became a major part of the public narrative surrounding Malmstrom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[Press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era.Read more...</span></span></span>
 
 The timeline dispute therefore does not centre on whether witnesses exist. It centres on how their recollections align with contemporary records.
 
@@ -348,7 +348,7 @@ Several questions remain debated:
 
 </div>
 
-These questions matter because even small discrepancies can significantly affect claims of causation. A sighting reported hours before or after a malfunction carries different evidential weight from one documented at the exact moment the system changed status. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+These questions matter because even small discrepancies can significantly affect claims of causation. A sighting reported hours before or after a malfunction carries different evidential weight from one documented at the exact moment the system changed status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587-Illustration-2-dark.svg" | relative_url }}" alt="Timeline Tests illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,13 +356,13 @@ These questions matter because even small discrepancies can significantly affect
 
 The Big Sur missile-test story highlights a different timeline problem.
 
-Robert Jacobs later claimed that film footage from a 1964 missile test showed an object manoeuvring around a re-entry vehicle and disabling it with beam-like emissions. The claim became one of the most famous alleged examples of UFO interference with strategic weapons systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+Robert Jacobs later claimed that film footage from a 1964 missile test showed an object manoeuvring around a re-entry vehicle and disabling it with beam-like emissions. The claim became one of the most famous alleged examples of UFO interference with strategic weapons systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
-However, project engineer Kingston George offered a competing explanation. He argued that the footage captured classified decoy-warhead and chaff deployment activities rather than an attack on a missile. According to this interpretation, observers lacking access to all classified details could have misinterpreted what they saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+However, project engineer Kingston George offered a competing explanation. He argued that the footage captured classified decoy-warhead and chaff deployment activities rather than an attack on a missile. According to this interpretation, observers lacking access to all classified details could have misinterpreted what they saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 The timeline issue here is not memory versus documentation but observation versus operational context. If the event occurred during a phase of the test involving classified countermeasures, then an apparently extraordinary sequence could fit within the planned engineering timeline.
 
-This does not prove that Jacobs was mistaken. It demonstrates why timeline reconstruction requires access to the complete technical context rather than relying solely on visual interpretation of an unusual event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+This does not prove that Jacobs was mistaken. It demonstrates why timeline reconstruction requires access to the complete technical context rather than relying solely on visual interpretation of an unusual event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DP4pZPIUqC8" title="Malmstrom Air Force Base: UFOs Shut Down 20 Nuclear Missiles | Under Observation EP04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DP4pZPIUqC8" target="_blank" rel="noopener noreferrer">Malmstrom Air Force Base: UFOs Shut Down 20 Nuclear Missiles | Under Observation EP04</a></p><p class="youtube-embed-meta">Channel: Under Observation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DP4pZPIUqC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DP4pZPIUqC8">Open on YouTube</a></p></div></div></div>
@@ -390,7 +390,7 @@ Yet none of those observations alone identifies the mechanism behind a missile f
 
 Human beings naturally build narratives linking unusual events that occur close together. Investigators in aviation, engineering and accident analysis routinely guard against this tendency. The presence of a dramatic sighting can unintentionally shape later interpretations of an unrelated technical problem.
 
-Time can further complicate matters. Many nuclear-UFO accounts became public decades after the events. Memories may remain sincere while becoming less precise about dates, sequences, locations or operational details. Meanwhile, surviving documents may be incomplete, creating gaps that neither side can fully resolve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+Time can further complicate matters. Many nuclear-UFO accounts became public decades after the events. Memories may remain sincere while becoming less precise about dates, sequences, locations or operational details. Meanwhile, surviving documents may be incomplete, creating gaps that neither side can fully resolve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8bJZJzjwj70" title="The Air Force Officer Who Saw UFOs Disable Nuclear Weapons | Robert Salas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8bJZJzjwj70" target="_blank" rel="noopener noreferrer">The Air Force Officer Who Saw UFOs Disable Nuclear Weapons | Robert Salas</a></p><p class="youtube-embed-meta">Channel: Best of Danny Jones</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8bJZJzjwj70" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8bJZJzjwj70">Open on YouTube</a></p></div></div></div>
@@ -401,197 +401,197 @@ Timeline analysis does not dismiss witnesses. Instead, it provides a method for 
 
 A strong case for UFO interference with nuclear systems would require contemporaneous records showing that an anomalous object was present, that a malfunction followed immediately, and that technical investigators could not explain the failure through known mechanisms. Publicly available evidence rarely reaches that threshold.
 
-As a result, the key dispute in nuclear-UFO cases is often narrower than it first appears. The question is not whether military personnel reported unusual objects or whether missile systems occasionally failed. Both are supported by evidence. The [unresolved]({{ 'unresolved/' | relative_url }}) issue is whether the documented engineering timeline demonstrates that one event caused the other. In the most famous cases, that causal bridge remains the point where witness testimony and technical records do not fully converge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+As a result, the key dispute in nuclear-UFO cases is often narrower than it first appears. The question is not whether military personnel reported unusual objects or whether missile systems occasionally failed. Both are supported by evidence. The [unresolved]({{ 'unresolved/' | relative_url }}) issue is whether the documented engineering timeline demonstrates that one event caused the other. In the most famous cases, that causal bridge remains the point where witness testimony and technical records do not fully converge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Witness Reports Match the Fault Timeline?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Witness Reports Match the Fault Timeline?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses witness testimony and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness testimony and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines credibility and corroboration of testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credibility and corroboration of testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Provides the engineering-record perspective missing from witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the engineering-record perspective missing from witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Combines witness reports with military records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Combines witness reports with military records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia"><img src="{{ '/assets/images/marketplace-covers/ca9ca666985415301d9a.jpg' | relative_url }}" alt="Listing image for US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia"><img src="{{ '/assets/images/marketplace-covers/ca9ca666985415301d9a.jpg' | relative_url }}" alt="Listing image for US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">US Army USAAF 8th Air Force BADGE - WW2 Repro American Airforce Patch Insignia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s."><img src="{{ '/assets/images/marketplace-covers/9b0ed8c5489bffe4f8e8.jpg' | relative_url }}" alt="Listing image for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s."><img src="{{ '/assets/images/marketplace-covers/9b0ed8c5489bffe4f8e8.jpg' | relative_url }}" alt="Listing image for Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage US Air Force OG-507 Shirt With US Air Force in Europe Patch. 60’s-70’s.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Army style Patches Badges Iron On Sew On"><img src="{{ '/assets/images/marketplace-covers/00f8e02be3749ec22364.jpg' | relative_url }}" alt="Listing image for Military Army style Patches Badges Iron On Sew On" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Military Army style Patches Badges Iron On Sew On</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Army style Patches Badges Iron On Sew On"><img src="{{ '/assets/images/marketplace-covers/00f8e02be3749ec22364.jpg' | relative_url }}" alt="Listing image for Military Army style Patches Badges Iron On Sew On" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Military Army style Patches Badges Iron On Sew On</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis"><img src="{{ '/assets/images/marketplace-covers/03b18906f6c112d1433c.jpg' | relative_url }}" alt="Listing image for US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis"><img src="{{ '/assets/images/marketplace-covers/03b18906f6c112d1433c.jpg' | relative_url }}" alt="Listing image for US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">US AIR FORCE PATCH: 56th Rescue Squadron PJ CSAR Pararescue Jolly Green Elvis</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Air Force patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Air Force patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Air+Force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Air Force patch" data-ebay-reference="timeline-tests-do-witness-reports-match-the-fault-timeline-ufos-and-nuclear-weapons-us-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ As a result, the key dispute in nuclear-UFO cases is often narrower than it firs
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ As a result, the key dispute in nuclear-UFO cases is often narrower than it firs
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ As a result, the key dispute in nuclear-UFO cases is often narrower than it firs
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ As a result, the key dispute in nuclear-UFO cases is often narrower than it firs
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ As a result, the key dispute in nuclear-UFO cases is often narrower than it firs
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -797,95 +797,95 @@ As a result, the key dispute in nuclear-UFO cases is often narrower than it firs
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era.Read more...</p></details>
+   Link:<a href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: The Big Sur  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in September 1964?r/UFOs. • 1y ago. 1964 UFO Incident: Robert Jacobs Explains How UFO Destroyed Missile at Vandenber...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in September 1964?r/UFOs. • 1y ago. 1964 UFO Incident: Robert Jacobs Explains How UFO Destroyed Missile at Vandenber...</p></details>
    Published: September 1964  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usafaclasses.org  
-   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob&#x27;s HistoryClass Of 1964 USAF Academy. Bob&#x27;s History. bob.png Since this is intended to brief my classmates...Read more...</p></details>
+   Link:<a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob&#x27;s HistoryClass Of 1964 USAF Academy. Bob&#x27;s History. bob.png Since this is intended to brief my classmates...Read more...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: x.com  
-   Link: <a href="https://x.com/grok/status/2058716085411623157" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/2058716085411623157</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GrokRobert Jacobs (and Maj. Florenz Mansmann) claimed the film showed a disc-shaped UFO firing beams that disabled the dummy warhead. The...</p></details>
+   Link:<a href="https://x.com/grok/status/2058716085411623157" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/2058716085411623157</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GrokRobert Jacobs (and Maj. Florenz Mansmann) claimed the film showed a disc-shaped UFO firing beams that disabled the dummy warhead. The...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case1017.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case1017.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As a result of these FOIA requests USAF sent us copies of the unit histories for the 341st Strategic...Read more...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case1017.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case1017.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As a result of these FOIA requests USAF sent us copies of the unit histories for the 341st Strategic...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base...Retired U.S. Air Force launch officer Captain Robert Salas joins NewsNation t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base...Retired U.S. Air Force launch officer Captain Robert Salas joins NewsNation t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=DP4pZPIUqC8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DP4pZPIUqC8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom AFB UFO incident witness investigation timeline UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DP4pZPIUqC8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DP4pZPIUqC8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom AFB UFO incident witness investigation timeline UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pod.wave.co  
    Title: when a ufo shutdown 10 nuclear missiles witness interview faf3df8d  
-   Link: <a href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Shutdown 10 Nuclear Missiles (Witness Interview)12 Jul 2025 — In this gripping episode of American Alchemy, host Jesse Michels delv...</p></details>
+   Link:<a href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Shutdown 10 Nuclear Missiles (Witness Interview)12 Jul 2025 — In this gripping episode of American Alchemy, host Jesse Michels delv...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ndi410/captain_robert_salas_had_the_opportunity_to_give/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ndi410/captain_robert_salas_had_the_opportunity_to_give/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 16, 1967 where 16 nuclear missiles simultaneously became non-operational at two...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ndi410/captain_robert_salas_had_the_opportunity_to_give/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ndi410/captain_robert_salas_had_the_opportunity_to_give/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 16, 1967 where 16 nuclear missiles simultaneously became non-operational at two...Read more...</p></details>
    Published: March 16, 1967  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufoevidence.com  
    Title: UFO Evidence Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom AFB “Echo Flight” Shutdown - UFOevidence16 Mar 1967 (same timeframe) — That same history excerpt states UFO [rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) around Echo...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom AFB “Echo Flight” Shutdown - UFOevidence16 Mar 1967 (same timeframe) — That same history excerpt states UFO [rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) around Echo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hjkc.de  
-   Link: <a href="https://www.hjkc.de/_blog/3564-ufo-forschung-the-big-sur-ufo-incident-saga/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/3564-ufo-forschung-the-big-sur-ufo-incident-saga/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog: UFO-Forschung - THE BIG SUR UFO INCIDENT SAGAOn a final note, Kingston George pointed out that there was no UFO and the...</p></details>
+   Link:<a href="https://www.hjkc.de/_blog/3564-ufo-forschung-the-big-sur-ufo-incident-saga/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/3564-ufo-forschung-the-big-sur-ufo-incident-saga/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blog: UFO-Forschung - THE BIG SUR UFO INCIDENT SAGAOn a final note, Kingston George pointed out that there was no UFO and the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO i...</p></details>
+   Link:<a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO i...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dy4dff/robert_jamisons_testimony_about_the_malstrom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dy4dff/robert_jamisons_testimony_about_the_malstrom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e incident before going into the field, thereby corroborating...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dy4dff/robert_jamisons_testimony_about_the_malstrom/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dy4dff/robert_jamisons_testimony_about_the_malstrom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e incident before going into the field, thereby corroborating...Read more...</p></details>

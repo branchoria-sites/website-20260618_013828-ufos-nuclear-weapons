@@ -262,7 +262,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_stre
 
 ## Introduction
 
-Claims about UFOs near nuclear facilities often gain credibility because they come from missile officers, security personnel, pilots or other trained [military witnesses]({{ 'witnesses/' | relative_url }}). Their confidence can be striking: many recount unusual events decades later with certainty and detailed narratives. The problem is that confidence and accuracy are not the same thing. Research on stress, memory and eyewitness testimony consistently shows that highly stressful events can distort recall, even among people trained to operate under pressure. The key question is therefore not whether a witness sincerely believes what they remember, but whether stress may have altered what was encoded, retained or reconstructed over time. This matters because many nuclear-UFO cases depend heavily on human recollection rather than contemporaneous physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2DigitalCommons@UNO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</span></span></span>
+Claims about UFOs near nuclear facilities often gain credibility because they come from missile officers, security personnel, pilots or other trained [military witnesses]({{ 'witnesses/' | relative_url }}). Their confidence can be striking: many recount unusual events decades later with certainty and detailed narratives. The problem is that confidence and accuracy are not the same thing. Research on stress, memory and eyewitness testimony consistently shows that highly stressful events can distort recall, even among people trained to operate under pressure. The key question is therefore not whether a witness sincerely believes what they remember, but whether stress may have altered what was encoded, retained or reconstructed over time. This matters because many nuclear-UFO cases depend heavily on human recollection rather than contemporaneous physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2DigitalCommons@UNO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_stress_confidence_me_40c337-Illustration-1-dark.svg" | relative_url }}" alt="Stress Memory illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_stress_confidence_me_40c337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_stress_confidence_me_40c337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -270,7 +270,7 @@ Claims about UFOs near nuclear facilities often gain credibility because they co
 
 Military personnel working around nuclear weapons operate in environments where anomalies are treated as potential security threats. An [unidentified]({{ 'unidentified/' | relative_url }}) light, unexpected alarm or unexplained system malfunction can trigger heightened vigilance and physiological stress. Under such conditions, memory does not function like a video recording.
 
-Research reviews of eyewitness memory have found broad expert agreement that very high stress levels can reduce the accuracy of later testimony. Laboratory and field studies repeatedly show that stress can impair the encoding of details, increase omissions and reduce later identification accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</span></span></span>
+Research reviews of eyewitness memory have found broad expert agreement that very high stress levels can reduce the accuracy of later testimony. Laboratory and field studies repeatedly show that stress can impair the encoding of details, increase omissions and reduce later identification accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</span></span></span>
 
 An important point is that stress does not erase memory completely. People often retain the central fact that something unusual happened. What tends to suffer are secondary details:
 
@@ -285,7 +285,7 @@ An important point is that stress does not erase memory completely. People often
 
 </div>
 
-Studies involving police and military personnel show a similar pattern. A systematic review of stressful operational incidents found reduced detail and reduced accuracy under high-stress conditions, particularly for information outside the witness's primary focus. Physiological stress responses were associated with poorer recall performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/345707825_Stress_and_memory_A_systematic_state-of-the-art_review_with_evidence-gathering_recommendations_for_police" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Stress and memory: A systematic state-of-the-art</span><span class="citation-popover-snippet">Findings: 20 studies of police and military officers show reduced detail and accuracy of high-versus...Read more...</span></span></span>
+Studies involving police and military personnel show a similar pattern. A systematic review of stressful operational incidents found reduced detail and reduced accuracy under high-stress conditions, particularly for information outside the witness's primary focus. Physiological stress responses were associated with poorer recall performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/345707825_Stress_and_memory_A_systematic_state-of-the-art_review_with_evidence-gathering_recommendations_for_police" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Stress and memory: A systematic state-of-the-art</span><span class="citation-popover-snippet">Findings: 20 studies of police and military officers show reduced detail and accuracy of high-versus...Read more...</span></span></span>
 
 This distinction is especially relevant in nuclear-UFO reports. A security guard may accurately remember being alarmed by an unidentified object, while remaining mistaken about how far away it was, how it moved, or whether a separate technical malfunction occurred at the same moment.
 
@@ -296,7 +296,7 @@ This distinction is especially relevant in nuclear-UFO reports. A security guard
 
 One reason stress affects memory is that attention narrows. Cognitive resources become concentrated on what appears most important or threatening.
 
-Eyewitness researchers often describe a "weapon focus" effect: when a weapon is present, witnesses devote disproportionate attention to it and remember fewer surrounding details. Although UFO reports are not criminal incidents, the underlying mechanism is relevant. When personnel perceive a potential threat to a nuclear installation, their attention may become tightly focused on the anomalous object or alarm condition rather than the wider scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing+2EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-title">effect visual distractors weapon focus effect eyewitness memory</span><span class="citation-popover-snippet">This theory concludes that an eyewitness...Read more...</span></span></span>
+Eyewitness researchers often describe a "weapon focus" effect: when a weapon is present, witnesses devote disproportionate attention to it and remember fewer surrounding details. Although UFO reports are not criminal incidents, the underlying mechanism is relevant. When personnel perceive a potential threat to a nuclear installation, their attention may become tightly focused on the anomalous object or alarm condition rather than the wider scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing+2EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-title">effect visual distractors weapon focus effect eyewitness memory</span><span class="citation-popover-snippet">This theory concludes that an eyewitness...Read more...</span></span></span>
 
 As a result, witnesses can emerge with vivid memories of a bright object, unusual manoeuvre or security concern while having less reliable recollection of context that might later help identify conventional explanations.
 
@@ -304,7 +304,7 @@ As a result, witnesses can emerge with vivid memories of a bright object, unusua
 
 One of the most counterintuitive findings in memory research is that confidence can increase even when accuracy does not.
 
-People often assume that a witness who sounds certain must be remembering correctly. Scientific studies show a more complicated picture. Confidence and accuracy can be related under ideal conditions, particularly when confidence is measured immediately after an event. However, that relationship becomes less reliable as memories are revisited, discussed, retold and reinforced over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[National Academies+3PubMed+3Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 827 — The US legal system increasingly accepts...</span></span></span>
+People often assume that a witness who sounds certain must be remembering correctly. Scientific studies show a more complicated picture. Confidence and accuracy can be related under ideal conditions, particularly when confidence is measured immediately after an event. However, that relationship becomes less reliable as memories are revisited, discussed, retold and reinforced over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[National Academies+3PubMed+3Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 827 — The US legal system increasingly accepts...</span></span></span>
 
 This matters because many famous nuclear-UFO accounts were described publicly years or decades after the reported events.
 
@@ -320,7 +320,7 @@ Several mechanisms can strengthen confidence without improving accuracy:
 
 </div>
 
-Memory researchers emphasise that recollection is reconstructive rather than reproductive. People do not simply retrieve a stored recording; they rebuild an account using remembered fragments, expectations and later knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy eyewitnesses fail</span><span class="citation-popover-snippet">It naturally follows that a causal and...Read more...</span></span></span>
+Memory researchers emphasise that recollection is reconstructive rather than reproductive. People do not simply retrieve a stored recording; they rebuild an account using remembered fragments, expectations and later knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy eyewitnesses fail</span><span class="citation-popover-snippet">It naturally follows that a causal and...Read more...</span></span></span>
 
 The result can be a witness who is entirely sincere, highly articulate and deeply confident while still being mistaken about some important details.
 
@@ -330,7 +330,7 @@ The result can be a witness who is entirely sincere, highly articulate and deepl
 
 Confidence has a powerful effect on audiences. Judges, jurors, investigators and the public all tend to find certainty persuasive.
 
-Research examining eyewitness confidence notes that highly confident testimony often carries disproportionate influence, even though confidence is not a guarantee of correctness. Modern work suggests that initial confidence can sometimes be informative under carefully controlled conditions, but confidence expressed long after an event is a much weaker indicator of accuracy. Department of Psychology+3PubMed+3Association for Psychological Science <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 827 — The US legal system increasingly accepts...</span></span></span>
+Research examining eyewitness confidence notes that highly confident testimony often carries disproportionate influence, even though confidence is not a guarantee of correctness. Modern work suggests that initial confidence can sometimes be informative under carefully controlled conditions, but confidence expressed long after an event is a much weaker indicator of accuracy. Department of Psychology+3PubMed+3Association for Psychological Science<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 827 — The US legal system increasingly accepts...</span></span></span>
 
 For nuclear-UFO cases, this creates a credibility trap. The witnesses most likely to attract attention are often those who tell the clearest and most confident stories. Yet confidence itself cannot establish that the remembered event occurred exactly as described.
 
@@ -340,7 +340,7 @@ For nuclear-UFO cases, this creates a credibility trap. The witnesses most likel
 
 The strongest nuclear-UFO cases are often presented as a choice between scepticism and trust in experienced military personnel. Memory research suggests that this framing is too simple.
 
-A missile launch officer, security policeman or base commander may be exceptionally reliable regarding operational procedures, [reporting channels]({{ 'reporting/' | relative_url }}) and the seriousness of an incident. Their training makes them valuable observers. However, the same training does not immunise them against the effects of stress on perception and memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.port.ac.uk/ws/files/4814454/Evaluation_the_effects_of_stress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.port.ac.uk">[Pure Portsmouth+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.port.ac.uk</span><span class="citation-popover-snippet">that memory accounts provided by operational witnesses are vulnerable to error and the omission of relevant...Read more...</span></span></span>
+A missile launch officer, security policeman or base commander may be exceptionally reliable regarding operational procedures, [reporting channels]({{ 'reporting/' | relative_url }}) and the seriousness of an incident. Their training makes them valuable observers. However, the same training does not immunise them against the effects of stress on perception and memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.port.ac.uk/ws/files/4814454/Evaluation_the_effects_of_stress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.port.ac.uk">[Pure Portsmouth+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.port.ac.uk</span><span class="citation-popover-snippet">that memory accounts provided by operational witnesses are vulnerable to error and the omission of relevant...Read more...</span></span></span>
 
 When evaluating a nuclear-UFO claim, several questions become more important than the witness's confidence level:
 
@@ -366,201 +366,201 @@ A useful way to think about military UFO testimony is that stress may increase t
 
 The main lesson from stress-memory research is not that military witnesses are unreliable. It is that confidence should never be treated as a substitute for [corroboration]({{ 'corroboration/' | relative_url }}).
 
-In nuclear-UFO cases, confident testimony is best viewed as a starting point rather than an endpoint. The most persuasive accounts are those supported by contemporaneous documents, [radar]({{ 'radar/' | relative_url }}) records, maintenance logs, security reports or multiple independent sources. Human memory remains valuable evidence, but decades of research indicate that stress can distort recall and that confidence can exceed accuracy. For cases built largely on witness recollection, recognising that limitation is essential to a balanced assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[NCBI+3PMC+3DigitalCommons@UNO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</span></span></span>
+In nuclear-UFO cases, confident testimony is best viewed as a starting point rather than an endpoint. The most persuasive accounts are those supported by contemporaneous documents, [radar]({{ 'radar/' | relative_url }}) records, maintenance logs, security reports or multiple independent sources. Human memory remains valuable evidence, but decades of research indicate that stress can distort recall and that confidence can exceed accuracy. For cases built largely on witness recollection, recognising that limitation is essential to a balanced assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[NCBI+3PMC+3DigitalCommons@UNO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ku9CYCKw4Aw" title="UFOs and The Military: A Combat Pilot&#x27;s Experience with The Unknown | Alex Dietrich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ku9CYCKw4Aw" target="_blank" rel="noopener noreferrer">UFOs and The Military: A Combat Pilot&#x27;s Experience with The Unknown | Alex Dietrich</a></p><p class="youtube-embed-meta">Channel: American Veterans Center &middot; Views: 1.0M &middot; Uploaded: March 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ku9CYCKw4Aw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ku9CYCKw4Aw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When confidence makes UFO testimony risky. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When confidence makes UFO testimony risky. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness for the Defense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IXWyHFyMD4MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness for the Defense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness for the Defense">Witness for the Defense</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness for the Defense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IXWyHFyMD4MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness for the Defense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness for the Defense">Witness for the Defense</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Explains why confidence and accuracy can diverge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why confidence and accuracy can diverge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Dr Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Dr Julia Shaw</p>
         
-        <p class="fr-book-desc">Focuses on memory distortion and false recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on memory distortion and false recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases affecting testimony and judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases affecting testimony and judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows how confidence can increase despite errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how confidence can increase despite errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+for+the+Defense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness for the Defense</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+for+the+Defense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness for the Defense</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s"><img src="{{ '/assets/images/marketplace-covers/3df59e491f4bd48b162b.jpg' | relative_url }}" alt="Listing image for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s"><img src="{{ '/assets/images/marketplace-covers/3df59e491f4bd48b162b.jpg' | relative_url }}" alt="Listing image for 57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">57 Th Fww Nellis Based &amp; Red Flag Participant Small Cloth Patches Red Flag80s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers"><img src="{{ '/assets/images/marketplace-covers/d28486c1029435f0ab10.jpg' | relative_url }}" alt="Listing image for Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers"><img src="{{ '/assets/images/marketplace-covers/d28486c1029435f0ab10.jpg' | relative_url }}" alt="Listing image for Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Army Military Themed Style Embroidered Iron Sew On New Patches Badges Transfers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141"><img src="{{ '/assets/images/marketplace-covers/29353cbbf7e0a295e172.jpg' | relative_url }}" alt="Listing image for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141"><img src="{{ '/assets/images/marketplace-covers/29353cbbf7e0a295e172.jpg' | relative_url }}" alt="Listing image for Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Joint Ground Based Air Defence Arrow and Bow Sew On Patch jeans Leather #1141</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;"><img src="{{ '/assets/images/marketplace-covers/faa2d127595f1a6ab064.jpg' | relative_url }}" alt="Listing image for Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;"><img src="{{ '/assets/images/marketplace-covers/faa2d127595f1a6ab064.jpg' | relative_url }}" alt="Listing image for Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">Ukraine Military Army patch &quot;230 SUPPORT BASE&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base patch" data-ebay-reference="stress-memory-when-confidence-makes-ufo-testimony-risky-ufos-and-nuclear-weapons-military-base-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ In nuclear-UFO cases, confident testimony is best viewed as a starting point rat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ In nuclear-UFO cases, confident testimony is best viewed as a starting point rat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ In nuclear-UFO cases, confident testimony is best viewed as a starting point rat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ In nuclear-UFO cases, confident testimony is best viewed as a starting point rat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ In nuclear-UFO cases, confident testimony is best viewed as a starting point rat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,206 +766,206 @@ In nuclear-UFO cases, confident testimony is best viewed as a starting point rat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Marr · 2020 · Cited by 59 — High proportions of experts from both research fields agreed that very high levels of stress impair t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Stress and memory: A systematic state-of-the-art  
-   Link: <a href="https://www.researchgate.net/publication/345707825_Stress_and_memory_A_systematic_state-of-the-art_review_with_evidence-gathering_recommendations_for_police" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345707825_Stress_and_memory_A_systematic_state-of-the-art_review_with_evidence-gathering_recommendations_for_police</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings: 20 studies of police and military officers show reduced detail and accuracy of high-versus...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345707825_Stress_and_memory_A_systematic_state-of-the-art_review_with_evidence-gathering_recommendations_for_police" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345707825_Stress_and_memory_A_systematic_state-of-the-art_review_with_evidence-gathering_recommendations_for_police</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Findings: 20 studies of police and military officers show reduced detail and accuracy of high-versus...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: college.police.uk  
    Title: effect visual distractors weapon focus effect eyewitness memory  
-   Link: <a href="https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This theory concludes that an eyewitness...Read more...</p></details>
+   Link:<a href="https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This theory concludes that an eyewitness...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/weapon-focus-forensic-psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/weapon-focus-forensic-psychology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on a perpetrator&#x27;s weapon rather than on the perpetrator.Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/weapon-focus-forensic-psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/weapon-focus-forensic-psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on a perpetrator&#x27;s weapon rather than on the perpetrator.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy eyewitnesses fail  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It naturally follows that a causal and...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5544328/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It naturally follows that a causal and...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIReference Guide on Eyewitness Identification  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide on Eyewitness Identification - NCBIThese variables—together with an understanding of how vision and memory work—provide a foundatio...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide on Eyewitness Identification - NCBIThese variables—together with an understanding of how vision and memory work—provide a foundatio...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/health-and-medicine/eyewitness-testimony-and-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/health-and-medicine/eyewitness-testimony-and-memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness testimony and memory | Health and MedicineThe accuracy of such testimony is closely linked to the memory process, which involv...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/health-and-medicine/eyewitness-testimony-and-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/health-and-medicine/eyewitness-testimony-and-memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness testimony and memory | Health and MedicineThe accuracy of such testimony is closely linked to the memory process, which involv...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353181373_The_Effects_of_Acute_Stress_on_Eyewitness_Memory_An_Integrative_Review_for_Eyewitness_Researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353181373_The_Effects_of_Acute_Stress_on_Eyewitness_Memory_An_Integrative_Review_for_Eyewitness_Researchers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effects of Acute Stress on Eyewitness Memory12 July 2021 — In this review, we first summarize findings on the effects of acute...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/353181373_The_Effects_of_Acute_Stress_on_Eyewitness_Memory_An_Integrative_Review_for_Eyewitness_Researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353181373_The_Effects_of_Acute_Stress_on_Eyewitness_Memory_An_Integrative_Review_for_Eyewitness_Researchers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effects of Acute Stress on Eyewitness Memory12 July 2021 — In this review, we first summarize findings on the effects of acute...</p></details>
    Published: July 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283506350_Confidence_and_Accuracy_of_Eyewitness_Identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283506350_Confidence_and_Accuracy_of_Eyewitness_Identification</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Confidence and Accuracy of Eyewitness IdentificationThis chapter discusses perceptions of the confidence-accuracy (CA) relationship...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/283506350_Confidence_and_Accuracy_of_Eyewitness_Identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283506350_Confidence_and_Accuracy_of_Eyewitness_Identification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Confidence and Accuracy of Eyewitness IdentificationThis chapter discusses perceptions of the confidence-accuracy (CA) relationship...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 371071064 The Weapon Focus Effect in Eyewitness Memory  
-   Link: <a href="https://www.researchgate.net/publication/371071064_The_Weapon_Focus_Effect_in_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371071064_The_Weapon_Focus_Effect_in_Eyewitness_Memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weapon Focus Effect in Eyewitness Memory23 Apr 2024 — In the 1970s psychological scientists began a systematic study of eyewitness id...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/371071064_The_Weapon_Focus_Effect_in_Eyewitness_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371071064_The_Weapon_Focus_Effect_in_Eyewitness_Memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Weapon Focus Effect in Eyewitness Memory23 Apr 2024 — In the 1970s psychological scientists began a systematic study of eyewitness id...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/345145478_The_Effects_of_Stress_on_Eyewitness_Memory_A_Survey_of_Memory_Experts_and_Laypeople" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345145478_The_Effects_of_Stress_on_Eyewitness_Memory_A_Survey_of_Memory_Experts_and_Laypeople</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Stress on Eyewitness Memory: A Survey...1 Nov 2020 — High proportions of experts from both research fields agreed that ve...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345145478_The_Effects_of_Stress_on_Eyewitness_Memory_A_Survey_of_Memory_Experts_and_Laypeople" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345145478_The_Effects_of_Stress_on_Eyewitness_Memory_A_Survey_of_Memory_Experts_and_Laypeople</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Stress on Eyewitness Memory: A Survey...1 Nov 2020 — High proportions of experts from both research fields agreed that ve...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: digitalcommons.unomaha.edu  
-   Link: <a href="https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1000&amp;context=psychfacpub" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1000&amp;context=psychfacpub</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DigitalCommons@UNOA Meta-Analytic Review of the Effects of High Stress on...by KA Deffenbacher · 2004 · Cited by 930 — ABSTRACT: In the...</p></details>
+   Link:<a href="https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1000&amp;context=psychfacpub" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1000&amp;context=psychfacpub</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DigitalCommons@UNOA Meta-Analytic Review of the Effects of High Stress on...by KA Deffenbacher · 2004 · Cited by 930 — ABSTRACT: In the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pure.port.ac.uk  
-   Link: <a href="https://pure.port.ac.uk/ws/files/4814454/Evaluation_the_effects_of_stress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/files/4814454/Evaluation_the_effects_of_stress.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that memory accounts provided by operational witnesses are vulnerable to error and the omission of relevant...Read more...</p></details>
+   Link:<a href="https://pure.port.ac.uk/ws/files/4814454/Evaluation_the_effects_of_stress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/files/4814454/Evaluation_the_effects_of_stress.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that memory accounts provided by operational witnesses are vulnerable to error and the omission of relevant...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32730053/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32730053/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the results of this study suggest that confidence is a better predictor of...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32730053/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32730053/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, the results of this study suggest that confidence is a better predictor of...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Throughout this report, the term identification denotes...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Throughout this report, the term identification denotes...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28395650/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 827 — The US legal system increasingly accepts...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28395650/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 827 — The US legal system increasingly accepts...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/23727322241268384</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 14 — Scholars agree on a strong but imp...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/23727322241268384</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 14 — Scholars agree on a strong but imp...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychologicalscience.org  
    Title: eyewitness confidence can predict accuracy of identifications researchers find  
-   Link: <a href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: psych.utah.edu  
-   Link: <a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Eyewitness confidence i...</p></details>
+   Link:<a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Eyewitness confidence i...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness IdentificationExpert evidence can help jurors evaluate whether their beli...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness IdentificationExpert evidence can help jurors evaluate whether their beli...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345351/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reactions and susceptibility to misinformation for an...by PR Sharma · 2024 · Cited by 4 — The aim of this study was to investigate how...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345351/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reactions and susceptibility to misinformation for an...by PR Sharma · 2024 · Cited by 4 — The aim of this study was to investigate how...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700421/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700421/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>judgments are associated with face identification...by G Jeckeln · 2022 · Cited by 5 — Confidence is assumed to be an indicator of ident...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700421/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700421/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>judgments are associated with face identification...by G Jeckeln · 2022 · Cited by 5 — Confidence is assumed to be an indicator of ident...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/confidence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/confidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarya feeling of having little doubt about yourself and your abilities, or a feeling of trust...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/confidence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/confidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarya feeling of having little doubt about yourself and your abilities, or a feeling of trust...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english-portuguese/confidence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-portuguese/confidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to share your secrets with someone, trusting them not to tell other people: I should never have taken him into my confidence. Eu nunca...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english-portuguese/confidence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-portuguese/confidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to share your secrets with someone, trusting them not to tell other people: I should never have taken him into my confidence. Eu nunca...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pt.scribd.com  
    Title: Eyewitness Testimony  
-   Link: <a href="https://pt.scribd.com/document/721816084/Eyewitness-Testimony" target="_blank" rel="noopener noreferrer nofollow">https://pt.scribd.com/document/721816084/Eyewitness-Testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Stress on Eyewitness Memory | PDFThe document discusses eyewitness testimony and factors that can affect the accuracy of eyewitness ac...</p></details>
+   Link:<a href="https://pt.scribd.com/document/721816084/Eyewitness-Testimony" target="_blank" rel="noopener noreferrer nofollow">https://pt.scribd.com/document/721816084/Eyewitness-Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Stress on Eyewitness Memory | PDFThe document discusses eyewitness testimony and factors that can affect the accuracy of eyewitness ac...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Confidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ConfidenceConfidence is the feeling of belief or trust that a person or thing is reliable. [1] Self-confidence is trust in oneself.Rea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Confidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ConfidenceConfidence is the feeling of belief or trust that a person or thing is reliable. [1] Self-confidence is trust in oneself.Rea...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pure.port.ac.uk  
-   Link: <a href="https://pure.port.ac.uk/ws/portalfiles/portal/29090346/Marr_UoPThesis_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/29090346/Marr_UoPThesis_Revised.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Staffby C Marr · 2017 — High proportions of experts from both research fields agreed that very high levels of stress impair the accuracy...</p></details>
+   Link:<a href="https://pure.port.ac.uk/ws/portalfiles/portal/29090346/Marr_UoPThesis_Revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/29090346/Marr_UoPThesis_Revised.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Staffby C Marr · 2017 — High proportions of experts from both research fields agreed that very high levels of stress impair the accuracy...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/confidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONFIDENCE Definition &amp; Meaning4 days ago — The meaning of CONFIDENCE is a feeling or consciousness of one&#x27;s powers or of reliance on one...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/confidence" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/confidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONFIDENCE Definition &amp; Meaning4 days ago — The meaning of CONFIDENCE is a feeling or consciousness of one&#x27;s powers or of reliance on one...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: judicature.duke.edu  
-   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clearer View: The Impact of the National Academy of...For many years, however, studies revealed little correlation between confidence an...</p></details>
+   Link:<a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clearer View: The Impact of the National Academy of...For many years, however, studies revealed little correlation between confidence an...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: themantic-education.com  
    Title: key studies weapon focus and its effects on eye witness memories loftus 1987  
-   Link: <a href="https://www.themantic-education.com/ibpsych/2019/02/18/key-studies-weapon-focus-and-its-effects-on-eye-witness-memories-loftus-1987/" target="_blank" rel="noopener noreferrer nofollow">https://www.themantic-education.com/ibpsych/2019/02/18/key-studies-weapon-focus-and-its-effects-on-eye-witness-memories-loftus-1987/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Studies: &quot;Weapon focus&quot; and its effects on eye-witness...18 Feb 2019 — Weapons focus could explain poor eye-witness memories because...</p></details>
+   Link:<a href="https://www.themantic-education.com/ibpsych/2019/02/18/key-studies-weapon-focus-and-its-effects-on-eye-witness-memories-loftus-1987/" target="_blank" rel="noopener noreferrer nofollow">https://www.themantic-education.com/ibpsych/2019/02/18/key-studies-weapon-focus-and-its-effects-on-eye-witness-memories-loftus-1987/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key Studies: &quot;Weapon focus&quot; and its effects on eye-witness...18 Feb 2019 — Weapons focus could explain poor eye-witness memories because...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ovid.com  
    Title: a0039510~initial eyewitness confidence reliably predicts eyewitness  
-   Link: <a href="https://www.ovid.com/journals/ampsy/pdf/10.1037/a0039510~initial-eyewitness-confidence-reliably-predicts-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/ampsy/pdf/10.1037/a0039510~initial-eyewitness-confidence-reliably-predicts-eyewitness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Eyewitness Confidence Reliably Predicts...by JT Wixted · 2015 · Cited by 295 — A considerable body of recent empirical work sugg...</p></details>
+   Link:<a href="https://www.ovid.com/journals/ampsy/pdf/10.1037/a0039510~initial-eyewitness-confidence-reliably-predicts-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/ampsy/pdf/10.1037/a0039510~initial-eyewitness-confidence-reliably-predicts-eyewitness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initial Eyewitness Confidence Reliably Predicts...by JT Wixted · 2015 · Cited by 295 — A considerable body of recent empirical work sugg...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bps.org.uk  
    Title: The more confident we feel, the more we believe we must be  
-   Link: <a href="https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the reliability of eyewitness testimony | BPS23 Jul 2025 — Stress, delays, and questioning techniques can distort both memory...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the reliability of eyewitness testimony | BPS23 Jul 2025 — Stress, delays, and questioning techniques can distort both memory...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pure-oai.bham.ac.uk  
-   Link: <a href="https://pure-oai.bham.ac.uk/ws/files/147175283/Seale_Carlisle_et_al_in_press_JARMAC_AV.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/files/147175283/Seale_Carlisle_et_al_in_press_JARMAC_AV.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Response Time as Indicators of Eyewitness...by TM Seale-Carlisle · Cited by 70 — To increase the value of eyewitness identification...</p></details>
+   Link:<a href="https://pure-oai.bham.ac.uk/ws/files/147175283/Seale_Carlisle_et_al_in_press_JARMAC_AV.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/files/147175283/Seale_Carlisle_et_al_in_press_JARMAC_AV.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Response Time as Indicators of Eyewitness...by TM Seale-Carlisle · Cited by 70 — To increase the value of eyewitness identification...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: capitalpunishmentincontext.org  
-   Link: <a href="https://capitalpunishmentincontext.org/files/resources/innocence/witnessaccuraccyunderstress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://capitalpunishmentincontext.org/files/resources/innocence/witnessaccuraccyunderstress.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy of eyewitness memory for persons encountered...by CA Morgan III · 2004 · Cited by 466 — Over the past 20 years there have been...</p></details>
+   Link:<a href="https://capitalpunishmentincontext.org/files/resources/innocence/witnessaccuraccyunderstress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://capitalpunishmentincontext.org/files/resources/innocence/witnessaccuraccyunderstress.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy of eyewitness memory for persons encountered...by CA Morgan III · 2004 · Cited by 466 — Over the past 20 years there have been...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/23727322241268384</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Does Not Necessarily Indicate...Aug 2, 2024 — Confidence and accuracy are related under specific conditions, but high confide...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/23727322241268384</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Does Not Necessarily Indicate...Aug 2, 2024 — Confidence and accuracy are related under specific conditions, but high confide...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: psychstory.co.uk  
    Title: the cognitive interview  
-   Link: <a href="https://www.psychstory.co.uk/memory/the-cognitive-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/the-cognitive-interview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MEMORY23 Feb 2026 — STRESS AND ANXIETY: The formal, often rigid nature of standard interviews can heighten a witness&#x27;s stress and anxiety...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/memory/the-cognitive-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/the-cognitive-interview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MEMORY23 Feb 2026 — STRESS AND ANXIETY: The formal, often rigid nature of standard interviews can heighten a witness&#x27;s stress and anxiety...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2546919" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2546919</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness identification of strangers is vulnerable to error, even if the eyewitness reports high confidence at the initial police ident...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2546919" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09658211.2025.2546919</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness identification of strangers is vulnerable to error, even if the eyewitness reports high confidence at the initial police ident...</p></details>

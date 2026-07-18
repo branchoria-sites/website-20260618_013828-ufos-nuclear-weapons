@@ -474,11 +474,11 @@ This does not mean every report near a sensitive site is trivial. The point is n
 
 ## Why restricted airspace makes ordinary lights feel extraordinary
 
-Restricted airspace is not just a label on a map. In US aviation rules, restricted areas are established where activities must be confined because they may create unusual hazards, including artillery firing, aerial gunnery or guided missiles; unauthorised entry can be extremely hazardous. Prohibited areas and restricted areas are part of regulated special-use airspace, while military operating areas, warning areas and national security areas serve related but distinct purposes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration ENR 5.1: Prohibited, Restricted, and Other Areas</span><span class="citation-popover-snippet">Federal Aviation Administration ENR 5.1: Prohibited, Restricted, and Other Areas</span></span></span>
+Restricted airspace is not just a label on a map. In US aviation rules, restricted areas are established where activities must be confined because they may create unusual hazards, including artillery firing, aerial gunnery or guided missiles; unauthorised entry can be extremely hazardous. Prohibited areas and restricted areas are part of regulated special-use airspace, while military operating areas, warning areas and national security areas serve related but distinct purposes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration ENR 5.1: Prohibited, Restricted, and Other Areas</span><span class="citation-popover-snippet">Federal Aviation Administration ENR 5.1: Prohibited, Restricted, and Other Areas</span></span></span>
 
 That setting shapes perception. A light over open countryside might be read as an aircraft. The same light over a missile field can trigger a security response, be passed through command channels, and later be remembered within a nuclear-weapons narrative. The physical stimulus may be unchanged, but the meaning attached to it becomes heavier because the site is sensitive.
 
-The old [Project Blue Book]({{ 'blue-book/' | relative_url }}) record shows how often ordinary sources entered UFO files. The US Air Force states that Blue Book investigated 12,618 reports between 1947 and 1969, with 701 remaining unidentified, and concluded that investigated reports showed no national-security threat, no technology beyond modern scientific knowledge and no evidence of extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> AARO’s historical review summarises Blue Book’s identified categories as including astronomical sightings, balloons, aircraft, afterburners, satellites, missiles, reflections, searchlights, birds, kites, fireworks, flares and false radar indications. It specifically notes that [bright planets]({{ 'bright-planets/' | relative_url }}) and stars seen through haze, fog, moving clouds or unusual conditions were often reported as UFOs, and that aircraft at high altitude or distance could appear disc-like or rocket-shaped when sunlight reflected from their surfaces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The old [Project Blue Book]({{ 'blue-book/' | relative_url }}) record shows how often ordinary sources entered UFO files. The US Air Force states that Blue Book investigated 12,618 reports between 1947 and 1969, with 701 remaining unidentified, and concluded that investigated reports showed no national-security threat, no technology beyond modern scientific knowledge and no evidence of extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> AARO’s historical review summarises Blue Book’s identified categories as including astronomical sightings, balloons, aircraft, afterburners, satellites, missiles, reflections, searchlights, birds, kites, fireworks, flares and false radar indications. It specifically notes that [bright planets]({{ 'bright-planets/' | relative_url }}) and stars seen through haze, fog, moving clouds or unusual conditions were often reported as UFOs, and that aircraft at high altitude or distance could appear disc-like or rocket-shaped when sunlight reflected from their surfaces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 That list matters in the nuclear-UFO branch because many sensitive sites are remote, dark and visually uncluttered. A single bright point can stand out. Guards and aircrew may see it from moving vehicles, through windscreens, through night-vision equipment, or while under stress. The cleaner the horizon, the more convincing a distant light can appear.
 
@@ -492,11 +492,11 @@ The most common misidentification mechanisms near restricted airspace are not ex
 
 **Aircraft** can look unlike aircraft when viewed head-on, far away, or at dusk. Landing lights can seem stationary for several minutes, then appear to accelerate as the geometry changes. Afterburners, contrails lit by the sun, navigation lights and distant formations can produce “silent” or “hovering” impressions, especially when sound is delayed or absent.
 
-**Balloons and lighter-than-air objects** are persistent sources of confusion because they drift with the wind, may carry lights or reflective surfaces, and can look structured in infrared imagery. AARO’s Eglin case resolution is a useful modern example: a military pilot reported an object in a sensitive training range, but AARO assessed with moderate confidence that it was a lighter-than-air object such as a large balloon or commercial lighting balloon. The report also found no confirmed anomalous flight characteristics, and treated a radar circuit-breaker trip as likely coincidental rather than caused by the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution...</span></span></span>
+**Balloons and lighter-than-air objects** are persistent sources of confusion because they drift with the wind, may carry lights or reflective surfaces, and can look structured in infrared imagery. AARO’s Eglin case resolution is a useful modern example: a military pilot reported an object in a sensitive training range, but AARO assessed with moderate confidence that it was a lighter-than-air object such as a large balloon or commercial lighting balloon. The report also found no confirmed anomalous flight characteristics, and treated a radar circuit-breaker trip as likely coincidental rather than caused by the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution...</span></span></span>
 
 **[Flares]({{ 'flares/' | relative_url }}), test activity and range lighting** can be especially misleading around military areas. A flare may hang, descend slowly, split into multiple points or fade in sequence. Classified or routine tests can also create incomplete public information: observers see the light, but not the exercise order, aircraft track or range notice that would explain it.
 
-**Satellites and satellite trains** have become a newer source of misidentification. A 2024 study of Starlink misidentification by commercial pilots reconstructed an August 2022 incident using satellite orbital data and aircraft tracking, concluding that recently launched satellites can produce confusing, corroborated UAP reports when illumination geometry is unusual. The study argued that better space-situational-awareness advisories could reduce aviation confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+**Satellites and satellite trains** have become a newer source of misidentification. A 2024 study of Starlink misidentification by commercial pilots reconstructed an August 2022 incident using satellite orbital data and aircraft tracking, concluding that recently launched satellites can produce confusing, corroborated UAP reports when illumination geometry is unusual. The study argued that better space-situational-awareness advisories could reduce aviation confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
@@ -505,7 +505,7 @@ The most common misidentification mechanisms near restricted airspace are not ex
 
 Rendlesham Forest is the clearest example of how ordinary-light explanations can become entangled with nuclear-site anxiety. The 1980 events occurred near RAF Woodbridge and RAF Bentwaters in Suffolk, bases then used by the US Air Force. The case became famous partly because of military witnesses, a memorandum by Lieutenant Colonel Charles Halt, and later claims that lights or beams were linked to a weapons storage area.
 
-The sceptical reconstruction is not a single-object explanation but a chain of possible misidentifications. Accounts of an initial descending glow have been linked by sceptics to a bright fireball seen over southern England. Flashing lights in the forest direction have been linked to Orfordness Lighthouse. Star-like lights low on the horizon have been linked to bright stars distorted by atmospheric conditions. Local police reportedly saw only the lighthouse light on the first night, and forestry worker Vince Thurkettle later argued that supposed ground traces were ordinary rabbit scrapes and forest damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Open source on history.co.uk.</span></span></span>
+The sceptical reconstruction is not a single-object explanation but a chain of possible misidentifications. Accounts of an initial descending glow have been linked by sceptics to a bright fireball seen over southern England. Flashing lights in the forest direction have been linked to Orfordness Lighthouse. Star-like lights low on the horizon have been linked to bright stars distorted by atmospheric conditions. Local police reportedly saw only the lighthouse light on the first night, and forestry worker Vince Thurkettle later argued that supposed ground traces were ordinary rabbit scrapes and forest damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Open source on history.co.uk.</span></span></span>
 
 This does not settle every witness claim. Rendlesham remains disputed because witnesses reported more than one event, memories changed over time, and later interpretations added layers not always present in early statements. But it is a strong case study in the mechanism of escalation: a fireball, a lighthouse, stars, forest confusion and a sensitive military setting can combine into a much larger story. The nuclear context did not create the lights, but it made them matter.
 
@@ -513,7 +513,7 @@ This does not settle every witness claim. Rendlesham remains disputed because wi
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c-Illustration-2-dark.svg" | relative_url }}" alt="Misidentification illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Minot and the difference between “unexplained” and “extraordinary”
 
-Minot Air Force Base is often discussed in the nuclear-UFO literature because it involved Strategic Air Command, B-52 operations, missile fields and reports of unusual aerial events. A 2023 research archive on the 24 October 1968 Minot case describes a coordinated military response: a B-52 crew was debriefed, a base UFO investigating officer was notified, radarscope film was reviewed, and Project Blue Book evaluated the submitted case data in November 1968. Minot was also a major nuclear base, with B-52 bombers and a missile wing responsible for Minuteman intercontinental ballistic missiles spread across a large launch-field area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base, North Dakota</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base, North Dakota...</span></span></span>
+Minot Air Force Base is often discussed in the nuclear-UFO literature because it involved Strategic Air Command, B-52 operations, missile fields and reports of unusual aerial events. A 2023 research archive on the 24 October 1968 Minot case describes a coordinated military response: a B-52 crew was debriefed, a base UFO investigating officer was notified, radarscope film was reviewed, and Project Blue Book evaluated the submitted case data in November 1968. Minot was also a major nuclear base, with B-52 bombers and a missile wing responsible for Minuteman intercontinental ballistic missiles spread across a large launch-field area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base, North Dakota</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base, North Dakota...</span></span></span>
 
 Minot is not a simple “misidentified star” case, and it should not be flattened into one. Its value for this page is different: it shows why nuclear-adjacent reports require careful sorting of evidence types. There were ground reports, aircrew accounts, radar-related material, and later analyses. Some sceptical discussions have examined whether stars such as Sirius or Vega could explain parts of the visual record, while proponents argue that the radar and witness combinations resist ordinary explanations. The useful lesson is not that every Minot detail was mundane; it is that an “unidentified” file can contain multiple observations of unequal strength, only some of which may be testable against aircraft tracks, astronomy, weather, radar settings or witness geometry.
 
@@ -526,7 +526,7 @@ That distinction is essential. “Unidentified” means the available data did n
 
 The best investigations do not begin by deciding whether a witness is reliable or unreliable. They ask what the witness was in a position to know. A guard may accurately report a red light at a bearing and time, but still misjudge distance. A pilot may accurately describe an infrared image, but the image may be shaped by sensor settings, compression, sun angle or viewing geometry. A radar contact may be real, but not necessarily the same thing seen visually.
 
-Modern UAP investigation increasingly depends on reconstructing the full scene. AARO’s public case-resolution material shows this approach in practice. Its official imagery page includes resolved cases where objects were assessed as balloon clusters, distant commercial aircraft, birds, or likely commercial aircraft with sensor artefacts; in the Western US case, military personnel reported equidistant lights as a potential restricted-airspace incursion, but AARO assessed that the objects matched three commercial aircraft at great distance, with radar tracks aligned to the dots in the infrared sensor view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP Imagery...</span></span></span>
+Modern UAP investigation increasingly depends on reconstructing the full scene. AARO’s public case-resolution material shows this approach in practice. Its official imagery page includes resolved cases where objects were assessed as balloon clusters, distant commercial aircraft, birds, or likely commercial aircraft with sensor artefacts; in the Western US case, military personnel reported equidistant lights as a potential restricted-airspace incursion, but AARO assessed that the objects matched three commercial aircraft at great distance, with radar tracks aligned to the dots in the infrared sensor view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP Imagery...</span></span></span>
 
 A thorough mundane-explanation check usually asks:
 
@@ -541,7 +541,7 @@ A thorough mundane-explanation check usually asks:
 
 </div>
 
-NASA’s 2023 independent UAP study made the same broader point in scientific language: analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data. It recommended better, well-characterised collection rather than treating ambiguous imagery as self-explanatory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+NASA’s 2023 independent UAP study made the same broader point in scientific language: analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data. It recommended better, well-characterised collection rather than treating ambiguous imagery as self-explanatory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c-Illustration-3-dark.svg" | relative_url }}" alt="Misidentification illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -549,7 +549,7 @@ NASA’s 2023 independent UAP study made the same broader point in scientific la
 
 Calling a light “misidentified” should not make it irrelevant. Around nuclear facilities, a false alarm can still expose real vulnerabilities: poor [reporting channels]({{ 'reporting/' | relative_url }}), inadequate sky-awareness tools, confusion over nearby civilian aviation, unclear range notices, or difficulty matching visual reports with radar and security logs. A balloon or drone near a training range may be ordinary in origin but still a safety or security problem if it enters the wrong place.
 
-The Eglin case illustrates this distinction well. AARO treated the pilot’s report seriously because it involved a possible flight-safety hazard and sensitive training range incursion, even though the final assessment favoured an ordinary lighter-than-air object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Case Resolution Reports</span><span class="citation-popover-snippet">UAP Case Resolution Reports</span></span></span> The same logic applies to nuclear-adjacent reports: a mundane explanation can reduce the mystery while leaving a practical question about why the object was there, why it was not recognised faster, and whether procedures worked.
+The Eglin case illustrates this distinction well. AARO treated the pilot’s report seriously because it involved a possible flight-safety hazard and sensitive training range incursion, even though the final assessment favoured an ordinary lighter-than-air object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Case Resolution Reports</span><span class="citation-popover-snippet">UAP Case Resolution Reports</span></span></span> The same logic applies to nuclear-adjacent reports: a mundane explanation can reduce the mystery while leaving a practical question about why the object was there, why it was not recognised faster, and whether procedures worked.
 
 For readers assessing nuclear-UFO claims, the most useful standard is not “trained witnesses cannot be wrong” or “all lights are stars”. The better question is whether the case contains enough anchored data to defeat ordinary explanations. Time, bearing, elevation, duration, weather, aircraft and satellite records, sensor metadata, and contemporaneous logs matter more than the prestige of the location. Near restricted airspace, ordinary lights can become extraordinary stories very quickly; careful reconstruction is what slows that process down.
 
@@ -558,194 +558,194 @@ For readers assessing nuclear-UFO claims, the most useful standard is not “tra
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Ordinary Lights Become Nuclear UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Ordinary Lights Become Nuclear UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers identification, misidentification and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers identification, misidentification and classification of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrast between unexplained and explained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrast between unexplained and explained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how ordinary phenomena become extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how ordinary phenomena become extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines pattern recognition and misinterpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines pattern recognition and misinterpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/9f9f644488592a1aae82.jpg' | relative_url }}" alt="Listing image for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/9f9f644488592a1aae82.jpg' | relative_url }}" alt="Listing image for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print"><img src="{{ '/assets/images/marketplace-covers/df45560e3ef0d9aec885.jpg' | relative_url }}" alt="Listing image for War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print"><img src="{{ '/assets/images/marketplace-covers/df45560e3ef0d9aec885.jpg' | relative_url }}" alt="Listing image for War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">War Drawing Cold Missile Base Nuclear Counter Attack Strike Usa Framed Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER"><img src="{{ '/assets/images/marketplace-covers/b1cc61fed2dab645957c.jpg' | relative_url }}" alt="Listing image for WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER"><img src="{{ '/assets/images/marketplace-covers/b1cc61fed2dab645957c.jpg' | relative_url }}" alt="Listing image for WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">WAR DRAWING COLD MISSILE BASE NUCLEAR COUNTER ATTACK STRIKE USA POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE"><img src="{{ '/assets/images/marketplace-covers/f84b3b169faa129eef2f.jpg' | relative_url }}" alt="Listing image for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE"><img src="{{ '/assets/images/marketplace-covers/f84b3b169faa129eef2f.jpg' | relative_url }}" alt="Listing image for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="misidentification-when-ordinary-lights-become-nuclear-ufos-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -761,7 +761,7 @@ For readers assessing nuclear-UFO claims, the most useful standard is not “tra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -781,7 +781,7 @@ For readers assessing nuclear-UFO claims, the most useful standard is not “tra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -813,7 +813,7 @@ For readers assessing nuclear-UFO claims, the most useful standard is not “tra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -865,7 +865,7 @@ For readers assessing nuclear-UFO claims, the most useful standard is not “tra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -910,7 +910,7 @@ For readers assessing nuclear-UFO claims, the most useful standard is not “tra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -951,172 +951,172 @@ For readers assessing nuclear-UFO claims, the most useful standard is not “tra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Eglin UAP Case Resolution  
-   Link: <a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case Resolution...</p></details>
+   Link:<a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case Resolution...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: zenodo.org  
    Title: The Investigation of UFO Events at Minot Air Force Base, North Dakota  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base, North Dakota...</p></details>
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base, North Dakota...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: UAP Case Resolution Reports  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
    Title: usper statement redacted  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.com  
    Title: ufos near nuclear facilities uss roosevelt rendlesham  
-   Link: <a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
+   Link:<a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration ENR 5.1: Prohibited, Restricted, and Other Areas  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
+   Link:<a href="https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/what-happened-at-the-rendelsham-forest-incident-britain-s-answer-to-roswell</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150511 FOI2015 03810 Rendlesham Redacted Final Response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: airandspace.si.edu  
-   Link: <a href="https://airandspace.si.edu/learn/programs/soar-together/ufos" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/learn/programs/soar-together/ufos</a>  
+   Link:<a href="https://airandspace.si.edu/learn/programs/soar-together/ufos" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/learn/programs/soar-together/ufos</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QjVJLO6CK2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjVJLO6CK2I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Reality Check&#x27; with Ross Coulthart: New video shows UAPs swarm US military base | Morning in Americ...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QjVJLO6CK2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QjVJLO6CK2I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Reality Check&#x27; with Ross Coulthart: New video shows UAPs swarm US military base | Morning in Americ...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: What Disabled Missiles at Malmstrom Air Force Base?  
-   Link: <a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW VIDEO: UAPs swarm U.S. military base; How will Congress respond? | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW VIDEO: UAPs swarm U.S. military base; How will Congress respond? | Reality Check...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: [Drones](&#123;&#123; 'drones/' | relative_url &#125;&#125;) Swarm Langley AFB?  
-   Link: <a href="https://www.youtube.com/watch?v=nJ4IhbPVWrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nJ4IhbPVWrI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Base Breached? | Pentagon Files Expose Giant Mother Orb | Secret Programs &amp; Close Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nJ4IhbPVWrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nJ4IhbPVWrI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Base Breached? | Pentagon Files Expose Giant Mother Orb | Secret Programs &amp; Close Encounters...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+   Link:<a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  

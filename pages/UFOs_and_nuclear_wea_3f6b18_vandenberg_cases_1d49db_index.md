@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-vandenberg/
 description: Focused pages that expand on Vandenberg.
-date: '2026-06-17'
+date: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db
 parent_title: Vandenberg
@@ -16,7 +16,7 @@ parent_permalink: /vandenberg/
 
 # Explore Topics in Vandenberg
 
-The following pages expand on the main **[Vandenberg]({{ '/vandenberg/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Vandenberg]({{ '/vandenberg/' | relative_url }})** page and cover its key branches in.
 
 - [Big Sur camera]({{ '/big-sur-camera/' | relative_url }})
 - [Buzzing Bee]({{ '/buzzing-bee/' | relative_url }})

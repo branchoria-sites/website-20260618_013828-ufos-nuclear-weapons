@@ -490,11 +490,11 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-ov
 
 ## Introduction
 
-Claims about UFOs over nuclear weapons storage areas are among the hardest parts of the wider [UFOs-and-nuclear-weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) debate to prove. The reason is not simply that the claims are strange. It is that the basic facts needed to test them — where weapons were stored, what alarms were triggered, who was on duty, what radar or [security logs]({{ 'security-logs/' | relative_url }}) showed, and what was classified afterwards — are often hidden by nuclear secrecy. The best-known storage-area claim is linked to the 1980 Rendlesham Forest incident near RAF Woodbridge and RAF Bentwaters in Suffolk, where later accounts alleged that lights or beams were seen near a weapons storage area. Official UK records confirm that Rendlesham generated Ministry of Defence correspondence, but they do not confirm a nuclear weapons incident or an extraterrestrial cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Claims about UFOs over nuclear weapons storage areas are among the hardest parts of the wider [UFOs-and-nuclear-weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) debate to prove. The reason is not simply that the claims are strange. It is that the basic facts needed to test them — where weapons were stored, what alarms were triggered, who was on duty, what radar or [security logs]({{ 'security-logs/' | relative_url }}) showed, and what was classified afterwards — are often hidden by nuclear secrecy. The best-known storage-area claim is linked to the 1980 Rendlesham Forest incident near RAF Woodbridge and RAF Bentwaters in Suffolk, where later accounts alleged that lights or beams were seen near a weapons storage area. Official UK records confirm that Rendlesham generated Ministry of Defence correspondence, but they do not confirm a nuclear weapons incident or an extraterrestrial cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-overview.webp" | relative_url }}" alt="Overview image for Storage Sites" loading="eager" decoding="sync" fetchpriority="high">
-That makes storage-area claims different from missile-field stories. A missile shutdown can sometimes be checked against technical maintenance records. A storage-area UFO claim usually depends on access-controlled security [reporting]({{ 'reporting/' | relative_url }}), nuclear [custody]({{ 'custody/' | relative_url }}) rules and policies that discourage governments from confirming whether weapons were present at all. The result is a frustrating evidence gap: some witnesses describe serious incursions at highly sensitive sites, while official records tend to say either that no defence threat was found or that nuclear locations cannot be discussed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard RAF Lakenheath</span><span class="citation-popover-snippet">RAF Lakenheath - Hansard - UK Parliament...</span></span></span>
+That makes storage-area claims different from missile-field stories. A missile shutdown can sometimes be checked against technical maintenance records. A storage-area UFO claim usually depends on access-controlled security [reporting]({{ 'reporting/' | relative_url }}), nuclear [custody]({{ 'custody/' | relative_url }}) rules and policies that discourage governments from confirming whether weapons were present at all. The result is a frustrating evidence gap: some witnesses describe serious incursions at highly sensitive sites, while official records tend to say either that no defence threat was found or that nuclear locations cannot be discussed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard RAF Lakenheath</span><span class="citation-popover-snippet">RAF Lakenheath - Hansard - UK Parliament...</span></span></span>
 
 ## What counts as a storage-area claim
 
@@ -517,7 +517,7 @@ A credible storage-area case therefore needs to identify:
 
 </div>
 
-That high bar is rarely met in public. UFO researchers have collected many witness accounts from former service personnel, including claims around nuclear storage and testing grounds, and Robert Hastings’s 2010 National Press Club event brought some of those claims into mainstream news coverage. CBS reported that Hastings said more than 120 former service members had told him of UFOs near nuclear weapons storage and testing grounds, but the same report also noted official US denials that such claims established the existence of UFOs or alien material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Ex-Air Force Personnel: UFOs Deactivated Nukes - CBS News...</span></span></span>
+That high bar is rarely met in public. UFO researchers have collected many witness accounts from former service personnel, including claims around nuclear storage and testing grounds, and Robert Hastings’s 2010 National Press Club event brought some of those claims into mainstream news coverage. CBS reported that Hastings said more than 120 former service members had told him of UFOs near nuclear weapons storage and testing grounds, but the same report also noted official US denials that such claims established the existence of UFOs or alien material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Ex-Air Force Personnel: UFOs Deactivated Nukes - CBS News...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-1-dark.svg" | relative_url }}" alt="Storage Sites illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -525,11 +525,11 @@ That high bar is rarely met in public. UFO researchers have collected many witne
 
 The central problem is that nuclear storage is deliberately hard to verify. Governments protect the location, movement and custody of nuclear weapons because those facts are security-sensitive. That secrecy is not an accidental obstacle to UFO research; it is part of the security architecture around the weapons themselves.
 
-The UK record illustrates the problem clearly. In a 1997 House of Lords exchange about allegations that nuclear weapons had been stored at RAF Bentwaters and RAF Woodbridge, the government response was not a detailed confirmation or denial. It stated that UK governments had always followed a policy of neither confirming nor denying where nuclear weapons were located, in the UK or elsewhere, past or present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati - Hansard - UK Parliament...</span></span></span> A later parliamentary answer about RAF Lakenheath repeated the same position, describing it as UK and NATO policy to neither confirm nor deny the presence of nuclear weapons at a given location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard RAF Lakenheath</span><span class="citation-popover-snippet">RAF Lakenheath - Hansard - UK Parliament...</span></span></span>
+The UK record illustrates the problem clearly. In a 1997 House of Lords exchange about allegations that nuclear weapons had been stored at RAF Bentwaters and RAF Woodbridge, the government response was not a detailed confirmation or denial. It stated that UK governments had always followed a policy of neither confirming nor denying where nuclear weapons were located, in the UK or elsewhere, past or present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati - Hansard - UK Parliament...</span></span></span> A later parliamentary answer about RAF Lakenheath repeated the same position, describing it as UK and NATO policy to neither confirm nor deny the presence of nuclear weapons at a given location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard RAF Lakenheath</span><span class="citation-popover-snippet">RAF Lakenheath - Hansard - UK Parliament...</span></span></span>
 
 For storage-area UFO claims, that policy creates a double blind. Researchers may ask: “Was the object over a nuclear weapons storage area?” Officials may answer only that they do not confirm nuclear locations. Researchers may then treat that refusal as suspicious, while officials may regard the refusal as routine nuclear policy rather than UFO concealment. Both interpretations can coexist without resolving the underlying question.
 
-Secrecy also affects records. Security logs from a nuclear weapons storage area may have been classified, retained under military rules unavailable to the public, destroyed under ordinary retention schedules, or never written in the form later researchers expect. The UK National Archives notes that, before the 1960s, the Ministry of Defence destroyed UFO material after five years, and that many later UFO files contain one-off reports with possible explanations such as Venus, aircraft, balloons and satellites. For [Rendlesham]({{ 'rendlesham/' | relative_url }}) itself, the National Archives says it holds a single-sheet report of the event itself, with other files mostly consisting of public and press enquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Secrecy also affects records. Security logs from a nuclear weapons storage area may have been classified, retained under military rules unavailable to the public, destroyed under ordinary retention schedules, or never written in the form later researchers expect. The UK National Archives notes that, before the 1960s, the Ministry of Defence destroyed UFO material after five years, and that many later UFO files contain one-off reports with possible explanations such as Venus, aircraft, balloons and satellites. For [Rendlesham]({{ 'rendlesham/' | relative_url }}) itself, the National Archives says it holds a single-sheet report of the event itself, with other files mostly consisting of public and press enquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 This is why “no public record” is not the same as “nothing happened”, but it is also not evidence that a dramatic event did happen. It simply means that the public evidential base is weak. Storage-area claims sit precisely in that grey zone: important enough that a real incursion would matter, but secret enough that outsiders often cannot check the decisive records.
 
@@ -538,27 +538,27 @@ This is why “no public record” is not the same as “nothing happened”, bu
 
 ## Rendlesham: the storage-area claim everyone circles back to
 
-The Rendlesham Forest incident remains the key storage-area case because it combines military witnesses, an official memo, a sensitive US-operated Cold War base complex and later claims about a weapons storage area. The National Archives summarises the official core: in December 1980, Lieutenant Colonel Charles Halt, then at RAF Woodbridge, reported seeing lights near the rear gate; servicemen investigated Rendlesham Forest on two separate nights; the event later generated parliamentary and public interest; and the Ministry of Defence maintained that there was no threat to UK airspace or national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+The Rendlesham Forest incident remains the key storage-area case because it combines military witnesses, an official memo, a sensitive US-operated Cold War base complex and later claims about a weapons storage area. The National Archives summarises the official core: in December 1980, Lieutenant Colonel Charles Halt, then at RAF Woodbridge, reported seeing lights near the rear gate; servicemen investigated Rendlesham Forest on two separate nights; the event later generated parliamentary and public interest; and the Ministry of Defence maintained that there was no threat to UK airspace or national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
-The nuclear-storage layer is more disputed. In 1997, Lord Hill-Norton asked the UK government whether it was aware of reports from US Air Force personnel that nuclear weapons stored in the Weapons Storage Area at RAF Woodbridge had been struck by light beams from an unidentified craft during 25–30 December 1980. The government replied that there was no evidence the Ministry of Defence had received any such reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati - Hansard - UK Parliament...</span></span></span> That answer is important because it does not assess whether Halt or other personnel later believed the event happened. It says the Ministry had no evidence that it received those reports at the time.
+The nuclear-storage layer is more disputed. In 1997, Lord Hill-Norton asked the UK government whether it was aware of reports from US Air Force personnel that nuclear weapons stored in the Weapons Storage Area at RAF Woodbridge had been struck by light beams from an unidentified craft during 25–30 December 1980. The government replied that there was no evidence the Ministry of Defence had received any such reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati</span><span class="citation-popover-snippet">Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati - Hansard - UK Parliament...</span></span></span> That answer is important because it does not assess whether Halt or other personnel later believed the event happened. It says the Ministry had no evidence that it received those reports at the time.
 
-The physical setting makes the claim plausible enough to attract attention, but not proven. RAF Bentwaters and RAF Woodbridge were the “Twin Bases” used by the US Air Force during the Cold War. Defence reporting and historical accounts describe Bentwaters as having a nuclear alert mission for much of its operational life, and a specialist description of the site says the Weapons Storage Area consisted of earth-covered bunkers inside a highly secure zone with triple fencing, entry control, dog patrols, security towers and a security police blockhouse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">Open source on twz.com.</span></span></span>
+The physical setting makes the claim plausible enough to attract attention, but not proven. RAF Bentwaters and RAF Woodbridge were the “Twin Bases” used by the US Air Force during the Cold War. Defence reporting and historical accounts describe Bentwaters as having a nuclear alert mission for much of its operational life, and a specialist description of the site says the Weapons Storage Area consisted of earth-covered bunkers inside a highly secure zone with triple fencing, entry control, dog patrols, security towers and a security police blockhouse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">Open source on twz.com.</span></span></span>
 
-Halt’s later public accounts, as reported by UFO researcher Robert Hastings, included claims that lights or beams were seen near or into the Weapons Storage Area and that radio chatter contributed to that concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/ufos-directed-laser-like-beams-onto-nuclear-weapons-storage-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[UFO Hastings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UFO Hastings UFOs &amp; Nukes</span><span class="citation-popover-snippet">UFO Hastings UFOs &amp; Nukes</span></span></span> But this is exactly where the evidential split appears. The strongest official UK material confirms an unusual-lights report and later public interest; it does not confirm a beam into a nuclear storage compound. The strongest pro-UFO accounts come mainly from later witness statements and interviews, not from a released contemporaneous weapons-storage security file.
+Halt’s later public accounts, as reported by UFO researcher Robert Hastings, included claims that lights or beams were seen near or into the Weapons Storage Area and that radio chatter contributed to that concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/ufos-directed-laser-like-beams-onto-nuclear-weapons-storage-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[UFO Hastings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UFO Hastings UFOs &amp; Nukes</span><span class="citation-popover-snippet">UFO Hastings UFOs &amp; Nukes</span></span></span> But this is exactly where the evidential split appears. The strongest official UK material confirms an unusual-lights report and later public interest; it does not confirm a beam into a nuclear storage compound. The strongest pro-UFO accounts come mainly from later witness statements and interviews, not from a released contemporaneous weapons-storage security file.
 
-Sceptical analysis also focuses on ordinary explanations for key parts of the Rendlesham story. Astronomer Ian Ridpath has argued that the initial sighting coincided with a bright meteor, that later flashing lights aligned with the Orfordness lighthouse, and that some reported sky objects can be explained by bright stars and optical effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleBut I know that the first sighting coincided with the burn-up in the atm...</span></span></span> Those explanations do not automatically disprove every witness memory, but they do show why a storage-area claim needs more than sincere testimony. If a light source can plausibly be outside the base, far away, or misjudged in distance and direction at night, the claim that it was over a nuclear storage area becomes much harder to sustain.
+Sceptical analysis also focuses on ordinary explanations for key parts of the Rendlesham story. Astronomer Ian Ridpath has argued that the initial sighting coincided with a bright meteor, that later flashing lights aligned with the Orfordness lighthouse, and that some reported sky objects can be explained by bright stars and optical effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Ian RidpathRendlesham Forest UFO explained – the original articleBut I know that the first sighting coincided with the burn-up in the atm...</span></span></span> Those explanations do not automatically disprove every witness memory, but they do show why a storage-area claim needs more than sincere testimony. If a light source can plausibly be outside the base, far away, or misjudged in distance and direction at night, the claim that it was over a nuclear storage area becomes much harder to sustain.
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-2-dark.svg" | relative_url }}" alt="Storage Sites illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why storage sites invite both security concern and myth-making
 
-Nuclear storage areas are designed to be visually and institutionally opaque. Their architecture signals importance while hiding detail: fences, towers, hardened bunkers, blast walls, patrol roads and controlled access points. Historic England’s description of RAF Barnham, a 1950s British atomic bomb store, shows how such sites could be both physically elaborate and officially obscure. Barnham housed Britain’s first atomic bomb, Blue Danube, under the innocuous name “RAF Barnham Special Storage Site”; it included bomb maintenance buildings, separate plutonium-core “hutches”, double fencing, guard towers and support facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/whats-new/in-your-area/east-of-england/cold-war-atomic-bomb-store-saved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-title">Historic England Cold War Atomic Bomb Store Saved &#124; Historic England</span><span class="citation-popover-snippet">Historic England Cold War Atomic Bomb Store Saved &#124; Historic England</span></span></span>
+Nuclear storage areas are designed to be visually and institutionally opaque. Their architecture signals importance while hiding detail: fences, towers, hardened bunkers, blast walls, patrol roads and controlled access points. Historic England’s description of RAF Barnham, a 1950s British atomic bomb store, shows how such sites could be both physically elaborate and officially obscure. Barnham housed Britain’s first atomic bomb, Blue Danube, under the innocuous name “RAF Barnham Special Storage Site”; it included bomb maintenance buildings, separate plutonium-core “hutches”, double fencing, guard towers and support facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/whats-new/in-your-area/east-of-england/cold-war-atomic-bomb-store-saved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[Historic England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-title">Historic England Cold War Atomic Bomb Store Saved &#124; Historic England</span><span class="citation-popover-snippet">Historic England Cold War Atomic Bomb Store Saved &#124; Historic England</span></span></span>
 
 That kind of site naturally attracts stories. People nearby may know enough to sense that something important is hidden, but not enough to test rumours. Former personnel may remember procedures and incidents, but be constrained by classification, memory decay, unit culture or later reinterpretation. Local communities may inherit fragments: strange lights, armed guards, unusual convoys, emergency responses, or rumours of nuclear weapons that officials would not discuss.
 
 This does not mean storage-area UFO claims are worthless. A report of an unidentified object near a weapons storage area would be a legitimate security concern even if the cause turned out to be a drone, aircraft, prank, sensor fault or misidentified celestial object. The governance issue is broader than aliens: sensitive nuclear facilities need reliable reporting channels, counter-drone measures, perimeter surveillance and procedures that allow serious anomalies to be investigated without feeding unnecessary secrecy.
 
-Recent concern about unidentified drones near RAF bases shows why the category still matters. Modern reports about drone activity around US-used RAF sites have been discussed in terms of intelligence gathering, nuclear proximity and base security, even where no extraterrestrial explanation is being suggested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former Ministry of Defence UFO expert, suggested the possibility of drones being used by adversaries to gather intelligence...</span></span></span> In practical terms, a drone over a storage perimeter may be more actionable than a decades-old UFO story, but the underlying question is similar: can authorities identify, track and explain an object near a sensitive weapons site?
+Recent concern about unidentified drones near RAF bases shows why the category still matters. Modern reports about drone activity around US-used RAF sites have been discussed in terms of intelligence gathering, nuclear proximity and base security, even where no extraterrestrial explanation is being suggested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Nick Pope, a former Ministry of Defence UFO expert, suggested the possibility of drones being used by adversaries to gather intelligence...</span></span></span> In practical terms, a drone over a storage perimeter may be more actionable than a decades-old UFO story, but the underlying question is similar: can authorities identify, track and explain an object near a sensitive weapons site?
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B__akc_6710" title="Military Witnesses of UFOs at Nuclear Sites (Press Conference 2010) by Robert Hastings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B__akc_6710" target="_blank" rel="noopener noreferrer">Military Witnesses of UFOs at Nuclear Sites (Press Conference 2010) by Robert Hastings</a></p><p class="youtube-embed-meta">Channel: FindingUFO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B__akc_6710" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B__akc_6710">Open on YouTube</a></p></div></div></div>
@@ -580,9 +580,9 @@ A good investigation would also need to separate three different claims that are
 
 </div>
 
-The Rendlesham storage-area claim mostly sits between the second and third categories, depending on which witness account is being used. The official UK record supports the existence of a reported unusual-lights incident near the base complex, while later accounts allege a much more direct connection to the Weapons Storage Area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+The Rendlesham storage-area claim mostly sits between the second and third categories, depending on which witness account is being used. The official UK record supports the existence of a reported unusual-lights incident near the base complex, while later accounts allege a much more direct connection to the Weapons Storage Area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
-A further complication is that “unidentified” does not mean “extraordinary”. The US All-domain Anomaly Resolution Office, or AARO, stated in its 2024 historical report that it found no evidence that any US government investigation, academic-sponsored research or official review had confirmed a UAP sighting as extraterrestrial. It also emphasised a basic investigative lesson: the more complete and higher-quality the data, the more likely a case is to be resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) In its wider review of foreign and academic efforts, AARO said that none had found evidence of extraterrestrial visitations, while acknowledging that some cases remain [unresolved]({{ 'unresolved/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+A further complication is that “unidentified” does not mean “extraordinary”. The US All-domain Anomaly Resolution Office, or AARO, stated in its 2024 historical report that it found no evidence that any US government investigation, academic-sponsored research or official review had confirmed a UAP sighting as extraterrestrial. It also emphasised a basic investigative lesson: the more complete and higher-quality the data, the more likely a case is to be resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) In its wider review of foreign and academic efforts, AARO said that none had found evidence of extraterrestrial visitations, while acknowledging that some cases remain [unresolved]({{ 'unresolved/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-3-dark.svg" | relative_url }}" alt="Storage Sites illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -590,7 +590,7 @@ A further complication is that “unidentified” does not mean “extraordinary
 
 The most defensible conclusion is that nuclear weapons storage-area UFO claims are important but under-proven. They deserve attention because the locations involved are high-consequence security environments. They should not be inflated because the public evidence often lacks the records needed to confirm the most dramatic claims.
 
-Rendlesham shows the pattern. There was a real reported incident involving US Air Force personnel near a sensitive Cold War base complex. There was an official memo and later parliamentary scrutiny. The base environment included nuclear-relevant infrastructure and heavily guarded storage areas. But the specific claim that an unidentified craft projected beams into a nuclear weapons storage area remains unconfirmed in released official records, and the UK government stated in 1997 that it had no evidence the Ministry of Defence had received such reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Rendlesham shows the pattern. There was a real reported incident involving US Air Force personnel near a sensitive Cold War base complex. There was an official memo and later parliamentary scrutiny. The base environment included nuclear-relevant infrastructure and heavily guarded storage areas. But the specific claim that an unidentified craft projected beams into a nuclear weapons storage area remains unconfirmed in released official records, and the UK government stated in 1997 that it had no evidence the Ministry of Defence had received such reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 The governance lesson is not that every storage-area UFO story is false, nor that secrecy proves a cover-up. It is that nuclear secrecy changes the evidential landscape. It protects real weapons and real vulnerabilities, but it also makes rumours harder to test and allows unresolved stories to grow. A responsible assessment has to hold both facts at once: unusual reports near nuclear storage sites can be legitimate security matters, and yet the leap from “unidentified” to “confirmed extraordinary object” still requires evidence that public records have not supplied.
 
@@ -599,194 +599,194 @@ The governance lesson is not that every storage-area UFO story is false, nor tha
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Weapons Storage Claims Are So Hard To Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Weapons Storage Claims Are So Hard To Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Covers the Rendlesham incident central to many weapons-storage claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the Rendlesham incident central to many weapons-storage claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence, witnesses, and official documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence, witnesses, and official documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how governments handle and disclose unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how governments handle and disclose unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context on evidence standards and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on evidence standards and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storage-sites-why-weapons-storage-claims-are-so-hard-to-prove-ufos-and-nuclear-weapons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -802,7 +802,7 @@ The governance lesson is not that every storage-area UFO story is false, nor tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -822,7 +822,7 @@ The governance lesson is not that every storage-area UFO story is false, nor tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -854,7 +854,7 @@ The governance lesson is not that every storage-area UFO story is false, nor tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -906,7 +906,7 @@ The governance lesson is not that every storage-area UFO story is false, nor tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -951,7 +951,7 @@ The governance lesson is not that every storage-area UFO story is false, nor tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -992,198 +992,198 @@ The governance lesson is not that every storage-area UFO story is false, nor tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force Personnel: UFOs Deactivated Nukes - CBS News...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force Personnel: UFOs Deactivated Nukes - CBS News...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: data.org  
-   Link: <a href="https://data.org/organizations/federation-of-american-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://data.org/organizations/federation-of-american-scientists/</a>  
+   Link:<a href="https://data.org/organizations/federation-of-american-scientists/" target="_blank" rel="noopener noreferrer nofollow">https://data.org/organizations/federation-of-american-scientists/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.[parliament](&#123;&#123; 'parliament/' | relative_url &#125;&#125;). uk  
    Title: Hansard Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati  
-   Link: <a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati - Hansard - UK Parliament...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/1997-10-28/debates/829bc73d-7e53-4412-8ae6-0c1be8942f77/RafBentwatersAndWoodbridgNuclearWeaponsAllegations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raf Bentwaters And Woodbridg: Nuclear Weapons Allegati - Hansard - UK Parliament...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: Hansard RAF Lakenheath  
-   Link: <a href="https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Lakenheath - Hansard - UK Parliament...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2008-07-08/debates/08070840000157/RAFLakenheath</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAF Lakenheath - Hansard - UK Parliament...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building</a>  
+   Link:<a href="https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/33978/raf-bentwaters-has-this-bizarre-looking-cold-war-bunker-called-the-star-wars-building</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufohastings.com  
    Title: UFO Hastings UFOs & Nukes  
-   Link: <a href="https://www.ufohastings.com/articles/ufos-directed-laser-like-beams-onto-nuclear-weapons-storage-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/ufos-directed-laser-like-beams-onto-nuclear-weapons-storage-sites</a>  
+   Link:<a href="https://www.ufohastings.com/articles/ufos-directed-laser-like-beams-onto-nuclear-weapons-storage-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/ufos-directed-laser-like-beams-onto-nuclear-weapons-storage-sites</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleBut I know that the first sighting coincided with the burn-up in the atm...</p></details>
+   Link:<a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ian RidpathRendlesham Forest UFO explained – the original articleBut I know that the first sighting coincided with the burn-up in the atm...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: historicengland.org.uk  
    Title: Historic England Cold War Atomic Bomb Store Saved | Historic England  
-   Link: <a href="https://historicengland.org.uk/whats-new/in-your-area/east-of-england/cold-war-atomic-bomb-store-saved/" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/whats-new/in-your-area/east-of-england/cold-war-atomic-bomb-store-saved/</a>  
+   Link:<a href="https://historicengland.org.uk/whats-new/in-your-area/east-of-england/cold-war-atomic-bomb-store-saved/" target="_blank" rel="noopener noreferrer nofollow">https://historicengland.org.uk/whats-new/in-your-area/east-of-england/cold-war-atomic-bomb-store-saved/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former Ministry of Defence UFO expert, suggested the possibility of drones being used by adversaries to gather intelligence...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/nov/30/ufo-expert-not-ruling-out-russia-or-china-links-to-drones-seen-at-raf-bases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope, a former Ministry of Defence UFO expert, suggested the possibility of drones being used by adversaries to gather intelligence...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufohastings.com  
    Title: ufos filmed hovering over us air force nuclear weapons storage area  
-   Link: <a href="https://www.ufohastings.com/articles/ufos-filmed-hovering-over-us-air-force-nuclear-weapons-storage-area" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/ufos-filmed-hovering-over-us-air-force-nuclear-weapons-storage-area</a>  
+   Link:<a href="https://www.ufohastings.com/articles/ufos-filmed-hovering-over-us-air-force-nuclear-weapons-storage-area" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/ufos-filmed-hovering-over-us-air-force-nuclear-weapons-storage-area</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
+   Link:<a href="https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2001/aug/28/humanities.highereducation</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ianridpath.com  
    Title: Col Halt's affidavit  
-   Link: <a href="https://www.ianridpath.com/ufo/Halt_affidavit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/Halt_affidavit.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/Halt_affidavit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/Halt_affidavit.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: questions-statements.parliament.uk  
-   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2022-05-11/934/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2022-05-11/934/</a>  
+   Link:<a href="https://questions-statements.parliament.uk/written-questions/detail/2022-05-11/934/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2022-05-11/934/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/state-secrets/mysteries/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: uapglobe.com  
    Title: rendlesham forest  
-   Link: <a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
+   Link:<a href="https://uapglobe.com/cases/rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://uapglobe.com/cases/rendlesham-forest</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: science.howstuffworks.com  
    Title: rendlesham forest incident  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm</a>  
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rendlesham-forest-incident.htm</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20150511 FOI2015 03810 Rendlesham Redacted Final Response  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f599240f0b6230268ef6d/20150511-FOI2015-03810-Rendlesham-Redacted-Final-Response.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: GOV.UK  
    Title: the uks nuclear deterrent the national endeavour explained  
-   Link: <a href="https://www.gov.uk/government/publications/the-uks-nuclear-deterrent-what-you-need-to-know/the-uks-nuclear-deterrent-the-national-endeavour-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-uks-nuclear-deterrent-what-you-need-to-know/the-uks-nuclear-deterrent-the-national-endeavour-explained</a>  
+   Link:<a href="https://www.gov.uk/government/publications/the-uks-nuclear-deterrent-what-you-need-to-know/the-uks-nuclear-deterrent-the-national-endeavour-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/the-uks-nuclear-deterrent-what-you-need-to-know/the-uks-nuclear-deterrent-the-national-endeavour-explained</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bunkertours.co.uk  
    Title: raf bentwaters  
-   Link: <a href="https://www.bunkertours.co.uk/milhist2/raf_bentwaters.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bunkertours.co.uk/milhist2/raf_bentwaters.htm</a>  
+   Link:<a href="https://www.bunkertours.co.uk/milhist2/raf_bentwaters.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bunkertours.co.uk/milhist2/raf_bentwaters.htm</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Mysterious UFO Spotted Over Nuclear Plant: Unexplained | Close Encounters 108  
-   Link: <a href="https://www.youtube.com/watch?v=_cGwuvzCY3I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_cGwuvzCY3I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFOs and Nukes&quot; press conference FULL Version NPC Press Conference UFOs and Nukes Sept 27 2010 Page 2 Stephen Krisocki...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_cGwuvzCY3I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_cGwuvzCY3I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFOs and Nukes&quot; press conference FULL Version NPC Press Conference UFOs and Nukes Sept 27 2010 Page 2 Stephen Krisocki...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=B__akc_6710" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B__akc_6710</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO Spotted Over Nuclear Plant: Unexplained | Close Encounters 108...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B__akc_6710" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B__akc_6710</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious UFO Spotted Over Nuclear Plant: Unexplained | Close Encounters 108...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Investigating the US Military Tapes of the Rendlesham UFO  
-   Link: <a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Witnesses of UFOs at Nuclear Sites (Press Conference 2010) by Robert Hastings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k1srXUsI-7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k1srXUsI-7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Witnesses of UFOs at Nuclear Sites (Press Conference 2010) by Robert Hastings...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-surreal-event-outside-a-us-air-force-base-near-the-rendlesham-forest-in-englan/1202258311467143/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/177620292284538/posts/9490344137678727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177620292284538/posts/9490344137678727/</a>  
+   Link:<a href="https://www.facebook.com/groups/177620292284538/posts/9490344137678727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177620292284538/posts/9490344137678727/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
+   Link:<a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DWE7H2uDzJy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWE7H2uDzJy/</a>  
+   Link:<a href="https://www.instagram.com/p/DWE7H2uDzJy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWE7H2uDzJy/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: macfound.org  
-   Link: <a href="https://www.macfound.org/grantee/federation-of-american-scientists-1487/" target="_blank" rel="noopener noreferrer nofollow">https://www.macfound.org/grantee/federation-of-american-scientists-1487/</a>  
+   Link:<a href="https://www.macfound.org/grantee/federation-of-american-scientists-1487/" target="_blank" rel="noopener noreferrer nofollow">https://www.macfound.org/grantee/federation-of-american-scientists-1487/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/federation-of-american-scientists_the-potential-return-of-the-us-nuclear-mission-activity-7300527891140825088-i4Ak" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/federation-of-american-scientists_the-potential-return-of-the-us-nuclear-mission-activity-7300527891140825088-i4Ak</a>  
+   Link:<a href="https://www.linkedin.com/posts/federation-of-american-scientists_the-potential-return-of-the-us-nuclear-mission-activity-7300527891140825088-i4Ak" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/federation-of-american-scientists_the-potential-return-of-the-us-nuclear-mission-activity-7300527891140825088-i4Ak</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: spacepage.be  
-   Link: <a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-rendlesham-forest-incident-het-meest-gedocumenteerde-ufo-geval-van-europa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-rendlesham-forest-incident-het-meest-gedocumenteerde-ufo-geval-van-europa.html</a>  
+   Link:<a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-rendlesham-forest-incident-het-meest-gedocumenteerde-ufo-geval-van-europa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-rendlesham-forest-incident-het-meest-gedocumenteerde-ufo-geval-van-europa.html</a>  

@@ -284,7 +284,7 @@ The key question in the Malmstrom missile controversy is not whether unusual lig
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b-Illustration-1-dark.svg" | relative_url }}" alt="Separate Claims illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because discussions of [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) often merge two different issues into a single story. At Malmstrom in 1967, the strongest documentary evidence confirms that a real missile shutdown event occurred. The dispute concerns whether reported aerial phenomena were causally linked to that event or merely associated with it after the fact. Understanding the case requires evaluating the sightings and the missile failures on their own terms before asking whether they intersect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This distinction matters because discussions of [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) often merge two different issues into a single story. At Malmstrom in 1967, the strongest documentary evidence confirms that a real missile shutdown event occurred. The dispute concerns whether reported aerial phenomena were causally linked to that event or merely associated with it after the fact. Understanding the case requires evaluating the sightings and the missile failures on their own terms before asking whether they intersect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Do the Lights Explain the Shutdown?
 
@@ -294,7 +294,7 @@ An observation claim says that security personnel, missile officers, or other wi
 
 The evidence standards are very different. Witness testimony may support the existence of a sighting. Demonstrating causation requires technical evidence showing that the sighted object produced an effect inside the missile system.
 
-In the Malmstrom debate, these two claims are frequently treated as if they automatically support one another. Yet a sighting does not by itself establish a mechanism capable of disabling missile electronics. Conversely, discovering an electrical or systems fault does not automatically prove that witnesses saw nothing unusual. The two questions must be tested independently before they can be connected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+In the Malmstrom debate, these two claims are frequently treated as if they automatically support one another. Yet a sighting does not by itself establish a mechanism capable of disabling missile electronics. Conversely, discovering an electrical or systems fault does not automatically prove that witnesses saw nothing unusual. The two questions must be tested independently before they can be connected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hy2IpXAg154" title="2/2 Robert Salas - extrait de : Conference National Press Club - Washington D.C. 10/27/2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hy2IpXAg154" target="_blank" rel="noopener noreferrer">2/2 Robert Salas - extrait de : Conference National Press Club - Washington D.C. 10/27/2010</a></p><p class="youtube-embed-meta">Channel: Forbidden Planet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hy2IpXAg154" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hy2IpXAg154">Open on YouTube</a></p></div></div></div>
@@ -303,11 +303,11 @@ In the Malmstrom debate, these two claims are frequently treated as if they auto
 
 The historical record surrounding Echo Flight illustrates the distinction clearly.
 
-Declassified command-history material confirms that all ten missiles in Echo Flight went into a "No-Go" condition nearly simultaneously on 16 March 1967. The same document also states that rumours of UFOs in the area during the fault were investigated and "disproven". According to the record, personnel who checked the missile sites reported no unusual activity or sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Declassified command-history material confirms that all ten missiles in Echo Flight went into a "No-Go" condition nearly simultaneously on 16 March 1967. The same document also states that rumours of UFOs in the area during the fault were investigated and "disproven". According to the record, personnel who checked the missile sites reported no unusual activity or sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 That document establishes a verified missile failure. It does not establish a UFO cause.
 
-Later public accounts introduced a different narrative. Former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) described a separate incident involving reports of unusual aerial lights and missile problems at Oscar Flight later in March 1967. His account has become one of the most widely cited examples in discussions of UFOs and nuclear weapons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Were unusual aerial phenomena reported? Yes, multiple witnesses have made such claims. usafaclasses.org">[usafaclasses.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Were unusual aerial phenomena reported? Yes, multiple witnesses have made such claims. usafaclasses.org</span><span class="citation-popover-snippet">Open source on usafaclasses.org.</span></span></span>
+Later public accounts introduced a different narrative. Former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) described a separate incident involving reports of unusual aerial lights and missile problems at Oscar Flight later in March 1967. His account has become one of the most widely cited examples in discussions of UFOs and nuclear weapons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Were unusual aerial phenomena reported? Yes, multiple witnesses have made such claims. usafaclasses.org">[usafaclasses.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Were unusual aerial phenomena reported? Yes, multiple witnesses have made such claims. usafaclasses.org</span><span class="citation-popover-snippet">Open source on usafaclasses.org.</span></span></span>
 
 The important analytical point is that the existence of one claim does not automatically validate the other. Even if witnesses sincerely reported strange lights, investigators still need evidence linking those lights to the internal behaviour of missile guidance, control, communications, or power systems.
 
@@ -324,7 +324,7 @@ The causal relationship remains an additional proposition requiring its own proo
 
 Human memory and public storytelling often combine separate events into a single narrative, especially when both events are unusual.
 
-A large-scale missile outage is inherently memorable. So are reports of unexplained lights. When stories circulate within a military community, details from different incidents can become associated with one another over time. Historians of the Malmstrom case have noted that accounts from Echo Flight and Oscar Flight are sometimes blended together even though they involve different dates, locations, witnesses, and documentary records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">UFO Evidence Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">UFO EvidenceMalmstrom AFB “Echo Flight” Shutdown - UFOevidence16 Mar 1967 (same timeframe) — That same history excerpt states UFO rumors...</span></span></span>
+A large-scale missile outage is inherently memorable. So are reports of unexplained lights. When stories circulate within a military community, details from different incidents can become associated with one another over time. Historians of the Malmstrom case have noted that accounts from Echo Flight and Oscar Flight are sometimes blended together even though they involve different dates, locations, witnesses, and documentary records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">UFO Evidence Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">UFO EvidenceMalmstrom AFB “Echo Flight” Shutdown - UFOevidence16 Mar 1967 (same timeframe) — That same history excerpt states UFO rumors...</span></span></span>
 
 This process is not unique to UFO cases. Investigations of accidents, disasters, and intelligence events routinely find that dramatic but unrelated observations become attached to genuine technical failures because both occurred within the same general period.
 
@@ -355,11 +355,11 @@ Several types of evidence would be especially important:
 
 **Instrumented [detection]({{ 'detection/' | relative_url }}).** Radar, electronic-surveillance equipment, or other sensors would need to document an object operating in a manner consistent with the alleged effect.
 
-**A plausible mechanism.** There would need to be a credible explanation for how an external source could induce the observed failures. This is why discussions often turn to electromagnetic interference or electronic noise rather than simply to visual sightings. Technical theories attempt to explain how a physical effect might reach protected missile systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries Malmstrom</span><span class="citation-popover-snippet">Unexplained MysteriesMalmstrom - Can&#x27;t refute that one!October 25, 2014 — 24 Oct 2014 — It doesn&#x27;t state that &quot;an electronic noise pulse...</span><span class="citation-popover-meta">Published: October 25, 2014</span></span></span>
+**A plausible mechanism.** There would need to be a credible explanation for how an external source could induce the observed failures. This is why discussions often turn to electromagnetic interference or electronic noise rather than simply to visual sightings. Technical theories attempt to explain how a physical effect might reach protected missile systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries Malmstrom</span><span class="citation-popover-snippet">Unexplained MysteriesMalmstrom - Can&#x27;t refute that one!October 25, 2014 — 24 Oct 2014 — It doesn&#x27;t state that &quot;an electronic noise pulse...</span><span class="citation-popover-meta">Published: October 25, 2014</span></span></span>
 
 **Correlation across records.** Witness reports, maintenance logs, command records, and engineering analyses would need to align in time and description.
 
-The public record contains elements of these categories, but not a complete chain linking an observed aerial object to the missile shutdown. The strongest documented evidence concerns the missile malfunction itself. The strongest UFO evidence consists largely of witness testimony. The missing link is a verified mechanism connecting the two. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia">[Wikipedia+2The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The public record contains elements of these categories, but not a complete chain linking an observed aerial object to the missile shutdown. The strongest documented evidence concerns the missile malfunction itself. The strongest UFO evidence consists largely of witness testimony. The missing link is a verified mechanism connecting the two.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia">[Wikipedia+2The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Did missile failures occur? Yes, the documentary record confirms they did. Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b-Illustration-3-dark.svg" | relative_url }}" alt="Separate Claims illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -381,194 +381,194 @@ Viewed historically, the Malmstrom case becomes less confusing when framed as th
 2. Were unusual aerial phenomena reported? Yes, multiple witnesses have made such claims. [usafaclasses.org](https://www.usafaclasses.org/1964/Salas_Robert/history.htm)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do the Lights Explain the Shutdown?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do the Lights Explain the Shutdown?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains the difference between observation and causation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the difference between observation and causation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Presents testimony while discussing evidential limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents testimony while discussing evidential limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Think about Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mNXiAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Think about Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Think about Weird Things">How to Think about Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Theodore Schick, Lewis Vaughn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Think about Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mNXiAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Think about Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Think about Weird Things">How to Think about Weird Things</a>
+</h4>
+<p class="fr-book-author">By Theodore Schick, Lewis Vaughn</p>
         
-        <p class="fr-book-desc">Useful for evaluating causal claims from unusual events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating causal claims from unusual events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly addresses sightings reported around missile sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses sightings reported around missile sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Think about Weird Things</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Think about Weird Things</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle"><img src="{{ '/assets/images/marketplace-covers/7eda67145211cbee5179.jpg' | relative_url }}" alt="Listing image for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle"><img src="{{ '/assets/images/marketplace-covers/7eda67145211cbee5179.jpg' | relative_url }}" alt="Listing image for USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">USTRANSCOM CENTCOM Challenge Coin Military US Strategic Movement Center Eagle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy"><img src="{{ '/assets/images/marketplace-covers/1c14d7ff9aebbad1de6d.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy"><img src="{{ '/assets/images/marketplace-covers/1c14d7ff9aebbad1de6d.jpg' | relative_url }}" alt="Listing image for Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge Coin - Air Force Deployed Ops - Kuwait - Air Force Academy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Character Development Program Military Challenge Coin Courage Citizenship"><img src="{{ '/assets/images/marketplace-covers/e83a503f79def00c0db0.jpg' | relative_url }}" alt="Listing image for Character Development Program Military Challenge Coin Courage Citizenship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Character Development Program Military Challenge Coin Courage Citizenship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Character Development Program Military Challenge Coin Courage Citizenship"><img src="{{ '/assets/images/marketplace-covers/e83a503f79def00c0db0.jpg' | relative_url }}" alt="Listing image for Character Development Program Military Challenge Coin Courage Citizenship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Character Development Program Military Challenge Coin Courage Citizenship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN"><img src="{{ '/assets/images/marketplace-covers/1eaf79f13b82d5ff0ebf.jpg' | relative_url }}" alt="Listing image for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN"><img src="{{ '/assets/images/marketplace-covers/1eaf79f13b82d5ff0ebf.jpg' | relative_url }}" alt="Listing image for Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Military Challenge COIN 381st INTELLIGENCE SQ - Elmendorf AFB ALASKA 1.5&quot; COIN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: military challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military challenge coin" data-ebay-reference="separate-claims-do-the-lights-explain-the-shutdown-ufos-and-nuclear-weapons-military-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ Viewed historically, the Malmstrom case becomes less confusing when framed as th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ Viewed historically, the Malmstrom case becomes less confusing when framed as th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ Viewed historically, the Malmstrom case becomes less confusing when framed as th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ Viewed historically, the Malmstrom case becomes less confusing when framed as th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ Viewed historically, the Malmstrom case becomes less confusing when framed as th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,88 +774,88 @@ Viewed historically, the Malmstrom case becomes less confusing when framed as th
 
 ## Endnotes
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unexplained-mysteries.com  
    Title: Unexplained Mysteries Malmstrom  
-   Link: <a href="https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained MysteriesMalmstrom - Can&#x27;t refute that one!October 25, 2014 — 24 Oct 2014 — It doesn&#x27;t state that &quot;an electronic [noise pulse](&amp;#123;&amp;#123; &#x27;noise-pulse/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained MysteriesMalmstrom - Can&#x27;t refute that one!October 25, 2014 — 24 Oct 2014 — It doesn&#x27;t state that &quot;an electronic [noise pulse](&amp;#123;&amp;#123; &#x27;noise-pulse/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
    Published: October 25, 2014  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaMalmstrom UFO incident - Wikipedia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaMalmstrom UFO incident - Wikipedia...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Incidente di Malmstrom  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Malmstrom" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Malmstrom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente di MalmstromL&#x27;incidente di Malmstrom è un avvistamento di UFO avvenuto nel 1967 nella base aerea statunitense di Malmstrom...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Malmstrom" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Malmstrom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente di MalmstromL&#x27;incidente di Malmstrom è un avvistamento di UFO avvenuto nel 1967 nella base aerea statunitense di Malmstrom...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufoevidence.com  
    Title: UFO Evidence Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO EvidenceMalmstrom AFB “Echo Flight” Shutdown - UFOevidence16 Mar 1967 (same timeframe) — That same history excerpt states UFO [rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO EvidenceMalmstrom AFB “Echo Flight” Shutdown - UFOevidence16 Mar 1967 (same timeframe) — That same history excerpt states UFO [rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufoevidence.org  
-   Link: <a href="https://www.ufoevidence.org/cases/case1017.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case1017.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rumors of UFOs in the area of Echo Flight...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/case1017.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case1017.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rumors of UFOs in the area of Echo Flight...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe component of Minuteman I that was most vulnerable to noise pulse was the [logic coupler](&amp;#123;&amp;#123; &#x27;logic-coupler/&#x27; | relative_url &amp;#125;&amp;#125;) of the...</p></details>
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe component of Minuteman I that was most vulnerable to noise pulse was the [logic coupler](&amp;#123;&amp;#123; &#x27;logic-coupler/&#x27; | relative_url &amp;#125;&amp;#125;) of the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: airandspaceforces.com  
-   Link: <a href="https://www.airandspaceforces.com/app/uploads/2024/09/AFmag_1974_09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/app/uploads/2024/09/AFmag_1974_09.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r1~iPaatzduring the flight-test program, has never been &quot;shut down because of a mechanical failure in the basic engine,&quot; P&amp;W said. *. The...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/app/uploads/2024/09/AFmag_1974_09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/app/uploads/2024/09/AFmag_1974_09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r1~iPaatzduring the flight-test program, has never been &quot;shut down because of a mechanical failure in the basic engine,&quot; P&amp;W said. *. The...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson</a>  
+   Link:<a href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: allworldwars.com  
-   Link: <a href="https://www.allworldwars.com/Tactics-and-Techniques-of-Electronic-Warfare-by-Bernard-Nalty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.allworldwars.com/Tactics-and-Techniques-of-Electronic-Warfare-by-Bernard-Nalty.html</a>  
+   Link:<a href="https://www.allworldwars.com/Tactics-and-Techniques-of-Electronic-Warfare-by-Bernard-Nalty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.allworldwars.com/Tactics-and-Techniques-of-Electronic-Warfare-by-Bernard-Nalty.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — Extensive tests at Malmstrom, Ogden Air Materiel Area, and at the...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — Extensive tests at Malmstrom, Ogden Air Materiel Area, and at the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: 2/2 Robert Salas  
-   Link: <a href="http://www.youtube.com/watch?v=Hy2IpXAg154" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Hy2IpXAg154</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom missile shutdown declassified technical analysis More incredible footage of a UFO rising from our oceans! What are these advanc...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Hy2IpXAg154" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Hy2IpXAg154</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom missile shutdown declassified technical analysis More incredible footage of a UFO rising from our oceans! What are these advanc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ndtv.com  
    Title: ex us officer claims ufos shut down nuclear missiles at us base 11232077  
-   Link: <a href="https://www.ndtv.com/science/ex-us-officer-claims-ufos-shut-down-nuclear-missiles-at-us-base-11232077" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/science/ex-us-officer-claims-ufos-shut-down-nuclear-missiles-at-us-base-11232077</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs disabled nuclear missiles at a Montana base in 1967... Topics mentioned in this article. UFO · Nuclear Missiles · Robert Salas · Co...</p></details>
+   Link:<a href="https://www.ndtv.com/science/ex-us-officer-claims-ufos-shut-down-nuclear-missiles-at-us-base-11232077" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/science/ex-us-officer-claims-ufos-shut-down-nuclear-missiles-at-us-base-11232077</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs disabled nuclear missiles at a Montana base in 1967... Topics mentioned in this article. UFO · Nuclear Missiles · Robert Salas · Co...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: meer.com  
    Title: 74766 the malmstrom nuclear ufo incident 1967 returns  
-   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Mike Gallagher of Wisconsin if they knew of the 1967 Malmstrom Air Force B...</p></details>
+   Link:<a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Mike Gallagher of Wisconsin if they knew of the 1967 Malmstrom Air Force B...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO i...</p></details>
+   Link:<a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO i...</p></details>

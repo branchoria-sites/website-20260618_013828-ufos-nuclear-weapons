@@ -488,15 +488,15 @@ Nuclear test ranges and missile ranges generate UFO stories because they combine
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-overview.webp" | relative_url }}" alt="Overview image for Test Ranges" loading="eager" decoding="sync" fetchpriority="high">
-The key point is not that every test-range story is solved. Some reports remain poorly documented, and some witnesses have made sincere claims that cannot be checked because the best records are missing or classified. But the test-range setting itself is a powerful generator of misinterpretation. [White Sands]({{ 'white-sands/' | relative_url }}), Los Alamos, Holloman and Vandenberg were places where the United States tested atomic weapons, rockets, missile defences, re-entry systems and space vehicles. They were also places where ordinary observers, trained personnel and later UFO researchers had only partial access to what was being tested, filmed or withheld. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://home.army.mil/wsmr/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home.army.mil">[Army Home+2Vandenberg Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home.army.mil</span><span class="citation-popover-title">Home About:: White Sands Missile Range</span><span class="citation-popover-snippet">Army HomeAbout:: White Sands Missile Range...</span></span></span>
+The key point is not that every test-range story is solved. Some reports remain poorly documented, and some witnesses have made sincere claims that cannot be checked because the best records are missing or classified. But the test-range setting itself is a powerful generator of misinterpretation. [White Sands]({{ 'white-sands/' | relative_url }}), Los Alamos, Holloman and Vandenberg were places where the United States tested atomic weapons, rockets, missile defences, re-entry systems and space vehicles. They were also places where ordinary observers, trained personnel and later UFO researchers had only partial access to what was being tested, filmed or withheld.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://home.army.mil/wsmr/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home.army.mil">[Army Home+2Vandenberg Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home.army.mil</span><span class="citation-popover-title">Home About:: White Sands Missile Range</span><span class="citation-popover-snippet">Army HomeAbout:: White Sands Missile Range...</span></span></span>
 
 ## Why missile ranges are perfect UFO factories
 
-Missile ranges create unusual observations by design. A launch can produce bright exhaust, staging flashes, tumbling debris, vapour clouds, sonic booms, [radar]({{ 'radar/' | relative_url }}) tracks and distant optical effects. To an observer who does not know the launch schedule or mission profile, these effects may not resemble an aircraft, meteor or balloon. That is especially true at dawn or dusk, when a rocket can rise into sunlight while the ground remains dark. The so-called twilight phenomenon occurs when exhaust particles expand high in the atmosphere and are illuminated by sunlight, producing coloured clouds, spirals or “jellyfish” shapes that can be visible across a wide region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
+Missile ranges create unusual observations by design. A launch can produce bright exhaust, staging flashes, tumbling debris, vapour clouds, sonic booms, [radar]({{ 'radar/' | relative_url }}) tracks and distant optical effects. To an observer who does not know the launch schedule or mission profile, these effects may not resemble an aircraft, meteor or balloon. That is especially true at dawn or dusk, when a rocket can rise into sunlight while the ground remains dark. The so-called twilight phenomenon occurs when exhaust particles expand high in the atmosphere and are illuminated by sunlight, producing coloured clouds, spirals or “jellyfish” shapes that can be visible across a wide region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
 
-The nuclear-weapons angle intensifies the effect. Ballistic missile tests were not public fireworks displays; they were part of deterrence, weapons development and verification. Vandenberg, for example, became a West Coast launch and missile-test hub during the Cold War, with Thor, Atlas, Minuteman, Peacekeeper and other programmes tied to strategic missile development and operational testing. Its official history notes the first Thor missile launch in December 1958, the first Atlas launch in September 1959, and the later construction of a Western Test Range instrumentation network along the California coast and downrange islands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vandenberg.spaceforce.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vandenberg.spaceforce.mil">[Vandenberg Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vandenberg.spaceforce.mil</span><span class="citation-popover-snippet">Vandenberg Space Force Base</span></span></span>
+The nuclear-weapons angle intensifies the effect. Ballistic missile tests were not public fireworks displays; they were part of deterrence, weapons development and verification. Vandenberg, for example, became a West Coast launch and missile-test hub during the Cold War, with Thor, Atlas, Minuteman, Peacekeeper and other programmes tied to strategic missile development and operational testing. Its official history notes the first Thor missile launch in December 1958, the first Atlas launch in September 1959, and the later construction of a Western Test Range instrumentation network along the California coast and downrange islands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vandenberg.spaceforce.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vandenberg.spaceforce.mil">[Vandenberg Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vandenberg.spaceforce.mil</span><span class="citation-popover-snippet">Vandenberg Space Force Base</span></span></span>
 
-White Sands has the same pattern in an earlier form. The range traces its post-war missile history to German V-2 components shipped there in 1945, and it describes itself as the “Birthplace of America’s Missile and Space Activity” after tens of thousands of rocket and missile tests. It was also the setting for the Trinity atomic test, where the first nuclear device was detonated on 16 July 1945 in the north-central portion of what became White Sands Missile Range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://home.army.mil/wsmr/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home.army.mil">[Army Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home.army.mil</span><span class="citation-popover-title">Home About:: White Sands Missile Range</span><span class="citation-popover-snippet">Army HomeAbout:: White Sands Missile Range...</span></span></span>
+White Sands has the same pattern in an earlier form. The range traces its post-war missile history to German V-2 components shipped there in 1945, and it describes itself as the “Birthplace of America’s Missile and Space Activity” after tens of thousands of rocket and missile tests. It was also the setting for the Trinity atomic test, where the first nuclear device was detonated on 16 July 1945 in the north-central portion of what became White Sands Missile Range.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://home.army.mil/wsmr/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home.army.mil">[Army Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home.army.mil</span><span class="citation-popover-title">Home About:: White Sands Missile Range</span><span class="citation-popover-snippet">Army HomeAbout:: White Sands Missile Range...</span></span></span>
 
 That combination matters because it gives UFO stories a plausible stage. A person near a test range may genuinely see something rare and hard to classify. The mistake comes when “rare and hard to classify” is treated as proof of an extraordinary craft rather than as a predictable by-product of restricted testing.
 
@@ -506,11 +506,11 @@ That combination matters because it gives UFO stories a plausible stage. A perso
 
 The most important mechanism is visual unfamiliarity. A missile test is not just a bright point moving across the sky. It can involve staged propulsion, separation events, re-entry bodies, target vehicles, [decoys]({{ 'decoys/' | relative_url }}), chaff, instrumented payloads and deliberate manoeuvres. Some of those features are invisible to the public in mission briefings but visible, at least partly, in the sky or on specialised film.
 
-Modern examples make the older problem easier to understand. Recent Vandenberg and SpaceX launches have repeatedly produced glowing plumes and spirals that people interpret as UFOs before the launch explanation catches up with social media. A 2017 Falcon 9 launch from Vandenberg, for instance, produced a dramatic glowing cloud over Southern California, prompting UFO speculation before being identified as a rocket launch; similar “space jellyfish” effects have become more common as launch frequency has increased. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5078397/spacex-los-angeles-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Space X or Aliens?</span><span class="citation-popover-snippet">See the Reactions to Last Night&#x27;s Launch23 Dec 2017 — Musk even implied the rocket was a “nuclear alien UFO from North Korea.” Handout ph...</span></span></span>
+Modern examples make the older problem easier to understand. Recent Vandenberg and SpaceX launches have repeatedly produced glowing plumes and spirals that people interpret as UFOs before the launch explanation catches up with social media. A 2017 Falcon 9 launch from Vandenberg, for instance, produced a dramatic glowing cloud over Southern California, prompting UFO speculation before being identified as a rocket launch; similar “space jellyfish” effects have become more common as launch frequency has increased.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5078397/spacex-los-angeles-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Space X or Aliens?</span><span class="citation-popover-snippet">See the Reactions to Last Night&#x27;s Launch23 Dec 2017 — Musk even implied the rocket was a “nuclear alien UFO from North Korea.” Handout ph...</span></span></span>
 
 Cold War observers faced the same optical problem with less information. They might see a light accelerate, split, fade, bloom or apparently hover. In a missile-test setting, those behaviours can come from staging, changing illumination, upper-atmosphere winds, fuel release, re-entry heating or tracking geometry. A bright object can appear to “pace” another object when both are parts of the same test sequence or when the observer lacks distance cues.
 
-This does not mean every report near a range was casually dismissed. The early US Air Force UFO system, later known as Project Blue Book, collected 12,618 reports from 1947 to 1969, with 701 still listed as “unidentified” at closure. But the Air Force’s published conclusion was that no investigated UFO report showed a national-security threat, technology beyond scientific knowledge, or evidence of extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+This does not mean every report near a range was casually dismissed. The early US Air Force UFO system, later known as Project Blue Book, collected 12,618 reports from 1947 to 1969, with 701 still listed as “unidentified” at closure. But the Air Force’s published conclusion was that no investigated UFO report showed a national-security threat, technology beyond scientific knowledge, or evidence of extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y1Hfiirwgys" title="Why do some rocket launches look like this?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer">Why do some rocket launches look like this?</a></p><p class="youtube-embed-meta">Channel: Primal Space &middot; Views: 811.3K &middot; Uploaded: November 2018 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y1Hfiirwgys">Open on YouTube</a></p></div></div></div>
@@ -519,9 +519,9 @@ This does not mean every report near a range was casually dismissed. The early U
 
 The second major ingredient is secrecy. Missile ranges are built to restrict access, control information and protect tests from espionage. That makes them unusually good at producing gaps in public knowledge. A witness may be competent and honest, yet still be excluded from the real purpose of what they saw.
 
-White Sands illustrates the problem well. The Trinity Site is now a historic landmark, but it remains inside an active missile range; the National Park Service notes that the site is closed most of the year because it lies within the impact zone of military testing activities. The public can learn the broad history, but access is still limited by the continuing test mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Trinity Site</span><span class="citation-popover-snippet">National Park ServiceTrinity Site - White Sands National Park (U.S. National Park Service)...</span></span></span>
+White Sands illustrates the problem well. The Trinity Site is now a historic landmark, but it remains inside an active missile range; the National Park Service notes that the site is closed most of the year because it lies within the impact zone of military testing activities. The public can learn the broad history, but access is still limited by the continuing test mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Trinity Site</span><span class="citation-popover-snippet">National Park ServiceTrinity Site - White Sands National Park (U.S. National Park Service)...</span></span></span>
 
-Los Alamos and New Mexico’s “green fireballs” show how sensitive-site reports could trigger real concern without producing an extraterrestrial conclusion. Los Alamos National Laboratory’s archive account describes repeated green fireball reports beginning on 5 December 1948 near Los Alamos, with similar phenomena reported near Hanford and within range of Oak Ridge. A 1949 Los Alamos conference included scientists, FBI personnel, Atomic Energy Commission representatives and military officials. The participants did not settle on aliens; they rejected several simple explanations, dismissed the idea of a major national-security threat, and helped set up Project Twinkle to seek better observational data. That project was never fully implemented and was discontinued after two years, with the official conclusion that the fireballs were likely natural in origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Open source on lanl.gov.</span></span></span>
+Los Alamos and New Mexico’s “green fireballs” show how sensitive-site reports could trigger real concern without producing an extraterrestrial conclusion. Los Alamos National Laboratory’s archive account describes repeated green fireball reports beginning on 5 December 1948 near Los Alamos, with similar phenomena reported near Hanford and within range of Oak Ridge. A 1949 Los Alamos conference included scientists, FBI personnel, Atomic Energy Commission representatives and military officials. The participants did not settle on aliens; they rejected several simple explanations, dismissed the idea of a major national-security threat, and helped set up Project Twinkle to seek better observational data. That project was never fully implemented and was discontinued after two years, with the official conclusion that the fireballs were likely natural in origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Open source on lanl.gov.</span></span></span>
 
 The useful lesson is not that the green fireballs prove or disprove later missile-UFO stories. It is that nuclear and missile locations naturally produce a pattern of partial knowledge. Sensitive installations attract surveillance, scientific experiments, restricted flights, radar work and unusual atmospheric observations. They also limit what witnesses can be told. In that environment, “nobody explained it to me” can be true without meaning “nobody could explain it”.
 
@@ -529,13 +529,13 @@ The useful lesson is not that the green fireballs prove or disprove later missil
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-Illustration-2-dark.svg" | relative_url }}" alt="Test Ranges illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1964 missile-film allegation
 
-The most famous missile-test UFO story in this branch is the 1964 Big Sur or Vandenberg missile-film allegation. The basic setting is clear: a US Air Force photographic team operated from a mountaintop site near Big Sur to film Atlas missile tests launched from Vandenberg into the Western Test Range. Robert Jacobs, then an Air Force officer associated with the filming team, later claimed that film from one test showed a disc-like object approaching a dummy nuclear warhead and firing beams at it, after which the warhead malfunctioned or was disabled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
+The most famous missile-test UFO story in this branch is the 1964 Big Sur or Vandenberg missile-film allegation. The basic setting is clear: a US Air Force photographic team operated from a mountaintop site near Big Sur to film Atlas missile tests launched from Vandenberg into the Western Test Range. Robert Jacobs, then an Air Force officer associated with the filming team, later claimed that film from one test showed a disc-like object approaching a dummy nuclear warhead and firing beams at it, after which the warhead malfunctioned or was disabled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
 The claim matters because it is more specific than a generic sighting. It alleges a filmed interaction between an unidentified object and a nuclear-capable missile test vehicle. In UFO-nuclear literature, that makes it a companion to missile-silo cases such as Malmstrom, but the evidence problem is different: here the centre of the story is a missing or unavailable film, later witness recollection and disagreement over what the film showed.
 
-The main sceptical counter-explanation comes from Kingston A. George, the project engineer, who argued in *Skeptical Inquirer* that the film showed a re-entry vehicle deploying decoys and chaff rather than an alien craft attacking a warhead. That explanation fits the test-range secrecy problem: a person could see a confusing sequence on film while lacking clearance or context for the re-entry and penetration-aid system being tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Open source on centerforinquiry.org.</span></span></span>
+The main sceptical counter-explanation comes from Kingston A. George, the project engineer, who argued in *Skeptical Inquirer* that the film showed a re-entry vehicle deploying decoys and chaff rather than an alien craft attacking a warhead. That explanation fits the test-range secrecy problem: a person could see a confusing sequence on film while lacking clearance or context for the re-entry and penetration-aid system being tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Open source on centerforinquiry.org.</span></span></span>
 
-[AARO]({{ 'aaro/' | relative_url }}), the All-domain Anomaly Resolution Office, has treated the broader claim family as still requiring historical checking rather than as established fact. In its historical review material, AARO described a “secondary narrative” in which former Air Force personnel reported UAP near ICBM sites and missile disruptions, and it separately noted that one interviewee and a USAF videographer claimed to have observed and recorded a UAP destroying an ICBM with a dummy warhead in flight. AARO stated that it was researching US and adversarial activity related to the events, including possible US programmes testing defensive ballistic-missile capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024</span></span></span>
+[AARO]({{ 'aaro/' | relative_url }}), the All-domain Anomaly Resolution Office, has treated the broader claim family as still requiring historical checking rather than as established fact. In its historical review material, AARO described a “secondary narrative” in which former Air Force personnel reported UAP near ICBM sites and missile disruptions, and it separately noted that one interviewee and a USAF videographer claimed to have observed and recorded a UAP destroying an ICBM with a dummy warhead in flight. AARO stated that it was researching US and adversarial activity related to the events, including possible US programmes testing defensive ballistic-missile capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume</span></span></span>
 
 That is a cautious but important status. The allegation is not proven by public evidence, because the decisive film has not been produced in a verifiable public chain of custody. But it is also not just an anonymous internet rumour; it is a named, durable claim that has entered official review as part of a wider historical UAP inquiry. The most defensible reading is therefore: a real missile-test film programme existed, a striking later allegation was made about one film, a plausible classified-test explanation has been offered, and the public record still lacks the primary evidence needed to resolve the dispute.
 
@@ -552,7 +552,7 @@ Second, the institutions involved often cannot explain everything immediately. D
 
 Third, the nuclear-weapons connection gives the stories symbolic weight. A light near a shopping centre becomes a curiosity; a light near a missile test becomes a possible warning, intrusion or technological challenge. That symbolism can outgrow the evidence. It encourages dramatic interpretations of ambiguous data, especially when a story involves a dummy warhead, a destroyed target or a missing film.
 
-The comparison with Project Blue Book is useful here. The Air Force record contains many unresolved cases, but its official conclusion did not convert “unidentified” into “extraterrestrial”. AARO’s current framing is similar in tone: it presents UAP investigation as a data problem requiring better evidence and cross-checking, not as a licence to jump from anomaly to alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The comparison with Project Blue Book is useful here. The Air Force record contains many unresolved cases, but its official conclusion did not convert “unidentified” into “extraterrestrial”. AARO’s current framing is similar in tone: it presents UAP investigation as a data problem requiring better evidence and cross-checking, not as a licence to jump from anomaly to alien technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-Illustration-3-dark.svg" | relative_url }}" alt="Test Ranges illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -587,194 +587,194 @@ That makes them a useful caution against two oversimplifications. The dismissive
 The best reading is comparative. Nuclear [missile fields]({{ 'missile-fields/' | relative_url }}) raise questions about security and command systems. Weapons laboratories raise questions about sensitive-site surveillance and scientific observation. Test ranges raise a more specific question: did witnesses see an extraordinary craft, or did they see a classified or visually unfamiliar test without the information needed to recognise it? In most publicly documented test-range stories, the second explanation is stronger. In a few, especially the 1964 missile-film allegation, the public record remains incomplete enough that the case survives as a dispute rather than a solved event.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Test Ranges Generate UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Test Ranges Generate UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows how classified testing programs generate UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how classified testing programs generate UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Explains secret aircraft testing that often sparked sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains secret aircraft testing that often sparked sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for classified Cold War test programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for classified Cold War test programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Links UFO reports to nuclear facilities and ranges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links UFO reports to nuclear facilities and ranges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="test-ranges-why-test-ranges-generate-ufo-stories-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -790,7 +790,7 @@ The best reading is comparative. Nuclear [missile fields]({{ 'missile-fields/' |
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -810,7 +810,7 @@ The best reading is comparative. Nuclear [missile fields]({{ 'missile-fields/' |
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -842,7 +842,7 @@ The best reading is comparative. Nuclear [missile fields]({{ 'missile-fields/' |
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -894,7 +894,7 @@ The best reading is comparative. Nuclear [missile fields]({{ 'missile-fields/' |
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -939,7 +939,7 @@ The best reading is comparative. Nuclear [missile fields]({{ 'missile-fields/' |
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -980,255 +980,255 @@ The best reading is comparative. Nuclear [missile fields]({{ 'missile-fields/' |
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: home.army.mil  
    Title: Home About:: White Sands Missile Range  
-   Link: <a href="https://home.army.mil/wsmr/about" target="_blank" rel="noopener noreferrer nofollow">https://home.army.mil/wsmr/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army HomeAbout:: White Sands Missile Range...</p></details>
+   Link:<a href="https://home.army.mil/wsmr/about" target="_blank" rel="noopener noreferrer nofollow">https://home.army.mil/wsmr/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army HomeAbout:: White Sands Missile Range...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vandenberg.spaceforce.mil  
    Title: Vandenberg Space Force Base  
-   Link: <a href="https://www.vandenberg.spaceforce.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/About-Us/History/</a>  
+   Link:<a href="https://www.vandenberg.spaceforce.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.vandenberg.spaceforce.mil/About-Us/History/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Space jellyfish  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: time.com  
    Title: Space X or Aliens?  
-   Link: <a href="https://time.com/5078397/spacex-los-angeles-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5078397/spacex-los-angeles-aliens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>See the Reactions to Last Night&#x27;s Launch23 Dec 2017 — Musk even implied the rocket was a “nuclear alien UFO from North Korea.” Handout ph...</p></details>
+   Link:<a href="https://time.com/5078397/spacex-los-angeles-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5078397/spacex-los-angeles-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See the Reactions to Last Night&#x27;s Launch23 Dec 2017 — Musk even implied the rocket was a “nuclear alien UFO from North Korea.” Handout ph...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — That glowing cloud sparked thoughts of UFOs for some observers, which th...</p></details>
+   Link:<a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — That glowing cloud sparked thoughts of UFOs for some observers, which th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/30</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: <a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: White Sands Missile Range  
-   Link: <a href="https://en.wikipedia.org/wiki/White_Sands_Missile_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White_Sands_Missile_Range</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/White_Sands_Missile_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White_Sands_Missile_Range</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Vandenberg Space Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Trinity (nuclear test)  
-   Link: <a href="https://en.wikipedia.org/wiki/Trinity_%28nuclear_test%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trinity_%28nuclear_test%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Trinity_%28nuclear_test%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trinity_%28nuclear_test%29</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: home.army.mil  
-   Link: <a href="https://home.army.mil/wsmr/contact/public-affairs-office/trinity-site-open-house" target="_blank" rel="noopener noreferrer nofollow">https://home.army.mil/wsmr/contact/public-affairs-office/trinity-site-open-house</a>  
+   Link:<a href="https://home.army.mil/wsmr/contact/public-affairs-office/trinity-site-open-house" target="_blank" rel="noopener noreferrer nofollow">https://home.army.mil/wsmr/contact/public-affairs-office/trinity-site-open-house</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 6  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: en.wikisource.org  
    Title: Section 4  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: en.wikisource.org  
    Title: Volume 1  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
+   Link:<a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: history.com  
    Title: ufos near nuclear facilities uss roosevelt [rendlesham](&#123;&#123; 'rendlesham/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
+   Link:<a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nps.gov  
    Title: National Park Service Trinity Site  
-   Link: <a href="https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceTrinity Site - White Sands National Park (U.S. National Park Service)...</p></details>
+   Link:<a href="https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceTrinity Site - White Sands National Park (U.S. National Park Service)...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: lanl.gov  
-   Link: <a href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center</a>  
+   Link:<a href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nps.gov  
    Title: white sands v2 launching site  
-   Link: <a href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/white-sands-v2-launching-site.htm</a>  
+   Link:<a href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/white-sands-v2-launching-site.htm</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/</a>  
+   Link:<a href="https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceporn/comments/1rxxfa3/spacex_falcon_9_launch_plume_jellyfish/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ufoconnect.com  
    Title: project twinkle  
-   Link: <a href="https://ufoconnect.com/project-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://ufoconnect.com/project-twinkle/</a>  
+   Link:<a href="https://ufoconnect.com/project-twinkle/" target="_blank" rel="noopener noreferrer nofollow">https://ufoconnect.com/project-twinkle/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: whitesandsnmhousing.com  
-   Link: <a href="https://www.whitesandsnmhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.whitesandsnmhousing.com/history</a>  
+   Link:<a href="https://www.whitesandsnmhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.whitesandsnmhousing.com/history</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: shallowsky.com  
    Title: trinity site  
-   Link: <a href="https://shallowsky.com/blog/travel/trinity-site.html" target="_blank" rel="noopener noreferrer nofollow">https://shallowsky.com/blog/travel/trinity-site.html</a>  
+   Link:<a href="https://shallowsky.com/blog/travel/trinity-site.html" target="_blank" rel="noopener noreferrer nofollow">https://shallowsky.com/blog/travel/trinity-site.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: space.stackexchange.com  
    Title: what is this additional plume on the falcon 9 and is it being ignited corrected  
-   Link: <a href="https://space.stackexchange.com/questions/13497/what-is-this-additional-plume-on-the-falcon-9-and-is-it-being-ignited-corrected" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/13497/what-is-this-additional-plume-on-the-falcon-9-and-is-it-being-ignited-corrected</a>  
+   Link:<a href="https://space.stackexchange.com/questions/13497/what-is-this-additional-plume-on-the-falcon-9-and-is-it-being-ignited-corrected" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/13497/what-is-this-additional-plume-on-the-falcon-9-and-is-it-being-ignited-corrected</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: astronautix.com  
-   Link: <a href="https://www.astronautix.com/v/vandenberg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/v/vandenberg.html</a>  
+   Link:<a href="https://www.astronautix.com/v/vandenberg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/v/vandenberg.html</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: britannica.com  
    Title: Project Blue Book | Definition, History, Aliens, UFOs, & Facts  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: sfchronicle.com  
    Title: San Francisco Chronicle Space X launch lights up Bay Area skies  
-   Link: <a href="https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mission, which occurred at 6:07 a.m., illuminated skies across Central and Northern California, causing many Bay Area residents to sp...</p></details>
+   Link:<a href="https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mission, which occurred at 6:07 a.m., illuminated skies across Central and Northern California, causing many Bay Area residents to sp...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hvbQtdKRoTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hvbQtdKRoTc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hvbQtdKRoTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hvbQtdKRoTc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: The UFO That Shut Down 10 Nuclear Missiles  
-   Link: <a href="https://www.youtube.com/watch?v=0w9HkBsdVFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0w9HkBsdVFU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0w9HkBsdVFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0w9HkBsdVFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles  
-   Link: <a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO That Shut Down 10 Nuclear Missiles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO That Shut Down 10 Nuclear Missiles...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C9ffQxaI0sQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C9ffQxaI0sQ/</a>  
+   Link:<a href="https://www.instagram.com/p/C9ffQxaI0sQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C9ffQxaI0sQ/</a>  

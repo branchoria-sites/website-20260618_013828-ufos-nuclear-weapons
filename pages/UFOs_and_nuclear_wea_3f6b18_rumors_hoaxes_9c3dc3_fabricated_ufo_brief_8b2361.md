@@ -274,21 +274,21 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_fabricate
 
 ## Introduction
 
-In military UFO folklore, one of the most powerful mechanisms is not a sighting but a briefing. When a claim appears to come from an intelligence officer, a security investigator, or a supposedly classified programme, it gains an authority that ordinary rumours lack. In some cases, later investigations have suggested that military personnel, researchers, or members of the public were exposed to false briefings, fabricated documents, or deliberately misleading explanations that became embedded in UFO narratives. The result is a peculiar cycle: a fake explanation acquires the status of insider knowledge, is repeated for years, and eventually becomes treated as evidence that a hidden UFO reality exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...May 8, 2026 — WAR.GOV/UFO is a dedicated Department of War webpage to stay up to dat...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+In military UFO folklore, one of the most powerful mechanisms is not a sighting but a briefing. When a claim appears to come from an intelligence officer, a security investigator, or a supposedly classified programme, it gains an authority that ordinary rumours lack. In some cases, later investigations have suggested that military personnel, researchers, or members of the public were exposed to false briefings, fabricated documents, or deliberately misleading explanations that became embedded in UFO narratives. The result is a peculiar cycle: a fake explanation acquires the status of insider knowledge, is repeated for years, and eventually becomes treated as evidence that a hidden UFO reality exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...May 8, 2026 — WAR.GOV/UFO is a dedicated Department of War webpage to stay up to dat...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_fabricated_ufo_brief_8b2361-Illustration-1-dark.svg" | relative_url }}" alt="False Briefings illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_fabricated_ufo_brief_8b2361-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_fabricated_ufo_brief_8b2361-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of UFO stories connected to nuclear facilities, missile bases, and other sensitive military sites, fabricated briefings matter because they exploit the very [secrecy]({{ 'secrecy/' | relative_url }}) that makes verification difficult. People may honestly report what they were told, even when what they were told was false. The folklore then survives long after the original deception has been forgotten. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...May 8, 2026 — WAR.GOV/UFO is a dedicated Department of War webpage to stay up to dat...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+Within the broader history of UFO stories connected to nuclear facilities, missile bases, and other sensitive military sites, fabricated briefings matter because they exploit the very [secrecy]({{ 'secrecy/' | relative_url }}) that makes verification difficult. People may honestly report what they were told, even when what they were told was false. The folklore then survives long after the original deception has been forgotten.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...May 8, 2026 — WAR.GOV/UFO is a dedicated Department of War webpage to stay up to dat...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 ## How fabricated authority shapes belief
 
 A false briefing works differently from an ordinary rumour. A rumour spreads horizontally between peers. A briefing appears to come from above. The listener assumes that the speaker has access to classified information and therefore has less reason to doubt the claim.
 
-This mechanism appears repeatedly in military UFO culture. Investigators for the US Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) concluded that some stories about secret UFO recovery programmes, alien technology projects, and extraordinary classified activities were rooted in misunderstandings, inaccurate accounts, or information that had been presented in ways that encouraged mistaken beliefs. The office found no evidence supporting many famous claims about hidden reverse-engineering programmes and identified cases where technological tests, locations, and documents had been inaccurately described over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — test at a military base where “aliens” allegedly were...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+This mechanism appears repeatedly in military UFO culture. Investigators for the US Department of Defense's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})) concluded that some stories about secret UFO recovery programmes, alien technology projects, and extraordinary classified activities were rooted in misunderstandings, inaccurate accounts, or information that had been presented in ways that encouraged mistaken beliefs. The office found no evidence supporting many famous claims about hidden reverse-engineering programmes and identified cases where technological tests, locations, and documents had been inaccurately described over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — test at a military base where “aliens” allegedly were...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 The authority effect is especially strong in military environments because personnel are trained to respect chains of command and compartmented information. If an individual is told that a programme is highly classified and cannot be discussed, the inability to verify the claim can paradoxically increase its credibility. Lack of access becomes interpreted as confirmation rather than a warning sign.
 
-AARO officials have argued that UFO mythology often evolved alongside changing public and military assumptions about advanced technology and secrecy. In this view, some stories persisted not because evidence improved, but because authority and repetition reinforced them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...May 8, 2026 — WAR.GOV/UFO is a dedicated Department of War webpage to stay up to dat...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>(https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)
+AARO officials have argued that UFO mythology often evolved alongside changing public and military assumptions about advanced technology and secrecy. In this view, some stories persisted not because evidence improved, but because authority and repetition reinforced them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...May 8, 2026 — WAR.GOV/UFO is a dedicated Department of War webpage to stay up to dat...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>(https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/)
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QHehvoYrM_o" title="Reading of the AARO Report (Part 1) on Historical Record of U.S. Gov. Involvement with UAP Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QHehvoYrM_o" target="_blank" rel="noopener noreferrer">Reading of the AARO Report (Part 1) on Historical Record of U.S. Gov. Involvement with UAP Vol. 1</a></p><p class="youtube-embed-meta">Channel: Mystic Lounge &middot; Views: 72 &middot; Uploaded: March 2024 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QHehvoYrM_o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QHehvoYrM_o">Open on YouTube</a></p></div></div></div>
@@ -299,7 +299,7 @@ Military and nuclear facilities are unusually fertile environments for fabricate
 
 A security officer at a missile site may know that an alert occurred but not its cause. A technician may see unusual activity without knowing whether it relates to testing, intelligence work, electronic warfare, or an unrelated classified programme. When information is compartmented, people naturally fill gaps with narratives that seem to explain what they observed.
 
-This problem has been recognised in official reviews of UFO history. AARO has repeatedly stated that some individuals sincerely interpreted secret government activities as evidence of UFO programmes because they lacked the clearances needed to understand the actual projects involved. U.S. Department of War+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">media engagement with acting aaro director tim phillips on the historical recor</span><span class="citation-popover-snippet">Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — And we saw the UFO, the UAP mythology change, an...</span></span></span>
+This problem has been recognised in official reviews of UFO history. AARO has repeatedly stated that some individuals sincerely interpreted secret government activities as evidence of UFO programmes because they lacked the clearances needed to understand the actual projects involved. U.S. Department of War+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">media engagement with acting aaro director tim phillips on the historical recor</span><span class="citation-popover-snippet">Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — And we saw the UFO, the UAP mythology change, an...</span></span></span>
 
 The mechanism becomes even stronger when a fabricated briefing is introduced into the information chain. If personnel are told a dramatic story by someone appearing to possess privileged knowledge, they may repeat it in good faith for decades. Later researchers encounter a sincere witness and mistake [sincerity]({{ 'sincerity/' | relative_url }}) for verification.
 
@@ -312,9 +312,9 @@ The key lesson is that classified environments often prevent immediate fact-chec
 
 Recent [reporting]({{ 'reporting/' | relative_url }}) on Pentagon historical investigations has drawn attention to cases in which UFO narratives were reportedly encouraged or exploited to shield sensitive military activities during the Cold War.
 
-According to reporting based on AARO investigations, some military personnel were exposed to fabricated stories, doctored imagery, or misleading explanations connected to highly classified programmes. The purpose was not necessarily to create a permanent UFO mythology, but to divert attention from secret aircraft, weapons development, or other national-security projects. Investigators concluded that some of these practices helped generate conspiracy theories that later took on lives of their own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal+2LiveNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
+According to reporting based on AARO investigations, some military personnel were exposed to fabricated stories, doctored imagery, or misleading explanations connected to highly classified programmes. The purpose was not necessarily to create a permanent UFO mythology, but to divert attention from secret aircraft, weapons development, or other national-security projects. Investigators concluded that some of these practices helped generate conspiracy theories that later took on lives of their own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal+2LiveNOW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
 
-One reported example involved briefings connected to a supposed secret programme associated with alien technology. Individuals who received the information were allegedly led to believe the programme was real. Some retained that belief for years. What began as a controlled deception reportedly became part of the wider UFO narrative. The Wall Street Journal+2New York Post <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[wsj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
+One reported example involved briefings connected to a supposed secret programme associated with alien technology. Individuals who received the information were allegedly led to believe the programme was real. Some retained that belief for years. What began as a controlled deception reportedly became part of the wider UFO narrative. The Wall Street Journal+2New York Post<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[wsj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
 
 The significance for military UFO folklore is not whether every reported deception occurred exactly as later accounts describe. The important point is that official investigations have acknowledged that misinformation itself became part of the historical record. Once that happens, witness testimony can no longer be evaluated simply by asking whether a person was honest. One must also ask whether the information given to that person was accurate in the first place.
 
@@ -326,7 +326,7 @@ The issue becomes particularly relevant in UFO cases linked to nuclear weapons f
 
 Many famous nuclear-UFO narratives involve a combination of technical anomalies, security concerns, fragmentary recollections, and later interpretations. In such circumstances, a dramatic explanation supplied through an unofficial briefing can become attached to an incident and gradually overshadow more mundane possibilities.
 
-The Malmstrom missile-base case illustrates the general risk. The incident involved a real and documented missile-system malfunction, but later UFO interpretations became intertwined with competing explanations about what personnel knew, when they learned it, and whether they had been informed of other classified activities occurring at the time. Recent reporting connected AARO's work to claims that some participants may not have known about sensitive testing programmes relevant to later UFO interpretations. Whether one accepts every aspect of those findings or not, the case demonstrates how incomplete information can encourage extraordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
+The Malmstrom missile-base case illustrates the general risk. The incident involved a real and documented missile-system malfunction, but later UFO interpretations became intertwined with competing explanations about what personnel knew, when they learned it, and whether they had been informed of other classified activities occurring at the time. Recent reporting connected AARO's work to claims that some participants may not have known about sensitive testing programmes relevant to later UFO interpretations. Whether one accepts every aspect of those findings or not, the case demonstrates how incomplete information can encourage extraordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
 
 For historians, the challenge is distinguishing between:
 
@@ -349,7 +349,7 @@ A common mistake is to assume that uncovering a false briefing automatically exp
 
 A deception is a specific act: a fake document, an invented programme, a misleading briefing, or a deliberate falsehood. Folklore is what happens afterwards. The story is repeated, expanded, merged with other stories, and detached from its original source.
 
-The history of disputed UFO documents illustrates this process. Alleged classified papers such as the Majestic-12 documents gained influence not because their authenticity was established, but because they circulated widely enough to become part of UFO culture. Even after extensive criticism of their provenance and authenticity, they continued to shape later beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+The history of disputed UFO documents illustrates this process. Alleged classified papers such as the Majestic-12 documents gained influence not because their authenticity was established, but because they circulated widely enough to become part of UFO culture. Even after extensive criticism of their provenance and authenticity, they continued to shape later beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 The same pattern can occur with military briefings. A fabricated claim may begin as a local deception, a misunderstanding, or an operational cover story. Once repeated through books, conferences, interviews, and online communities, it can become folklore independent of its original purpose.
 
@@ -362,197 +362,197 @@ Fabricated briefings occupy an uncomfortable position in UFO history because the
 
 For cases involving military bases and nuclear weapons facilities, this distinction is crucial. The existence of secrecy does not automatically validate UFO claims. Yet the existence of documented misinformation means that investigators cannot assume all testimony reflects direct observation either. Some accounts may preserve genuine experiences; others may preserve stories that were intentionally or accidentally planted into the information environment.
 
-Understanding that difference helps explain why certain military UFO legends remain so persistent. A witness may be truthful, a briefing may have occurred, and the resulting story may still be wrong. In highly classified settings, that combination is often enough to transform a temporary deception into decades of UFO evidence. U.S. Department of War+2The Wall Street Journal <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — test at a military base where “aliens” allegedly were...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+Understanding that difference helps explain why certain military UFO legends remain so persistent. A witness may be truthful, a briefing may have occurred, and the resulting story may still be wrong. In highly classified settings, that combination is often enough to transform a temporary deception into decades of UFO evidence. U.S. Department of War+2The Wall Street Journal<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — test at a military base where “aliens” allegedly were...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fake Briefings Become UFO Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fake Briefings Become UFO Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores secrecy, classified claims, and competing narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores secrecy, classified claims, and competing narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Documents how narratives and myths are constructed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents how narratives and myths are constructed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Excellent framework for evaluating dubious authority claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent framework for evaluating dubious authority claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Examines conspiracies, insider stories, and belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines conspiracies, insider stories, and belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Watch+the+Skies%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Watch the Skies!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="false-briefings-when-fake-briefings-become-ufo-evidence-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ Understanding that difference helps explain why certain military UFO legends rem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ Understanding that difference helps explain why certain military UFO legends rem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ Understanding that difference helps explain why certain military UFO legends rem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ Understanding that difference helps explain why certain military UFO legends rem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ Understanding that difference helps explain why certain military UFO legends rem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,131 +758,131 @@ Understanding that difference helps explain why certain military UFO legends rem
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — test at a military base where “aliens” allegedly were...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — test at a military base where “aliens” allegedly were...</p></details>
    Published: March 9, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — And we saw the UFO, the UAP mythology change, an...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...6 Mar 2024 — And we saw the UFO, the UAP mythology change, an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportU.S. Government UAP-Related Program/Activity Reporting. AARO is accepting reports from current or former U.S. Government e...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportU.S. Government UAP-Related Program/Activity Reporting. AARO is accepting reports from current or former U.S. Government e...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...May 8, 2026 — WAR.GOV/UFO is a dedicated Department of War webpage to stay up to dat...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-[unidentified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...May 8, 2026 — WAR.GOV/UFO is a dedicated Department of War webpage to stay up to dat...</p></details>
    Published: May 8, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search. Search Search. Back; Home; Place Holder; News · Press Products... &quot;AARO assesses that alleged, hidden UAP programs either do not...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search. Search Search. Back; Home; Place Holder; News · Press Products... &quot;AARO assesses that alleged, hidden UAP programs either do not...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch UFO whistleblower claimsDavid Grusch UFO whistleblower claims... Grusch further claims to have viewed documents reportin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch UFO whistleblower claimsDavid Grusch UFO whistleblower claims... Grusch further claims to have viewed documents reportin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe report did not link the sightings to extraterrestrial life, with officials... &quot;Pentagon repor...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeThe report did not link the sightings to extraterrestrial life, with officials... &quot;Pentagon repor...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: livenowfox.com  
    Title: ufo [disinfo](&#123;&#123; 'disinfo/' | relative_url &#125;&#125;) cold war stealth coverup  
-   Link: <a href="https://www.livenowfox.com/news/ufo-disinfo-cold-war-stealth-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/ufo-disinfo-cold-war-stealth-coverup</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOS ANGELES - In the shadow of...Read more...</p></details>
+   Link:<a href="https://www.livenowfox.com/news/ufo-disinfo-cold-war-stealth-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/ufo-disinfo-cold-war-stealth-coverup</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOS ANGELES - In the shadow of...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-area-51-ufo-conspiracy-theory-to-hide-secret-weapons-program/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-area-51-ufo-conspiracy-theory-to-hide-secret-weapons-program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to an investigation reviewed by the Wall Street Journal, a retired Air Force colonel admitted to spreading doctored UFO photos...</p></details>
+   Link:<a href="https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-area-51-ufo-conspiracy-theory-to-hide-secret-weapons-program/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-area-51-ufo-conspiracy-theory-to-hide-secret-weapons-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to an investigation reviewed by the Wall Street Journal, a retired Air Force colonel admitted to spreading doctored UFO photos...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/news/35317840/pentagon-ufo-myths-weapons-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35317840/pentagon-ufo-myths-weapons-program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>During the 1980s, Pentagon operatives, including an Air Force colonel, distributed fabricated images of flying saucers near the Nevada ba...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/35317840/pentagon-ufo-myths-weapons-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/35317840/pentagon-ufo-myths-weapons-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During the 1980s, Pentagon operatives, including an Air Force colonel, distributed fabricated images of flying saucers near the Nevada ba...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=QHehvoYrM_o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QHehvoYrM_o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty UFO disinformation Richard Doty &amp; UFO Disinformation | Inside Project Beta author Greg Bishop Rebelliously Curious with Chri...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QHehvoYrM_o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QHehvoYrM_o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty UFO disinformation Richard Doty &amp; UFO Disinformation | Inside Project Beta author Greg Bishop Rebelliously Curious with Chri...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: san.com  
    Title: pentagon spread ufo disinformation to protect [classified projects](&#123;&#123; 'secret-tests-7ef421/' | relative_url &#125;&#125;) report  
-   Link: <a href="https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon spread UFO disinformation to protect classified...9 Jun 2025 — Congress holds hearing to &#x27;pull back the curtain&#x27; on UFOs, exper...</p></details>
+   Link:<a href="https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/pentagon-spread-ufo-disinformation-to-protect-classified-projects-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon spread UFO disinformation to protect classified...9 Jun 2025 — Congress holds hearing to &#x27;pull back the curtain&#x27; on UFOs, exper...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien-military underground facility” in some UFO publications... Haisch states “the AATIP program did find the UFO crash retrieval progr...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien-military underground facility” in some UFO publications... Haisch states “the AATIP program did find the UFO crash retrieval progr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1l58uui/wsj_the_pentagon_disinformation_that_fueled/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1l58uui/wsj_the_pentagon_disinformation_that_fueled/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon Disinformation That Fueled America&#x27;s UFO...WSJ - The Pentagon Disinformation That Fueled America&#x27;s UFO Mythology. Historica...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1l58uui/wsj_the_pentagon_disinformation_that_fueled/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1l58uui/wsj_the_pentagon_disinformation_that_fueled/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon Disinformation That Fueled America&#x27;s UFO...WSJ - The Pentagon Disinformation That Fueled America&#x27;s UFO Mythology. Historica...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: National Archives [Project BLUE BOOK](&#123;&#123; 'blue-book/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP represent extraterrestrial technology. AARO&#x27;s examination of the... reporting; and the rapid spread of misinformation. AARO...Read...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP represent extraterrestrial technology. AARO&#x27;s examination of the... reporting; and the rapid spread of misinformation. AARO...Read...</p></details>

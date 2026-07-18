@@ -488,19 +488,19 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-overvie
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-overview.webp" | relative_url }}" alt="Overview image for Readiness" loading="eager" decoding="sync" fetchpriority="high">
-That framing matters because many modern UAP reports resolve to prosaic objects such as balloons, birds or drones, while other reports remain [unresolved]({{ 'unresolved/' | relative_url }}) mainly because the data are incomplete. AARO’s 2024 annual report said it had 1,652 UAP reports in total as of 24 October 2024, and that 49 cases resolved during the [reporting]({{ 'reporting/' | relative_url }}) period were attributed to ordinary objects including balloons, birds and uncrewed aircraft systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span> Yet mundane does not mean harmless. A drone near a missile field, a false alarm at a weapons storage area, or a sensor track that cannot be correlated can still affect readiness even if no extraordinary technology is involved.
+That framing matters because many modern UAP reports resolve to prosaic objects such as balloons, birds or drones, while other reports remain [unresolved]({{ 'unresolved/' | relative_url }}) mainly because the data are incomplete. AARO’s 2024 annual report said it had 1,652 UAP reports in total as of 24 October 2024, and that 49 cases resolved during the [reporting]({{ 'reporting/' | relative_url }}) period were attributed to ordinary objects including balloons, birds and uncrewed aircraft systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span> Yet mundane does not mean harmless. A drone near a missile field, a false alarm at a weapons storage area, or a sensor track that cannot be correlated can still affect readiness even if no extraordinary technology is involved.
 
 ## Security risks from unknown activity
 
 The most practical security concern is adversary collection. A small uncrewed aircraft, misidentified as a “UFO” in the first minutes of an incident, can observe patrol routes, camera coverage, [alarm response]({{ 'alarm-response/' | relative_url }}) times, entrances, convoys, communications nodes and lighting patterns. Those details are not cinematic, but they are exactly the kind of information that can make later intrusion, sabotage or harassment easier.
 
-US official reporting already treats UAP in sensitive [airspace]({{ 'airspace/' | relative_url }}) as a possible safety and collection problem, without needing alien claims. The 2022 US intelligence annual report said UAP events continued to occur in restricted or sensitive airspace, raising possible concerns about safety of flight or adversary collection, while also warning that the pattern might partly reflect collection bias because military areas have more sensors and more personnel instructed to report anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Director of National Intelligence2022 Annual Report on Unidentified Aerial PhenomenaJanuary 10, 2023 — 25 Jun 2021 — UAP events continue...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span> That caveat is important: more reports around military sites may mean more surveillance, not necessarily more intrusions. But from a readiness perspective, either interpretation matters. Heavy reporting around protected sites may indicate either real probes or a monitoring system that sees many things but cannot quickly sort them.
+US official reporting already treats UAP in sensitive [airspace]({{ 'airspace/' | relative_url }}) as a possible safety and collection problem, without needing alien claims. The 2022 US intelligence annual report said UAP events continued to occur in restricted or sensitive airspace, raising possible concerns about safety of flight or adversary collection, while also warning that the pattern might partly reflect collection bias because military areas have more sensors and more personnel instructed to report anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Director of National Intelligence2022 Annual Report on Unidentified Aerial PhenomenaJanuary 10, 2023 — 25 Jun 2021 — UAP events continue...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span> That caveat is important: more reports around military sites may mean more surveillance, not necessarily more intrusions. But from a readiness perspective, either interpretation matters. Heavy reporting around protected sites may indicate either real probes or a monitoring system that sees many things but cannot quickly sort them.
 
-Nuclear power facilities show the same logic in a less classified setting. The US Nuclear Regulatory Commission says the availability and popularity of commercial [drones]({{ 'drones/' | relative_url }}) have produced numerous sightings over critical infrastructure, including nuclear power plants, and that it updated its regulations in 2024 to require nuclear power plant licensees to report drone sightings over their facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">fs drone pwr plant security</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityThe Nuclear Regulatory Commission updated its regulations in 2024 to...</span></span></span> The Federal Aviation Administration also says drones are prohibited over designated national security-sensitive facilities from the ground up to 400 feet above ground level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">critical infrastructure</span><span class="citation-popover-snippet">Operations are prohibited from the ground up to 400 feet above ground...Read more...</span></span></span> These rules would not exist if every low-altitude unknown could be safely dismissed as a hobbyist mistake.
+Nuclear power facilities show the same logic in a less classified setting. The US Nuclear Regulatory Commission says the availability and popularity of commercial [drones]({{ 'drones/' | relative_url }}) have produced numerous sightings over critical infrastructure, including nuclear power plants, and that it updated its regulations in 2024 to require nuclear power plant licensees to report drone sightings over their facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">fs drone pwr plant security</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityThe Nuclear Regulatory Commission updated its regulations in 2024 to...</span></span></span> The Federal Aviation Administration also says drones are prohibited over designated national security-sensitive facilities from the ground up to 400 feet above ground level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">critical infrastructure</span><span class="citation-popover-snippet">Operations are prohibited from the ground up to 400 feet above ground...Read more...</span></span></span> These rules would not exist if every low-altitude unknown could be safely dismissed as a hobbyist mistake.
 
-A useful example is the 2019 Palo Verde Nuclear Generating Station incident in Arizona, where documents obtained under freedom-of-information laws described multiple drones around a restricted area near the plant. Reporting on those documents noted that security personnel could observe the drones, but the operators were not immediately identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/davidhambling/2020/07/30/drone-swarm-invaded-palo-verde-nuclear-power-plant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">drone swarm invaded palo verde nuclear power plant</span><span class="citation-popover-snippet">Forbes&#x27;Drone Swarm&#x27; Invaded Palo Verde Nuclear Power Plant...Jul 30, 2020 — A number of small drones flew around a restricted area at Pa...</span></span></span> The point is not that Palo Verde proves a hostile nuclear plot. It shows a more ordinary readiness problem: seeing an object is not the same as identifying it, locating the operator, attributing intent, or having legal authority and technical means to stop it.
+A useful example is the 2019 Palo Verde Nuclear Generating Station incident in Arizona, where documents obtained under freedom-of-information laws described multiple drones around a restricted area near the plant. Reporting on those documents noted that security personnel could observe the drones, but the operators were not immediately identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/davidhambling/2020/07/30/drone-swarm-invaded-palo-verde-nuclear-power-plant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">drone swarm invaded palo verde nuclear power plant</span><span class="citation-popover-snippet">Forbes&#x27;Drone Swarm&#x27; Invaded Palo Verde Nuclear Power Plant...Jul 30, 2020 — A number of small drones flew around a restricted area at Pa...</span></span></span> The point is not that Palo Verde proves a hostile nuclear plot. It shows a more ordinary readiness problem: seeing an object is not the same as identifying it, locating the operator, attributing intent, or having legal authority and technical means to stop it.
 
-That distinction becomes sharper when drone activity is coordinated. Research from Sandia National Laboratories, hosted by the US Department of Energy’s Office of Scientific and Technical Information, notes that UAV incidents had already occurred around sensitive facilities, including French nuclear power plants, and argues that the UAV threat to nuclear facilities deserves focused assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osti.gov/servlets/purl/1356834" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osti.gov">[OSTI.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osti.gov</span><span class="citation-popover-snippet">Analyzing the Threat of Unmanned Aerial Vehicles (UAV)...by A Solodov · 2017 · Cited by 177 — Recently, several incidents occurred with...</span></span></span> The Nuclear Threat Initiative similarly noted that incidents involving drones at nuclear facilities were increasing, citing the 2014 overflights of 13 French nuclear power plants as an example. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.nti.org/documents/THE_RISKS_AND_REWARDS_OF_EMERGING_TECHNOLOGY_IN_NUCLEAR_SECURITY.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nti.org">[NTI Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nti.org</span><span class="citation-popover-title">THE RISKS AND REWARDS OF EMERGING TECHNOLOGY IN NUCLEAR SECURITY</span><span class="citation-popover-snippet">NTI Mediathe risks and rewards of emerging technology in...February 6, 2020 — The number of security incidents at nuclear facilities inv...</span><span class="citation-popover-meta">Published: February 6, 2020</span></span></span> Even when no damage follows, repeated overflights can test whether a site’s security plan is written for yesterday’s threat.
+That distinction becomes sharper when drone activity is coordinated. Research from Sandia National Laboratories, hosted by the US Department of Energy’s Office of Scientific and Technical Information, notes that UAV incidents had already occurred around sensitive facilities, including French nuclear power plants, and argues that the UAV threat to nuclear facilities deserves focused assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osti.gov/servlets/purl/1356834" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osti.gov">[OSTI.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osti.gov</span><span class="citation-popover-snippet">Analyzing the Threat of Unmanned Aerial Vehicles (UAV)...by A Solodov · 2017 · Cited by 177 — Recently, several incidents occurred with...</span></span></span> The Nuclear Threat Initiative similarly noted that incidents involving drones at nuclear facilities were increasing, citing the 2014 overflights of 13 French nuclear power plants as an example.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.nti.org/documents/THE_RISKS_AND_REWARDS_OF_EMERGING_TECHNOLOGY_IN_NUCLEAR_SECURITY.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nti.org">[NTI Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nti.org</span><span class="citation-popover-title">THE RISKS AND REWARDS OF EMERGING TECHNOLOGY IN NUCLEAR SECURITY</span><span class="citation-popover-snippet">NTI Mediathe risks and rewards of emerging technology in...February 6, 2020 — The number of security incidents at nuclear facilities inv...</span><span class="citation-popover-meta">Published: February 6, 2020</span></span></span> Even when no damage follows, repeated overflights can test whether a site’s security plan is written for yesterday’s threat.
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-1-dark.svg" | relative_url }}" alt="Readiness illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -508,24 +508,24 @@ That distinction becomes sharper when drone activity is coordinated. Research fr
 
 Readiness is not just physical security. For nuclear forces, it means the ability to maintain safe, controlled and authorised operations under stress. That includes reliable sensors, disciplined reporting, trained crews, resilient communications and weapon systems that remain secure in abnormal conditions.
 
-The US Air Force’s nuclear surety doctrine makes this explicit. Its 2025 nuclear weapons surety instruction says the programme is intended to maximise surety throughout the nuclear weapon life cycle, prevent unauthorised or inadvertent activation of critical functions, and protect against inherent risks and threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[E-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-title">E-Publishing DAFI91-101</span><span class="citation-popover-snippet">E-Publishing DAFI91-101</span></span></span> It also requires positive measures to prevent deliberate or inadvertent pre-arming, arming, launching or releasing of nuclear weapons, and to prevent unauthorised access or actions by physical or digital means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[E-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-title">E-Publishing DAFI91-101</span><span class="citation-popover-snippet">E-Publishing DAFI91-101</span></span></span> In that kind of system, a mysterious aerial report is not automatically a weapon danger, but it can become a readiness issue if it exposes uncertainty in the surrounding human and technical chain.
+The US Air Force’s nuclear surety doctrine makes this explicit. Its 2025 nuclear weapons surety instruction says the programme is intended to maximise surety throughout the nuclear weapon life cycle, prevent unauthorised or inadvertent activation of critical functions, and protect against inherent risks and threats.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[E-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-title">E-Publishing DAFI91-101</span><span class="citation-popover-snippet">E-Publishing DAFI91-101</span></span></span> It also requires positive measures to prevent deliberate or inadvertent pre-arming, arming, launching or releasing of nuclear weapons, and to prevent unauthorised access or actions by physical or digital means.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[E-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-title">E-Publishing DAFI91-101</span><span class="citation-popover-snippet">E-Publishing DAFI91-101</span></span></span> In that kind of system, a mysterious aerial report is not automatically a weapon danger, but it can become a readiness issue if it exposes uncertainty in the surrounding human and technical chain.
 
-The Malmstrom Echo Flight case is useful precisely because it separates the real readiness issue from the disputed UFO interpretation. A declassified Air Force engineering report recorded that, on 16 March 1967, all Echo Flight launch facilities went into “No-Go” status nearly simultaneously; it also said rumours of UFOs in the area at the time of the fault were disproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span> Later witnesses and researchers disputed that conclusion, but the mundane lesson is already significant: a nuclear missile system suffered a serious simultaneous alert failure, and the surrounding story became tangled with rumour, memory and contested reporting. Even without accepting any UFO link, the case shows why nuclear incidents need clean timelines, technical logs, witness handling and prompt classification of what is known versus what is assumed.
+The Malmstrom Echo Flight case is useful precisely because it separates the real readiness issue from the disputed UFO interpretation. A declassified Air Force engineering report recorded that, on 16 March 1967, all Echo Flight launch facilities went into “No-Go” status nearly simultaneously; it also said rumours of UFOs in the area at the time of the fault were disproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span> Later witnesses and researchers disputed that conclusion, but the mundane lesson is already significant: a nuclear missile system suffered a serious simultaneous alert failure, and the surrounding story became tangled with rumour, memory and contested reporting. Even without accepting any UFO link, the case shows why nuclear incidents need clean timelines, technical logs, witness handling and prompt classification of what is known versus what is assumed.
 
-A modern parallel is the problem of communications and monitoring failures. In 2010, reporting on an incident at F.E. Warren Air Force Base said launch officers temporarily lost reliable communication and monitoring capability for 50 Minuteman III missiles, with backup systems maintaining monitoring and a single hardware failure identified as the root cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM Snafu</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM Snafu</span></span></span> That episode was not a UFO case, but it belongs in this readiness discussion because it shows how much of nuclear confidence rests on ordinary infrastructure: hardware, networks, procedures and backup channels. A strange aerial report near such a system would be only one more input into an already complex operating picture.
+A modern parallel is the problem of communications and monitoring failures. In 2010, reporting on an incident at F.E. Warren Air Force Base said launch officers temporarily lost reliable communication and monitoring capability for 50 Minuteman III missiles, with backup systems maintaining monitoring and a single hardware failure identified as the root cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM Snafu</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM Snafu</span></span></span> That episode was not a UFO case, but it belongs in this readiness discussion because it shows how much of nuclear confidence rests on ordinary infrastructure: hardware, networks, procedures and backup channels. A strange aerial report near such a system would be only one more input into an already complex operating picture.
 
-There is also a cyber and equipment angle. The US Government Accountability Office reported in 2023 that the National Nuclear Security Administration’s efforts to identify, assess and mitigate cyber risks to specific nuclear weapons and manufacturing equipment were still in early stages, including efforts to inventory systems with potential vulnerabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106309" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106309</span><span class="citation-popover-snippet">gao 23 106309</span></span></span> That does not mean UFO reports are cyber incidents. It means that nuclear readiness increasingly depends on knowing what is connected, what is vulnerable, and what can be trusted when operators see ambiguous activity nearby.
+There is also a cyber and equipment angle. The US Government Accountability Office reported in 2023 that the National Nuclear Security Administration’s efforts to identify, assess and mitigate cyber risks to specific nuclear weapons and manufacturing equipment were still in early stages, including efforts to inventory systems with potential vulnerabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/gao-23-106309" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 23 106309</span><span class="citation-popover-snippet">gao 23 106309</span></span></span> That does not mean UFO reports are cyber incidents. It means that nuclear readiness increasingly depends on knowing what is connected, what is vulnerable, and what can be trusted when operators see ambiguous activity nearby.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lppkvUH19b8" title="Pentagon Reveals 757 UAP Sightings With Near Miss Safety Concerns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lppkvUH19b8" target="_blank" rel="noopener noreferrer">Pentagon Reveals 757 UAP Sightings With Near Miss Safety Concerns</a></p><p class="youtube-embed-meta">Channel: electron media group, inc. &middot; Views: 6.8K &middot; Uploaded: November 2024 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lppkvUH19b8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lppkvUH19b8">Open on YouTube</a></p></div></div></div>
 
 ## The reporting gap is itself a readiness risk
 
-A striking feature of UAP work is how often the strongest finding is not “we found something extraordinary” but “the data are too poor to conclude much”. NASA’s 2023 independent UAP study said analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> For nuclear sites, that is not a mere scientific inconvenience. It affects whether commanders can quickly decide whether an unknown is a bird, a balloon, a drone, a friendly aircraft, a sensor artefact, or a possible surveillance probe.
+A striking feature of UAP work is how often the strongest finding is not “we found something extraordinary” but “the data are too poor to conclude much”. NASA’s 2023 independent UAP study said analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of sensor metadata and lack of baseline data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> For nuclear sites, that is not a mere scientific inconvenience. It affects whether commanders can quickly decide whether an unknown is a bird, a balloon, a drone, a friendly aircraft, a sensor artefact, or a possible surveillance probe.
 
-NASA also warned that stigma around UAP reporting creates data loss, saying negative perceptions are an obstacle to collecting information and almost certainly lead to “data attrition”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> In nuclear environments, stigma can cut two ways. If personnel fear ridicule, they may delay or soften a report. If they fear punishment for [misidentification]({{ 'misidentification/' | relative_url }}), they may leave out uncertainty. If a sensational culture takes hold, ordinary lights and sensor quirks may be overreported in ways that bury genuinely important observations. Readiness requires a middle path: report fast, record carefully, and avoid turning uncertainty into either embarrassment or mythology.
+NASA also warned that stigma around UAP reporting creates data loss, saying negative perceptions are an obstacle to collecting information and almost certainly lead to “data attrition”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> In nuclear environments, stigma can cut two ways. If personnel fear ridicule, they may delay or soften a report. If they fear punishment for [misidentification]({{ 'misidentification/' | relative_url }}), they may leave out uncertainty. If a sensational culture takes hold, ordinary lights and sensor quirks may be overreported in ways that bury genuinely important observations. Readiness requires a middle path: report fast, record carefully, and avoid turning uncertainty into either embarrassment or mythology.
 
-The 2024 AARO annual report shows why this matters operationally. AARO received FAA civil and commercial aviation reporting logs during the period, and said weekly FAA reporting represented a significant increase and reflected strengthened relationships with reporting partners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span> Better reporting does not automatically mean more unusual objects; it can mean that previously hidden or scattered observations are finally entering a usable system. For nuclear sites, the same lesson applies: a robust reporting culture may initially make the problem look bigger, but it gives security teams a better chance of distinguishing routine noise from genuine probes.
+The 2024 AARO annual report shows why this matters operationally. AARO received FAA civil and commercial aviation reporting logs during the period, and said weekly FAA reporting represented a significant increase and reflected strengthened relationships with reporting partners.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</span></span></span> Better reporting does not automatically mean more unusual objects; it can mean that previously hidden or scattered observations are finally entering a usable system. For nuclear sites, the same lesson applies: a robust reporting culture may initially make the problem look bigger, but it gives security teams a better chance of distinguishing routine noise from genuine probes.
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-3-dark.svg" | relative_url }}" alt="Readiness illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -533,11 +533,11 @@ The 2024 AARO annual report shows why this matters operationally. AARO received 
 
 The drone era has changed the meaning of “unknown object near a nuclear site”. In earlier decades, many reports involved distant lights, aircraft, stars, meteors, radar anomalies or classified military activity. Those still matter, but small uncrewed aircraft add a concrete, repeatable threat that can be bought, modified and flown by states, proxies, criminals, activists or careless hobbyists.
 
-The practical challenges are well documented. GAO has warned that counter-drone technologies may help protect sensitive sites, including Department of Energy nuclear facilities, but they can also create unintended effects and face operational limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/blog/counter-drone-technologies-could-enhance-safety-and-security-may-have-unintended-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span> Academic reviews of drone security describe a fast-growing field in which detection and defeat are technically difficult, especially because small drones can be confused with birds, affected by weather and lighting, or operate in environments where radio-frequency, acoustic and visual detection each has limitations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1903.05155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv So K</span><span class="citation-popover-snippet">arXiv So K</span></span></span>
+The practical challenges are well documented. GAO has warned that counter-drone technologies may help protect sensitive sites, including Department of Energy nuclear facilities, but they can also create unintended effects and face operational limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/blog/counter-drone-technologies-could-enhance-safety-and-security-may-have-unintended-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span> Academic reviews of drone security describe a fast-growing field in which detection and defeat are technically difficult, especially because small drones can be confused with birds, affected by weather and lighting, or operate in environments where radio-frequency, acoustic and visual detection each has limitations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1903.05155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv So K</span><span class="citation-popover-snippet">arXiv So K</span></span></span>
 
 This makes the old UFO question less exotic and more actionable. A security team does not need to decide whether an object is alien before it decides whether to preserve video, alert airspace authorities, search for an operator, correlate radar and camera feeds, or adjust patrols. The first readiness question is whether the incident can be placed into a reliable chain of evidence.
 
-The public record around nuclear power plants suggests that authorities have been moving in that direction. Earlier NRC guidance asked licensees to report drone sightings voluntarily and noted that plant security forces lacked authority to interdict or shoot down aircraft, including drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csgmidwest.org">[CSG Midwest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csgmidwest.org</span><span class="citation-popover-title">CSG Midwest Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">CSG Midwest Drones and Nuclear Power Plant Security</span></span></span> The later 2024 rule requiring reporting is therefore significant because it turns a potentially ad hoc stream of observations into a more formal security dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">fs drone pwr plant security</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityThe Nuclear Regulatory Commission updated its regulations in 2024 to...</span></span></span> The same principle applies to nuclear weapons sites, even when details are classified: unknown activity is less dangerous when it is captured consistently, escalated through known channels and reviewed against comparable incidents.
+The public record around nuclear power plants suggests that authorities have been moving in that direction. Earlier NRC guidance asked licensees to report drone sightings voluntarily and noted that plant security forces lacked authority to interdict or shoot down aircraft, including drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csgmidwest.org">[CSG Midwest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csgmidwest.org</span><span class="citation-popover-title">CSG Midwest Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">CSG Midwest Drones and Nuclear Power Plant Security</span></span></span> The later 2024 rule requiring reporting is therefore significant because it turns a potentially ad hoc stream of observations into a more formal security dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">fs drone pwr plant security</span><span class="citation-popover-snippet">Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityThe Nuclear Regulatory Commission updated its regulations in 2024 to...</span></span></span> The same principle applies to nuclear weapons sites, even when details are classified: unknown activity is less dangerous when it is captured consistently, escalated through known channels and reviewed against comparable incidents.
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-2-dark.svg" | relative_url }}" alt="Readiness illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -547,7 +547,7 @@ The worst public interpretations of nuclear UFO stories usually come in pairs. O
 
 A cautious approach starts with three distinctions. First, **unidentified is a data status, not a cause**. It means the available information has not produced a confident identification. Secondly, **mundane explanations can still be security-relevant**. A drone, balloon, aircraft, cyber-linked sensor error or confused report can reveal a real weakness. Thirdly, **nuclear readiness depends on the response, not just the object**. A harmless object can still expose bad procedures; a serious probe can be missed if it is prematurely dismissed.
 
-This approach is also consistent with official UAP findings. AARO’s historical review reported no evidence that US government investigations, academic research or official review panels had confirmed extraterrestrial technology, while more recent annual reporting continues to resolve some cases to ordinary objects and hold others open for lack of sufficient data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span> That does not make the subject irrelevant. It shifts the centre of gravity from extraordinary origin stories to ordinary institutional performance.
+This approach is also consistent with official UAP findings. AARO’s historical review reported no evidence that US government investigations, academic research or official review panels had confirmed extraterrestrial technology, while more recent annual reporting continues to resolve some cases to ordinary objects and hold others open for lack of sufficient data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span> That does not make the subject irrelevant. It shifts the centre of gravity from extraordinary origin stories to ordinary institutional performance.
 
 For nuclear sites, a sensible readiness checklist would ask:
 
@@ -571,7 +571,7 @@ Those questions do not solve every mystery, but they prevent both overreaction a
 
 A mature nuclear readiness posture treats unknown aerial activity as a security and reliability signal before it treats it as a mystery story. That means improving the ordinary systems that determine whether a site can understand its environment: calibrated sensors, shared reporting standards, clear authorities, realistic drone exercises, preserved evidence, and after-action reviews that do not depend on public embarrassment or belief in extraordinary explanations.
 
-The Air Force surety framework already emphasises correction and reporting of nuclear weapons surety deficiencies at installation level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[E-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-title">E-Publishing DAFI91-101</span><span class="citation-popover-snippet">E-Publishing DAFI91-101</span></span></span> The UAP and drone problem should be understood in that culture: not as proof of exotic interference, but as a recurring test of whether nuclear organisations can recognise abnormal conditions and respond without losing discipline.
+The Air Force surety framework already emphasises correction and reporting of nuclear weapons surety deficiencies at installation level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static.e-publishing.af.mil">[E-Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static.e-publishing.af.mil</span><span class="citation-popover-title">E-Publishing DAFI91-101</span><span class="citation-popover-snippet">E-Publishing DAFI91-101</span></span></span> The UAP and drone problem should be understood in that culture: not as proof of exotic interference, but as a recurring test of whether nuclear organisations can recognise abnormal conditions and respond without losing discipline.
 
 The strongest conclusion is therefore restrained but not dismissive. Public evidence does not establish alien involvement in nuclear incidents. It does establish that unknown aerial activity, drone overflights, weak data, reporting stigma and equipment failures can all intersect with nuclear readiness. In a nuclear setting, the mundane explanation may be the one that matters most, because it points to risks that can actually be measured, drilled, fixed and audited.
 
@@ -580,194 +580,194 @@ The strongest conclusion is therefore restrained but not dismissive. Public evid
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Mundane UFOs Can Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Mundane UFOs Can Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines risks, detection and decision-making under pressure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines risks, detection and decision-making under pressure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for unusual aerial activity and misidentification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for unusual aerial activity and misidentification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Focuses on nuclear readiness, safety and system failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on nuclear readiness, safety and system failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Explores reports of unknown activity near nuclear assets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reports of unknown activity near nuclear assets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="{{ '/assets/images/marketplace-covers/77442d6c844333167c97.jpg' | relative_url }}" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4"><img src="{{ '/assets/images/marketplace-covers/77442d6c844333167c97.jpg' | relative_url }}" alt="Listing image for Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Englands First Aviation Race Railway Travel Poster Print Art A1/A2/A3/A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="readiness-why-mundane-ufos-can-still-matter-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -783,7 +783,7 @@ The strongest conclusion is therefore restrained but not dismissive. Public evid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -803,7 +803,7 @@ The strongest conclusion is therefore restrained but not dismissive. Public evid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -835,7 +835,7 @@ The strongest conclusion is therefore restrained but not dismissive. Public evid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -887,7 +887,7 @@ The strongest conclusion is therefore restrained but not dismissive. Public evid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -932,7 +932,7 @@ The strongest conclusion is therefore restrained but not dismissive. Public evid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -973,228 +973,228 @@ The strongest conclusion is therefore restrained but not dismissive. Public evid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nrc.gov  
    Title: fs drone pwr plant security  
-   Link: <a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityThe Nuclear Regulatory Commission updated its regulations in 2024 to...</p></details>
+   Link:<a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionDrones and Nuclear Power Plant SecurityThe Nuclear Regulatory Commission updated its regulations in 2024 to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faa.gov  
    Title: critical infrastructure  
-   Link: <a href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/critical_infrastructure</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operations are prohibited from the ground up to 400 feet above ground...Read more...</p></details>
+   Link:<a href="https://www.faa.gov/uas/critical_infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/critical_infrastructure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operations are prohibited from the ground up to 400 feet above ground...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: forbes.com  
    Title: drone swarm invaded palo verde nuclear power plant  
-   Link: <a href="https://www.forbes.com/sites/davidhambling/2020/07/30/drone-swarm-invaded-palo-verde-nuclear-power-plant/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidhambling/2020/07/30/drone-swarm-invaded-palo-verde-nuclear-power-plant/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forbes&#x27;Drone Swarm&#x27; Invaded Palo Verde Nuclear Power Plant...Jul 30, 2020 — A number of small drones flew around a restricted area at Pa...</p></details>
+   Link:<a href="https://www.forbes.com/sites/davidhambling/2020/07/30/drone-swarm-invaded-palo-verde-nuclear-power-plant/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidhambling/2020/07/30/drone-swarm-invaded-palo-verde-nuclear-power-plant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forbes&#x27;Drone Swarm&#x27; Invaded Palo Verde Nuclear Power Plant...Jul 30, 2020 — A number of small drones flew around a restricted area at Pa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: osti.gov  
-   Link: <a href="https://www.osti.gov/servlets/purl/1356834" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/servlets/purl/1356834</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the Threat of Unmanned Aerial Vehicles (UAV)...by A Solodov · 2017 · Cited by 177 — Recently, several incidents occurred with...</p></details>
+   Link:<a href="https://www.osti.gov/servlets/purl/1356834" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/servlets/purl/1356834</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the Threat of Unmanned Aerial Vehicles (UAV)...by A Solodov · 2017 · Cited by 177 — Recently, several incidents occurred with...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.nti.org  
    Title: THE RISKS AND REWARDS OF EMERGING TECHNOLOGY IN NUCLEAR SECURITY  
-   Link: <a href="https://media.nti.org/documents/THE_RISKS_AND_REWARDS_OF_EMERGING_TECHNOLOGY_IN_NUCLEAR_SECURITY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.nti.org/documents/THE_RISKS_AND_REWARDS_OF_EMERGING_TECHNOLOGY_IN_NUCLEAR_SECURITY.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTI Mediathe risks and rewards of emerging technology in...February 6, 2020 — The number of security incidents at nuclear facilities inv...</p></details>
+   Link:<a href="https://media.nti.org/documents/THE_RISKS_AND_REWARDS_OF_EMERGING_TECHNOLOGY_IN_NUCLEAR_SECURITY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.nti.org/documents/THE_RISKS_AND_REWARDS_OF_EMERGING_TECHNOLOGY_IN_NUCLEAR_SECURITY.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTI Mediathe risks and rewards of emerging technology in...February 6, 2020 — The number of security incidents at nuclear facilities inv...</p></details>
    Published: February 6, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: Communication With 50 Nuke Missiles Dropped in ICBM Snafu  
-   Link: <a href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu</a>  
+   Link:<a href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gao.gov  
    Title: gao 23 106309  
-   Link: <a href="https://www.gao.gov/products/gao-23-106309" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106309</a>  
+   Link:<a href="https://www.gao.gov/products/gao-23-106309" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-106309</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/blog/counter-drone-technologies-could-enhance-safety-and-security-may-have-unintended-effects" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/blog/counter-drone-technologies-could-enhance-safety-and-security-may-have-unintended-effects</a>  
+   Link:<a href="https://www.gao.gov/blog/counter-drone-technologies-could-enhance-safety-and-security-may-have-unintended-effects" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/blog/counter-drone-technologies-could-enhance-safety-and-security-may-have-unintended-effects</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv So K  
-   Link: <a href="https://arxiv.org/abs/1903.05155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.05155</a>  
+   Link:<a href="https://arxiv.org/abs/1903.05155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.05155</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2033/ML20332A109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2033/ML20332A109.pdf</a>  
+   Link:<a href="https://www.nrc.gov/docs/ML2033/ML20332A109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2033/ML20332A109.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gao.gov  
    Title: gao 23 105868  
-   Link: <a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
+   Link:<a href="https://www.gao.gov/products/gao-23-105868" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105868</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/gao-14-293" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-14-293</a>  
+   Link:<a href="https://www.gao.gov/products/gao" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gao.gov  
    Title: gao 23 105468  
-   Link: <a href="https://www.gao.gov/products/gao-23-105468" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105468</a>  
+   Link:<a href="https://www.gao.gov/products/gao-23-105468" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/gao-23-105468</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/drone-operations" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/drone-operations</a>  
+   Link:<a href="https://www.gao.gov/drone-operations" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/drone-operations</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pantex.energy.gov  
-   Link: <a href="https://pantex.energy.gov/about" target="_blank" rel="noopener noreferrer nofollow">https://pantex.energy.gov/about</a>  
+   Link:<a href="https://pantex.energy.gov/about" target="_blank" rel="noopener noreferrer nofollow">https://pantex.energy.gov/about</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: regulations.gov  
-   Link: <a href="https://www.regulations.gov/document/NRC-2024-0167-0001" target="_blank" rel="noopener noreferrer nofollow">https://www.regulations.gov/document/NRC-2024-0167-0001</a>  
+   Link:<a href="https://www.regulations.gov/document/NRC" target="_blank" rel="noopener noreferrer nofollow">https://www.regulations.gov/document/NRC</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: war.gov  
    Title: Presidential Unsealing and Reporting System for UAP  
-   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
+   Link:<a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National Intelligence2022 Annual Report on Unidentified Aerial PhenomenaJanuary 10, 2023 — 25 Jun 2021 — UAP events continue...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National Intelligence2022 Annual Report on Unidentified Aerial PhenomenaJanuary 10, 2023 — 25 Jun 2021 — UAP events continue...</p></details>
    Published: January 10, 2023  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: static.e-publishing.af.mil  
    Title: E-Publishing DAFI91-101  
-   Link: <a href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf</a>  
+   Link:<a href="https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/af_se/publication/dafi91-101/dafi91-101.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: csgmidwest.org  
    Title: CSG Midwest Drones and Nuclear Power Plant Security  
-   Link: <a href="https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf</a>  
+   Link:<a href="https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: en.wikisource.org  
    Title: UAP Reporting  
-   Link: <a href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Fiscal_Year_2023_Consolidated_Annual_Report_on_Unidentified_Anomalous_Phenomena/UAP_Reporting</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
+   Link:<a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: hstoday.us  
-   Link: <a href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/</a>  
+   Link:<a href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Director overseeing UAP sighting analysis testifies at hearing | The Hill  
-   Link: <a href="https://www.youtube.com/watch?v=DJ4xiqeDOFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJ4xiqeDOFo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: UFO Whistleblowers Testify on Pentagon Transparency, Accountability | House Oversight | N18G...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DJ4xiqeDOFo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJ4xiqeDOFo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: UFO Whistleblowers Testify on Pentagon Transparency, Accountability | House Oversight | N18G...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PwEr4hVConw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PwEr4hVConw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Nukes: The Pentagon&#x27;s Nuclear Secret...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PwEr4hVConw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PwEr4hVConw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Nukes: The Pentagon&#x27;s Nuclear Secret...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Pentagon Reveals 757 UAP Sightings With Near Miss Safety Concerns  
-   Link: <a href="https://www.youtube.com/watch?v=lppkvUH19b8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lppkvUH19b8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director overseeing UAP sighting analysis testifies at hearing | The Hill...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lppkvUH19b8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lppkvUH19b8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director overseeing UAP sighting analysis testifies at hearing | The Hill...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility</a>  
+   Link:<a href="https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/videos/a-major-security-scare-has-unfolded-in-washington-after-unidentified-drones-were/1418579120069252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/a-major-security-scare-has-unfolded-in-washington-after-unidentified-drones-were/1418579120069252/</a>  
+   Link:<a href="https://www.facebook.com/TimesofIndia/videos/a-major-security-scare-has-unfolded-in-washington-after-unidentified-drones-were/1418579120069252/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/a-major-security-scare-has-unfolded-in-washington-after-unidentified-drones-were/1418579120069252/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/drones/comments/1h6tuxf/any_thoughts_on_the_recent_drone_incursions_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1h6tuxf/any_thoughts_on_the_recent_drone_incursions_over/</a>  
+   Link:<a href="https://www.reddit.com/r/drones/comments/1h6tuxf/any_thoughts_on_the_recent_drone_incursions_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1h6tuxf/any_thoughts_on_the_recent_drone_incursions_over/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ans.org  
-   Link: <a href="https://www.ans.org/news/tag-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.ans.org/news/tag-drones/</a>  
+   Link:<a href="https://www.ans.org/news/tag-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.ans.org/news/tag-drones/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  

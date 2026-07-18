@@ -280,17 +280,17 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_rea
 
 ## Introduction
 
-AARO’s decision to keep certain nuclear-linked UFO or UAP allegations under review was not driven by proof of extraordinary technology. It was driven by the consequences that would follow if even a small portion of the claims reflected a genuine security problem. When reports involve intercontinental ballistic missiles (ICBMs), launch-control facilities, nuclear storage areas, or restricted military [airspace]({{ 'airspace/' | relative_url }}), the question changes from “Was this a UFO?” to “Could something have affected the readiness, security, or command systems of strategic forces?” That distinction explains why AARO continued examining [unresolved]({{ 'unresolved/' | relative_url }}) nuclear cases even while publicly concluding that it had found no verified evidence of extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+AARO’s decision to keep certain nuclear-linked UFO or UAP allegations under review was not driven by proof of extraordinary technology. It was driven by the consequences that would follow if even a small portion of the claims reflected a genuine security problem. When reports involve intercontinental ballistic missiles (ICBMs), launch-control facilities, nuclear storage areas, or restricted military [airspace]({{ 'airspace/' | relative_url }}), the question changes from “Was this a UFO?” to “Could something have affected the readiness, security, or command systems of strategic forces?” That distinction explains why AARO continued examining [unresolved]({{ 'unresolved/' | relative_url }}) nuclear cases even while publicly concluding that it had found no verified evidence of extraterrestrial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-1-dark.svg" | relative_url }}" alt="Readiness illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within AARO’s historical review, allegations connected to [missile fields]({{ 'missile-fields/' | relative_url }}) and nuclear facilities remained relevant because any unexplained event near those sites could point to a vulnerability, [reporting]({{ 'reporting/' | relative_url }}) failure, sensor problem, unauthorised intrusion, or misunderstanding of classified activity. From a governance perspective, each possibility warrants investigation regardless of whether the ultimate explanation is ordinary or extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+Within AARO’s historical review, allegations connected to [missile fields]({{ 'missile-fields/' | relative_url }}) and nuclear facilities remained relevant because any unexplained event near those sites could point to a vulnerability, [reporting]({{ 'reporting/' | relative_url }}) failure, sensor problem, unauthorised intrusion, or misunderstanding of classified activity. From a governance perspective, each possibility warrants investigation regardless of whether the ultimate explanation is ordinary or extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 ## Why Missile Readiness Is a Governance Issue
 
 Nuclear forces operate under strict readiness requirements. Governments must know whether missiles, launch-control systems, communications networks, and physical security arrangements are functioning as intended. Any report suggesting interference with those systems automatically becomes more significant than a comparable report over a civilian location.
 
-[AARO]({{ 'aaro/' | relative_url }})'s historical report specifically identified allegations from former personnel associated with missile installations at Malmstrom, Minot, [Ellsworth]({{ 'ellsworth/' | relative_url }}), and Vandenberg. Some witnesses claimed unusual aerial objects were observed near missile sites, while others alleged disruptions affecting launch-control facilities or missile status. AARO did not validate these claims as evidence of non-human technology, but it considered them important enough to continue examining because the alleged effects touched directly on strategic weapons readiness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+[AARO]({{ 'aaro/' | relative_url }})'s historical report specifically identified allegations from former personnel associated with missile installations at Malmstrom, Minot, [Ellsworth]({{ 'ellsworth/' | relative_url }}), and Vandenberg. Some witnesses claimed unusual aerial objects were observed near missile sites, while others alleged disruptions affecting launch-control facilities or missile status. AARO did not validate these claims as evidence of non-human technology, but it considered them important enough to continue examining because the alleged effects touched directly on strategic weapons readiness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 From a governance standpoint, several questions arise whenever such claims are made:
 
@@ -306,20 +306,20 @@ From a governance standpoint, several questions arise whenever such claims are m
 
 </div>
 
-These questions matter independently of any UFO explanation. A military organisation responsible for nuclear deterrence cannot simply dismiss reports that imply interference with critical systems. Even a mistaken report can expose weaknesses in training, record-keeping, or incident response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+These questions matter independently of any UFO explanation. A military organisation responsible for nuclear deterrence cannot simply dismiss reports that imply interference with critical systems. Even a mistaken report can expose weaknesses in training, record-keeping, or incident response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uYignoEW_0s" title="Pentagon&#x27;s UFO chief separates science from fiction | Nightline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer">Pentagon&#x27;s UFO chief separates science from fiction | Nightline</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 149.2K &middot; Uploaded: August 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uYignoEW_0s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uYignoEW_0s">Open on YouTube</a></p></div></div></div>
 
 ## How UAP Claims Differ Near Restricted Facilities
 
-Most [unidentified]({{ 'unidentified/' | relative_url }})-object reports eventually turn out to involve ordinary causes such as balloons, drones, atmospheric effects, sensor limitations, or incomplete information. AARO itself has repeatedly stressed that many unresolved cases remain unidentified because available data are insufficient, not because the objects demonstrate exotic capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWhat is a UAP? · How can I share information with AARO or report a UAP? · What are the leading explanations to account for U...</span></span></span>
+Most [unidentified]({{ 'unidentified/' | relative_url }})-object reports eventually turn out to involve ordinary causes such as balloons, drones, atmospheric effects, sensor limitations, or incomplete information. AARO itself has repeatedly stressed that many unresolved cases remain unidentified because available data are insufficient, not because the objects demonstrate exotic capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWhat is a UAP? · How can I share information with AARO or report a UAP? · What are the leading explanations to account for U...</span></span></span>
 
-Reports near nuclear facilities are treated differently because the surrounding environment is already considered sensitive and protected. Restricted military zones exist specifically to prevent unauthorised access, surveillance, sabotage, or interference. When an object is reported in such an area, investigators must determine not only what it was but also how it entered, whether it was detected correctly, and whether existing safeguards worked as intended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pogo.org/reports/us-nuclear-weapons-complex-security-at-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pogo.org">[Pogo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pogo.org</span><span class="citation-popover-title">us nuclear weapons complex security at risk</span><span class="citation-popover-snippet">Nuclear Weapons Complex: Security At RiskOctober 1, 2001 — The Department of Energy (DOE) analyzes and tests the security of nuclear weap...</span><span class="citation-popover-meta">Published: October 1, 2001</span></span></span>
+Reports near nuclear facilities are treated differently because the surrounding environment is already considered sensitive and protected. Restricted military zones exist specifically to prevent unauthorised access, surveillance, sabotage, or interference. When an object is reported in such an area, investigators must determine not only what it was but also how it entered, whether it was detected correctly, and whether existing safeguards worked as intended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pogo.org/reports/us-nuclear-weapons-complex-security-at-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pogo.org">[Pogo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pogo.org</span><span class="citation-popover-title">us nuclear weapons complex security at risk</span><span class="citation-popover-snippet">Nuclear Weapons Complex: Security At RiskOctober 1, 2001 — The Department of Energy (DOE) analyzes and tests the security of nuclear weap...</span><span class="citation-popover-meta">Published: October 1, 2001</span></span></span>
 
 This creates a higher investigative threshold than a routine civilian sighting. An unidentified light over a remote field may remain a curiosity. An unidentified object reported near missile silos, launch facilities, or strategic airspace becomes a potential security event until it is satisfactorily explained.
 
-That logic appears throughout modern UAP policy. Congress directed greater attention to incidents involving strategic military assets, and AARO was created not merely to catalogue sightings but to identify potential intelligence, operational, and counterintelligence risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
+That logic appears throughout modern UAP policy. Congress directed greater attention to incidents involving strategic military assets, and AARO was created not merely to catalogue sightings but to identify potential intelligence, operational, and counterintelligence risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-2-dark.svg" | relative_url }}" alt="Readiness illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,7 +335,7 @@ Re-examining older cases can reveal:
 * Whether classified programmes generated enduring myths.
 * Whether recurring patterns reflect real operational concerns.
 
-AARO's historical investigation was therefore partly an audit of institutional memory. The goal was not simply to determine what witnesses believed happened but to assess whether government systems adequately recorded and understood events involving sensitive military assets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+AARO's historical investigation was therefore partly an audit of institutional memory. The goal was not simply to determine what witnesses believed happened but to assess whether government systems adequately recorded and understood events involving sensitive military assets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uQ4W9HC_7jo" title="UAP Hearing Analysis: Nuclear Close Calls, Arrow Debate, Crash Retrievals and Whistleblower Claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uQ4W9HC_7jo" target="_blank" rel="noopener noreferrer">UAP Hearing Analysis: Nuclear Close Calls, Arrow Debate, Crash Retrievals and Whistleblower Claims</a></p><p class="youtube-embed-meta">Channel: The Gabriel Speaks Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uQ4W9HC_7jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uQ4W9HC_7jo">Open on YouTube</a></p></div></div></div>
@@ -346,13 +346,13 @@ An important feature of AARO's approach is that an ordinary explanation does not
 
 Consider several possible outcomes:
 
-**Drone activity.** If an object near a missile field was an unauthorised drone, the issue becomes airspace security and intrusion detection rather than UFOs. Recent reporting has documented concern about incursions and unidentified aerial activity around sensitive facilities, including nuclear-related locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefU.S. Department of Energy UAP Documents Reveal...29 Sept 2023 — Documents released by the Department of Energy reveal new det...</span></span></span>
+**Drone activity.** If an object near a missile field was an unauthorised drone, the issue becomes airspace security and intrusion detection rather than UFOs. Recent reporting has documented concern about incursions and unidentified aerial activity around sensitive facilities, including nuclear-related locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefU.S. Department of Energy UAP Documents Reveal...29 Sept 2023 — Documents released by the Department of Energy reveal new det...</span></span></span>
 
-**Sensor or equipment faults.** If personnel misinterpreted data because of technical limitations, the lesson concerns system reliability, operator training, and readiness assessment. Strategic forces depend on accurate information under pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
+**Sensor or equipment faults.** If personnel misinterpreted data because of technical limitations, the lesson concerns system reliability, operator training, and readiness assessment. Strategic forces depend on accurate information under pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">All-domain Anomaly Resolution Office</span><span class="citation-popover-snippet">All-domain Anomaly Resolution Office</span></span></span>
 
-**Classified testing.** If secret programmes generated observations that operators could not identify, investigators still need to understand how information barriers affected reporting and situational awareness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+**Classified testing.** If secret programmes generated observations that operators could not identify, investigators still need to understand how information barriers affected reporting and situational awareness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
-**Human memory and reporting errors.** Even if witness accounts become less reliable over time, recurring narratives may reveal how organisations record unusual incidents, preserve evidence, and communicate findings across generations of personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+**Human memory and reporting errors.** Even if witness accounts become less reliable over time, recurring narratives may reveal how organisations record unusual incidents, preserve evidence, and communicate findings across generations of personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 In every scenario, the policy concern remains real. The stakes arise from the location and mission involved, not from the extraordinary nature of the claim.
 
@@ -360,205 +360,205 @@ In every scenario, the policy concern remains real. The stakes arise from the lo
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-3-dark.svg" | relative_url }}" alt="Readiness illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_aaro_review_28833c_nuclear_readiness_st_aa027b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AARO Could Not Simply Close the File
 
-AARO's historical report simultaneously delivered two messages. First, it stated that investigators found no verifiable evidence supporting claims of extraterrestrial technology or hidden alien-recovery programmes. Second, it acknowledged that some nuclear-related allegations remained unresolved and warranted continued examination. U.S. Department of War+2The Electric <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+AARO's historical report simultaneously delivered two messages. First, it stated that investigators found no verifiable evidence supporting claims of extraterrestrial technology or hidden alien-recovery programmes. Second, it acknowledged that some nuclear-related allegations remained unresolved and warranted continued examination. U.S. Department of War+2The Electric<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 Those positions are not contradictory. A national-security investigation does not require proof of an extraordinary phenomenon before it begins. It requires a plausible possibility that readiness, security, intelligence collection, or command-and-control systems may have been affected.
 
-That is why nuclear readiness kept these cases within AARO’s scope. The central question was never only whether witnesses saw something unusual. It was whether reports connected to strategic nuclear forces revealed a vulnerability that government institutions had a responsibility to understand. Until investigators can confidently reconstruct what happened—or determine that the available record is insufficient to do so—that governance question remains open. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+That is why nuclear readiness kept these cases within AARO’s scope. The central question was never only whether witnesses saw something unusual. It was whether reports connected to strategic nuclear forces revealed a vulnerability that government institutions had a responsibility to understand. Until investigators can confidently reconstruct what happened—or determine that the available record is insufficient to do so—that governance question remains open.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q8M_OQoZSJ8" title="Declassified: Why the FBI Tracked UFOs Over America&#x27;s Nuclear Sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q8M_OQoZSJ8" target="_blank" rel="noopener noreferrer">Declassified: Why the FBI Tracked UFOs Over America&#x27;s Nuclear Sites</a></p><p class="youtube-embed-meta">Channel: UAP Archives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q8M_OQoZSJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q8M_OQoZSJ8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why nuclear readiness changes the stakes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why nuclear readiness changes the stakes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Explains nuclear command systems, readiness, accidents, governance failures, and why any potential interference near strategic forces is...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains nuclear command systems, readiness, accidents, governance failures, and why any potential interference near strategic forces is...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Demonstrates why even uncertain reports affecting nuclear forces can have outsized consequences for national security.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates why even uncertain reports affecting nuclear forces can have outsized consequences for national security.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Hand on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JQGHqScEFtoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Dead Hand" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Hand">The Dead Hand</a>
-        </h4>
-        <p class="fr-book-author">By David Hoffman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Dead Hand on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JQGHqScEFtoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Dead Hand" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Hand">The Dead Hand</a>
+</h4>
+<p class="fr-book-author">By David Hoffman</p>
         
-        <p class="fr-book-desc">Covers nuclear command structures, strategic risks, and the enduring governance challenges surrounding nuclear arsenals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers nuclear command structures, strategic risks, and the enduring governance challenges surrounding nuclear arsenals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Dead+Hand+by+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly addresses alleged UAP activity near missile fields, launch facilities, and nuclear weapons sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses alleged UAP activity near missile fields, launch facilities, and nuclear weapons sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dead+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dead Hand</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Dead+Hand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Dead Hand</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="readiness-b2cf50-why-nuclear-readiness-changes-the-stakes-ufos-and-nuclear-weapons-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ That is why nuclear readiness kept these cases within AARO’s scope. The centra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ That is why nuclear readiness kept these cases within AARO’s scope. The centra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ That is why nuclear readiness kept these cases within AARO’s scope. The centra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ That is why nuclear readiness kept these cases within AARO’s scope. The centra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ That is why nuclear readiness kept these cases within AARO’s scope. The centra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,116 +764,116 @@ That is why nuclear readiness kept these cases within AARO’s scope. The centra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWhat is a UAP? · How can I share information with AARO or report a UAP? · What are the leading explanations to account for U...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWhat is a UAP? · How can I share information with AARO or report a UAP? · What are the leading explanations to account for U...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pogo.org  
    Title: us nuclear weapons complex security at risk  
-   Link: <a href="https://www.pogo.org/reports/us-nuclear-weapons-complex-security-at-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.pogo.org/reports/us-nuclear-weapons-complex-security-at-risk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons Complex: Security At RiskOctober 1, 2001 — The Department of Energy (DOE) analyzes and tests the security of nuclear weap...</p></details>
+   Link:<a href="https://www.pogo.org/reports/us-nuclear-weapons-complex-security-at-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.pogo.org/reports/us-nuclear-weapons-complex-security-at-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons Complex: Security At RiskOctober 1, 2001 — The Department of Energy (DOE) analyzes and tests the security of nuclear weap...</p></details>
    Published: October 1, 2001  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and atomic sitesBoth anecdotal observations and statistical studies suggest that UFO reports are more common near military...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and atomic sitesBoth anecdotal observations and statistical studies suggest that UFO reports are more common near military...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
    Title: ufo sighting history national security  
-   Link: <a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Connection Between UFO Sightings and National...27 Aug 2024 — By the 1960s and 1970s, some believed a pattern in reports was emergin...</p></details>
+   Link:<a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Connection Between UFO Sightings and National...27 Aug 2024 — By the 1960s and 1970s, some believed a pattern in reports was emergin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Vulnerability of nuclear facilities to attack  
-   Link: <a href="https://en.wikipedia.org/wiki/Vulnerability_of_nuclear_facilities_to_attack" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vulnerability_of_nuclear_facilities_to_attack</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vulnerability of nuclear facilities to attackAn ongoing concern in the area of nuclear safety and security is the possibility that ter...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Vulnerability_of_nuclear_facilities_to_attack" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vulnerability_of_nuclear_facilities_to_attack</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vulnerability of nuclear facilities to attackAn ongoing concern in the area of nuclear safety and security is the possibility that ter...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...Nov 14, 2024 — AARO received 757 UAP reports during this period; 485 of these repo...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...Nov 14, 2024 — AARO received 757 UAP reports during this period; 485 of these repo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO assesses that alleged, hidden UAP programs either do not exist or were misidentified, authentic national security pro...</p></details>
+   Link:<a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO assesses that alleged, hidden UAP programs either do not exist or were misidentified, authentic national security pro...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefU.S. Department of Energy UAP Documents Reveal...29 Sept 2023 — Documents released by the Department of Energy reveal new det...</p></details>
+   Link:<a href="https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/u-s-department-of-energy-uap-documents-reveal-puzzling-aerial-incursions-near-american-nuclear-sites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefU.S. Department of Energy UAP Documents Reveal...29 Sept 2023 — Documents released by the Department of Energy reveal new det...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AirForceTimes/posts/the-review-now-includes-personnel-who-worked-on-guarded-supported-or-operated-gr/569057031934203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceTimes/posts/the-review-now-includes-personnel-who-worked-on-guarded-supported-or-operated-gr/569057031934203/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force TimesThe review now includes Minot Air Force Base in North Dakota. Air Force expands cancer review of nuclear missile personnel...</p></details>
+   Link:<a href="https://www.facebook.com/AirForceTimes/posts/the-review-now-includes-personnel-who-worked-on-guarded-supported-or-operated-gr/569057031934203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceTimes/posts/the-review-now-includes-personnel-who-worked-on-guarded-supported-or-operated-gr/569057031934203/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force TimesThe review now includes Minot Air Force Base in North Dakota. Air Force expands cancer review of nuclear missile personnel...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: disclosurearchives.com  
-   Link: <a href="https://www.disclosurearchives.com/nuclear-facility-incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurearchives.com/nuclear-facility-incidents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear-facility UAP incidents — the recurring signal, sourcedEvery documented UAP encounter at US and foreign nuclear facilities: Strate...</p></details>
+   Link:<a href="https://www.disclosurearchives.com/nuclear-facility-incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurearchives.com/nuclear-facility-incidents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear-facility UAP incidents — the recurring signal, sourcedEvery documented UAP encounter at US and foreign nuclear facilities: Strate...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: torchlightinitiative.org  
-   Link: <a href="https://torchlightinitiative.org/resources/" target="_blank" rel="noopener noreferrer nofollow">https://torchlightinitiative.org/resources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources | Torchlight InitiativeThe following papers provide an in depth. Malmstrom Air Force Base. Air Force missileers prompts questio...</p></details>
+   Link:<a href="https://torchlightinitiative.org/resources/" target="_blank" rel="noopener noreferrer nofollow">https://torchlightinitiative.org/resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resources | Torchlight InitiativeThe following papers provide an in depth. Malmstrom Air Force Base. Air Force missileers prompts questio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: securityanddefence.pl  
-   Link: <a href="https://securityanddefence.pl/Scenario-Planning-Study-Mitigating-Grey-Zone-Military-Attacks-on-Nuclear-Power-Plants%2C208179%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://securityanddefence.pl/Scenario-Planning-Study-Mitigating-Grey-Zone-Military-Attacks-on-Nuclear-Power-Plants%2C208179%2C0%2C2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scenario Planning Study: Mitigating Grey-Zone Military...by D Hara · 2025 — This study aims to clarify the countermeasures required to p...</p></details>
+   Link:<a href="https://securityanddefence.pl/Scenario-Planning-Study-Mitigating-Grey-Zone-Military-Attacks-on-Nuclear-Power-Plants%2C208179%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://securityanddefence.pl/Scenario-Planning-Study-Mitigating-Grey-Zone-Military-Attacks-on-Nuclear-Power-Plants%2C208179%2C0%2C2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scenario Planning Study: Mitigating Grey-Zone Military...by D Hara · 2025 — This study aims to clarify the countermeasures required to p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/03/17/us-news/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana-base-during-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/17/us-news/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana-base-during-cold-war/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force missile officer claims UFOs disabled...17 Mar 2026 — A retired US Air Force launch officer claims UFOs disabled multipl...</p></details>
+   Link:<a href="https://nypost.com/2026/03/17/us-news/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana-base-during-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/17/us-news/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana-base-during-cold-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force missile officer claims UFOs disabled...17 Mar 2026 — A retired US Air Force launch officer claims UFOs disabled multipl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: airforcemedicine.af.mil  
-   Link: <a href="https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Cancer StudyThis study is comparing 14 common cancers in the general population to missile-related career fields using large go...</p></details>
+   Link:<a href="https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforcemedicine.af.mil/Resources/Missile-Community-Cancer-Study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Cancer StudyThis study is comparing 14 common cancers in the general population to missile-related career fields using large go...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: einpresswire.com  
-   Link: <a href="https://www.einpresswire.com/article/619331889/the-all-domain-anomaly-resolution-office-aaro-receives-testimony-of-interference-by-uap-with-nuclear-missiles" target="_blank" rel="noopener noreferrer nofollow">https://www.einpresswire.com/article/619331889/the-all-domain-anomaly-resolution-office-aaro-receives-testimony-of-interference-by-uap-with-nuclear-missiles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The All-Domain Anomaly Resolution Office (AARO)...27 Feb 2023 — In the span of eight days twenty missiles lost operational status when U...</p></details>
+   Link:<a href="https://www.einpresswire.com/article/619331889/the-all-domain-anomaly-resolution-office-aaro-receives-testimony-of-interference-by-uap-with-nuclear-missiles" target="_blank" rel="noopener noreferrer nofollow">https://www.einpresswire.com/article/619331889/the-all-domain-anomaly-resolution-office-aaro-receives-testimony-of-interference-by-uap-with-nuclear-missiles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The All-Domain Anomaly Resolution Office (AARO)...27 Feb 2023 — In the span of eight days twenty missiles lost operational status when U...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kfyrtv.com  
-   Link: <a href="https://www.kfyrtv.com/2024/03/14/early-results-show-lower-cancer-rates-than-expected-among-air-force-nuclear-missile-personnel/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfyrtv.com/2024/03/14/early-results-show-lower-cancer-rates-than-expected-among-air-force-nuclear-missile-personnel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early results show lower cancer rates than expected...13 Mar 2024 — The Air Force is reporting the first data on cancer diagnoses among...</p></details>
+   Link:<a href="https://www.kfyrtv.com/2024/03/14/early-results-show-lower-cancer-rates-than-expected-among-air-force-nuclear-missile-personnel/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfyrtv.com/2024/03/14/early-results-show-lower-cancer-rates-than-expected-among-air-force-nuclear-missile-personnel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early results show lower cancer rates than expected...13 Mar 2024 — The Air Force is reporting the first data on cancer diagnoses among...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dailymontanan.com  
-   Link: <a href="https://dailymontanan.com/2023/08/08/testing-at-malmstrom-afb-missile-sites-finds-elevated-carcinogen-levels-amid-cancer-study/" target="_blank" rel="noopener noreferrer nofollow">https://dailymontanan.com/2023/08/08/testing-at-malmstrom-afb-missile-sites-finds-elevated-carcinogen-levels-amid-cancer-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing at Malmstrom AFB missile sites finds elevated...8 Aug 2023 — AFB missile sites finds elevated carcinogen levels amid cancer stud...</p></details>
+   Link:<a href="https://dailymontanan.com/2023/08/08/testing-at-malmstrom-afb-missile-sites-finds-elevated-carcinogen-levels-amid-cancer-study/" target="_blank" rel="noopener noreferrer nofollow">https://dailymontanan.com/2023/08/08/testing-at-malmstrom-afb-missile-sites-finds-elevated-carcinogen-levels-amid-cancer-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing at Malmstrom AFB missile sites finds elevated...8 Aug 2023 — AFB missile sites finds elevated carcinogen levels amid cancer stud...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pulitzercenter.org  
-   Link: <a href="https://pulitzercenter.org/stories/air-force-missileers-get-new-workplace-inspections-health-tracking-amid-ongoing-cancer" target="_blank" rel="noopener noreferrer nofollow">https://pulitzercenter.org/stories/air-force-missileers-get-new-workplace-inspections-health-tracking-amid-ongoing-cancer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Missileers Get New Workplace Inspections...7 Jun 2024 — Missileers will soon have workplace exposures and hazards added to the...</p></details>
+   Link:<a href="https://pulitzercenter.org/stories/air-force-missileers-get-new-workplace-inspections-health-tracking-amid-ongoing-cancer" target="_blank" rel="noopener noreferrer nofollow">https://pulitzercenter.org/stories/air-force-missileers-get-new-workplace-inspections-health-tracking-amid-ongoing-cancer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Missileers Get New Workplace Inspections...7 Jun 2024 — Missileers will soon have workplace exposures and hazards added to the...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nucl
 
 ## Introduction
 
-When a drone appears over or near a nuclear power plant, the event is treated first as a security incident, not as a mystery. In the context of discussions about UFOs, UAPs and nuclear facilities, this distinction matters because many aerial anomalies that initially seem unexplained turn out to involve drones, aircraft, misidentifications or other conventional causes. The [reporting]({{ 'reporting/' | relative_url }}) system is therefore designed to move information quickly from plant security personnel to agencies that control [airspace]({{ 'airspace/' | relative_url }}), investigate criminal activity and assess threats. In the United States, nuclear plant operators are required to report drone sightings, and those reports are shared with the Nuclear Regulatory Commission (NRC), the Federal Aviation Administration (FAA), the Federal Bureau of Investigation (FBI) and local law-enforcement authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+When a drone appears over or near a nuclear power plant, the event is treated first as a security incident, not as a mystery. In the context of discussions about UFOs, UAPs and nuclear facilities, this distinction matters because many aerial anomalies that initially seem unexplained turn out to involve drones, aircraft, misidentifications or other conventional causes. The [reporting]({{ 'reporting/' | relative_url }}) system is therefore designed to move information quickly from plant security personnel to agencies that control [airspace]({{ 'airspace/' | relative_url }}), investigate criminal activity and assess threats. In the United States, nuclear plant operators are required to report drone sightings, and those reports are shared with the Nuclear Regulatory Commission (NRC), the Federal Aviation Administration (FAA), the Federal Bureau of Investigation (FBI) and local law-enforcement authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-1-dark.svg" | relative_url }}" alt="Drone reports illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ This reporting chain illustrates a broader lesson for nuclear-site anomaly repor
 
 ## What counts as a reportable drone sighting?
 
-A reportable sighting is not limited to a drone that has already been identified with certainty. Nuclear-site personnel are expected to treat suspicious unmanned aircraft activity seriously because visual observations alone are often incomplete. A small object hovering near a protected area, a drone detected by surveillance equipment, or repeated aerial activity near sensitive infrastructure can all trigger reporting requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+A reportable sighting is not limited to a drone that has already been identified with certainty. Nuclear-site personnel are expected to treat suspicious unmanned aircraft activity seriously because visual observations alone are often incomplete. A small object hovering near a protected area, a drone detected by surveillance equipment, or repeated aerial activity near sensitive infrastructure can all trigger reporting requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
 The emphasis is on recording facts rather than assigning labels. Useful information includes:
 
@@ -304,13 +304,13 @@ A common misunderstanding is that one agency handles drone incidents from start 
 
 ### NRC: Nuclear-site oversight
 
-The NRC regulates civilian nuclear power plants and monitors whether licensees are meeting security obligations. Its role is not to fly aircraft investigations but to ensure that nuclear facilities report incidents and maintain appropriate security procedures. The NRC updated its requirements in 2024 to mandate reporting of drone sightings over nuclear power plants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+The NRC regulates civilian nuclear power plants and monitors whether licensees are meeting security obligations. Its role is not to fly aircraft investigations but to ensure that nuclear facilities report incidents and maintain appropriate security procedures. The NRC updated its requirements in 2024 to mandate reporting of drone sightings over nuclear power plants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
-The agency also analyses emerging threats and coordinates with intelligence and security partners to assess whether changing technologies require adjustments to nuclear-security assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+The agency also analyses emerging threats and coordinates with intelligence and security partners to assess whether changing technologies require adjustments to nuclear-security assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
 ### FAA: Airspace authority
 
-The FAA manages US airspace and regulates drone operations. When a reported drone may have violated flight restrictions or operated unsafely, the FAA can determine whether authorised operations were occurring nearby and whether aviation regulations may have been breached. The agency also works with other departments on flight restrictions around critical infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+The FAA manages US airspace and regulates drone operations. When a reported drone may have violated flight restrictions or operated unsafely, the FAA can determine whether authorised operations were occurring nearby and whether aviation regulations may have been breached. The agency also works with other departments on flight restrictions around critical infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
 Importantly, the FAA often possesses information that a nuclear facility does not, including knowledge of authorised airspace activities and broader aviation data.
 
@@ -318,20 +318,20 @@ Importantly, the FAA often possesses information that a nuclear facility does no
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-2-dark.svg" | relative_url }}" alt="Drone reports illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### FBI: Criminal and national-security investigation
 
-The FBI becomes involved because an [unidentified]({{ 'unidentified/' | relative_url }}) drone over critical infrastructure may indicate criminal activity, hostile surveillance, trespass, or another security concern. Federal investigators can combine witness reports with intelligence, technical evidence and information from other agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+The FBI becomes involved because an [unidentified]({{ 'unidentified/' | relative_url }}) drone over critical infrastructure may indicate criminal activity, hostile surveillance, trespass, or another security concern. Federal investigators can combine witness reports with intelligence, technical evidence and information from other agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
 The FBI's involvement also reflects a practical reality: identifying who flew a drone is often harder than identifying the drone itself.
 
 ### Local police: Immediate response
 
-Local law enforcement provides the closest operational response. Officers may interview witnesses, preserve evidence, coordinate with federal authorities and investigate violations of state or local laws. Because they are physically near the incident, they frequently become the first external agency involved after plant security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+Local law enforcement provides the closest operational response. Officers may interview witnesses, preserve evidence, coordinate with federal authorities and investigate violations of state or local laws. Because they are physically near the incident, they frequently become the first external agency involved after plant security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C9JyPPAkyHA" title="FBI, Homeland Security to deploy technology to solve drone mystery in Northeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C9JyPPAkyHA" target="_blank" rel="noopener noreferrer">FBI, Homeland Security to deploy technology to solve drone mystery in Northeast</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C9JyPPAkyHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C9JyPPAkyHA">Open on YouTube</a></p></div></div></div>
 
 ## Why plant security cannot solve airspace events alone
 
-Nuclear plants maintain armed security forces, surveillance systems and protected perimeters. Yet those capabilities do not automatically extend into the surrounding airspace. NRC guidance has repeatedly emphasised that commercial nuclear power plant security personnel do not have authority to interdict or shoot down aircraft, including [drones]({{ 'drones/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission+2CSG Midwest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+Nuclear plants maintain armed security forces, surveillance systems and protected perimeters. Yet those capabilities do not automatically extend into the surrounding airspace. NRC guidance has repeatedly emphasised that commercial nuclear power plant security personnel do not have authority to interdict or shoot down aircraft, including [drones]({{ 'drones/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission+2CSG Midwest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
 This creates a governance challenge. A plant may detect an object, document its behaviour and assess whether it approaches sensitive areas, but determining who operated it often requires external authorities with aviation, intelligence or law-enforcement powers.
 
@@ -354,193 +354,193 @@ The reporting network exists precisely because no single organisation possesses 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-3-dark.svg" | relative_url }}" alt="Drone reports illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_nuclear_plant_drone_300a65-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What recent drone activity has revealed
 
-Reports of drone activity near critical infrastructure have increased in recent years, prompting greater attention from regulators and security agencies. The NRC has acknowledged numerous drone sightings over nuclear facilities and strengthened reporting requirements in response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+Reports of drone activity near critical infrastructure have increased in recent years, prompting greater attention from regulators and security agencies. The NRC has acknowledged numerous drone sightings over nuclear facilities and strengthened reporting requirements in response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
-At the same time, large-scale investigations of reported drone waves have shown how difficult visual identification can be. During the widely publicised US drone reports of late 2024, federal authorities noted that many sightings were ultimately associated with lawful aircraft operations, hobbyist drones, helicopters or other misidentified objects. Investigators relied on cooperation among the FBI, FAA, Department of Homeland Security and local authorities to evaluate thousands of reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[WIRED+3Federal Aviation Administration+3FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</span></span></span>
+At the same time, large-scale investigations of reported drone waves have shown how difficult visual identification can be. During the widely publicised US drone reports of late 2024, federal authorities noted that many sightings were ultimately associated with lawful aircraft operations, hobbyist drones, helicopters or other misidentified objects. Investigators relied on cooperation among the FBI, FAA, Department of Homeland Security and local authorities to evaluate thousands of reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[WIRED+3Federal Aviation Administration+3FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</span></span></span>
 
 For nuclear-site reporting, the lesson is straightforward: the value of a report does not depend on whether the object eventually proves unusual. The purpose of notification is to ensure that trained agencies can compare observations against airspace records, technical data and investigative findings before conclusions are drawn.
 
 ## The key takeaway
 
-Drone sightings at nuclear plants demonstrate why anomaly reporting must connect site security with external authorities. A nuclear facility can observe, document and secure its perimeter, but it cannot independently regulate airspace, identify every aircraft or conduct nationwide investigations. That is why modern reporting channels route drone incidents simultaneously to the NRC, FAA, FBI and local law enforcement. The system is designed to transform an uncertain aerial sighting into a coordinated investigation, reducing both security risks and the likelihood that ordinary incidents evolve into enduring UFO narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
+Drone sightings at nuclear plants demonstrate why anomaly reporting must connect site security with external authorities. A nuclear facility can observe, document and secure its perimeter, but it cannot independently regulate airspace, identify every aircraft or conduct nationwide investigations. That is why modern reporting channels route drone incidents simultaneously to the NRC, FAA, FBI and local law enforcement. The system is designed to transform an uncertain aerial sighting into a coordinated investigation, reducing both security risks and the likelihood that ordinary incidents evolve into enduring UFO narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-title">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span><span class="citation-popover-snippet">Nuclear Regulatory Commission Drones and Nuclear Power Plant Security</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jLxd0ZIaA2w" title="No evidence that drone sightings pose a &#x27;public safety threat,&#x27; US says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jLxd0ZIaA2w" target="_blank" rel="noopener noreferrer">No evidence that drone sightings pose a &#x27;public safety threat,&#x27; US says</a></p><p class="youtube-embed-meta">Channel: Associated Press</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jLxd0ZIaA2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jLxd0ZIaA2w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who gets called when drones appear?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who gets called when drones appear?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOveDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
-        </h4>
-        <p class="fr-book-author">By Michael J. Boyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOveDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
+</h4>
+<p class="fr-book-author">By Michael J. Boyle</p>
         
-        <p class="fr-book-desc">Directly addresses drone incidents and policy responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses drone incidents and policy responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Provides nuclear-security context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides nuclear-security context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Shows why agencies coordinate on potential threats.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why agencies coordinate on potential threats.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7Pu7DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
-        </h4>
-        <p class="fr-book-author">By P.W. Singer, August Cole</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7Pu7DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
+</h4>
+<p class="fr-book-author">By P.W. Singer, August Cole</p>
         
-        <p class="fr-book-desc">Features unmanned systems and infrastructure threats.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features unmanned systems and infrastructure threats.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Fleet+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Age</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="drone-reports-who-gets-called-when-drones-appear-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Drone sightings at nuclear plants demonstrate why anomaly reporting must connect
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Drone sightings at nuclear plants demonstrate why anomaly reporting must connect
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Drone sightings at nuclear plants demonstrate why anomaly reporting must connect
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Drone sightings at nuclear plants demonstrate why anomaly reporting must connect
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Drone sightings at nuclear plants demonstrate why anomaly reporting must connect
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,96 +746,96 @@ Drone sightings at nuclear plants demonstrate why anomaly reporting must connect
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nrc.gov  
    Title: Nuclear Regulatory Commission Drones and Nuclear Power Plant Security  
-   Link: <a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security</a>  
+   Link:<a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-drone-pwr-plant-security</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/docs/ML2418/ML24184A122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2418/ML24184A122.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionNRC Assessment on Emerging Technologies and Threats...Instead, the NRC asked commercial nuclear power plant...</p></details>
+   Link:<a href="https://www.nrc.gov/docs/ML2418/ML24184A122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2418/ML24184A122.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionNRC Assessment on Emerging Technologies and Threats...Instead, the NRC asked commercial nuclear power plant...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fbi.gov  
-   Link: <a href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DHS, FBI, FAA, and DoD Joint Statement on Ongoing...Dec 16, 2024 — FBI has received tips of more than 5,000 reported drone sightings in...</p></details>
+   Link:<a href="https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/press-releases/dhs-fbi-faa-and-dod-joint-statement-on-ongoing-response-to-reported-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DHS, FBI, FAA, and DoD Joint Statement on Ongoing...Dec 16, 2024 — FBI has received tips of more than 5,000 reported drone sightings in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDrone Sightings Near AirportsThe FAA encourages the public to report unauthorized drone operations to loca...</p></details>
+   Link:<a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDrone Sightings Near AirportsThe FAA encourages the public to report unauthorized drone operations to loca...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: faa.gov  
    Title: dhs fbi faa dod joint statement ongoing response reported drone sightings  
-   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</p></details>
+   Link:<a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These sightings have extended to areas of New York City. A temporary drone flying ban was imposed by the United States Federal Aviation A...</p></details>
+   Link:<a href="https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These sightings have extended to areas of New York City. A temporary drone flying ban was imposed by the United States Federal Aviation A...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: csgmidwest.org  
-   Link: <a href="https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones and Nuclear Power Plant SecurityNuclear power plant security forces do not have authority to attempt to interdict or shoot down ai...</p></details>
+   Link:<a href="https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csgmidwest.org/wp-content/uploads/2021/01/NRC-Drones-Memo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones and Nuclear Power Plant SecurityNuclear power plant security forces do not have authority to attempt to interdict or shoot down ai...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI and DHS clarified that many of the reported sightings were manned aircraft operating lawfully, with no drones confirmed in restri...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dronelife.com  
-   Link: <a href="https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>drones threaten nuclear power plants counter drone part 331 Jan 2025 — This article will explore whether drones operated with malicious i...</p></details>
+   Link:<a href="https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2025/01/31/are-drones-a-threat-to-nuclear-power-plants-examining-risks-to-the-u-s-electric-grid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drones threaten nuclear power plants counter drone part 331 Jan 2025 — This article will explore whether drones operated with malicious i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aljazeera.com  
    Title: no security threat from reported drone sightings us federal agencies state  
-   Link: <a href="https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No security threat from reported drone sightings, US...17 Dec 2024 — The United States government says there is no threat to national se...</p></details>
+   Link:<a href="https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2024/12/17/no-security-threat-from-reported-drone-sightings-us-federal-agencies-state</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No security threat from reported drone sightings, US...17 Dec 2024 — The United States government says there is no threat to national se...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aVN0wANoJSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aVN0wANoJSA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI warns the public not to shoot down dronesThe FBI says it has deployed state-of-the-art drone [detection](&amp;#123;&amp;#123; &#x27;detection/&#x27; | relative_url &amp;#125;&amp;#125;) technology but most tips they&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aVN0wANoJSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aVN0wANoJSA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI warns the public not to shoot down dronesThe FBI says it has deployed state-of-the-art drone [detection](&amp;#123;&amp;#123; &#x27;detection/&#x27; | relative_url &amp;#125;&amp;#125;) technology but most tips they&#x27;...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=C9JyPPAkyHA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9JyPPAkyHA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI, Homeland Security to deploy technology to solve drone...The FBI and Homeland Security are now deploying technology to help figure o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C9JyPPAkyHA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9JyPPAkyHA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI, Homeland Security to deploy technology to solve drone...The FBI and Homeland Security are now deploying technology to help figure o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thebulletin.org  
    Title: memo to trump address the new threat of drone vulnerable nuclear reactors  
-   Link: <a href="https://thebulletin.org/2025/01/memo-to-trump-address-the-new-threat-of-drone-vulnerable-nuclear-reactors/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2025/01/memo-to-trump-address-the-new-threat-of-drone-vulnerable-nuclear-reactors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>President, nuclear power plants are increasingly vulnerable to drone attacks. You should take again the lead and secure reactors against...</p></details>
+   Link:<a href="https://thebulletin.org/2025/01/memo-to-trump-address-the-new-threat-of-drone-vulnerable-nuclear-reactors/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2025/01/memo-to-trump-address-the-new-threat-of-drone-vulnerable-nuclear-reactors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>President, nuclear power plants are increasingly vulnerable to drone attacks. You should take again the lead and secure reactors against...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dronelife.com  
    Title: drones over nuclear power plants no threat says regulatory commission  
-   Link: <a href="https://dronelife.com/2020/11/03/drones-over-nuclear-power-plants-no-threat-says-regulatory-commission/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2020/11/03/drones-over-nuclear-power-plants-no-threat-says-regulatory-commission/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones Over Nuclear Power Plants No Threat3 Nov 2020 — The U.S. Nuclear Regulatory Commission has published a paper stating that commerci...</p></details>
+   Link:<a href="https://dronelife.com/2020/11/03/drones-over-nuclear-power-plants-no-threat-says-regulatory-commission/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2020/11/03/drones-over-nuclear-power-plants-no-threat-says-regulatory-commission/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones Over Nuclear Power Plants No Threat3 Nov 2020 — The U.S. Nuclear Regulatory Commission has published a paper stating that commerci...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
    Title: Department of War Releases Unidentified Anomalous  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — Today, the Department of War announced the initial release of new, never-before-seen files on Unidentified Anomalous Phenom...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — Today, the Department of War announced the initial release of new, never-before-seen files on Unidentified Anomalous Phenom...</p></details>
    Published: May 8, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: govtech.com  
    Title: fbi many mystery drone sightings were false alarms  
-   Link: <a href="https://www.govtech.com/public-safety/fbi-many-mystery-drone-sightings-were-false-alarms" target="_blank" rel="noopener noreferrer nofollow">https://www.govtech.com/public-safety/fbi-many-mystery-drone-sightings-were-false-alarms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI: Many Mystery Drone Sightings Were False Alarms18 Dec 2024 — The FBI says more than 5,000 drone sightings that the bureau investigate...</p></details>
+   Link:<a href="https://www.govtech.com/public-safety/fbi-many-mystery-drone-sightings-were-false-alarms" target="_blank" rel="noopener noreferrer nofollow">https://www.govtech.com/public-safety/fbi-many-mystery-drone-sightings-were-false-alarms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI: Many Mystery Drone Sightings Were False Alarms18 Dec 2024 — The FBI says more than 5,000 drone sightings that the bureau investigate...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WTHITV/posts/drones-have-been-spotted-flying-over-chemical-facilities-and-a-pipeline-over-the/10160059370446343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTHITV/posts/drones-have-been-spotted-flying-over-chemical-facilities-and-a-pipeline-over-the/10160059370446343/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the past year and a half, prompting an FBI warning about the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WTHITV/posts/drones-have-been-spotted-flying-over-chemical-facilities-and-a-pipeline-over-the/10160059370446343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTHITV/posts/drones-have-been-spotted-flying-over-chemical-facilities-and-a-pipeline-over-the/10160059370446343/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the past year and a half, prompting an FBI warning about the...Read more...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear
 
 ## Introduction
 
-One of the most important distinctions in the UFO–nuclear weapons debate is also one of the most frequently overlooked: a report can be nuclear-related without involving any interference with nuclear weapons. Many of the best-known incidents occurred at [missile fields]({{ 'missile-fields/' | relative_url }}), bomber bases, weapons storage areas, or other strategic facilities. Yet only a much smaller subset includes claims that missiles, launch systems, communications equipment, or other weapons-related systems were affected. The difference matters because it changes how cases are evaluated. A sighting near a nuclear installation raises one question; a documented effect on a weapons system raises a far more demanding one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
+One of the most important distinctions in the UFO–nuclear weapons debate is also one of the most frequently overlooked: a report can be nuclear-related without involving any interference with nuclear weapons. Many of the best-known incidents occurred at [missile fields]({{ 'missile-fields/' | relative_url }}), bomber bases, weapons storage areas, or other strategic facilities. Yet only a much smaller subset includes claims that missiles, launch systems, communications equipment, or other weapons-related systems were affected. The difference matters because it changes how cases are evaluated. A sighting near a nuclear installation raises one question; a documented effect on a weapons system raises a far more demanding one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-1-dark.svg" | relative_url }}" alt="Proximity Gap illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,12 +292,12 @@ A case becomes nuclear-relevant when the reported activity occurs near facilitie
 
 Examples include:
 
-* Unidentified objects reported near missile silos. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</span></span></span> * Security alerts around weapons storage areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">UFO activity around nuclear weapons storage and testing facilities...Read more...</span></span></span>
+* Unidentified objects reported near missile silos.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</span></span></span> * Security alerts around weapons storage areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">UFO activity around nuclear weapons storage and testing facilities...Read more...</span></span></span>
 * [Radar]({{ 'radar/' | relative_url }}) or visual sightings near strategic bomber bases.
 * Intrusions over installations with nuclear missions.
 * Reports from personnel responsible for nuclear forces.
 
-The 1975 incidents at bases such as Loring and Wurtsmith illustrate this distinction. Declassified military reporting shows that unidentified aerial intrusions near sensitive installations generated significant concern and command-level reporting. However, the core issue in those cases was the presence of unexplained aerial objects near strategic facilities, not a documented shutdown or manipulation of nuclear weapons themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
+The 1975 incidents at bases such as Loring and Wurtsmith illustrate this distinction. Declassified military reporting shows that unidentified aerial intrusions near sensitive installations generated significant concern and command-level reporting. However, the core issue in those cases was the presence of unexplained aerial objects near strategic facilities, not a documented shutdown or manipulation of nuclear weapons themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
 
 This broad category is important because nuclear facilities are unusually well monitored. Security patrols, radar systems, reporting chains, and [restricted airspace]({{ 'airspace/' | relative_url }}) increase the chances that unusual events will be noticed and documented. But proximity alone does not establish interaction.
 
@@ -323,11 +323,11 @@ Claims in this category include:
 
 </div>
 
-The most frequently cited example is the 1967 Malmstrom Air Force Base incident. There is little dispute that a serious missile-system anomaly occurred. A declassified unit history records that all ten missiles in Echo Flight lost strategic alert status nearly simultaneously. The missile failure itself is documented. The more controversial question is whether a UFO was connected to the malfunction. The same Air Force record states that rumours of UFO activity associated with the fault were investigated and "disproven." <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</span></span></span>
+The most frequently cited example is the 1967 Malmstrom Air Force Base incident. There is little dispute that a serious missile-system anomaly occurred. A declassified unit history records that all ten missiles in Echo Flight lost strategic alert status nearly simultaneously. The missile failure itself is documented. The more controversial question is whether a UFO was connected to the malfunction. The same Air Force record states that rumours of UFO activity associated with the fault were investigated and "disproven."<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</span></span></span>
 
 This distinction is crucial. The documented fact is a missile-system failure. The disputed claim is that an unidentified object caused it.
 
-Over the years, former missile officers such as Robert Salas have argued that a UFO was present and that the timing of the missile shutdowns indicates a connection. Researchers including Robert Hastings have assembled testimony from [military witnesses]({{ 'witnesses/' | relative_url }}) who describe UFO activity around nuclear sites. However, these claims rely largely on retrospective witness accounts and interpretations of events rather than on a contemporaneous document explicitly linking the missile failure to an unidentified object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
+Over the years, former missile officers such as Robert Salas have argued that a UFO was present and that the timing of the missile shutdowns indicates a connection. Researchers including Robert Hastings have assembled testimony from [military witnesses]({{ 'witnesses/' | relative_url }}) who describe UFO activity around nuclear sites. However, these claims rely largely on retrospective witness accounts and interpretations of events rather than on a contemporaneous document explicitly linking the missile failure to an unidentified object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud+2Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-2-dark.svg" | relative_url }}" alt="Proximity Gap illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,7 +335,7 @@ Over the years, former missile officers such as Robert Salas have argued that a 
 
 Once proximity and interference are separated, many famous nuclear-UFO cases move into different evidential categories.
 
-A case can score highly on nuclear relevance but weakly on interference evidence. The Loring incidents are a good example. The nuclear context is strong, the documentation is substantial, and military authorities clearly treated the incursions seriously. Yet the reported events concern unidentified aerial activity near strategic assets rather than demonstrated effects on weapons systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
+A case can score highly on nuclear relevance but weakly on interference evidence. The Loring incidents are a good example. The nuclear context is strong, the documentation is substantial, and military authorities clearly treated the incursions seriously. Yet the reported events concern unidentified aerial activity near strategic assets rather than demonstrated effects on weapons systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">the bizarre mystery of unexplained aerial incursions over loring air force base</span><span class="citation-popover-snippet">The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</span></span></span>
 
 Conversely, Malmstrom remains central to the debate because it combines both elements:
 
@@ -348,7 +348,7 @@ Conversely, Malmstrom remains central to the debate because it combines both ele
 
 </div>
 
-That combination makes it more significant than a simple sighting report. At the same time, it remains controversial because the link between the anomaly and the alleged UFO is not established in the surviving official documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</span></span></span>
+That combination makes it more significant than a simple sighting report. At the same time, it remains controversial because the link between the anomaly and the alleged UFO is not established in the surviving official documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</span></span></span>
 
 This creates a three-tier structure that is often obscured in public discussion:
 
@@ -367,9 +367,9 @@ If an unknown object merely appears near a base, no technical mechanism needs to
 
 Once interference is claimed, a mechanism becomes necessary. How did a distant object affect hardened military systems? Was the effect electromagnetic, electronic, software-related, human-error related, or something else entirely?
 
-This is where many cases encounter difficulties. Witnesses may report both a sighting and a technical malfunction, but correlation does not automatically establish causation. Military systems fail for many reasons. The existence of a malfunction does not by itself identify its cause. Critics of the UFO-interference interpretation have repeatedly argued that missile shutdowns and equipment faults require independent technical investigation before being attributed to external phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[Tim Hebert+2Tim Hebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-snippet">Eric Carlson has always claimed that no UFOs were involved.Read more...</span></span></span>
+This is where many cases encounter difficulties. Witnesses may report both a sighting and a technical malfunction, but correlation does not automatically establish causation. Military systems fail for many reasons. The existence of a malfunction does not by itself identify its cause. Critics of the UFO-interference interpretation have repeatedly argued that missile shutdowns and equipment faults require independent technical investigation before being attributed to external phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[Tim Hebert+2Tim Hebert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-snippet">Eric Carlson has always claimed that no UFOs were involved.Read more...</span></span></span>
 
-Supporters of the interference hypothesis respond that some failures appeared unusual, occurred in clusters, or coincided with reports of unidentified objects. Yet even in the strongest cases, the proposed mechanism remains largely unspecified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
+Supporters of the interference hypothesis respond that some failures appeared unusual, occurred in clusters, or coincided with reports of unidentified objects. Yet even in the strongest cases, the proposed mechanism remains largely unspecified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-3-dark.svg" | relative_url }}" alt="Proximity Gap illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_nuclear_proximity_ga_006afd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -384,7 +384,7 @@ That question produces a more disciplined ranking:
 * **Strongest nuclear context:** cases occurring at missile fields, bomber bases, or weapons storage facilities.
 * **Stronger operational relevance:** cases involving security alerts, radar tracking, or command-level concern.
 * **Strongest interference claims:** cases where a documented weapons-system anomaly exists alongside reports of unidentified objects.
-* **Strongest demonstrated interference:** a category that remains difficult to establish because no publicly available record conclusively proves that an unidentified object directly caused a nuclear weapons malfunction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</span></span></span>
+* **Strongest demonstrated interference:** a category that remains difficult to establish because no publicly available record conclusively proves that an unidentified object directly caused a nuclear weapons malfunction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</span></span></span>
 
 The result is a more precise understanding of the nuclear-UFO record. Many incidents support the claim that unusual aerial reports have occurred near nuclear facilities. Far fewer support the stronger claim that unidentified objects demonstrably interfered with nuclear weapons systems. That proximity gap is one of the central reasons why debates over these cases remain [unresolved]({{ 'unresolved/' | relative_url }}) decades after the events themselves.
 
@@ -393,178 +393,178 @@ The result is a more precise understanding of the nuclear-UFO record. Many incid
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Near Nuclear Weapons Is Not the Same as Interference. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Near Nuclear Weapons Is Not the Same as Interference. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides context for military and nuclear-site reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military and nuclear-site reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes cases involving military facilities and observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes cases involving military facilities and observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful framework for separating claims from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for separating claims from evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly distinguishes site proximity from claimed interference.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly distinguishes site proximity from claimed interference.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="proximity-gap-near-nuclear-weapons-is-not-the-same-as-interference-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ The result is a more precise understanding of the nuclear-UFO record. Many incid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ The result is a more precise understanding of the nuclear-UFO record. Many incid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ The result is a more precise understanding of the nuclear-UFO record. Many incid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ The result is a more precise understanding of the nuclear-UFO record. Many incid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ The result is a more precise understanding of the nuclear-UFO record. Many incid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,123 +770,123 @@ The result is a more precise understanding of the nuclear-UFO record. Many incid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300070001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300070001-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>produce D AFB [Air Force Base], Maw, Wurtsmith AFB. the fall of 1975...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300070001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300070001-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>produce D AFB [Air Force Base], Maw, Wurtsmith AFB. the fall of 1975...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentReferences · ↑ &quot;Nearly six decades after seminal Montana UFO incidents, air force vets brief Pentagon&quot;. · ↑ &quot;Ex...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentReferences · ↑ &quot;Nearly six decades after seminal Montana UFO incidents, air force vets brief Pentagon&quot;. · ↑ &quot;Ex...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/us/movie/ufos-and-nukes-the-secret-link-revealed/umc.cmc.633w24hjejsuauxfdpjgj5c4n" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/movie/ufos-and-nukes-the-secret-link-revealed/umc.cmc.633w24hjejsuauxfdpjgj5c4n</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Nukes: The Secret Link RevealedCNN live-streamed his UFOs and Nukes press conference on September 27, 2010, during which seven US Air...</p></details>
+   Link:<a href="https://tv.apple.com/us/movie/ufos-and-nukes-the-secret-link-revealed/umc.cmc.633w24hjejsuauxfdpjgj5c4n" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/movie/ufos-and-nukes-the-secret-link-revealed/umc.cmc.633w24hjejsuauxfdpjgj5c4n</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Nukes: The Secret Link RevealedCNN live-streamed his UFOs and Nukes press conference on September 27, 2010, during which seven US Air...</p></details>
    Published: September 27, 2010  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RobertThe name Robert is an ancient Germanic given name, from Proto-Germanic *Hrōþi- &quot;fame&quot; and *berhta- &quot;bright&quot; (Hrōþiberhtaz). Comp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Robert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RobertThe name Robert is an ancient Germanic given name, from Proto-Germanic *Hrōþi- &quot;fame&quot; and *berhta- &quot;bright&quot; (Hrōþiberhtaz). Comp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and atomic sites... claimed to have witnessed intervention in nuclear weapons systems by UFOs – Robert L. Salas and, in 20...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and atomic sites... claimed to have witnessed intervention in nuclear weapons systems by UFOs – Robert L. Salas and, in 20...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: books.apple.com  
-   Link: <a href="https://books.apple.com/dk/audiobook/ufos-nukes/id1755260280" target="_blank" rel="noopener noreferrer nofollow">https://books.apple.com/dk/audiobook/ufos-nukes/id1755260280</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; NukesThe reality of UFO incursions at American nuclear weapons facilities has been convincingly established. Hundreds of U.S. military...</p></details>
+   Link:<a href="https://books.apple.com/dk/audiobook/ufos-nukes/id1755260280" target="_blank" rel="noopener noreferrer nofollow">https://books.apple.com/dk/audiobook/ufos-nukes/id1755260280</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; NukesThe reality of UFO incursions at American nuclear weapons facilities has been convincingly established. Hundreds of U.S. military...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT WERE THOSE MYSTERIOUS CRAFT?tified flying obects (UFOs), ended in. 11969 and that there were no plans for renewed Air Force investig...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHAT WERE THOSE MYSTERIOUS CRAFT?tified flying obects (UFOs), ended in. 11969 and that there were no plans for renewed Air Force investig...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: twz.com  
    Title: the bizarre mystery of unexplained aerial incursions over loring air force base  
-   Link: <a href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</p></details>
+   Link:<a href="https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Mysterious Cold War Case Of Unidentified Aircraft...27 Nov 2020 — Over a series of nights in 1975, Loring Air Force Base...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area of Echo Flight during...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Carlson has always claimed that no UFOs were involved.Read more...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Carlson has always claimed that no UFOs were involved.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tim HebertCase Closed! A Re-Evaluation of the Echo Flight IncidentAmazingly, after 44 years, these individuals have never surfaced to be...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tim HebertCase Closed! A Re-Evaluation of the Echo Flight IncidentAmazingly, after 44 years, these individuals have never surfaced to be...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Event at Wurtsmith AFB on October 30th, 1975If you were stationed at the base on October 30th, 1975, You will definitely remember thi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wurtsmith/posts/10160926694951483/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Event at Wurtsmith AFB on October 30th, 1975If you were stationed at the base on October 30th, 1975, You will definitely remember thi...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: das-ufo-phaenomen.de  
-   Link: <a href="https://www.das-ufo-phaenomen.de/literatur/englisch/hastings-robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.das-ufo-phaenomen.de/literatur/englisch/hastings-robert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hastings, RobertWas there a connection between the atomic bomber squadron based at Roswell and the reported crash of a UFO nearby? Did th...</p></details>
+   Link:<a href="https://www.das-ufo-phaenomen.de/literatur/englisch/hastings-robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.das-ufo-phaenomen.de/literatur/englisch/hastings-robert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hastings, RobertWas there a connection between the atomic bomber squadron based at Roswell and the reported crash of a UFO nearby? Did th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SpaceLaneInfo/posts/in-a-revelation-that-has-stunned-many-a-former-us-air-force-missile-officer-has-/1010804148582627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaneInfo/posts/in-a-revelation-that-has-stunned-many-a-former-us-air-force-missile-officer-has-/1010804148582627/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space LaneHastings, a UFO researcher who conducted a 30 year long investigation into the connections between [UFOs and nuclear weapons](&amp;#123;&amp;#123; &#x27;ufos-and-nuclear-weapons/&#x27; | relative_url &amp;#125;&amp;#125;). Ha...</p></details>
+   Link:<a href="https://www.facebook.com/SpaceLaneInfo/posts/in-a-revelation-that-has-stunned-many-a-former-us-air-force-missile-officer-has-/1010804148582627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaneInfo/posts/in-a-revelation-that-has-stunned-many-a-former-us-air-force-missile-officer-has-/1010804148582627/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space LaneHastings, a UFO researcher who conducted a 30 year long investigation into the connections between [UFOs and nuclear weapons](&amp;#123;&amp;#123; &#x27;ufos-and-nuclear-weapons/&#x27; | relative_url &amp;#125;&amp;#125;). Ha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ebay.co.uk  
-   Link: <a href="https://www.ebay.co.uk/itm/156460558869" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/156460558869</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Nukes, Robert Hastings, inscribedThis is a fine almost new looking first edition of a very rare and sought after book by Robert...</p></details>
+   Link:<a href="https://www.ebay.co.uk/itm/156460558869" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/156460558869</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Nukes, Robert Hastings, inscribedThis is a fine almost new looking first edition of a very rare and sought after book by Robert...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: former us air force captain says ufos attacked a nuclear missile base in the 196  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force captain says UFOs attacked a nuclear...26. **Loring Air Force Base (1975)**: In Maine, hosted nuclear weapons and wa...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force captain says UFOs attacked a nuclear...26. **Loring Air Force Base (1975)**: In Maine, hosted nuclear weapons and wa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uv-dH7g0x34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons and UFOs with Robert HastingsOur topic today is UFOs and nuclear weapons and my guest is Robert Hastings author of the cl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uv-dH7g0x34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons and UFOs with Robert HastingsOur topic today is UFOs and nuclear weapons and my guest is Robert Hastings author of the cl...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hoopladigital.com  
-   Link: <a href="https://www.hoopladigital.com/audiobook/ufos-and-nukes-robert-hastings/17083452" target="_blank" rel="noopener noreferrer nofollow">https://www.hoopladigital.com/audiobook/ufos-and-nukes-robert-hastings/17083452</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The reality of UFO incursions at American nuclear weapons facilities has been convincingly established.Read more...</p></details>
+   Link:<a href="https://www.hoopladigital.com/audiobook/ufos-and-nukes-robert-hastings/17083452" target="_blank" rel="noopener noreferrer nofollow">https://www.hoopladigital.com/audiobook/ufos-and-nukes-robert-hastings/17083452</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The reality of UFO incursions at American nuclear weapons facilities has been convincingly established.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Airmen to Govt.: Come Clean on UFOsFormer Air Force officers say UFOs interfered with nuclear missiles...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Airmen to Govt.: Come Clean on UFOsFormer Air Force officers say UFOs interfered with nuclear missiles...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: storytel.com  
-   Link: <a href="https://www.storytel.com/tv/books/ufos-nukes-extraordinary-encounters-at-nuclear-weapons-sites-8875234" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/tv/books/ufos-nukes-extraordinary-encounters-at-nuclear-weapons-sites-8875234</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The reality of UFO incursions at American nuclear weapons facilities has been convincingly...Read more...</p></details>
+   Link:<a href="https://www.storytel.com/tv/books/ufos-nukes-extraordinary-encounters-at-nuclear-weapons-sites-8875234" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/tv/books/ufos-nukes-extraordinary-encounters-at-nuclear-weapons-sites-8875234</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The reality of UFO incursions at American nuclear weapons facilities has been convincingly...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO activity around nuclear weapons storage and testing facilities...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO activity around nuclear weapons storage and testing facilities...Read more...</p></details>

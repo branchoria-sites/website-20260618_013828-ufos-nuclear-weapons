@@ -476,7 +476,7 @@ Military witnesses deserve attention in UFO-and-nuclear-weapons cases, but they 
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-overview.webp" | relative_url }}" alt="Overview image for Witnesses" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many nuclear-UFO claims rest heavily on former missile officers, security police, pilots or base commanders. Their roles make their accounts hard to dismiss casually. Yet official UAP reviews still stress that many reports lack enough high-quality data to identify what was seen, even when the witnesses are military personnel and even when sensors were involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+This matters because many nuclear-UFO claims rest heavily on former missile officers, security police, pilots or base commanders. Their roles make their accounts hard to dismiss casually. Yet official UAP reviews still stress that many reports lack enough high-quality data to identify what was seen, even when the witnesses are military personnel and even when sensors were involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cTedmssoj24" title="Missile vs. UFO Video - A Quick Take" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cTedmssoj24" target="_blank" rel="noopener noreferrer">Missile vs. UFO Video - A Quick Take</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 51.5K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cTedmssoj24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cTedmssoj24">Open on YouTube</a></p></div></div></div>
@@ -485,9 +485,9 @@ This matters because many nuclear-UFO claims rest heavily on former missile offi
 
 Military witnesses bring several advantages that ordinary witnesses often do not. They may know the difference between a routine aircraft movement and an unauthorised object in [restricted airspace]({{ 'airspace/' | relative_url }}). They understand alarm systems, [reporting]({{ 'reporting/' | relative_url }}) procedures, security perimeters and the seriousness of activity near nuclear assets. In missile-field cases, a launch officer or maintenance technician may also be able to describe whether a missile was on alert, off alert, under test or affected by a fault.
 
-That is why official UAP reporting gives special weight to military and government sources. The 2021 US intelligence assessment focused on reports “largely witnessed firsthand by military aviators” and collected from systems considered reliable. It also noted that 80 of 144 US government reports involved multiple sensors, not just a human narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> This does not prove exotic technology, but it does explain why trained personnel are valuable: they can initiate a report, preserve operational details and sometimes connect what they saw with [radar]({{ 'radar/' | relative_url }}), infrared, electro-optical or weapons-system data.
+That is why official UAP reporting gives special weight to military and government sources. The 2021 US intelligence assessment focused on reports “largely witnessed firsthand by military aviators” and collected from systems considered reliable. It also noted that 80 of 144 US government reports involved multiple sensors, not just a human narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> This does not prove exotic technology, but it does explain why trained personnel are valuable: they can initiate a report, preserve operational details and sometimes connect what they saw with [radar]({{ 'radar/' | relative_url }}), infrared, electro-optical or weapons-system data.
 
-Training also helps with discipline under pressure. A base security team that reports an unknown light near a weapons storage area is not simply telling a campfire story; it is describing a possible security event. At [Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest, for example, the value of the case is not only that personnel later told unusual stories, but that Lieutenant Colonel Charles Halt produced a contemporaneous memo and that the incident entered UK Ministry of Defence correspondence. The National Archives describes the case as involving US servicemen investigating lights near RAF Woodbridge on two nights, while also noting that the Ministry of Defence concluded there was no threat to UK airspace or national security and did not pursue further investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
+Training also helps with discipline under pressure. A base security team that reports an unknown light near a weapons storage area is not simply telling a campfire story; it is describing a possible security event. At [Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest, for example, the value of the case is not only that personnel later told unusual stories, but that Lieutenant Colonel Charles Halt produced a contemporaneous memo and that the incident entered UK Ministry of Defence correspondence. The National Archives describes the case as involving US servicemen investigating lights near RAF Woodbridge on two nights, while also noting that the Ministry of Defence concluded there was no threat to UK airspace or national security and did not pursue further investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National ArchivesUFO reports - The National Archives...</span></span></span>
 
 In nuclear-linked cases, then, training raises the starting credibility of a report in three narrow ways: the witness may recognise the operational environment, may be obliged to report anomalies, and may know which details matter for safety or security. It does not automatically settle what the object was.
 
@@ -497,13 +497,13 @@ In nuclear-linked cases, then, training raises the starting credibility of a rep
 
 The phrase “trained observer” can mislead readers into thinking that perception works like a camera. It does not. A person can be highly competent in a military role and still misjudge distance, size, speed, duration or source under poor viewing conditions. This is especially important in UFO cases, where the central question is often not “did the witness see something?” but “what exactly was it, how far away was it, how fast was it moving, and was it physically connected to a nuclear-system event?”
 
-Modern official reviews make the same point in technical language. [AARO]({{ 'aaro/' | relative_url }})’s 2024 historical report says most UAP sightings have no data beyond an often vague narrative account, and that even hard data is often incomplete or poor quality. It adds that military sensors are usually calibrated for combat missions, not for producing scientific identification of anomalous objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report...</span></span></span> NASA’s independent UAP study reached a similar conclusion: eyewitness reports can reveal patterns, but without calibrated sensor data they cannot provide conclusive evidence about the nature of UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+Modern official reviews make the same point in technical language. [AARO]({{ 'aaro/' | relative_url }})’s 2024 historical report says most UAP sightings have no data beyond an often vague narrative account, and that even hard data is often incomplete or poor quality. It adds that military sensors are usually calibrated for combat missions, not for producing scientific identification of anomalous objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report...</span></span></span> NASA’s independent UAP study reached a similar conclusion: eyewitness reports can reveal patterns, but without calibrated sensor data they cannot provide conclusive evidence about the nature of UAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
-Memory research reinforces that caution. The National Academies’ review of eyewitness identification highlights stress and fear, exposure time and retention interval as variables that can affect reliability and accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span> A military survival-training study is especially relevant because it involved US Army personnel, not only civilian volunteers. Fifty-three participants experienced interrogation stress and were asked 48 hours later to identify the interrogator; the authors found substantial identification errors and later emphasised that false identifications could be expressed with high confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/07/Morgan_SurvivalEyewitness_IJPL07.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e2.wpmucdn.com">[BPB US]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e2.wpmucdn.com</span><span class="citation-popover-title">Morgan Survival Eyewitness IJPL07</span><span class="citation-popover-snippet">BPB USdoi:10.1016/j.ijlp.2007.03.005...</span></span></span>
+Memory research reinforces that caution. The National Academies’ review of eyewitness identification highlights stress and fear, exposure time and retention interval as variables that can affect reliability and accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/18891/chapter/7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Open source on nationalacademies.org.</span></span></span> A military survival-training study is especially relevant because it involved US Army personnel, not only civilian volunteers. Fifty-three participants experienced interrogation stress and were asked 48 hours later to identify the interrogator; the authors found substantial identification errors and later emphasised that false identifications could be expressed with high confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/07/Morgan_SurvivalEyewitness_IJPL07.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e2.wpmucdn.com">[BPB US]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e2.wpmucdn.com</span><span class="citation-popover-title">Morgan Survival Eyewitness IJPL07</span><span class="citation-popover-snippet">BPB USdoi:10.1016/j.ijlp.2007.03.005...</span></span></span>
 
 That finding should not be over-applied. Identifying a person after interrogation stress is not identical to seeing a light over a missile field. But it does weaken the common argument that military status alone makes memory robust. Even trained people can be confident and wrong, especially when an event is frightening, brief, ambiguous or reconstructed after the fact.
 
-Delay is another problem. Some famous nuclear-UFO accounts became public years or decades after the alleged events. Long delay does not mean a witness is lying; many military witnesses had career, classification or stigma reasons not to speak publicly. The 2021 UAP assessment specifically noted that reputational risk may keep observers silent and complicate scientific study. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> But delay does increase the need for caution, because memories can be shaped by later conversations, books, documentaries, media coverage and repeated retelling.
+Delay is another problem. Some famous nuclear-UFO accounts became public years or decades after the alleged events. Long delay does not mean a witness is lying; many military witnesses had career, classification or stigma reasons not to speak publicly. The 2021 UAP assessment specifically noted that reputational risk may keep observers silent and complicate scientific study.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> But delay does increase the need for caution, because memories can be shaped by later conversations, books, documentaries, media coverage and repeated retelling.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XdAwIJbNeQE" title="How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer">How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 3.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XdAwIJbNeQE">Open on YouTube</a></p></div></div></div>
@@ -512,11 +512,11 @@ Delay is another problem. Some famous nuclear-UFO accounts became public years o
 
 Nuclear sites add urgency, but urgency can narrow attention. A security guard who believes an aircraft may have crashed, an intruder may be near a perimeter, or a missile system may be malfunctioning is likely to focus on threat-relevant details first. That is useful for immediate response, but it may leave weaker memory for peripheral details such as exact angles, timings, colours or movements.
 
-The Malmstrom story shows why this distinction matters. The documented core is that missile systems in the Malmstrom complex suffered a serious alert failure. The disputed claim is that UFO activity was causally connected to missile shutdowns. A declassified Air Force document on the Echo Flight malfunction says all launch facilities in Echo Flight lost strategic alert nearly simultaneously, but also states that rumours of UFOs around the area at the time of the fault were disproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span> Later witnesses and researchers have argued that UFO reports were real and suppressed, while [sceptics]({{ 'sceptics/' | relative_url }}) point to the gap between later recollections and contemporaneous records.
+The Malmstrom story shows why this distinction matters. The documented core is that missile systems in the Malmstrom complex suffered a serious alert failure. The disputed claim is that UFO activity was causally connected to missile shutdowns. A declassified Air Force document on the Echo Flight malfunction says all launch facilities in Echo Flight lost strategic alert nearly simultaneously, but also states that rumours of UFOs around the area at the time of the fault were disproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span> Later witnesses and researchers have argued that UFO reports were real and suppressed, while [sceptics]({{ 'sceptics/' | relative_url }}) point to the gap between later recollections and contemporaneous records.
 
 This is exactly where trained testimony is useful but insufficient. A missile officer can credibly describe an alarm panel or the seriousness of losing alert status. A security guard can credibly report that personnel saw an unusual light. But the causal bridge — “the object disabled the missiles” — requires more than memory. It needs synchronised logs, technical failure analysis, radar or sensor tracks, maintenance findings, and a clear timeline showing that the sighting and malfunction were connected rather than merely adjacent.
 
-Rendlesham offers a different memory lesson. It involved US Air Force personnel near a base associated with nuclear weapons, and it has unusually rich witness material, including Halt’s memo and audio. Yet later accounts diverged. The Guardian’s 2026 review notes that Jim Penniston’s later claims included details not present in his original report, such as a triangular craft, lost time and binary code, while John Burroughs’ memories were more fragmentary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> That does not prove nothing happened. It shows how a real incident can become harder to evaluate as later memory, trauma, interpretation and public mythology accumulate around the original record.
+Rendlesham offers a different memory lesson. It involved US Air Force personnel near a base associated with nuclear weapons, and it has unusually rich witness material, including Halt’s memo and audio. Yet later accounts diverged. The Guardian’s 2026 review notes that Jim Penniston’s later claims included details not present in his original report, such as a triangular craft, lost time and binary code, while John Burroughs’ memories were more fragmentary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span> That does not prove nothing happened. It shows how a real incident can become harder to evaluate as later memory, trauma, interpretation and public mythology accumulate around the original record.
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -537,9 +537,9 @@ A useful evidential ladder for nuclear-UFO claims looks like this:
 
 </div>
 
-Many cases reach the first two levels. Fewer reach the third. Very few publicly reach the fourth or fifth. That is why official reviews can simultaneously treat UAP as a safety or security issue and refuse to endorse extraordinary conclusions. The 2022 ODNI report said UAP events continued in restricted or sensitive airspace, raising possible safety-of-flight or adversary-collection concerns, while also warning that the pattern may partly reflect collection bias from active aircraft, sensors and increased guidance to report anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+Many cases reach the first two levels. Fewer reach the third. Very few publicly reach the fourth or fifth. That is why official reviews can simultaneously treat UAP as a safety or security issue and refuse to endorse extraordinary conclusions. The 2022 ODNI report said UAP events continued in restricted or sensitive airspace, raising possible safety-of-flight or adversary-collection concerns, while also warning that the pattern may partly reflect collection bias from active aircraft, sensors and increased guidance to report anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-Project Blue Book shows the older version of the same tension. The US Air Force collected 12,618 UFO reports between 1947 and 1969, with 701 left “unidentified”, yet its published conclusion was that no investigated UFO report showed a national-security threat, technology beyond scientific knowledge or extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span> The unresolved cases therefore remain evidentially interesting, but “unidentified” is not the same as “identified as extraordinary”.
+Project Blue Book shows the older version of the same tension. The US Air Force collected 12,618 UFO reports between 1947 and 1969, with 701 left “unidentified”, yet its published conclusion was that no investigated UFO report showed a national-security threat, technology beyond scientific knowledge or extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span> The unresolved cases therefore remain evidentially interesting, but “unidentified” is not the same as “identified as extraordinary”.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChgPk2OiZCw" title="How Reliable is Eyewitness Testimony?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer">How Reliable is Eyewitness Testimony?</a></p><p class="youtube-embed-meta">Channel: National Science Foundation News &middot; Views: 173.1K &middot; Uploaded: July 2015 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChgPk2OiZCw">Open on YouTube</a></p></div></div></div>
@@ -550,7 +550,7 @@ Military witnesses should count a lot at the reporting stage and less at the pro
 
 This balanced position avoids two common mistakes. The first is credential absolutism: assuming that a pilot, missile officer or base commander cannot misperceive or misremember. The second is blanket dismissal: assuming that because memory is fallible, the report has no value. The better reading is narrower and stronger. Military witnesses can supply disciplined, high-stakes observations, but those observations still pass through human perception and memory.
 
-AARO’s 2024 historical report captures the practical consequence: many UAP reports remain [unresolved]({{ 'unresolved/' | relative_url }}), but the ability to resolve a case is closely tied to the amount and quality of available information. It found no evidence that any US government investigation or official review had confirmed a UAP as extraterrestrial technology, and it stressed that sensors and visual observations are imperfect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report...</span></span></span>
+AARO’s 2024 historical report captures the practical consequence: many UAP reports remain [unresolved]({{ 'unresolved/' | relative_url }}), but the ability to resolve a case is closely tied to the amount and quality of available information. It found no evidence that any US government investigation or official review had confirmed a UAP as extraterrestrial technology, and it stressed that sensors and visual observations are imperfect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report...</span></span></span>
 
 For nuclear-UFO cases, that means the witness question should be framed carefully. The right question is not “are these people credible?” Many are. The right question is “what part of the claim does their credibility actually support?” A trained witness may strongly support that something unusual was reported near a sensitive site. Whether that something was a drone, aircraft, astronomical object, sensor artefact, classified test, misperceived light, genuine unknown or cause of a nuclear-system fault depends on corroboration beyond testimony.
 
@@ -558,194 +558,194 @@ For nuclear-UFO cases, that means the witness question should be framed carefull
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Should Military Witnesses Count?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Should Military Witnesses Count?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Built around military and official witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around military and official witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Evaluates witness credibility and supporting evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Evaluates witness credibility and supporting evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why testimony alone has limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why testimony alone has limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Relies heavily on testimony from military personnel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relies heavily on testimony from military personnel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ramstein Air Base Germany Sign Rusty Weathered Military Royal Air Force USAF"><img src="{{ '/assets/images/marketplace-covers/44c0bbd9aee43afd6d8c.jpg' | relative_url }}" alt="Listing image for Ramstein Air Base Germany Sign Rusty Weathered Military Royal Air Force USAF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">Ramstein Air Base Germany Sign Rusty Weathered Military Royal Air Force USAF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ramstein Air Base Germany Sign Rusty Weathered Military Royal Air Force USAF"><img src="{{ '/assets/images/marketplace-covers/44c0bbd9aee43afd6d8c.jpg' | relative_url }}" alt="Listing image for Ramstein Air Base Germany Sign Rusty Weathered Military Royal Air Force USAF" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">Ramstein Air Base Germany Sign Rusty Weathered Military Royal Air Force USAF</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Mildenhall RAF Air Force Base Sign Rusty Weathered Worn Military USA"><img src="{{ '/assets/images/marketplace-covers/a1c39eeb4277429f0d41.jpg' | relative_url }}" alt="Listing image for USAF Mildenhall RAF Air Force Base Sign Rusty Weathered Worn Military USA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">USAF Mildenhall RAF Air Force Base Sign Rusty Weathered Worn Military USA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Mildenhall RAF Air Force Base Sign Rusty Weathered Worn Military USA"><img src="{{ '/assets/images/marketplace-covers/a1c39eeb4277429f0d41.jpg' | relative_url }}" alt="Listing image for USAF Mildenhall RAF Air Force Base Sign Rusty Weathered Worn Military USA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">USAF Mildenhall RAF Air Force Base Sign Rusty Weathered Worn Military USA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remembrance Day Metal Sign Plaque Lest VE Forget Soldier England War Army Gift"><img src="{{ '/assets/images/marketplace-covers/7992add9d14cd4d8a5a7.jpg' | relative_url }}" alt="Listing image for Remembrance Day Metal Sign Plaque Lest VE Forget Soldier England War Army Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">Remembrance Day Metal Sign Plaque Lest VE Forget Soldier England War Army Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remembrance Day Metal Sign Plaque Lest VE Forget Soldier England War Army Gift"><img src="{{ '/assets/images/marketplace-covers/7992add9d14cd4d8a5a7.jpg' | relative_url }}" alt="Listing image for Remembrance Day Metal Sign Plaque Lest VE Forget Soldier England War Army Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">Remembrance Day Metal Sign Plaque Lest VE Forget Soldier England War Army Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Restricted Area Military Base Metal Sign Reproduction Military Base Metal Sign"><img src="{{ '/assets/images/marketplace-covers/d4cc19bdab9f6ca492d5.jpg' | relative_url }}" alt="Listing image for Restricted Area Military Base Metal Sign Reproduction Military Base Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">Restricted Area Military Base Metal Sign Reproduction Military Base Metal Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: military base sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Restricted Area Military Base Metal Sign Reproduction Military Base Metal Sign"><img src="{{ '/assets/images/marketplace-covers/d4cc19bdab9f6ca492d5.jpg' | relative_url }}" alt="Listing image for Restricted Area Military Base Metal Sign Reproduction Military Base Metal Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">Restricted Area Military Base Metal Sign Reproduction Military Base Metal Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military base sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: military base sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military base sign" data-ebay-reference="witnesses-how-much-should-military-witnesses-count-ufos-and-nuclear-weapons-military-base-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -761,7 +761,7 @@ For nuclear-UFO cases, that means the witness question should be framed carefull
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -781,7 +781,7 @@ For nuclear-UFO cases, that means the witness question should be framed carefull
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -813,7 +813,7 @@ For nuclear-UFO cases, that means the witness question should be framed carefull
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -865,7 +865,7 @@ For nuclear-UFO cases, that means the witness question should be framed carefull
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -910,7 +910,7 @@ For nuclear-UFO cases, that means the witness question should be framed carefull
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -951,171 +951,171 @@ For nuclear-UFO cases, that means the witness question should be framed carefull
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unclassified Final DSD AARO Historical Report...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unclassified Final DSD AARO Historical Report...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Incidente di Malmstrom  
-   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Malmstrom" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Malmstrom</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Incidente_di_Malmstrom" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Malmstrom</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: [Robertson Panel](&#123;&#123; 'robertson-panel/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/1968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1968.pdf</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2023/04/1968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/1968.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: college.police.uk  
    Title: effect visual distractors weapon focus effect eyewitness memory  
-   Link: <a href="https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory</a>  
+   Link:<a href="https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/research/projects/effect-visual-distractors-weapon-focus-effect-eyewitness-memory</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reports - The National Archives...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/7</a>  
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/7</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bpb-us-e2.wpmucdn.com  
    Title: Morgan Survival Eyewitness IJPL07  
-   Link: <a href="https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/07/Morgan_SurvivalEyewitness_IJPL07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/07/Morgan_SurvivalEyewitness_IJPL07.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BPB USdoi:10.1016/j.ijlp.2007.03.005...</p></details>
+   Link:<a href="https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/07/Morgan_SurvivalEyewitness_IJPL07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/c/571/files/2024/07/Morgan_SurvivalEyewitness_IJPL07.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BPB USdoi:10.1016/j.ijlp.2007.03.005...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dni.gov  
    Title: CI Reader Vol3  
-   Link: <a href="https://www.dni.gov/files/NCSC/documents/ci/CI_Reader_Vol3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/NCSC/documents/ci/CI_Reader_Vol3.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/NCSC/documents/ci/CI_Reader_Vol3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/NCSC/documents/ci/CI_Reader_Vol3.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dni.gov  
    Title: 3667 2022 annual report on unidentified aerial phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West eye witness memory military pilots UAP FIGHTER PILOT&#x27;S REACTION TO MICK WEST&#x27;S UFO DEBUNKINGS | Gimbal, Tic Tac, &amp; GoFast The Z...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West eye witness memory military pilots UAP FIGHTER PILOT&#x27;S REACTION TO MICK WEST&#x27;S UFO DEBUNKINGS | Gimbal, Tic Tac, &amp; GoFast The Z...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Government Breaks Silence: Strange Encounters | UFO's Investigating the Unknown  
-   Link: <a href="http://www.youtube.com/watch?v=hXO_RwR1UA8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hXO_RwR1UA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hXO_RwR1UA8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hXO_RwR1UA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown  
-   Link: <a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident: The Halt Tape...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest Incident: The Halt Tape...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XdAwIJbNeQE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XdAwIJbNeQE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Missile vs. UFO Video  
-   Link: <a href="http://www.youtube.com/watch?v=cTedmssoj24" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cTedmssoj24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West military eyewitness testimony reliability UFO Missile vs. UFO Video - A Quick Take Mick West...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=cTedmssoj24" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cTedmssoj24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West military eyewitness testimony reliability UFO Missile vs. UFO Video - A Quick Take Mick West...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx</a>  
+   Link:<a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  

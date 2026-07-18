@@ -490,7 +490,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262-overv
 
 ## Introduction
 
-Project Blue Book is central to the debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) because it is both the official archive and one of the main points of dispute. The US Air Force collected thousands of UFO reports between 1947 and 1969, including cases from military bases and Strategic Air Command environments, but its public conclusion was conservative: no investigated UFO was shown to threaten national security, represent technology beyond known science, or prove extraterrestrial vehicles. Of 12,618 reports, 701 remained “[unidentified]({{ 'unidentified/' | relative_url }})”, a category that meant unresolved within the file record, not automatically extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
+Project Blue Book is central to the debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) because it is both the official archive and one of the main points of dispute. The US Air Force collected thousands of UFO reports between 1947 and 1969, including cases from military bases and Strategic Air Command environments, but its public conclusion was conservative: no investigated UFO was shown to threaten national security, represent technology beyond known science, or prove extraterrestrial vehicles. Of 12,618 reports, 701 remained “[unidentified]({{ 'unidentified/' | relative_url }})”, a category that meant unresolved within the file record, not automatically extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
@@ -498,9 +498,9 @@ That distinction matters for nuclear-site reports. Blue Book records can confirm
 
 ## What Blue Book was built to decide
 
-Project Blue Book was not simply a curiosity file. It was created in the Cold War security environment, after earlier Air Force UFO projects, to answer two practical questions: whether UFO reports indicated a national-security problem, and whether the reports contained scientifically useful data. The project was headquartered at Wright-Patterson Air Force Base in Ohio and was terminated on 17 December 1969 after reviews including the University of Colorado’s UFO study and a National Academy of Sciences assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
+Project Blue Book was not simply a curiosity file. It was created in the Cold War security environment, after earlier Air Force UFO projects, to answer two practical questions: whether UFO reports indicated a national-security problem, and whether the reports contained scientifically useful data. The project was headquartered at Wright-Patterson Air Force Base in Ohio and was terminated on 17 December 1969 after reviews including the University of Colorado’s UFO study and a National Academy of Sciences assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
-The Air Force’s final public position was deliberately narrow. It did not say every case had been solved. It said that no UFO reported, investigated and evaluated by the Air Force had been shown to be a threat to national security; no report showed technological developments beyond contemporary scientific knowledge; and no report was evidence of extraterrestrial vehicles. That wording is important because it separates [unresolved]({{ 'unresolved/' | relative_url }}) files from dramatic conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
+The Air Force’s final public position was deliberately narrow. It did not say every case had been solved. It said that no UFO reported, investigated and evaluated by the Air Force had been shown to be a threat to national security; no report showed technological developments beyond contemporary scientific knowledge; and no report was evidence of extraterrestrial vehicles. That wording is important because it separates [unresolved]({{ 'unresolved/' | relative_url }}) files from dramatic conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
 For nuclear-site cases, this framing creates a tension that still drives the debate. A missile base report could be serious enough to enter official channels, but still end with a conventional or noncommittal finding. The Air Force treated “unidentified” as a residual category after available analysis, while many UFO researchers treat the same residual category as a sign that the official explanations failed. Both readings start from the same archive, but they apply different standards of inference.
 
@@ -508,9 +508,9 @@ For nuclear-site cases, this framing creates a tension that still drives the deb
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The numbers are useful, but easy to overread
 
-The headline figure — 12,618 reports, 701 unidentified — is often used as a shorthand for the Blue Book record. It is useful, but it can mislead if treated as a quality score. A case could remain unidentified because it involved strong multiple-witness evidence, but it could also remain unidentified because the report was too thin, too late, too ambiguous or lacking physical [corroboration]({{ 'corroboration/' | relative_url }}). The National Archives makes clear that Blue Book records are available for research on microfilm and that the project closed in 1969, meaning it has no official coverage of later sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span>
+The headline figure — 12,618 reports, 701 unidentified — is often used as a shorthand for the Blue Book record. It is useful, but it can mislead if treated as a quality score. A case could remain unidentified because it involved strong multiple-witness evidence, but it could also remain unidentified because the report was too thin, too late, too ambiguous or lacking physical [corroboration]({{ 'corroboration/' | relative_url }}). The National Archives makes clear that Blue Book records are available for research on microfilm and that the project closed in 1969, meaning it has no official coverage of later sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span>
 
-The archive is also not one single polished database. It includes textual case files, photographs filmed separately, motion-picture material, sound recordings and still pictures held in different archival branches. That matters because researchers reconstructing nuclear-site incidents often need to compare Blue Book case paperwork with base histories, Strategic Air Command communications, maintenance records, [radar]({{ 'radar/' | relative_url }}) material and later witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span>
+The archive is also not one single polished database. It includes textual case files, photographs filmed separately, motion-picture material, sound recordings and still pictures held in different archival branches. That matters because researchers reconstructing nuclear-site incidents often need to compare Blue Book case paperwork with base histories, Strategic Air Command communications, maintenance records, [radar]({{ 'radar/' | relative_url }}) material and later witness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span>
 
 A practical way to read Blue Book’s figures is this: the dataset shows that the Air Force preserved a large body of UFO reporting and left a minority unresolved, but the unresolved label is not a finding of alien origin, hostile intent or nuclear interference. It is a pointer to cases where the available file did not produce a settled identification.
 
@@ -518,7 +518,7 @@ A practical way to read Blue Book’s figures is this: the dataset shows that th
 
 Nuclear-site reports place extra weight on Blue Book because the setting changes the stakes. A strange light seen by a civilian witness may be filed as an observational puzzle. A strange light near an intercontinental ballistic missile field, bomber base or weapons storage environment raises additional questions about [airspace]({{ 'airspace/' | relative_url }}) security, sensor coverage, command procedures and whether sensitive systems were affected.
 
-The problem is that Blue Book was not always the only possible channel for information relevant to national security. UFO reports at bases could involve local command, the Office of Special Investigations, Strategic Air Command and other security procedures before or alongside Blue Book. The Air Force Office of Special Investigations has described how agents documented and investigated UFO sightings from 1948 into the late 1960s, with files later declassified and sent to the National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[Office of Special Investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Office of Special InvestigationsProject Blue Book Part 1 (UFO Reports)August 6, 2020 — 6 Aug 2020 — The reports revealed that OSI agents...</span><span class="citation-popover-meta">Published: August 6, 2020</span></span></span>
+The problem is that Blue Book was not always the only possible channel for information relevant to national security. UFO reports at bases could involve local command, the Office of Special Investigations, Strategic Air Command and other security procedures before or alongside Blue Book. The Air Force Office of Special Investigations has described how agents documented and investigated UFO sightings from 1948 into the late 1960s, with files later declassified and sent to the National Archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[Office of Special Investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Office of Special InvestigationsProject Blue Book Part 1 (UFO Reports)August 6, 2020 — 6 Aug 2020 — The reports revealed that OSI agents...</span><span class="citation-popover-meta">Published: August 6, 2020</span></span></span>
 
 This helps explain why nuclear-UFO researchers often argue that Blue Book alone is incomplete. They are not always claiming that Blue Book invented its conclusions; more often, they claim that the project’s public case files were not designed to capture the full operational picture at sensitive installations. A missile malfunction, a security response, a radar track and a witness questionnaire might sit in different records, and some parts might be absent, redacted or never forwarded.
 
@@ -527,19 +527,19 @@ This helps explain why nuclear-UFO researchers often argue that Blue Book alone 
 
 ## Malmstrom shows the gap between a real incident and a UFO claim
 
-The 1967 Malmstrom Air Force Base story is the best-known nuclear-UFO case, but it also shows why Blue Book-related evidence must be handled carefully. The strongest official record confirms a serious missile alert problem: Echo Flight at Malmstrom suffered a near-simultaneous “No-Go” condition across its launch facilities. The same Air Force-linked record states that rumours of UFOs around Echo Flight at the time of the fault were disproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The 1967 Malmstrom Air Force Base story is the best-known nuclear-UFO case, but it also shows why Blue Book-related evidence must be handled carefully. The strongest official record confirms a serious missile alert problem: Echo Flight at Malmstrom suffered a near-simultaneous “No-Go” condition across its launch facilities. The same Air Force-linked record states that rumours of UFOs around Echo Flight at the time of the fault were disproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-That creates a split between two evidential layers. The missile malfunction is documented. The UFO interpretation depends on later claims, witness recollections and arguments about whether different flight areas, dates or reports were conflated. Robert Salas and other former Air Force personnel later described UFO sightings associated with missile shutdowns, but the contemporaneous Echo Flight documentation does not present UFO activity as the cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+That creates a split between two evidential layers. The missile malfunction is documented. The UFO interpretation depends on later claims, witness recollections and arguments about whether different flight areas, dates or reports were conflated. Robert Salas and other former Air Force personnel later described UFO sightings associated with missile shutdowns, but the contemporaneous Echo Flight documentation does not present UFO activity as the cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 For this page’s purpose, the key point is not to settle Malmstrom as a whole. It is to show how Blue Book-era records can both support and constrain a nuclear-site narrative. They support it by proving that sensitive military incidents and UFO rumours entered the historical record. They constrain it by showing that official files may confirm the setting and malfunction while rejecting, omitting or failing to substantiate the extraordinary link.
 
 ## Minot is the stronger example of a Blue Book nuclear-site file
 
-The 24 October 1968 Minot Air Force Base case is especially important because it sits more squarely inside the Blue Book paper trail. It involved reports from a Strategic Air Command base in North Dakota, including B-52 crew observations and activity around a missile complex environment. Research collections on the case identify Project Blue Book records, radar-related materials, photographs, maps, questionnaires and memoranda connected to the investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER...Documents related to the UFO sighting at Minot Air Force Base on...</span></span></span>
+The 24 October 1968 Minot Air Force Base case is especially important because it sits more squarely inside the Blue Book paper trail. It involved reports from a Strategic Air Command base in North Dakota, including B-52 crew observations and activity around a missile complex environment. Research collections on the case identify Project Blue Book records, radar-related materials, photographs, maps, questionnaires and memoranda connected to the investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER...Documents related to the UFO sighting at Minot Air Force Base on...</span></span></span>
 
-The Minot documentation is valuable because it shows the machinery of official investigation in motion. The base UFO investigating officer, Lt Col Arthur Werlich, reported the events, compiled witness material and communicated with Blue Book personnel. Strategic Air Command officers also contacted Blue Book staff about investigation procedures, indicating that the case was not merely a casual sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER...Documents related to the UFO sighting at Minot Air Force Base on...</span></span></span>
+The Minot documentation is valuable because it shows the machinery of official investigation in motion. The base UFO investigating officer, Lt Col Arthur Werlich, reported the events, compiled witness material and communicated with Blue Book personnel. Strategic Air Command officers also contacted Blue Book staff about investigation procedures, indicating that the case was not merely a casual sighting report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER...Documents related to the UFO sighting at Minot Air Force Base on...</span></span></span>
 
-Researchers continue to challenge the adequacy of Blue Book’s handling of Minot because the case included multiple witnesses, aircraft observations and radar questions. Specialist reconstructions argue that the transactional documents alone ran to dozens of pages and that Blue Book’s final treatment did not fully resolve the reported sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
+Researchers continue to challenge the adequacy of Blue Book’s handling of Minot because the case included multiple witnesses, aircraft observations and radar questions. Specialist reconstructions argue that the transactional documents alone ran to dozens of pages and that Blue Book’s final treatment did not fully resolve the reported sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
 Minot therefore illustrates the strongest use of Blue Book in the nuclear-UFO debate: not as a smoking gun, but as a case file dense enough to test competing explanations. A reader can ask whether the official explanation accounts for the witness timing, aircraft position, radar information and base communications. That is a more disciplined question than asking whether the case “proves UFOs visited a nuclear site”.
 
@@ -553,9 +553,9 @@ Three criticisms matter most for nuclear-site reports.
 
 **First, “unidentified” did not always mean deeply investigated.** Some cases were limited by poor data, delayed reporting or inadequate follow-up. This cuts both ways: it weakens dramatic claims as well as official certainty.
 
-**Second, sensitive military contexts may have produced incomplete public files.** A UFO report near a nuclear asset could overlap with classified systems, security procedures or operational concerns that Blue Book’s public-facing files did not fully describe. The National Archives confirms the availability of declassified Blue Book records, but declassification of a project archive does not guarantee that every operational record from every related command was included in it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span>
+**Second, sensitive military contexts may have produced incomplete public files.** A UFO report near a nuclear asset could overlap with classified systems, security procedures or operational concerns that Blue Book’s public-facing files did not fully describe. The National Archives confirms the availability of declassified Blue Book records, but declassification of a project archive does not guarantee that every operational record from every related command was included in it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the custody of the National Archiv...</span></span></span>
 
-**Third, Blue Book’s public role created distrust.** The project had to investigate reports while also reassuring the public that UFOs were not a demonstrated threat. That dual role made later readers suspicious of dismissive conclusions, especially in cases involving trained [military witnesses]({{ 'witnesses/' | relative_url }}) or nuclear facilities. The Air Force’s final conclusion may be accurate as a legal and evidential statement, but it did not persuade everyone that the most difficult files had been fully explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
+**Third, Blue Book’s public role created distrust.** The project had to investigate reports while also reassuring the public that UFOs were not a demonstrated threat. That dual role made later readers suspicious of dismissive conclusions, especially in cases involving trained [military witnesses]({{ 'witnesses/' | relative_url }}) or nuclear facilities. The Air Force’s final conclusion may be accurate as a legal and evidential statement, but it did not persuade everyone that the most difficult files had been fully explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
@@ -583,9 +583,9 @@ The first two can sometimes be supported by records. The third requires the stro
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_project_blue_book_07c262-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most defensible reading
 
-Project Blue Book does not validate the strongest claim in the nuclear-UFO debate: that unknown craft demonstrably disabled or controlled US nuclear weapons. Its official conclusions point the other way, and its unresolved cases are not proof of extraordinary technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
+Project Blue Book does not validate the strongest claim in the nuclear-UFO debate: that unknown craft demonstrably disabled or controlled US nuclear weapons. Its official conclusions point the other way, and its unresolved cases are not proof of extraordinary technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
-But the archive also should not be dismissed as irrelevant. It shows that UFO reports were collected inside the Air Force system during the same period in which nuclear missile fields, bomber bases and Strategic Air Command facilities were among the most sensitive military environments in the world. In cases such as Minot, the surviving paperwork is substantial enough to support serious historical review. In cases such as Malmstrom, the records confirm a major missile malfunction while leaving the UFO connection contested rather than established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER...Documents related to the UFO sighting at Minot Air Force Base on...</span></span></span>
+But the archive also should not be dismissed as irrelevant. It shows that UFO reports were collected inside the Air Force system during the same period in which nuclear missile fields, bomber bases and Strategic Air Command facilities were among the most sensitive military environments in the world. In cases such as Minot, the surviving paperwork is substantial enough to support serious historical review. In cases such as Malmstrom, the records confirm a major missile malfunction while leaving the UFO connection contested rather than established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO case &#124; 24 OCTOBER...Documents related to the UFO sighting at Minot Air Force Base on...</span></span></span>
 
 The strongest conclusion is therefore narrow but important: Project Blue Book records are a valuable evidential baseline for nuclear-site UFO reports, not a conclusive answer to them. They show what the Air Force officially collected, how it classified reports, and why the public conclusion rejected threat or alien interpretations. They also reveal why researchers keep returning to the files: the most interesting nuclear-site cases live in the space between documented military events, incomplete public records and claims that official explanations did not fully account for what witnesses reported.
 
@@ -594,194 +594,194 @@ The strongest conclusion is therefore narrow but important: Project Blue Book re
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Project Blue Book Actually Said. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Project Blue Book Actually Said. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses Blue Book methods, conclusions and criticisms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses Blue Book methods, conclusions and criticisms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains UFO case classification and Hynek&#x27;s evolving view of Blue Book data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains UFO case classification and Hynek&#x27;s evolving view of Blue Book data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Focuses on the archive and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on the archive and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines military and government UFO evidence beyond Blue Book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military and government UFO evidence beyond Blue Book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Boulton Paul Defiant canvas prints various sizes"><img src="{{ '/assets/images/marketplace-covers/317ccf4ef36b17e0a165.jpg' | relative_url }}" alt="Listing image for RAF Boulton Paul Defiant canvas prints various sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAF Boulton Paul Defiant canvas prints various sizes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Boulton Paul Defiant canvas prints various sizes"><img src="{{ '/assets/images/marketplace-covers/317ccf4ef36b17e0a165.jpg' | relative_url }}" alt="Listing image for RAF Boulton Paul Defiant canvas prints various sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">RAF Boulton Paul Defiant canvas prints various sizes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation print">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation print" data-ebay-reference="blue-book-what-project-blue-book-actually-said-ufos-and-nuclear-weapons-military-aviation-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -797,7 +797,7 @@ The strongest conclusion is therefore narrow but important: Project Blue Book re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -817,7 +817,7 @@ The strongest conclusion is therefore narrow but important: Project Blue Book re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -849,7 +849,7 @@ The strongest conclusion is therefore narrow but important: Project Blue Book re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -901,7 +901,7 @@ The strongest conclusion is therefore narrow but important: Project Blue Book re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -946,7 +946,7 @@ The strongest conclusion is therefore narrow but important: Project Blue Book re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -987,159 +987,159 @@ The strongest conclusion is therefore narrow but important: Project Blue Book re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the [custody](&amp;#123;&amp;#123; &#x27;custody/&#x27; | relative_url &amp;#125;&amp;#125;) of the National Archiv...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe United States Air Force retired to the [custody](&amp;#123;&amp;#123; &#x27;custody/&#x27; | relative_url &amp;#125;&amp;#125;) of the National Archiv...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+   Link:<a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+   Link:<a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
-   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
+   Link:<a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/80003091/UFOCRITIQUE_UFOs_Social_Intelligence_and_the_Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/80003091/UFOCRITIQUE_UFOs_Social_Intelligence_and_the_Condon_Committee</a>  
+   Link:<a href="https://www.academia.edu/80003091/UFOCRITIQUE_UFOs_Social_Intelligence_and_the_Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/80003091/UFOCRITIQUE_UFOs_Social_Intelligence_and_the_Condon_Committee</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: af.mil  
    Title: The project, headquartered at Wright-Patterson Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: osi.af.mil  
-   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Special InvestigationsProject Blue Book Part 1 (UFO Reports)August 6, 2020 — 6 Aug 2020 — The reports revealed that OSI agents...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Special InvestigationsProject Blue Book Part 1 (UFO Reports)August 6, 2020 — 6 Aug 2020 — The reports revealed that OSI agents...</p></details>
    Published: August 6, 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseDocumentation | The Minot AFB UFO case | 24 OCTOBER...Documents related to the UFO sighting at Minot Air Force Base on...</p></details>
+   Link:<a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseDocumentation | The Minot AFB UFO case | 24 OCTOBER...Documents related to the UFO sighting at Minot Air Force Base on...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/pdf/POHER_Report.pdf</a>  
+   Link:<a href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/pdf/POHER_Report.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=meAZ_NLC7fQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=meAZ_NLC7fQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Malmstrom Incident! How a UFO Disabled 10 Nuclear Missiles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Malmstrom Incident! How a UFO Disabled 10 Nuclear Missiles...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Missile Malfunction | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nscs8i/youve_been_lied_to_australian_intel_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nscs8i/youve_been_lied_to_australian_intel_report/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1nscs8i/youve_been_lied_to_australian_intel_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nscs8i/youve_been_lied_to_australian_intel_report/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/enknowledgepedia.enknowledgepedia/posts/did-you-know-the-us-air-force-admitted-701-ufos-were-unexplainableproject-blue-b/1246197217370634/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/enknowledgepedia.enknowledgepedia/posts/did-you-know-the-us-air-force-admitted-701-ufos-were-unexplainableproject-blue-b/1246197217370634/</a>  
+   Link:<a href="https://www.facebook.com/enknowledgepedia.enknowledgepedia/posts/did-you-know-the-us-air-force-admitted-701-ufos-were-unexplainableproject-blue-b/1246197217370634/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/enknowledgepedia.enknowledgepedia/posts/did-you-know-the-us-air-force-admitted-701-ufos-were-unexplainableproject-blue-b/1246197217370634/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXXUvi4DxI0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXXUvi4DxI0/</a>  
+   Link:<a href="https://www.instagram.com/p/DXXUvi4DxI0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXXUvi4DxI0/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: docsteach.org  
-   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
+   Link:<a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  

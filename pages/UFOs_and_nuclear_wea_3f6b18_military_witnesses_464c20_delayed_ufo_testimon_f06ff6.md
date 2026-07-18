@@ -268,7 +268,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_dela
 
 ## Introduction
 
-Many of the most famous claims linking UFOs to nuclear weapons did not become widely known when the alleged events occurred. Instead, they emerged years or even decades later through interviews, books, documentaries and conference appearances. This delay does not automatically make the witnesses unreliable. Military personnel often worked in highly classified environments, worried about career consequences, or assumed that unusual incidents would remain secret. However, long gaps between an event and public testimony create a difficult problem for investigators: memories change, stories accumulate new details, and later information can become mixed with original recollections. Research on eyewitness memory shows that repeated retelling, discussion with other witnesses and exposure to later narratives can alter what people remember while leaving them highly confident in those memories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Nature+3PMC+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</span></span></span>
+Many of the most famous claims linking UFOs to nuclear weapons did not become widely known when the alleged events occurred. Instead, they emerged years or even decades later through interviews, books, documentaries and conference appearances. This delay does not automatically make the witnesses unreliable. Military personnel often worked in highly classified environments, worried about career consequences, or assumed that unusual incidents would remain secret. However, long gaps between an event and public testimony create a difficult problem for investigators: memories change, stories accumulate new details, and later information can become mixed with original recollections. Research on eyewitness memory shows that repeated retelling, discussion with other witnesses and exposure to later narratives can alter what people remember while leaving them highly confident in those memories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Nature+3PMC+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_delayed_ufo_testimon_f06ff6-Illustration-1-dark.svg" | relative_url }}" alt="Late Accounts illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_delayed_ufo_testimon_f06ff6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_delayed_ufo_testimon_f06ff6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,24 +278,24 @@ In the nuclear-UFO field, this issue is especially important because many claims
 
 A common misunderstanding is that a late disclosure automatically suggests invention. In reality, there are several reasons why military personnel might wait years before discussing an unusual event.
 
-During the Cold War, personnel assigned to nuclear forces operated within strict [secrecy]({{ 'secrecy/' | relative_url }}) systems. Security procedures discouraged open discussion of unusual incidents, particularly those involving missile operations, weapons storage areas or command-and-control systems. Witnesses could also fear ridicule from colleagues or damage to their careers if they reported something that sounded extraordinary. These social pressures help explain why some accounts surfaced only after retirement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
+During the Cold War, personnel assigned to nuclear forces operated within strict [secrecy]({{ 'secrecy/' | relative_url }}) systems. Security procedures discouraged open discussion of unusual incidents, particularly those involving missile operations, weapons storage areas or command-and-control systems. Witnesses could also fear ridicule from colleagues or damage to their careers if they reported something that sounded extraordinary. These social pressures help explain why some accounts surfaced only after retirement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
 
 The problem is that silence protects neither memory nor evidence. As years pass, people lose access to notebooks, logs and operational records. Fellow witnesses die, retire or become difficult to locate. The resulting testimony may be sincere while still being harder to verify than a report made at the time.
 
-The history of the Malmstrom missile shutdown claims illustrates this tension. The alleged UFO connection became publicly prominent decades after the 1967 missile malfunction. Former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) first brought the story to broader public attention in the 1990s, long after the original event. By then, memories, records and interpretations had already passed through many years of discussion and reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The history of the Malmstrom missile shutdown claims illustrates this tension. The alleged UFO connection became publicly prominent decades after the 1967 missile malfunction. Former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) first brought the story to broader public attention in the 1990s, long after the original event. By then, memories, records and interpretations had already passed through many years of discussion and reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X2c3_vG7yhs" title="Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer">Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 332.0K &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X2c3_vG7yhs">Open on YouTube</a></p></div></div></div>
 
 ## How retelling changes the story
 
-Memory is not a recording. Modern psychological research consistently finds that recall is reconstructive. Each act of remembering can strengthen some details, weaken others and incorporate new information acquired after the event. Exposure to discussion, media coverage or other witnesses can reshape recollections without the witness intending to mislead anyone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</span></span></span>
+Memory is not a recording. Modern psychological research consistently finds that recall is reconstructive. Each act of remembering can strengthen some details, weaken others and incorporate new information acquired after the event. Exposure to discussion, media coverage or other witnesses can reshape recollections without the witness intending to mislead anyone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</span></span></span>
 
 Several mechanisms are particularly relevant to long-running UFO narratives:
 
-* **Co-witness influence:** People who discuss an event often begin to share details that were originally remembered by only one participant. Studies have repeatedly found that witnesses can absorb information from one another and later remember it as their own observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</span></span></span>
-* **Repeated recall effects:** Retelling a story many times can increase confidence in the memory even when parts of the account become less accurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEyewitness accuracy and retrieval effort: Effects of time</span><span class="citation-popover-snippet">by PU Gustafsson · 2022 · Cited by 21 — The major goal of the current study was to examine how time and repetition might influence the...</span></span></span>
-* **Media feedback:** Books, documentaries and interviews can introduce new interpretations that become attached to older memories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Misinformation Effects on Eyewitness MemoryThe misinformation effect describes how exposure to inaccurate or leading post-event inf...</span></span></span>
+* **Co-witness influence:** People who discuss an event often begin to share details that were originally remembered by only one participant. Studies have repeatedly found that witnesses can absorb information from one another and later remember it as their own observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</span></span></span>
+* **Repeated recall effects:** Retelling a story many times can increase confidence in the memory even when parts of the account become less accurate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEyewitness accuracy and retrieval effort: Effects of time</span><span class="citation-popover-snippet">by PU Gustafsson · 2022 · Cited by 21 — The major goal of the current study was to examine how time and repetition might influence the...</span></span></span>
+* **Media feedback:** Books, documentaries and interviews can introduce new interpretations that become attached to older memories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Misinformation Effects on Eyewitness MemoryThe misinformation effect describes how exposure to inaccurate or leading post-event inf...</span></span></span>
 * **Narrative smoothing:** Over time, people naturally organise fragmented experiences into coherent stories. Ambiguous details may become clearer in memory than they were during the actual event.
 
 These effects do not prove that any specific UFO witness is mistaken. They simply explain why investigators place special value on accounts recorded close to the time of the incident.
@@ -304,7 +304,7 @@ These effects do not prove that any specific UFO witness is mistaken. They simpl
 
 One recurring pattern in UFO history is the expansion of narratives over time. Initial reports may describe lights, unusual movements or operational concerns. Later versions sometimes include additional observations, interpretations or connections that were absent from early records.
 
-The phenomenon is not unique to UFOs. Memory researchers have found that people often become more certain about reconstructed details after repeated recall. Confidence and accuracy are related, but they are not identical. A witness can honestly believe a detail that was added through years of reconstruction rather than direct observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEyewitness accuracy and retrieval effort: Effects of time</span><span class="citation-popover-snippet">by PU Gustafsson · 2022 · Cited by 21 — The major goal of the current study was to examine how time and repetition might influence the...</span></span></span>
+The phenomenon is not unique to UFOs. Memory researchers have found that people often become more certain about reconstructed details after repeated recall. Confidence and accuracy are related, but they are not identical. A witness can honestly believe a detail that was added through years of reconstruction rather than direct observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEyewitness accuracy and retrieval effort: Effects of time</span><span class="citation-popover-snippet">by PU Gustafsson · 2022 · Cited by 21 — The major goal of the current study was to examine how time and repetition might influence the...</span></span></span>
 
 For nuclear-UFO cases, this means that investigators should pay attention not only to what a witness says, but also to when a particular detail first appears in the historical record.
 
@@ -326,7 +326,7 @@ In UFO cases connected to military facilities, useful records can include:
 
 Such material can establish dates, locations and operational consequences. It can also reveal whether particular claims appeared immediately or emerged much later.
 
-The [Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest incident is often discussed because it contains both later testimony and some contemporaneous documentation. Lieutenant Colonel Charles Halt's memorandum and recorded observations provide evidence that unusual lights were reported at the time. At the same time, later witness recollections sometimes contain details not present in the earliest records, creating ongoing debates about which elements belong to the original event and which developed later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">January 26, 2005 — The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suff...</span><span class="citation-popover-meta">Published: January 26, 2005</span></span></span>
+The [Rendlesham]({{ 'rendlesham/' | relative_url }}) Forest incident is often discussed because it contains both later testimony and some contemporaneous documentation. Lieutenant Colonel Charles Halt's memorandum and recorded observations provide evidence that unusual lights were reported at the time. At the same time, later witness recollections sometimes contain details not present in the earliest records, creating ongoing debates about which elements belong to the original event and which developed later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">January 26, 2005 — The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suff...</span><span class="citation-popover-meta">Published: January 26, 2005</span></span></span>
 
 Early records are valuable, but they have limits. They may be incomplete, classified, lost or focused on operational matters rather than unusual observations. A maintenance report can confirm that missiles malfunctioned without revealing what personnel believed they saw in the sky. Conversely, a witness may recall an unusual sighting that never appeared in formal paperwork. Neither source type automatically overrides the other.
 
@@ -335,9 +335,9 @@ Early records are valuable, but they have limits. They may be incomplete, classi
 
 ## The Malmstrom example and the problem of historical reconstruction
 
-The Malmstrom missile shutdown story demonstrates why delayed testimony remains controversial. There is no dispute that a significant missile malfunction occurred in 1967. The debate centres on whether UFO reports were connected to that malfunction and how confidently that connection can be established decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The Malmstrom missile shutdown story demonstrates why delayed testimony remains controversial. There is no dispute that a significant missile malfunction occurred in 1967. The debate centres on whether UFO reports were connected to that malfunction and how confidently that connection can be established decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-Official records from the period reported missile [failures]({{ 'failures/' | relative_url }}) and stated that rumours connecting the event to UFO activity had been investigated and not substantiated. Later witnesses described unusual aerial objects and argued that the two events were linked. Critics countered that the connection emerged through retrospective interpretation rather than contemporaneous evidence. More recently, Pentagon-related investigations have suggested that some longstanding UFO narratives may have been influenced by secrecy surrounding classified programmes and tests, further complicating efforts to reconstruct events many decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+Official records from the period reported missile [failures]({{ 'failures/' | relative_url }}) and stated that rumours connecting the event to UFO activity had been investigated and not substantiated. Later witnesses described unusual aerial objects and argued that the two events were linked. Critics countered that the connection emerged through retrospective interpretation rather than contemporaneous evidence. More recently, Pentagon-related investigations have suggested that some longstanding UFO narratives may have been influenced by secrecy surrounding classified programmes and tests, further complicating efforts to reconstruct events many decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 The key historical lesson is not that one side must be correct and the other wrong. It is that reconstructing a complex event after thirty, forty or fifty years is inherently difficult. Every year that passes increases the distance between the original experience and the story available to researchers.
 
@@ -346,7 +346,7 @@ The key historical lesson is not that one side must be correct and the other wro
 
 ## Why age alone does not settle credibility
 
-Old testimony should neither be accepted uncritically nor dismissed automatically. A witness may provide accurate information decades after an event, especially about major operational facts that were important at the time. At the same time, memory science suggests caution regarding precise timings, conversations, sequences and interpretations that emerged only after long periods of retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</span></span></span>
+Old testimony should neither be accepted uncritically nor dismissed automatically. A witness may provide accurate information decades after an event, especially about major operational facts that were important at the time. At the same time, memory science suggests caution regarding precise timings, conversations, sequences and interpretations that emerged only after long periods of retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</span></span></span>
 
 For readers evaluating nuclear-UFO claims, the most useful question is often not whether a witness is honest, but how closely the testimony can be tied to records created near the event itself. The shorter the gap between observation and documentation, the easier a story is to test. The longer the gap, the more difficult it becomes to separate original observation from years of memory, discussion, rumour and interpretation.
 
@@ -354,194 +354,194 @@ For readers evaluating nuclear-UFO claims, the most useful question is often not
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_delayed_ufo_testimon_f06ff6-Illustration-3-dark.svg" | relative_url }}" alt="Late Accounts illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_delayed_ufo_testimon_f06ff6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_delayed_ufo_testimon_f06ff6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why old UFO memories become harder to test. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why old UFO memories become harder to test. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains testimony-based UFO cases and discussion of witness credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains testimony-based UFO cases and discussion of witness credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains memory reconstruction, self-justification and confidence in recollections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains memory reconstruction, self-justification and confidence in recollections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how people form and defend beliefs from limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how people form and defend beliefs from limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes critical evaluation of extraordinary claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes critical evaluation of extraordinary claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vickers Supermarine Spirfire A3 Prints Posters Aviation Planes Artwork Wall Art"><img src="{{ '/assets/images/marketplace-covers/7fa08baa0408fbab3053.jpg' | relative_url }}" alt="Listing image for Vickers Supermarine Spirfire A3 Prints Posters Aviation Planes Artwork Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vickers Supermarine Spirfire A3 Prints Posters Aviation Planes Artwork Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vickers Supermarine Spirfire A3 Prints Posters Aviation Planes Artwork Wall Art"><img src="{{ '/assets/images/marketplace-covers/7fa08baa0408fbab3053.jpg' | relative_url }}" alt="Listing image for Vickers Supermarine Spirfire A3 Prints Posters Aviation Planes Artwork Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vickers Supermarine Spirfire A3 Prints Posters Aviation Planes Artwork Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for English Electric Lightning | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/2ef6e962ccd1a838b6f3.jpg' | relative_url }}" alt="Listing image for English Electric Lightning | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">English Electric Lightning | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for English Electric Lightning | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/2ef6e962ccd1a838b6f3.jpg' | relative_url }}" alt="Listing image for English Electric Lightning | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">English Electric Lightning | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/f73ad7212afd73b6d4d7.jpg' | relative_url }}" alt="Listing image for Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/f73ad7212afd73b6d4d7.jpg' | relative_url }}" alt="Listing image for Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Boeing Aviation Vintage Style Set Of 4 Prints Pictures Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: military aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="{{ '/assets/images/marketplace-covers/8fbcbea64b649a042974.jpg' | relative_url }}" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for military aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: military aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=military+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aviation poster" data-ebay-reference="late-accounts-why-old-ufo-memories-become-harder-to-test-ufos-and-nuclear-weapons-military-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For readers evaluating nuclear-UFO claims, the most useful question is often not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For readers evaluating nuclear-UFO claims, the most useful question is often not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For readers evaluating nuclear-UFO claims, the most useful question is often not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For readers evaluating nuclear-UFO claims, the most useful question is often not
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For readers evaluating nuclear-UFO claims, the most useful question is often not
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,136 +747,136 @@ For readers evaluating nuclear-UFO claims, the most useful question is often not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOnline misinformation can distort witnesses' memories  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — Eyewitness memory distortion following co-witness discussion: a replication of Garry, French, Kinzett...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEyewitness accuracy and retrieval effort: Effects of time  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PU Gustafsson · 2022 · Cited by 21 — The major goal of the current study was to examine how time and repetition might influence the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by PU Gustafsson · 2022 · Cited by 21 — The major goal of the current study was to examine how time and repetition might influence the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/51588003_The_Dark_Side_of_Testing_Memory_Repeated_Retrieval_Can_Enhance_Eyewitness_Suggestibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51588003_The_Dark_Side_of_Testing_Memory_Repeated_Retrieval_Can_Enhance_Eyewitness_Suggestibility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Such repeated retrieval can enhance memory retention of the witnessed event.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/51588003_The_Dark_Side_of_Testing_Memory_Repeated_Retrieval_Can_Enhance_Eyewitness_Suggestibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51588003_The_Dark_Side_of_Testing_Memory_Repeated_Retrieval_Can_Enhance_Eyewitness_Suggestibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Such repeated retrieval can enhance memory retention of the witnessed event.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effects on Eyewitness MemoryThe misinformation effect describes how exposure to inaccurate or leading post-event inf...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effects on Eyewitness MemoryThe misinformation effect describes how exposure to inaccurate or leading post-event inf...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/329007601_Eyewitness_Memory_Distortion_Following_Co-Witness_Discussion_A_Replication_of_Garry_French_Kinzett_and_Mori_2008_in_Ten_Countries" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329007601_Eyewitness_Memory_Distortion_Following_Co-Witness_Discussion_A_Replication_of_Garry_French_Kinzett_and_Mori_2008_in_Ten_Countries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2008) experiment using the same procedure and materials and similar instructions in 10 countries.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329007601_Eyewitness_Memory_Distortion_Following_Co-Witness_Discussion_A_Replication_of_Garry_French_Kinzett_and_Mori_2008_in_Ten_Countries" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329007601_Eyewitness_Memory_Distortion_Following_Co-Witness_Discussion_A_Replication_of_Garry_French_Kinzett_and_Mori_2008_in_Ten_Countries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2008) experiment using the same procedure and materials and similar instructions in 10 countries.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness accuracy and retrieval effort: Effects of time and...7 Sept 2022 — We also measured confidence, and found that confidence als...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363373522_Eyewitness_accuracy_and_retrieval_effort_Effects_of_time_and_repetition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness accuracy and retrieval effort: Effects of time and...7 Sept 2022 — We also measured confidence, and found that confidence als...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 26, 2005 — The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suff...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 26, 2005 — The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suff...</p></details>
    Published: January 26, 2005  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A2961929/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A2961929/view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsEyewitness confidence: the relation between accuracy and...10 Nov 2008 — Chapter 2 presents an experimental study...</p></details>
+   Link:<a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A2961929/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A2961929/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsEyewitness confidence: the relation between accuracy and...10 Nov 2008 — Chapter 2 presents an experimental study...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3489002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3489002/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Children&#x27;s Testimony in the Era of Developmental...by CJ Brainerd · 2012 · Cited by 128 — A hoary assumption of the law is that child...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3489002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3489002/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Children&#x27;s Testimony in the Era of Developmental...by CJ Brainerd · 2012 · Cited by 128 — A hoary assumption of the law is that child...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3183109/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3183109/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>distortion: an adaptive perspective - PMC - NIHby DL Schacter · 2011 · Cited by 751 — In the present article, we consider three domains i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3183109/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3183109/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>distortion: an adaptive perspective - PMC - NIHby DL Schacter · 2011 · Cited by 751 — In the present article, we consider three domains i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Findings from basic psychological research and n...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4183265/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neuroscience of Memory: Implications for the Courtroomby JW Lacy · 2013 · Cited by 262 — Findings from basic psychological research and n...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory - Oxford Academic22 Mar 2023 — A failed memory search on a first test of recall does not contaminate memory because nothing happen...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/62246/chapter/550960878?searchresult=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory - Oxford Academic22 Mar 2023 — A failed memory search on a first test of recall does not contaminate memory because nothing happen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt. (USAF deputy base co...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastA summary of the events were included in a famous memo to the MoD by Lt Col Charles Halt. (USAF deputy base co...</p></details>
    Published: August 2009  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesOther studies have shown that misinformation can corrupt memory even more easily when it is encount...</p></details>
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesOther studies have shown that misinformation can corrupt memory even more easily when it is encount...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/false-memory-syndrome-false-confessions-memories" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/false-memory-syndrome-false-confessions-memories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Julia Shaw, a criminal psychologist, and Elizabeth Loftus, a cognitive psychologist, have conducted extensive research showing that h...</p></details>
+   Link:<a href="https://www.wired.com/story/false-memory-syndrome-false-confessions-memories" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/false-memory-syndrome-false-confessions-memories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Julia Shaw, a criminal psychologist, and Elizabeth Loftus, a cognitive psychologist, have conducted extensive research showing that h...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychstory.co.uk  
-   Link: <a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyExplore the fascinating research by Elizabeth Loftus on eyewitness testimony and h...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyExplore the fascinating research by Elizabeth Loftus on eyewitness testimony and h...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ianridpath.com  
-   Link: <a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
+   Link:<a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DN5PlafEvi9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN5PlafEvi9/</a>  
+   Link:<a href="https://www.instagram.com/reel/DN5PlafEvi9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DN5PlafEvi9/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: Sauerland 2018 The effects of co witness discussion on confidence  
-   Link: <a href="https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — It is a well-established finding in the eyewitn...</p></details>
+   Link:<a href="https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — It is a well-established finding in the eyewitn...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
    Title: the rendlesham forest mystery its the perfect storm of a ufo case  
-   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a...30 Apr 2026 — In 1980, two US airmen reported an extraordinary encounter n...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: meer.com  
    Title: 74766 the malmstrom nuclear ufo incident 1967 returns  
-   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Multiple Air Force veterans, including disclosure advocate Robert Bob Sala...</p></details>
+   Link:<a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Multiple Air Force veterans, including disclosure advocate Robert Bob Sala...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ralph Kirchoff. The designated Minot AFB UFO investigating officer...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ralph Kirchoff. The designated Minot AFB UFO investigating officer...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rodj6x/air_force_guard_richard_barth_breaks_60_years_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rodj6x/air_force_guard_richard_barth_breaks_60_years_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Os and Nukes) and the eighth to describe an abduction during a...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rodj6x/air_force_guard_richard_barth_breaks_60_years_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rodj6x/air_force_guard_richard_barth_breaks_60_years_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Os and Nukes) and the eighth to describe an abduction during a...Read more...</p></details>

@@ -280,37 +280,37 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_rada
 
 ## Introduction
 
-The dispute over Echo Flight is often framed as a clash between a documented missile malfunction and later reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects. Less attention is given to a narrower but crucial question: what did the people responsible for security and surveillance actually record on the morning of 16 March 1967? The official record contains two specific checks that have become central to the debate. A Mobile Strike Team operating in the missile field reported no unusual activity, and the 801st [Radar]({{ 'radar/' | relative_url }}) Squadron at Malmstrom Air Force Base reported no radar or atmospheric anomalies connected to Echo Flight. These negative findings matter because they are among the few contemporaneous observations directly addressing whether anything unusual was detected near the missile sites at the time of the shutdown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
+The dispute over Echo Flight is often framed as a clash between a documented missile malfunction and later reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects. Less attention is given to a narrower but crucial question: what did the people responsible for security and surveillance actually record on the morning of 16 March 1967? The official record contains two specific checks that have become central to the debate. A Mobile Strike Team operating in the missile field reported no unusual activity, and the 801st [Radar]({{ 'radar/' | relative_url }}) Squadron at Malmstrom Air Force Base reported no radar or atmospheric anomalies connected to Echo Flight. These negative findings matter because they are among the few contemporaneous observations directly addressing whether anything unusual was detected near the missile sites at the time of the shutdown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-1-dark.svg" | relative_url }}" alt="Radar checks illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For supporters of a UFO connection, the absence of radar tracks or security sightings does not necessarily disprove later witness testimony. For [sceptics]({{ 'sceptics/' | relative_url }}), however, these reports are important because they show that the personnel and systems expected to notice an intrusion did not officially record one. Understanding what these checks did and did not establish is essential to evaluating the Echo Flight controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+For supporters of a UFO connection, the absence of radar tracks or security sightings does not necessarily disprove later witness testimony. For [sceptics]({{ 'sceptics/' | relative_url }}), however, these reports are important because they show that the personnel and systems expected to notice an intrusion did not officially record one. Understanding what these checks did and did not establish is essential to evaluating the Echo Flight controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R6qOppJ3PBk" title="Robert Salas talks UFOs disabled nuclear missiles while hovering over Malmstrom AFB, March 16, 1967" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R6qOppJ3PBk" target="_blank" rel="noopener noreferrer">Robert Salas talks UFOs disabled nuclear missiles while hovering over Malmstrom AFB, March 16, 1967</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R6qOppJ3PBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R6qOppJ3PBk">Open on YouTube</a></p></div></div></div>
 
 ## The Mobile Strike Team check
 
-One of the most frequently cited passages in the declassified command history of the 341st Strategic Missile Wing concerns a Mobile Strike Team that had been operating in the missile complex area on the morning of the incident. According to the Air Force history, rumours of UFO activity around Echo Flight were investigated after the missile shutdown. The report states that members of the Mobile Strike Team were questioned and said they had observed no unusual activity or sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
+One of the most frequently cited passages in the declassified command history of the 341st Strategic Missile Wing concerns a Mobile Strike Team that had been operating in the missile complex area on the morning of the incident. According to the Air Force history, rumours of UFO activity around Echo Flight were investigated after the missile shutdown. The report states that members of the Mobile Strike Team were questioned and said they had observed no unusual activity or sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
 
-This point is significant because the team was not a distant observer. Mobile Strike Teams were security personnel who moved among missile facilities and were responsible for responding to incidents in the field. If a conspicuous aerial object had been hovering over launch facilities for an extended period, their observations would have been relevant to any investigation. The official history therefore presented their negative report as evidence against rumours that an unusual object had been seen near Echo Flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+This point is significant because the team was not a distant observer. Mobile Strike Teams were security personnel who moved among missile facilities and were responsible for responding to incidents in the field. If a conspicuous aerial object had been hovering over launch facilities for an extended period, their observations would have been relevant to any investigation. The official history therefore presented their negative report as evidence against rumours that an unusual object had been seen near Echo Flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-The wording of the document is also revealing. Rather than merely stating that no UFO was found, it specifically says the team was questioned regarding the rumours and reported no unusual observations. This indicates that the possibility of UFO-related reports was known to investigators and was considered sufficiently important to check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
+The wording of the document is also revealing. Rather than merely stating that no UFO was found, it specifically says the team was questioned regarding the rumours and reported no unusual observations. This indicates that the possibility of UFO-related reports was known to investigators and was considered sufficiently important to check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
 
-Critics of the official account have argued that the existence of such questioning suggests that stories of unusual activity were already circulating. Some later witnesses also challenged the adequacy of the inquiry, arguing that the official record did not capture all reports made through security channels. However, no contemporaneous document has surfaced showing that the Mobile Strike Team itself reported an unidentified object during the Echo Flight shutdown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Minuteman Missiles Shutdown - Robert SalasIt states the following: &quot;Rumors of Unidentified Flying Objects (UFO) around the area of Echo F...</span></span></span>
+Critics of the official account have argued that the existence of such questioning suggests that stories of unusual activity were already circulating. Some later witnesses also challenged the adequacy of the inquiry, arguing that the official record did not capture all reports made through security channels. However, no contemporaneous document has surfaced showing that the Mobile Strike Team itself reported an unidentified object during the Echo Flight shutdown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Minuteman Missiles Shutdown - Robert SalasIt states the following: &quot;Rumors of Unidentified Flying Objects (UFO) around the area of Echo F...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iOmM9PkTqpk" title="Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer">Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 11.3K &middot; Uploaded: July 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iOmM9PkTqpk">Open on YouTube</a></p></div></div></div>
 
 ## The radar squadron's negative report
 
-The second key check involved radar surveillance. The declassified Air Force history records that the 801st Radar Squadron at Malmstrom provided what the document described as a negative report regarding radar or atmospheric interference associated with Echo Flight. In plain terms, radar personnel did not report tracking an unidentified target connected with the incident, nor did they report unusual atmospheric conditions that might explain anomalous [radar returns]({{ 'radar-return/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</span></span></span>
+The second key check involved radar surveillance. The declassified Air Force history records that the 801st Radar Squadron at Malmstrom provided what the document described as a negative report regarding radar or atmospheric interference associated with Echo Flight. In plain terms, radar personnel did not report tracking an unidentified target connected with the incident, nor did they report unusual atmospheric conditions that might explain anomalous [radar returns]({{ 'radar-return/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</span></span></span>
 
-This finding carries particular weight because radar evidence is often viewed as more objective than eyewitness testimony. Human observers can misinterpret distance, brightness or movement, especially under unusual conditions. Radar systems have their own limitations, but a recorded radar track can provide independent confirmation that something physical was present in monitored [airspace]({{ 'airspace/' | relative_url }}). In the Echo Flight case, the official record states that no such confirmation was obtained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</span></span></span>
+This finding carries particular weight because radar evidence is often viewed as more objective than eyewitness testimony. Human observers can misinterpret distance, brightness or movement, especially under unusual conditions. Radar systems have their own limitations, but a recorded radar track can provide independent confirmation that something physical was present in monitored [airspace]({{ 'airspace/' | relative_url }}). In the Echo Flight case, the official record states that no such confirmation was obtained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</span></span></span>
 
-The radar report also intersects with later claims that an unidentified aerial object may have influenced the missile system through some electromagnetic mechanism. If a sizeable object had been operating near the missile field, many researchers would expect radar evidence to be among the strongest forms of corroboration. The absence of a reported radar detection therefore became one of the principal reasons official investigations did not conclude that an aerial object was involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</span></span></span>
+The radar report also intersects with later claims that an unidentified aerial object may have influenced the missile system through some electromagnetic mechanism. If a sizeable object had been operating near the missile field, many researchers would expect radar evidence to be among the strongest forms of corroboration. The absence of a reported radar detection therefore became one of the principal reasons official investigations did not conclude that an aerial object was involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</span></span></span>
 
-Importantly, the historical record does not show a detailed radar log being released publicly alongside the command-history summary. What survives in widely cited documentation is the summary statement that the radar squadron's findings were negative. That distinction matters because historians and investigators are evaluating a conclusion reported in the official history rather than a complete set of raw radar records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
+Importantly, the historical record does not show a detailed radar log being released publicly alongside the command-history summary. What survives in widely cited documentation is the summary statement that the radar squadron's findings were negative. That distinction matters because historians and investigators are evaluating a conclusion reported in the official history rather than a complete set of raw radar records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-2-dark.svg" | relative_url }}" alt="Radar checks illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -318,11 +318,11 @@ Importantly, the historical record does not show a detailed radar log being rele
 
 The security and radar reports are often treated as either decisive proof against a UFO connection or as irrelevant bureaucratic paperwork. Neither interpretation fully captures their evidential value.
 
-On one hand, the reports are among the strongest contemporaneous pieces of evidence available. They were produced close to the event, by military personnel performing operational duties rather than by witnesses recalling events decades later. The official Air Force position relied heavily on these negative findings when stating that rumours of UFO activity around Echo Flight had been disproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
+On one hand, the reports are among the strongest contemporaneous pieces of evidence available. They were produced close to the event, by military personnel performing operational duties rather than by witnesses recalling events decades later. The official Air Force position relied heavily on these negative findings when stating that rumours of UFO activity around Echo Flight had been disproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
 
-On the other hand, a negative report is not the same as proof that nothing unusual occurred. Radar coverage is never perfect, and security teams only observe what falls within their field of view and attention. A brief, distant or poorly observed event might leave no official record. This is one reason later witness testimony continued to attract interest even after the release of declassified documents. Supporters of the UFO interpretation argue that the lack of recorded detection does not automatically invalidate accounts from personnel who later described unusual objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</span></span></span>
+On the other hand, a negative report is not the same as proof that nothing unusual occurred. Radar coverage is never perfect, and security teams only observe what falls within their field of view and attention. A brief, distant or poorly observed event might leave no official record. This is one reason later witness testimony continued to attract interest even after the release of declassified documents. Supporters of the UFO interpretation argue that the lack of recorded detection does not automatically invalidate accounts from personnel who later described unusual objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</span></span></span>
 
-The key point is that the burden of evidence shifts. Without radar confirmation or corroborating security reports, claims of a UFO presence depend much more heavily on witness recollections and later statements. With such confirmation, the case would look very different. Because the official record contains negative findings from both the Mobile Strike Team and the 801st Radar Squadron, the [Echo Flight dispute]({{ 'malmstrom-dispute/' | relative_url }}) remains centred on a contrast between documented missile failure and disputed claims about what, if anything, was present above the missile field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The key point is that the burden of evidence shifts. Without radar confirmation or corroborating security reports, claims of a UFO presence depend much more heavily on witness recollections and later statements. With such confirmation, the case would look very different. Because the official record contains negative findings from both the Mobile Strike Team and the 801st Radar Squadron, the [Echo Flight dispute]({{ 'malmstrom-dispute/' | relative_url }}) remains centred on a contrast between documented missile failure and disputed claims about what, if anything, was present above the missile field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qFdEfgMWWek" title="The Unexplained Deactivated Nukes Incident by UFOs at Malmstrom Air Force Base (1967) - FindingUFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qFdEfgMWWek" target="_blank" rel="noopener noreferrer">The Unexplained Deactivated Nukes Incident by UFOs at Malmstrom Air Force Base (1967) - FindingUFO</a></p><p class="youtube-embed-meta">Channel: FindingUFO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qFdEfgMWWek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qFdEfgMWWek">Open on YouTube</a></p></div></div></div>
@@ -334,206 +334,206 @@ When the radar and security evidence is separated from broader arguments about U
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Investigators considered rumours of UFO activity significant enough to check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
-* The Mobile Strike Team reported no unusual sightings or activity connected with Echo Flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
-* The 801st Radar Squadron reported no radar or atmospheric anomalies associated with the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</span></span></span>
+* Investigators considered rumours of UFO activity significant enough to check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</span></span></span>
+* The Mobile Strike Team reported no unusual sightings or activity connected with Echo Flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+* The 801st Radar Squadron reported no radar or atmospheric anomalies associated with the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</span></span></span>
 
 </div>
 
-These findings do not explain why all ten missiles entered a No-Go condition, nor do they conclusively settle disputes over later witness accounts. They do, however, define an important boundary of the evidence: the official surveillance and security systems cited in the contemporaneous record did not report an unidentified object associated with the Echo Flight shutdown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+These findings do not explain why all ten missiles entered a No-Go condition, nor do they conclusively settle disputes over later witness accounts. They do, however, define an important boundary of the evidence: the official surveillance and security systems cited in the contemporaneous record did not report an unidentified object associated with the Echo Flight shutdown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-3-dark.svg" | relative_url }}" alt="Radar checks illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_malmstrom_shutdown_a0e8bf_radar_security_check_684ddb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did radar and guards report?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did radar and guards report?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context on official reporting, military witnesses, and evidence standards relevant to Malmstrom discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on official reporting, military witnesses, and evidence standards relevant to Malmstrom discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains Air Force investigative methods and evidentiary issues that mirror debates over radar and security-force reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Air Force investigative methods and evidentiary issues that mirror debates over radar and security-force reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Places historical military UFO cases such as Malmstrom within the wider contemporary UAP debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places historical military UFO cases such as Malmstrom within the wider contemporary UAP debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and nukes">UFOs and nukes</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and nukes">UFOs and nukes</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly covers Malmstrom incidents, missile shutdown claims, military witnesses, security reports, and related investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Malmstrom incidents, missile shutdown claims, military witnesses, security reports, and related investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+nukes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model"><img src="{{ '/assets/images/marketplace-covers/5fe2588896621aab7838.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Science Fiction Figure from Alien Franchise Collectible Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/2b80f8e6158d26c51ae4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/2b80f8e6158d26c51ae4.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Blue &amp; Black Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="radar-checks-what-did-radar-and-guards-report-ufos-and-nuclear-weapons-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ These findings do not explain why all ten missiles entered a No-Go condition, no
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ These findings do not explain why all ten missiles entered a No-Go condition, no
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ These findings do not explain why all ten missiles entered a No-Go condition, no
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ These findings do not explain why all ten missiles entered a No-Go condition, no
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ These findings do not explain why all ten missiles entered a No-Go condition, no
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,102 +739,102 @@ These findings do not explain why all ten missiles entered a No-Go condition, no
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Looking for official FOIA documentation regarding...The 801st Radar Squadron, Malmstrom AFB, gave a negative report on any radar o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/malmstrom67-3.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missiles Shutdown - Robert SalasIt states the following: &quot;[Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area of Echo F...</p></details>
+   Link:<a href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/malmstrom67-3.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missiles Shutdown - Robert SalasIt states the following: &quot;[Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area of Echo F...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufoevidence.com  
    Title: Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 801st Radar Squadron...</p></details>
+   Link:<a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 801st Radar Squadron...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/fmewue/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/fmewue/the_unexplained_deactivated_nukes_incident_by/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sabled. Completely denuclearized by aliens or whatever it is...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/fmewue/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/fmewue/the_unexplained_deactivated_nukes_incident_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sabled. Completely denuclearized by aliens or whatever it is...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: 967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO in...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vaultmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area of Echo Fl...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/oasd.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1948 and 1969, the Air Force investigated 12,618 reported sightings. The following is a statistiCal listing of reported UFO sight ings du...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/oasd.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1948 and 1969, the Air Force investigated 12,618 reported sightings. The following is a statistiCal listing of reported UFO sight ings du...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Airmen to Govt.: Come Clean on UFOsHe was stationed 60 feet underground at the Malmstrom Air Force Base in Montana in March 1967...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Airmen to Govt.: Come Clean on UFOsHe was stationed 60 feet underground at the Malmstrom Air Force Base in Montana in March 1967...</p></details>
    Published: March 1967  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial Contacts: the Roswell foil, UFOs, and how...No radar report was included in the 17-page report—it was missing from the...</p></details>
+   Link:<a href="https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrial-contacts-the-roswell-foil-ufos-and-how-they-alter-our-understanding-of-the-modern-world-0936618132-9780936618135.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial Contacts: the Roswell foil, UFOs, and how...No radar report was included in the 17-page report—it was missing from the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 16, 1967 another launch control center assigned to Malmstrom AFB, Echo Flight experienced a similar incident when all ten missiles...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 16, 1967 another launch control center assigned to Malmstrom AFB, Echo Flight experienced a similar incident when all ten missiles...</p></details>
    Published: March 16, 1967  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qFdEfgMWWek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qFdEfgMWWek</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incident [Robert Salas](&amp;#123;&amp;#123; &#x27;salas/&#x27; | relative_url &amp;#125;&amp;#125;) UFO disabled nuclear missiles at Malmstrom - Captain Robert Salas Unleash the Truth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qFdEfgMWWek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qFdEfgMWWek</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incident [Robert Salas](&amp;#123;&amp;#123; &#x27;salas/&#x27; | relative_url &amp;#125;&amp;#125;) UFO disabled nuclear missiles at Malmstrom - Captain Robert Salas Unleash the Truth...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: meer.com  
    Title: 74766 the malmstrom nuclear ufo incident 1967 returns  
-   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Officers at the base reported to Salas that they saw a craft that appeared...</p></details>
+   Link:<a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Officers at the base reported to Salas that they saw a craft that appeared...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/145378825/Potential_Dangers_in_Engaging_Unidentified_Aerial_Phenomena_UAP_for_Military_and_Civilian_Craft_and_Installations" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145378825/Potential_Dangers_in_Engaging_Unidentified_Aerial_Phenomena_UAP_for_Military_and_Civilian_Craft_and_Installations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>P) under the hypothesis that they employ coherent electromagnetic structures...</p></details>
+   Link:<a href="https://www.academia.edu/145378825/Potential_Dangers_in_Engaging_Unidentified_Aerial_Phenomena_UAP_for_Military_and_Civilian_Craft_and_Installations" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145378825/Potential_Dangers_in_Engaging_Unidentified_Aerial_Phenomena_UAP_for_Military_and_Civilian_Craft_and_Installations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>P) under the hypothesis that they employ coherent electromagnetic structures...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/story-of-man-who-claims-aliens-once-shut-down-10-nuclear-missiles-to-prevent-nuc/1581542977310457/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/story-of-man-who-claims-aliens-once-shut-down-10-nuclear-missiles-to-prevent-nuc/1581542977310457/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 30-year-long investigation by UFO researcher Robert...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/story-of-man-who-claims-aliens-once-shut-down-10-nuclear-missiles-to-prevent-nuc/1581542977310457/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/story-of-man-who-claims-aliens-once-shut-down-10-nuclear-missiles-to-prevent-nuc/1581542977310457/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 30-year-long investigation by UFO researcher Robert...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10157934371461790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10157934371461790/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecurity, in 1975, multiple UFOs were seen over Malmstrom...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ufoupdates/posts/10157934371461790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10157934371461790/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ecurity, in 1975, multiple UFOs were seen over Malmstrom...</p></details>

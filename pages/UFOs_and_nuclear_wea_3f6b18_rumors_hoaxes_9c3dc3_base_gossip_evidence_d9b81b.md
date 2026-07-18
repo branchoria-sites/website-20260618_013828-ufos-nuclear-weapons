@@ -278,7 +278,7 @@ In UFO cases connected to nuclear weapons facilities, base gossip is neither aut
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_base_gossip_evidence_d9b81b-Illustration-1-dark.svg" | relative_url }}" alt="Base Gossip illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_base_gossip_evidence_d9b81b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_base_gossip_evidence_d9b81b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This tension is especially important at military installations that handle nuclear weapons. Personnel often know that something unusual occurred but lack access to the full explanation. Information moves through conversations in launch control centres, guard posts, barracks and break rooms. By the time researchers collect testimony years later, some witnesses may be recalling not only what they personally saw but also what they repeatedly heard from others. Understanding how base gossip operates is therefore essential when assessing UFO reports associated with nuclear sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+This tension is especially important at military installations that handle nuclear weapons. Personnel often know that something unusual occurred but lack access to the full explanation. Information moves through conversations in launch control centres, guard posts, barracks and break rooms. By the time researchers collect testimony years later, some witnesses may be recalling not only what they personally saw but also what they repeatedly heard from others. Understanding how base gossip operates is therefore essential when assessing UFO reports associated with nuclear sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 ## Where Informal Stories Travel on a Base
 
@@ -286,7 +286,7 @@ Military bases are unusual information environments. Security classifications cr
 
 In such settings, informal communication often fills the gaps. Stories spread because people are trying to make sense of incomplete events rather than because they intend to create myths. A sudden security lockdown, unusual aircraft activity, a communications failure or an unexplained equipment problem can quickly become the subject of speculation.
 
-Historical studies of [secrecy]({{ 'secrecy/' | relative_url }}) and military culture have repeatedly shown that restricted information environments encourage rumour formation. The mechanism is simple: when official explanations are unavailable, unofficial explanations compete to fill the void. UFO stories often thrive in exactly these conditions because they offer a dramatic interpretation of otherwise confusing events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.oapen.org">[OAPEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.oapen.org</span><span class="citation-popover-title">The Resonance of Unseen Things</span><span class="citation-popover-snippet">The Resonance of Unseen ThingsFebruary 16, 2016 — As news of a secret military base and its rumored UFO began to circulate widely in...</span><span class="citation-popover-meta">Published: February 16, 2016</span></span></span>
+Historical studies of [secrecy]({{ 'secrecy/' | relative_url }}) and military culture have repeatedly shown that restricted information environments encourage rumour formation. The mechanism is simple: when official explanations are unavailable, unofficial explanations compete to fill the void. UFO stories often thrive in exactly these conditions because they offer a dramatic interpretation of otherwise confusing events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.oapen.org">[OAPEN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.oapen.org</span><span class="citation-popover-title">The Resonance of Unseen Things</span><span class="citation-popover-snippet">The Resonance of Unseen ThingsFebruary 16, 2016 — As news of a secret military base and its rumored UFO began to circulate widely in...</span><span class="citation-popover-meta">Published: February 16, 2016</span></span></span>
 
 For nuclear installations, the effect can be amplified because personnel already know they are working around highly sensitive systems. Ordinary secrecy can therefore appear extraordinary. A routine instruction not to discuss an incident may later be remembered as evidence that authorities were hiding something much larger.
 
@@ -296,7 +296,7 @@ Dismissing all base gossip would be a mistake. Informal networks sometimes prese
 
 Researchers studying nuclear-related UFO reports have frequently encountered cases where rumours pointed toward real underlying events. Personnel may remember unusual security activity, emergency maintenance work, strange [radar]({{ 'radar/' | relative_url }}) tracks or discussions among supervisors that were not fully documented in publicly available records. In some instances, later document releases have confirmed that an unusual event occurred even when the popular explanation attached to it proved incorrect.
 
-The Malmstrom missile incidents illustrate why this matters. Official records acknowledge serious missile-system problems, while later witnesses described a wider context involving reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects. Even where investigators dispute the UFO interpretation, the persistence of discussion among personnel suggests that rumours often developed around genuine operational events rather than being invented from nothing. A declassified Air Force account specifically noted that rumours of UFO activity around one missile fault event had circulated and were considered disproven, demonstrating that the rumour itself was already part of the historical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The Malmstrom missile incidents illustrate why this matters. Official records acknowledge serious missile-system problems, while later witnesses described a wider context involving reports of [unidentified]({{ 'unidentified/' | relative_url }}) objects. Even where investigators dispute the UFO interpretation, the persistence of discussion among personnel suggests that rumours often developed around genuine operational events rather than being invented from nothing. A declassified Air Force account specifically noted that rumours of UFO activity around one missile fault event had circulated and were considered disproven, demonstrating that the rumour itself was already part of the historical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 From a historical perspective, gossip can therefore function as a clue. It may indicate that personnel perceived an event as unusual, confusing or insufficiently explained. That does not validate the rumoured explanation, but it can help identify incidents worth investigating further.
 
@@ -327,7 +327,7 @@ When rumours consistently point toward a verifiable event, they may preserve fra
 
 The greatest challenge is that repeated storytelling can alter memory itself.
 
-Psychological research on eyewitness testimony has long shown that memory is reconstructive rather than perfectly archival. Later conversations, expectations and social cues can influence what people believe they remember. Within UFO research, scholars examining witness reliability have highlighted how expectations, misinformation and repeated retelling can reshape accounts over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
+Psychological research on eyewitness testimony has long shown that memory is reconstructive rather than perfectly archival. Later conversations, expectations and social cues can influence what people believe they remember. Within UFO research, scholars examining witness reliability have highlighted how expectations, misinformation and repeated retelling can reshape accounts over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
 
 A military base provides ideal conditions for this process. Personnel share stories with colleagues who were present, colleagues who were not present, and newcomers who inherit the story years later. Details that begin as uncertainty can gradually become certainty. Tentative descriptions become fixed narratives. A joke may become a possibility; a possibility may become a remembered fact.
 
@@ -346,7 +346,7 @@ The process often unfolds in stages:
 
 By the time historians interview participants decades later, separating original observation from accumulated narrative can be extremely difficult.
 
-This does not mean witnesses are dishonest. It means human memory operates within a social environment. The more often a story is retold, the greater the opportunity for contamination from outside information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
+This does not mean witnesses are dishonest. It means human memory operates within a social environment. The more often a story is retold, the greater the opportunity for contamination from outside information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ghYZTG4z5eI" title="UFOs and Nukes: The Pentagon&#x27;s Nuclear Secret" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ghYZTG4z5eI" target="_blank" rel="noopener noreferrer">UFOs and Nukes: The Pentagon&#x27;s Nuclear Secret</a></p><p class="youtube-embed-meta">Channel: The Good Trouble Show with Matt Ford</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ghYZTG4z5eI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ghYZTG4z5eI">Open on YouTube</a></p></div></div></div>
@@ -357,7 +357,7 @@ One of the most important contamination mechanisms occurs when later UFO culture
 
 Many nuclear-UFO incidents gained public attention years or even decades after the alleged events. During that interval, witnesses were exposed to books, television programmes, conferences, documentaries and discussions that connected UFOs with nuclear weapons. Once a particular interpretation becomes culturally familiar, it can influence how earlier experiences are recalled.
 
-Researchers examining famous UFO cases have repeatedly noted that stories often grow as additional witnesses emerge, compare memories and encounter existing narratives. The historical record surrounding several well-known cases shows a gradual accumulation of details over time rather than the sudden appearance of a fully formed story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">UFOs and nukes. AuthorHouse.... Writing Pub.... Page Books.... Books. *Randle, K. (1989). e UFO casebook (pp. 5–11). Warner Books. Ran...</span></span></span>
+Researchers examining famous UFO cases have repeatedly noted that stories often grow as additional witnesses emerge, compare memories and encounter existing narratives. The historical record surrounding several well-known cases shows a gradual accumulation of details over time rather than the sudden appearance of a fully formed story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate A Grounded Theory Update on the Roswell UFO Incident</span><span class="citation-popover-snippet">UFOs and nukes. AuthorHouse.... Writing Pub.... Page Books.... Books. *Randle, K. (1989). e UFO casebook (pp. 5–11). Warner Books. Ran...</span></span></span>
 
 The result is a feedback loop:
 
@@ -381,201 +381,201 @@ For nuclear-related UFO cases, the strongest approach is neither blind acceptanc
 
 Base gossip is most valuable when treated as contextual evidence. It can reveal how personnel understood an event, what questions remained unanswered and which incidents generated unusual concern. It may preserve leads that deserve further investigation. Yet it becomes unreliable when it is treated as a direct substitute for contemporaneous documents, technical records or clearly identified firsthand observations.
 
-The key distinction is between evidence that a story circulated and evidence that the story was accurate. A rumour can be historically important even if its explanation is wrong. In nuclear-UFO cases, the existence of persistent base gossip may demonstrate that personnel experienced something unusual, confusing or poorly explained. Determining what actually happened requires comparing those informal narratives against records, timelines, technical data and independently sourced testimony. The Black Vault Documents+2The Wall Street Journal <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The key distinction is between evidence that a story circulated and evidence that the story was accurate. A rumour can be historically important even if its explanation is wrong. In nuclear-UFO cases, the existence of persistent base gossip may demonstrate that personnel experienced something unusual, confusing or poorly explained. Determining what actually happened requires comparing those informal narratives against records, timelines, technical data and independently sourced testimony. The Black Vault Documents+2The Wall Street Journal<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x7uzLVw5HwA" title="Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer">Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7uzLVw5HwA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Base Gossip Helps and Hurts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Base Gossip Helps and Hurts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Dr Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Dr Julia Shaw</p>
         
-        <p class="fr-book-desc">Directly addresses memory distortion through social influence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses memory distortion through social influence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gladwell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gladwell</p>
         
-        <p class="fr-book-desc">Explores communication failures and interpretation of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores communication failures and interpretation of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Highly relevant to retelling and memory contamination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to retelling and memory contamination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
-        </h4>
-        <p class="fr-book-author">By Curtis Peebles</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Watch the Skies! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zjI4X7ZOvOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Watch the Skies!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
+</h4>
+<p class="fr-book-author">By Curtis Peebles</p>
         
-        <p class="fr-book-desc">Shows how stories evolve into folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how stories evolve into folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/9f9f644488592a1aae82.jpg' | relative_url }}" alt="Listing image for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/9f9f644488592a1aae82.jpg' | relative_url }}" alt="Listing image for 87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">87530 DRAWING C MISSILE BASE NUCLEAR COUNTER ATTACK Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign"><img src="{{ '/assets/images/marketplace-covers/fa52c50b688a809de2af.jpg' | relative_url }}" alt="Listing image for Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign"><img src="{{ '/assets/images/marketplace-covers/fa52c50b688a809de2af.jpg' | relative_url }}" alt="Listing image for Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Computer Games Signs Metal Plaque Gaming Man Cave Home Bar Garage Tiki Shed Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE"><img src="{{ '/assets/images/marketplace-covers/f84b3b169faa129eef2f.jpg' | relative_url }}" alt="Listing image for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE"><img src="{{ '/assets/images/marketplace-covers/f84b3b169faa129eef2f.jpg' | relative_url }}" alt="Listing image for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 375 TRUCK BASE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 6x6 TRUCK BASE"><img src="{{ '/assets/images/marketplace-covers/eec561c6bde18a26a317.jpg' | relative_url }}" alt="Listing image for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 6x6 TRUCK BASE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 6x6 TRUCK BASE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 6x6 TRUCK BASE"><img src="{{ '/assets/images/marketplace-covers/eec561c6bde18a26a317.jpg' | relative_url }}" alt="Listing image for Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 6x6 TRUCK BASE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">Authentic Soviet Russian Weapon Poster GRAD Missile Launcher URAL 6x6 TRUCK BASE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base poster" data-ebay-reference="base-gossip-when-base-gossip-helps-and-hurts-ufos-and-nuclear-weapons-missile-base-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ The key distinction is between evidence that a story circulated and evidence tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ The key distinction is between evidence that a story circulated and evidence tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ The key distinction is between evidence that a story circulated and evidence tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ The key distinction is between evidence that a story circulated and evidence tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ The key distinction is between evidence that a story circulated and evidence tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,96 +781,96 @@ The key distinction is between evidence that a story circulated and evidence tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: library.oapen.org  
    Title: The Resonance of Unseen Things  
-   Link: <a href="https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&amp;sequence=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Resonance of Unseen ThingsFebruary 16, 2016 — As news of a secret military base and its rumored UFO began to circulate widely in...</p></details>
+   Link:<a href="https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf?isAllowed=y&amp;sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Resonance of Unseen ThingsFebruary 16, 2016 — As news of a secret military base and its rumored UFO began to circulate widely in...</p></details>
    Published: February 16, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</p></details>
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate A Grounded Theory Update on the Roswell UFO Incident  
-   Link: <a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and nukes. AuthorHouse.... Writing Pub.... Page Books.... Books. *Randle, K. (1989). e UFO casebook (pp. 5–11). Warner Books. Ran...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362854511_A_Grounded_Theory_Update_on_the_Roswell_UFO_Incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and nukes. AuthorHouse.... Writing Pub.... Page Books.... Books. *Randle, K. (1989). e UFO casebook (pp. 5–11). Warner Books. Ran...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
    Title: (PDF) The Roswell Deception  
-   Link: <a href="https://www.academia.edu/105317799/The_Roswell_Deception_by_James_Carrion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105317799/The_Roswell_Deception_by_James_Carrion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by James CarrionThe modern day myth of UFOs (today called UAPs) began in June of 1947 with the first viral UFO sighting. Two weeks later...</p></details>
+   Link:<a href="https://www.academia.edu/105317799/The_Roswell_Deception_by_James_Carrion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105317799/The_Roswell_Deception_by_James_Carrion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by James CarrionThe modern day myth of UFOs (today called UAPs) began in June of 1947 with the first viral UFO sighting. Two weeks later...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: library.oapen.org  
-   Link: <a href="https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Resonance of Unseen Thingsby S Lepselter · 2016 · Cited by 312 — As news of a secret military base and its rumored UFO began to circulate...</p></details>
+   Link:<a href="https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.oapen.org/bitstream/handle/20.500.12657/24001/1006133.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resonance of Unseen Thingsby S Lepselter · 2016 · Cited by 312 — As news of a secret military base and its rumored UFO began to circulate...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wsj.com  
    Title: ufo us disinformation 45376f7e  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. military fabricated evidence of alien technology and allowed [rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) to...Read more...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. military fabricated evidence of alien technology and allowed [rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) to...Read more...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070004-1.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jimharold.com  
-   Link: <a href="https://jimharold.com/category/articles/feed/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/category/articles/feed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Articles – JimHarold.com... UFO Abduction Case by EM Hilker Their little cabin looked out onto the beach, cool and silvery blue in the mo...</p></details>
+   Link:<a href="https://jimharold.com/category/articles/feed/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/category/articles/feed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Articles – JimHarold.com... UFO Abduction Case by EM Hilker Their little cabin looked out onto the beach, cool and silvery blue in the mo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surrounding allege...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9329-malmstrom-ufo-testimonials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO TestimonialsAffidavits from four Malmstrom Air Force Base airmen who witnessed or experienced the events surrounding allege...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Incident (UFOs and Nukes)... r/ufo - UFO files reveal hundreds of sightings over America&#x27;s nuclear...Read...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Incident (UFOs and Nukes)... r/ufo - UFO files reveal hundreds of sightings over America&#x27;s nuclear...Read...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — whistleblowers are fabricating parts or all of their testimony? The US Air Forc...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — whistleblowers are fabricating parts or all of their testimony? The US Air Forc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Exclusive Interview with Robert Hastings: [UFOs and Nuclear Weapons](&#123;&#123; 'ufos-and-nuclear-weapons/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=R9LnuLDb25I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9LnuLDb25I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident When UFOs Shut Down Nuclear Missiles UFOs Shut Down U.S. Nuclear Missiles — The Malmstrom Incident The Black Sheep...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R9LnuLDb25I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R9LnuLDb25I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident When UFOs Shut Down Nuclear Missiles UFOs Shut Down U.S. Nuclear Missiles — The Malmstrom Incident The Black Sheep...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cbsnews.com  
    Title: ex air force personnel ufos deactivated nukes  
-   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force Personnel: UFOs Deactivated Nukes28 Sept 2010 — Ex-Air Force Personnel: UFOs Deactivated Nukes... &quot;UFO Sightings at ICBM Si...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force Personnel: UFOs Deactivated Nukes28 Sept 2010 — Ex-Air Force Personnel: UFOs Deactivated Nukes... &quot;UFO Sightings at ICBM Si...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Answer- What are Aliens Trying Tell To Us About...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Answer- What are Aliens Trying Tell To Us About...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: c-span.org  
    Title: user clip malmstrom nuclear ufo 1967  
-   Link: <a href="https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738" target="_blank" rel="noopener noreferrer nofollow">https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>User Clip: Malmstrom Nuclear UFO 1967Portion of the UFO Hearing that references the Robert Bob [Salas](&amp;#123;&amp;#123; &#x27;salas/&#x27; | relative_url &amp;#125;&amp;#125;) incident at Malmstrom Air Force Base...</p></details>
+   Link:<a href="https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738" target="_blank" rel="noopener noreferrer nofollow">https://www.c-span.org/clip/house-committee/user-clip-malmstrom-nuclear-ufo-1967/5072738</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>User Clip: Malmstrom Nuclear UFO 1967Portion of the UFO Hearing that references the Robert Bob [Salas](&amp;#123;&amp;#123; &#x27;salas/&#x27; | relative_url &amp;#125;&amp;#125;) incident at Malmstrom Air Force Base...</p></details>

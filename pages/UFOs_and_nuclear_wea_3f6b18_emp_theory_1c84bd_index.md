@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-emp-theory/
 description: Focused pages that expand on EMP Claims.
-date: '2026-06-17'
+date: '2026'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd
 parent_title: EMP Claims
@@ -16,7 +16,7 @@ parent_permalink: /emp-claims/
 
 # Explore Topics in EMP Claims
 
-The following pages expand on the main **[EMP Claims]({{ '/emp-claims/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[EMP Claims]({{ '/emp-claims/' | relative_url }})** page and cover its key branches in.
 
 - [System Fixes]({{ '/system-fixes/' | relative_url }})
 - [Noise Pulse]({{ '/noise-pulse/' | relative_url }})

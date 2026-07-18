@@ -280,7 +280,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_buzzin
 
 ## Introduction
 
-The most detailed conventional explanation for the alleged 1964 “Big Sur UFO” film is not that a mysterious object approached a missile, but that the camera captured a classified decoy-deployment experiment during the Atlas D launch known as **Buzzing Bee** on 22 September 1964. In this interpretation, what later became a UFO story originated from genuine but poorly understood missile-test imagery: a re-entry vehicle separating from its booster, [decoys]({{ 'decoys/' | relative_url }}) being released, packing material drifting nearby, and sunlight creating bright optical effects on a highly sensitive tracking system. The significance of Buzzing Bee is that it provides a specific, documented mechanism capable of producing unusual images on film without requiring an unknown craft. At the same time, the explanation remains debated because the original footage has not been publicly released and some records associated with the event remain incomplete or inaccessible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — The launch that Bob Jacobs makes the centerpiece of hi...</span></span></span>
+The most detailed conventional explanation for the alleged 1964 “Big Sur UFO” film is not that a mysterious object approached a missile, but that the camera captured a classified decoy-deployment experiment during the Atlas D launch known as **Buzzing Bee** on 22 September 1964. In this interpretation, what later became a UFO story originated from genuine but poorly understood missile-test imagery: a re-entry vehicle separating from its booster, [decoys]({{ 'decoys/' | relative_url }}) being released, packing material drifting nearby, and sunlight creating bright optical effects on a highly sensitive tracking system. The significance of Buzzing Bee is that it provides a specific, documented mechanism capable of producing unusual images on film without requiring an unknown craft. At the same time, the explanation remains debated because the original footage has not been publicly released and some records associated with the event remain incomplete or inaccessible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — The launch that Bob Jacobs makes the centerpiece of hi...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_buzzing_bee_decoys_6c83fc-Illustration-1-dark.svg" | relative_url }}" alt="Buzzing Bee illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_buzzing_bee_decoys_6c83fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_buzzing_bee_decoys_6c83fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,25 +288,25 @@ The most detailed conventional explanation for the alleged 1964 “Big Sur UFO�
 
 The decoy hypothesis occupies a central place in the Vandenberg missile-test controversy because it is tied to a real launch with a known technical purpose. Rather than offering a generic suggestion that witnesses were mistaken, it proposes a particular event, at a particular time, producing identifiable visual effects.
 
-Former project engineer Kingston A. George argued that the launch remembered by Robert Jacobs was Buzzing Bee, an Atlas missile fired shortly before sunrise on 22 September 1964. According to George, the mission carried a test re-entry vehicle together with decoys intended to confuse enemy anti-ballistic missile systems. The purpose of the Big Sur optical programme was to photograph these events in unprecedented detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — The launch that Bob Jacobs makes the centerpiece of hi...</span></span></span>
+Former project engineer Kingston A. George argued that the launch remembered by Robert Jacobs was Buzzing Bee, an Atlas missile fired shortly before sunrise on 22 September 1964. According to George, the mission carried a test re-entry vehicle together with decoys intended to confuse enemy anti-ballistic missile systems. The purpose of the Big Sur optical programme was to photograph these events in unprecedented detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry+2Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — The launch that Bob Jacobs makes the centerpiece of hi...</span></span></span>
 
-In this account, the later UFO narrative grew out of observations of a classified penetration-aid test rather than an encounter with an unknown object. George maintained that the film became highly classified because it revealed weaknesses in the decoy system and showed that the real warhead could be distinguished from the decoys more easily than planners had hoped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — In a nutshell, the Atlas launch to the Kwajalein atoll...</span></span></span>
+In this account, the later UFO narrative grew out of observations of a classified penetration-aid test rather than an encounter with an unknown object. George maintained that the film became highly classified because it revealed weaknesses in the decoy system and showed that the real warhead could be distinguished from the decoys more easily than planners had hoped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — In a nutshell, the Atlas launch to the Kwajalein atoll...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X2c3_vG7yhs" title="Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer">Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 332.0K &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X2c3_vG7yhs">Open on YouTube</a></p></div></div></div>
 
 ## What the Buzzing Bee launch was meant to show
 
-Buzzing Bee was conducted during a period when the United States was attempting to ensure that nuclear warheads could penetrate future missile-defence systems. One solution was to deploy lightweight decoys alongside the actual re-entry vehicle so that defensive radars would have difficulty identifying the genuine target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Big Sur</span><span class="citation-popover-snippet">RedditThe Big Sur - What Really Happened in September 1964?The Buzzing Bee mission (Sept 22/23, 1964) involved an Atlas D that deployed m...</span></span></span>
+Buzzing Bee was conducted during a period when the United States was attempting to ensure that nuclear warheads could penetrate future missile-defence systems. One solution was to deploy lightweight decoys alongside the actual re-entry vehicle so that defensive radars would have difficulty identifying the genuine target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Big Sur</span><span class="citation-popover-snippet">RedditThe Big Sur - What Really Happened in September 1964?The Buzzing Bee mission (Sept 22/23, 1964) involved an Atlas D that deployed m...</span></span></span>
 
 Accounts based on declassified programme records describe the mission as involving:
 
-* An Atlas D missile launched from Vandenberg. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFODuring the deployment, the team successfully captured nine launches from Vandenberg. During one such launch, of an Atlas mi...</span></span></span>
+* An Atlas D missile launched from Vandenberg.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFODuring the deployment, the team successfully captured nine launches from Vandenberg. During one such launch, of an Atlas mi...</span></span></span>
 * A dummy re-entry vehicle representing the warhead.
 * Two decoy objects released after the main propulsion phase.
-* Optical and [radar]({{ 'radar/' | relative_url }}) tracking designed to observe how the objects separated and behaved in flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Big Sur</span><span class="citation-popover-snippet">RedditThe Big Sur - What Really Happened in September 1964?The Buzzing Bee mission (Sept 22/23, 1964) involved an Atlas D that deployed m...</span></span></span>
+* Optical and [radar]({{ 'radar/' | relative_url }}) tracking designed to observe how the objects separated and behaved in flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Big Sur</span><span class="citation-popover-snippet">RedditThe Big Sur - What Really Happened in September 1964?The Buzzing Bee mission (Sept 22/23, 1964) involved an Atlas D that deployed m...</span></span></span>
 
-Contemporary technical [reporting]({{ 'reporting/' | relative_url }}) described the mission as successful and emphasised the value of the imagery obtained. The film reportedly provided some of the first detailed pictures of decoy deployment during ballistic-missile flight. Rather than recording an attack on the payload, official descriptions focused on the behaviour of the warhead, decoys and associated debris after separation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Big Sur</span><span class="citation-popover-snippet">RedditThe Big Sur - What Really Happened in September 1964?The Buzzing Bee mission (Sept 22/23, 1964) involved an Atlas D that deployed m...</span></span></span>
+Contemporary technical [reporting]({{ 'reporting/' | relative_url }}) described the mission as successful and emphasised the value of the imagery obtained. The film reportedly provided some of the first detailed pictures of decoy deployment during ballistic-missile flight. Rather than recording an attack on the payload, official descriptions focused on the behaviour of the warhead, decoys and associated debris after separation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Big Sur</span><span class="citation-popover-snippet">RedditThe Big Sur - What Really Happened in September 1964?The Buzzing Bee mission (Sept 22/23, 1964) involved an Atlas D that deployed m...</span></span></span>
 
 This matters because the alleged UFO incident is usually said to have occurred during exactly the phase of flight when multiple objects were expected to appear.
 
@@ -318,7 +318,7 @@ This matters because the alleged UFO incident is usually said to have occurred d
 
 The strength of the Buzzing Bee explanation lies in the mechanism it proposes.
 
-The Big Sur telescope was operating before sunrise, a period when observers on the ground can be in darkness while high-altitude objects remain brightly illuminated by the Sun. Under those conditions, distant missile components can appear as intense points of light against a dark sky. George emphasised that the tracking system often detected reflected sunlight rather than detailed shapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Astronomy UFOThe Big Sur &#x27;UFO&#x27;: An Identified Flying ObjectAtlas launch nicknamed &quot;Buzzing Bee&quot; before sunup on September 22, 1964...</span><span class="citation-popover-meta">Published: September 22, 1964</span></span></span>
+The Big Sur telescope was operating before sunrise, a period when observers on the ground can be in darkness while high-altitude objects remain brightly illuminated by the Sun. Under those conditions, distant missile components can appear as intense points of light against a dark sky. George emphasised that the tracking system often detected reflected sunlight rather than detailed shapes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomyufo.com">[Astronomy UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomyufo.com</span><span class="citation-popover-snippet">Astronomy UFOThe Big Sur &#x27;UFO&#x27;: An Identified Flying ObjectAtlas launch nicknamed &quot;Buzzing Bee&quot; before sunup on September 22, 1964...</span><span class="citation-popover-meta">Published: September 22, 1964</span></span></span>
 
 According to descriptions of the event, the sequence would have looked something like this:
 
@@ -366,162 +366,162 @@ Finally, some records describing missile tests survive only in partial form, and
 Within the broader Vandenberg missile cases, Buzzing Bee remains important because it offers a concrete, technically grounded alternative to the UFO-interference narrative. It demonstrates that unusual objects, flashes and apparent manoeuvres could emerge naturally from a classified missile test involving decoys, debris and difficult lighting conditions. Whether that explanation fully accounts for every later claim remains disputed, but it is the only identified mechanism tied to a documented launch and a known military objective. [Center for Inquiry+2Center for Inquiry](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could decoys explain the Big Sur film?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could decoys explain the Big Sur film?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NyU3EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Leo Janos, Ben R. Rich</p>
         
-        <p class="fr-book-desc">Helps readers understand missile technologies, decoys, and classified defense systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand missile technologies, decoys, and classified defense systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Leo+Janos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Demonstrates how secret military programs often create UFO interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how secret military programs often create UFO interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Emphasizes conventional explanations and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes conventional explanations and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Places the Vandenberg controversy within the larger nuclear-UFO narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Vandenberg controversy within the larger nuclear-UFO narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lompoc California~Vandenburg Air Force Missile Base Entrance Sign~1965 Postcard"><img src="{{ '/assets/images/marketplace-covers/641ad9305dd5ae850e6a.jpg' | relative_url }}" alt="Listing image for Lompoc California~Vandenburg Air Force Missile Base Entrance Sign~1965 Postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer">Lompoc California~Vandenburg Air Force Missile Base Entrance Sign~1965 Postcard</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lompoc California~Vandenburg Air Force Missile Base Entrance Sign~1965 Postcard"><img src="{{ '/assets/images/marketplace-covers/641ad9305dd5ae850e6a.jpg' | relative_url }}" alt="Listing image for Lompoc California~Vandenburg Air Force Missile Base Entrance Sign~1965 Postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer">Lompoc California~Vandenburg Air Force Missile Base Entrance Sign~1965 Postcard</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COMPUTER GAMES Metal Signs Gaming Man Cave Retro Wall Art Bar Décor Bedroom Gift"><img src="{{ '/assets/images/marketplace-covers/34508a1b7b80b5cfb5f5.jpg' | relative_url }}" alt="Listing image for COMPUTER GAMES Metal Signs Gaming Man Cave Retro Wall Art Bar Décor Bedroom Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer">COMPUTER GAMES Metal Signs Gaming Man Cave Retro Wall Art Bar Décor Bedroom Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile base sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COMPUTER GAMES Metal Signs Gaming Man Cave Retro Wall Art Bar Décor Bedroom Gift"><img src="{{ '/assets/images/marketplace-covers/34508a1b7b80b5cfb5f5.jpg' | relative_url }}" alt="Listing image for COMPUTER GAMES Metal Signs Gaming Man Cave Retro Wall Art Bar Décor Bedroom Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer">COMPUTER GAMES Metal Signs Gaming Man Cave Retro Wall Art Bar Décor Bedroom Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile base sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile base sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+base+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile base sign" data-ebay-reference="buzzing-bee-could-decoys-explain-the-big-sur-film-ufos-and-nuclear-weapons-missile-base-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ Within the broader Vandenberg missile cases, Buzzing Bee remains important becau
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ Within the broader Vandenberg missile cases, Buzzing Bee remains important becau
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ Within the broader Vandenberg missile cases, Buzzing Bee remains important becau
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ Within the broader Vandenberg missile cases, Buzzing Bee remains important becau
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ Within the broader Vandenberg missile cases, Buzzing Bee remains important becau
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,81 +727,81 @@ Within the broader Vandenberg missile cases, Buzzing Bee remains important becau
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: astronomyufo.com  
-   Link: <a href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/bigsur.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy UFOThe Big Sur &#x27;UFO&#x27;: An Identified Flying ObjectAtlas launch nicknamed &quot;Buzzing Bee&quot; before sunup on September 22, 1964...</p></details>
+   Link:<a href="https://www.astronomyufo.com/UFO/bigsur.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/bigsur.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy UFOThe Big Sur &#x27;UFO&#x27;: An Identified Flying ObjectAtlas launch nicknamed &quot;Buzzing Bee&quot; before sunup on September 22, 1964...</p></details>
    Published: September 22, 1964  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — The launch that Bob Jacobs makes the centerpiece of hi...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — The launch that Bob Jacobs makes the centerpiece of hi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Such was the case during an Atlas launch nickn...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Big Sur UFO&#x27;: An Identified Flying Objectby KA GEORGE · Cited by 1 — Such was the case during an Atlas launch nickn...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — In a nutshell, the Atlas launch to the Kwajalein atoll...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — In a nutshell, the Atlas launch to the Kwajalein atoll...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Sur UFODuring the deployment, the team successfully captured nine launches from Vandenberg. During one such launch, of an Atlas mi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big Sur UFODuring the deployment, the team successfully captured nine launches from Vandenberg. During one such launch, of an Atlas mi...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: liberationtimes.com  
-   Link: <a href="https://www.liberationtimes.com/home/did-a-ufo-sabotage-a-cold-war-missile-test-the-evidence-is-buried-in-the-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/did-a-ufo-sabotage-a-cold-war-missile-test-the-evidence-is-buried-in-the-archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The...3 Jan 2025 — During this event, Lieutenant Jacobs filmed a UAP interfering with the deployed Re-entry Vehicle (RV) of an ICBM test...</p></details>
+   Link:<a href="https://www.liberationtimes.com/home/did-a-ufo-sabotage-a-cold-war-missile-test-the-evidence-is-buried-in-the-archives" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/did-a-ufo-sabotage-a-cold-war-missile-test-the-evidence-is-buried-in-the-archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The...3 Jan 2025 — During this event, Lieutenant Jacobs filmed a UAP interfering with the deployed Re-entry Vehicle (RV) of an ICBM test...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
    Title: explained video of vandenberg ufo shooting down icbm reenactment.11883  
-   Link: <a href="https://www.metabunk.org/threads/explained-video-of-vandenberg-ufo-shooting-down-icbm-reenactment.11883/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/explained-video-of-vandenberg-ufo-shooting-down-icbm-reenactment.11883/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: Video of Vandenberg UFO shooting down ICBM...7 Jul 2021 — Basically George figures out that Jacobs is talking about a...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/explained-video-of-vandenberg-ufo-shooting-down-icbm-reenactment.11883/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/explained-video-of-vandenberg-ufo-shooting-down-icbm-reenactment.11883/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explained: Video of Vandenberg UFO shooting down ICBM...7 Jul 2021 — Basically George figures out that Jacobs is talking about a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10160798560391790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10160798560391790/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Buzzing Bee was launched before sunrise and was successfully tracked to a distance of about 650 nm. It...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ufoupdates/posts/10160798560391790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10160798560391790/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buzzing Bee was launched before sunrise and was successfully tracked to a distance of about 650 nm. It...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart  
-   Link: <a href="http://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Akin Big Sur UFO UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World Jimmy Akin...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=X2c3_vG7yhs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Akin Big Sur UFO UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World Jimmy Akin...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: Can you believe it, the Air Force lied  
-   Link: <a href="https://www.facebook.com/groups/wavesaction/posts/2244930569170815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wavesaction/posts/2244930569170815/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[[http://www.georgeafb...George](http://www.georgeafb...George) did so by testifying that he knew of an &#x27;anomaly&#x27; on one Atlas launch code named, “Buzzing Bee” and that...</p></details>
+   Link:<a href="https://www.facebook.com/groups/wavesaction/posts/2244930569170815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/wavesaction/posts/2244930569170815/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[[http://www.georgeafb...George](http://www.georgeafb...George) did so by testifying that he knew of an &#x27;anomaly&#x27; on one Atlas launch code named, “Buzzing Bee” and that...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=NnyA1CTFHm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NnyA1CTFHm8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Shoots Down 🚀 Nuclear Missile💥 Robert Jacobs Account - Must Watch #nuclear #nuclearwar #uap...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=NnyA1CTFHm8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NnyA1CTFHm8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Shoots Down 🚀 Nuclear Missile💥 Robert Jacobs Account - Must Watch #nuclear #nuclearwar #uap...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO Nuclear Missile Shootdown (Big Sur UFO Incident)  
-   Link: <a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_kbLEtvzjHg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_kbLEtvzjHg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO shoots ICBM missile  
-   Link: <a href="http://www.youtube.com/watch?v=A97mwsN5h1M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=A97mwsN5h1M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Sur UFO Robert Jacobs Kingston George UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World StarQuest...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=A97mwsN5h1M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=A97mwsN5h1M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big Sur UFO Robert Jacobs Kingston George UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World StarQuest...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hjkc.de  
-   Link: <a href="https://www.hjkc.de/_blog/3564-ufo-forschung-the-big-sur-ufo-incident-saga/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/3564-ufo-forschung-the-big-sur-ufo-incident-saga/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog: UFO-Forschung - THE BIG SUR UFO INCIDENT SAGAAccording to George, the rocket launch that Jacobs was referring to was called “Buzzin...</p></details>
+   Link:<a href="https://www.hjkc.de/_blog/3564-ufo-forschung-the-big-sur-ufo-incident-saga/" target="_blank" rel="noopener noreferrer nofollow">https://www.hjkc.de/_blog/3564-ufo-forschung-the-big-sur-ufo-incident-saga/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blog: UFO-Forschung - THE BIG SUR UFO INCIDENT SAGAAccording to George, the rocket launch that Jacobs was referring to was called “Buzzin...</p></details>

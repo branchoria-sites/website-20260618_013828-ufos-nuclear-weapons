@@ -274,22 +274,22 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_a
 
 ## Introduction
 
-The most important question in the Minot case is not whether multiple people reported unusual objects, but whether those people were [reporting]({{ 'reporting/' | relative_url }}) the *same* object. The witness record becomes more complicated when separated into its component parts. Missile-field security personnel described lights near remote Minuteman launch facilities during the early hours of 24 October 1968, while B-52 pilot Major James Partin and his crew later reported a distinct air-visual observation during the bomber’s return to Minot. Although later retellings often merge these events into a single continuous encounter, the surviving records suggest several witness groups observed unusual phenomena at different locations and times. The resulting puzzle is one of correlation rather than simple confirmation. [Project Blue Book]({{ 'blue-book/' | relative_url }}) files, witness statements, communications transcripts, and later reconstructions preserve enough detail to compare the reports, but not enough to demonstrate conclusively that all observers saw the same object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+The most important question in the Minot case is not whether multiple people reported unusual objects, but whether those people were [reporting]({{ 'reporting/' | relative_url }}) the *same* object. The witness record becomes more complicated when separated into its component parts. Missile-field security personnel described lights near remote Minuteman launch facilities during the early hours of 24 October 1968, while B-52 pilot Major James Partin and his crew later reported a distinct air-visual observation during the bomber’s return to Minot. Although later retellings often merge these events into a single continuous encounter, the surviving records suggest several witness groups observed unusual phenomena at different locations and times. The resulting puzzle is one of correlation rather than simple confirmation. [Project Blue Book]({{ 'blue-book/' | relative_url }}) files, witness statements, communications transcripts, and later reconstructions preserve enough detail to compare the reports, but not enough to demonstrate conclusively that all observers saw the same object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-1-dark.svg" | relative_url }}" alt="Witness puzzle illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What missile-field personnel described
 
-The earliest reports came from personnel stationed in the missile field rather than from the B-52 crew. Security teams and controllers in the Oscar and November missile areas reported unusual lights, often described as bright orange or reddish glows, near launch facilities and support positions. These observations were operationally significant because they occurred around active Minuteman missile sites, where unexplained activity immediately became a security concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+The earliest reports came from personnel stationed in the missile field rather than from the B-52 crew. Security teams and controllers in the Oscar and November missile areas reported unusual lights, often described as bright orange or reddish glows, near launch facilities and support positions. These observations were operationally significant because they occurred around active Minuteman missile sites, where unexplained activity immediately became a security concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
 Several features recur in the ground reports:
 
 * Witnesses were observing from fixed positions on the ground.
 * The reported objects were frequently described as luminous glows rather than clearly defined craft.
 * Distances were uncertain because the observations occurred at night over sparsely populated terrain.
-* Reports originated from multiple missile-field locations rather than from a single observation post. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+* Reports originated from multiple missile-field locations rather than from a single observation post.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
-From a historical perspective, these accounts are strongest as records of what personnel believed they were seeing at the time. They establish that unusual lights were being discussed through the missile-security network before the B-52 became involved. What they do not establish is a precise altitude, shape, size, or trajectory that can easily be matched to later airborne observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+From a historical perspective, these accounts are strongest as records of what personnel believed they were seeing at the time. They establish that unusual lights were being discussed through the missile-security network before the B-52 became involved. What they do not establish is a precise altitude, shape, size, or trajectory that can easily be matched to later airborne observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
 This distinction matters because ground observers looking across a dark landscape can perceive the same light very differently depending on distance, atmospheric conditions, and viewing angle. A light apparently hovering near a launch facility from one position may appear elsewhere when viewed from another location several miles away.
 
@@ -298,15 +298,15 @@ This distinction matters because ground observers looking across a dark landscap
 
 ## What Major Partin later recalled seeing
 
-The later air-visual sighting emerged from a different observational setting. By the time Major James Partin's B-52 was operating in the local area, air traffic controllers and [radar]({{ 'radar/' | relative_url }}) personnel were already discussing unusual returns and lights. During later interviews, Partin recalled being alerted by controllers and then participating in a visual search from the aircraft. He described a sequence in which radar operators appeared concerned by a target that seemed to move rapidly relative to the aircraft's position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Minot AFB UFO Case Section 4</span><span class="citation-popover-snippet">B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
+The later air-visual sighting emerged from a different observational setting. By the time Major James Partin's B-52 was operating in the local area, air traffic controllers and [radar]({{ 'radar/' | relative_url }}) personnel were already discussing unusual returns and lights. During later interviews, Partin recalled being alerted by controllers and then participating in a visual search from the aircraft. He described a sequence in which radar operators appeared concerned by a target that seemed to move rapidly relative to the aircraft's position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Minot AFB UFO Case Section 4</span><span class="citation-popover-snippet">B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
 
 Partin's recollections differ from the missile-field accounts in several important ways.
 
 First, he was observing from an aircraft rather than from a fixed ground location. This changes perception dramatically. The crew's frame of reference was moving, altitude was changing, and visual cues were limited by darkness and cockpit visibility.
 
-Second, the B-52 sighting occurred after the earlier missile-field reports had already entered the command-and-control system. The crew was not encountering the event in isolation; they were responding to information already circulating among controllers and security personnel. Communications records show controllers asking the crew whether they could observe the reported phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">B-52 Air-visual UFO Observations (4:24-4:28)[ 113] As the B-52</span><span class="citation-popover-snippet">A Narrative of UFO Events at Minot Air Force Base, North...The following NARRATIVE section recounts the story of the 24 October...</span></span></span>
+Second, the B-52 sighting occurred after the earlier missile-field reports had already entered the command-and-control system. The crew was not encountering the event in isolation; they were responding to information already circulating among controllers and security personnel. Communications records show controllers asking the crew whether they could observe the reported phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">B-52 Air-visual UFO Observations (4:24-4:28)[ 113] As the B-52</span><span class="citation-popover-snippet">A Narrative of UFO Events at Minot Air Force Base, North...The following NARRATIVE section recounts the story of the 24 October...</span></span></span>
 
-Third, Partin's account became intertwined with radar observations. In many retellings, the radar and visual aspects are treated as a single package. Historically, however, [radar returns]({{ 'radar-return/' | relative_url }}), controller commentary, and visual observations are separate forms of evidence that require separate evaluation. The fact that they occurred within the same operational episode does not automatically prove they referred to the same object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Minot AFB UFO Case Section 4</span><span class="citation-popover-snippet">B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
+Third, Partin's account became intertwined with radar observations. In many retellings, the radar and visual aspects are treated as a single package. Historically, however, [radar returns]({{ 'radar-return/' | relative_url }}), controller commentary, and visual observations are separate forms of evidence that require separate evaluation. The fact that they occurred within the same operational episode does not automatically prove they referred to the same object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Minot AFB UFO Case Section 4</span><span class="citation-popover-snippet">B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-2-dark.svg" | relative_url }}" alt="Witness puzzle illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,224 +316,224 @@ The temptation in the Minot case is to construct a seamless narrative: a UFO app
 
 ### Different locations and different geometries
 
-The missile-field witnesses and the B-52 crew were not standing side by side observing a common reference point. They were separated by significant distances and observing from radically different vantage points. Ground personnel were looking outward across the landscape. Aircrew were looking downward, sideways, and forward from a moving aircraft. Even if both groups saw the same source, proving that connection after the fact is difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+The missile-field witnesses and the B-52 crew were not standing side by side observing a common reference point. They were separated by significant distances and observing from radically different vantage points. Ground personnel were looking outward across the landscape. Aircrew were looking downward, sideways, and forward from a moving aircraft. Even if both groups saw the same source, proving that connection after the fact is difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uv-dH7g0x34" title="Nuclear Weapons and UFOs with Robert Hastings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer">Nuclear Weapons and UFOs with Robert Hastings</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uv-dH7g0x34">Open on YouTube</a></p></div></div></div>
 
 ### Timing uncertainties
 
-The event unfolded over several hours, and witness recollections were not always recorded immediately. Later reconstructions have improved the timeline, but uncertainties remain regarding exactly when particular lights were observed and whether reports overlapped perfectly. Some reported times derive from logs and transcripts; others come from later recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+The event unfolded over several hours, and witness recollections were not always recorded immediately. Later reconstructions have improved the timeline, but uncertainties remain regarding exactly when particular lights were observed and whether reports overlapped perfectly. Some reported times derive from logs and transcripts; others come from later recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
 ### Descriptions are not identical
 
-Ground witnesses often emphasised glowing lights or luminous objects near the horizon. Partin's later recollections were shaped by an airborne search linked to controller reports and radar information. The descriptions overlap enough to suggest a possible connection, yet they are not so precise that investigators can confidently declare a single observed object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Minot AFB UFO Case Section 4</span><span class="citation-popover-snippet">B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
+Ground witnesses often emphasised glowing lights or luminous objects near the horizon. Partin's later recollections were shaped by an airborne search linked to controller reports and radar information. The descriptions overlap enough to suggest a possible connection, yet they are not so precise that investigators can confidently declare a single observed object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Minot AFB UFO Case Section 4</span><span class="citation-popover-snippet">B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-3-dark.svg" | relative_url }}" alt="Witness puzzle illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_minot_b52_case_11d4a1_ground_air_witnesses_83ce03-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The records were assembled after the fact
 
-Project Blue Book and Air Force investigators collected information from multiple sources and attempted to reconstruct a coherent sequence. That process preserved valuable testimony, but it also means modern readers are comparing reports that were gathered through different channels and at different times. The surviving case file demonstrates that investigators themselves were dealing with a complex mosaic of observations rather than one simple sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+Project Blue Book and Air Force investigators collected information from multiple sources and attempted to reconstruct a coherent sequence. That process preserved valuable testimony, but it also means modern readers are comparing reports that were gathered through different channels and at different times. The surviving case file demonstrates that investigators themselves were dealing with a complex mosaic of observations rather than one simple sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
 ## What the witness puzzle actually shows
 
-When the Minot witnesses are separated rather than blended together, the case becomes both less dramatic and more interesting. The strongest conclusion is not that every observer described the same craft. Rather, multiple groups of trained military personnel reported unusual lights or targets within the same operational environment over a relatively short period, and some of those reports appear potentially related. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
+When the Minot witnesses are separated rather than blended together, the case becomes both less dramatic and more interesting. The strongest conclusion is not that every observer described the same craft. Rather, multiple groups of trained military personnel reported unusual lights or targets within the same operational environment over a relatively short period, and some of those reports appear potentially related.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</span><span class="citation-popover-meta">Published: January 1, 2023</span></span></span>
 
-This is why the witness puzzle remains central to discussions of Minot. The missile-field personnel provide evidence that something unusual was being reported around nuclear facilities before the B-52 crew became involved. Partin's later air-visual recollections add a separate perspective from the air. Together, the accounts create a layered event. Whether those layers represent one object, several unrelated stimuli, or a mixture of misperceptions and genuine unknowns remains [unresolved]({{ 'unresolved/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Minot AFB UFO Case Section 4</span><span class="citation-popover-snippet">B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
+This is why the witness puzzle remains central to discussions of Minot. The missile-field personnel provide evidence that something unusual was being reported around nuclear facilities before the B-52 crew became involved. Partin's later air-visual recollections add a separate perspective from the air. Together, the accounts create a layered event. Whether those layers represent one object, several unrelated stimuli, or a mixture of misperceptions and genuine unknowns remains [unresolved]({{ 'unresolved/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Minot AFB UFO Case Section 4</span><span class="citation-popover-snippet">B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWoJ7UMfVLY" title="B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer">B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWoJ7UMfVLY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do the Minot witnesses describe the same thing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do the Minot witnesses describe the same thing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Ideal for comparing independent witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for comparing independent witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how investigators evaluate multiple witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators evaluate multiple witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Demonstrates strengths and weaknesses of testimony-based evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates strengths and weaknesses of testimony-based evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines corroboration among military and civilian witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines corroboration among military and civilian witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Finnish Army Warning Sign Radiation Hazard NBC Cold War M64 65 CBRN Vintage"><img src="{{ '/assets/images/marketplace-covers/be907ef6370f6032bd98.jpg' | relative_url }}" alt="Listing image for Finnish Army Warning Sign Radiation Hazard NBC Cold War M64 65 CBRN Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">Finnish Army Warning Sign Radiation Hazard NBC Cold War M64 65 CBRN Vintage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Finnish Army Warning Sign Radiation Hazard NBC Cold War M64 65 CBRN Vintage"><img src="{{ '/assets/images/marketplace-covers/be907ef6370f6032bd98.jpg' | relative_url }}" alt="Listing image for Finnish Army Warning Sign Radiation Hazard NBC Cold War M64 65 CBRN Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">Finnish Army Warning Sign Radiation Hazard NBC Cold War M64 65 CBRN Vintage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614"><img src="{{ '/assets/images/marketplace-covers/16aea36559c93c89c396.jpg' | relative_url }}" alt="Listing image for END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614"><img src="{{ '/assets/images/marketplace-covers/16aea36559c93c89c396.jpg' | relative_url }}" alt="Listing image for END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614"><img src="{{ '/assets/images/marketplace-covers/eedc4fe6ab378b95d70f.jpg' | relative_url }}" alt="Listing image for END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614"><img src="{{ '/assets/images/marketplace-covers/eedc4fe6ab378b95d70f.jpg' | relative_url }}" alt="Listing image for END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">END OF BRITISH SECTOR CHECKPOINT CHARLEY COLD WAR METAL PLAQUE TIN WALL SIGN 614</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Berlin Wall British Sign Man Cave Sign Rusty Cold War GDR Army Military"><img src="{{ '/assets/images/marketplace-covers/11c72a065079f8dc24d7.jpg' | relative_url }}" alt="Listing image for Berlin Wall British Sign Man Cave Sign Rusty Cold War GDR Army Military" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">Berlin Wall British Sign Man Cave Sign Rusty Cold War GDR Army Military</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Berlin Wall British Sign Man Cave Sign Rusty Cold War GDR Army Military"><img src="{{ '/assets/images/marketplace-covers/11c72a065079f8dc24d7.jpg' | relative_url }}" alt="Listing image for Berlin Wall British Sign Man Cave Sign Rusty Cold War GDR Army Military" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">Berlin Wall British Sign Man Cave Sign Rusty Cold War GDR Army Military</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War sign" data-ebay-reference="witness-puzzle-do-the-minot-witnesses-describe-the-same-thing-ufos-and-nuclear-weapons-cold-war-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ This is why the witness puzzle remains central to discussions of Minot. The miss
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ This is why the witness puzzle remains central to discussions of Minot. The miss
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ This is why the witness puzzle remains central to discussions of Minot. The miss
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ This is why the witness puzzle remains central to discussions of Minot. The miss
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ This is why the witness puzzle remains central to discussions of Minot. The miss
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,108 +739,108 @@ This is why the witness puzzle remains central to discussions of Minot. The miss
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
    Title: The Investigation of UFO Events at Minot Air Force Base,  
-   Link: <a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</p></details>
+   Link:<a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...January 1, 2023 — On October 24, 1968, a series of anomalous aerial e...</p></details>
    Published: January 1, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
    Title: B-52 Air-visual UFO Observations (4:24-4:28)[ 113] As the B-52  
-   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative of UFO Events at Minot Air Force Base, North...The following NARRATIVE section recounts the story of the 24 October...</p></details>
+   Link:<a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative of UFO Events at Minot Air Force Base, North...The following NARRATIVE section recounts the story of the 24 October...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>o, reporting the UFO events, and began the process of collating the case data per...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o, reporting the UFO events, and began the process of collating the case data per...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: minotb52ufo.com  
    Title: Minot AFB UFO Case Section 4  
-   Link: <a href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/narrative/section-4.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</p></details>
+   Link:<a href="https://minotb52ufo.com/narrative/section-4.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/narrative/section-4.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B-52 Air-visual UFO Observations (4:24-4:28)Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes...</p></details>
    Published: October 24, 1968  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying objects (UFOs) by the United Stat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of [unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) flying objects (UFOs) by the United Stat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 October 196...</p></details>
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 October 196...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: minotb52ufo.com  
-   Link: <a href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/pdf/POHER_Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ionals and corroborated by sophisticated means...</p></details>
+   Link:<a href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/pdf/POHER_Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ionals and corroborated by sophisticated means...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Rankow termed the case &quot;undecided.&quot; However, the lack of visual sighting of such a large obje...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Rankow termed the case &quot;undecided.&quot; However, the lack of visual sighting of such a large obje...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: minotdailynews.com  
    Title: ntsb preliminary report says b 52 was flying as authorized in near miss at minot  
-   Link: <a href="https://www.minotdailynews.com/news/local-news/2025/08/ntsb-preliminary-report-says-b-52-was-flying-as-authorized-in-near-miss-at-minot/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotdailynews.com/news/local-news/2025/08/ntsb-preliminary-report-says-b-52-was-flying-as-authorized-in-near-miss-at-minot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB preliminary report says B-52 was flying as...29 Aug 2025 — The NTSB report confirms the B-52&#x27;s flyover was coordinated in advance w...</p></details>
+   Link:<a href="https://www.minotdailynews.com/news/local-news/2025/08/ntsb-preliminary-report-says-b-52-was-flying-as-authorized-in-near-miss-at-minot/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotdailynews.com/news/local-news/2025/08/ntsb-preliminary-report-says-b-52-was-flying-as-authorized-in-near-miss-at-minot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB preliminary report says B-52 was flying as...29 Aug 2025 — The NTSB report confirms the B-52&#x27;s flyover was coordinated in advance w...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: minot.af.mil  
    Title: ntsb preliminary report says b 52 was flying as authorized in near miss at minot  
-   Link: <a href="https://www.minot.af.mil/News/Article-Display/Article/4289192/ntsb-preliminary-report-says-b-52-was-flying-as-authorized-in-near-miss-at-minot/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/News/Article-Display/Article/4289192/ntsb-preliminary-report-says-b-52-was-flying-as-authorized-in-near-miss-at-minot/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>preliminary report says B-52 was flying as authorized in...28 Aug 2025 — The NTSB report confirms the B-52&#x27;s flyover was coordinated in...</p></details>
+   Link:<a href="https://www.minot.af.mil/News/Article-Display/Article/4289192/ntsb-preliminary-report-says-b-52-was-flying-as-authorized-in-near-miss-at-minot/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/News/Article-Display/Article/4289192/ntsb-preliminary-report-says-b-52-was-flying-as-authorized-in-near-miss-at-minot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>preliminary report says B-52 was flying as authorized in...28 Aug 2025 — The NTSB report confirms the B-52&#x27;s flyover was coordinated in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psiencequest.net  
    Title: thread the monumental 1968 minot nd usa b 52 airborne and ground ufo encounter  
-   Link: <a href="https://psiencequest.net/forums/thread-the-monumental-1968-minot-nd-usa-b-52-airborne-and-ground-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://psiencequest.net/forums/thread-the-monumental-1968-minot-nd-usa-b-52-airborne-and-ground-ufo-encounter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The monumental 1968 Minot ND USA B-52 airborne and...7 May 2024 — I thought I would summarize this classic UFO case, which demonstrates...</p></details>
+   Link:<a href="https://psiencequest.net/forums/thread-the-monumental-1968-minot-nd-usa-b-52-airborne-and-ground-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://psiencequest.net/forums/thread-the-monumental-1968-minot-nd-usa-b-52-airborne-and-ground-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The monumental 1968 Minot ND USA B-52 airborne and...7 May 2024 — I thought I would summarize this classic UFO case, which demonstrates...</p></details>
    Published: May 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: the october 24 1968 minot ufo case is remarkable  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/j6zlb/the_october_24_1968_minot_ufo_case_is_remarkable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/j6zlb/the_october_24_1968_minot_ufo_case_is_remarkable/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The October, 24 1968 Minot UFO case is remarkable...Do you think that some UFOs are alien space craft? Do you also think that some crop...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/j6zlb/the_october_24_1968_minot_ufo_case_is_remarkable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/j6zlb/the_october_24_1968_minot_ufo_case_is_remarkable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The October, 24 1968 Minot UFO case is remarkable...Do you think that some UFOs are alien space craft? Do you also think that some crop...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/videos/the-ufo-case-that-shook-1955/2124824228288224/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/videos/the-ufo-case-that-shook-1955/2124824228288224/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shocking 1955 sighting in Kentucky pushed the U.S. Air Force&#x27;s...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/videos/the-ufo-case-that-shook-1955/2124824228288224/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/videos/the-ufo-case-that-shook-1955/2124824228288224/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shocking 1955 sighting in Kentucky pushed the U.S. Air Force&#x27;s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/143692843009022/posts/1506294340082192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/143692843009022/posts/1506294340082192/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sure if it’s a helicopter, plane, drone or UFO, but it’s...</p></details>
+   Link:<a href="https://www.facebook.com/groups/143692843009022/posts/1506294340082192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/143692843009022/posts/1506294340082192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sure if it’s a helicopter, plane, drone or UFO, but it’s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UefLw3NEM48</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1968 Minot AFB UFO encounter B-52 B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968 Eyes O...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UefLw3NEM48</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1968 Minot AFB UFO encounter B-52 B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968 Eyes O...</p></details>
    Published: October 24, 1968  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufoinsight.com  
    Title: minot air force base ufo  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/minot-air-force-base-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/minot-air-force-base-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Minot Air Force Base UFO Incidents16 Jun 2019 — Like many air force facilities around the United States, Minot Air Force Base in Nort...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/minot-air-force-base-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/minot-air-force-base-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Minot Air Force Base UFO Incidents16 Jun 2019 — Like many air force facilities around the United States, Minot Air Force Base in Nort...</p></details>

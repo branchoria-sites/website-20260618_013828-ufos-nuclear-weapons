@@ -498,9 +498,9 @@ The most careful reading is that Ellsworth adds a second major missile-field set
 
 ## Why Ellsworth Fits The Nuclear-Silo Pattern
 
-Ellsworth Air Force Base in South Dakota was not a peripheral Cold War site. Its 44th Missile Wing operated a large Minuteman missile field: the National Park Service describes each flight as one manned underground launch control centre linked by underground cable to ten unmanned launch facilities, each containing one Minuteman missile in an underground silo. The wing was activated in 1962, its three strategic missile squadrons were fully activated by November 1963, and the facilities were upgraded from Minuteman IB to Minuteman II between 1971 and 1973. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/44th-missile-wing.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">Open source on nps.gov.</span></span></span>
+Ellsworth Air Force Base in South Dakota was not a peripheral Cold War site. Its 44th Missile Wing operated a large Minuteman missile field: the National Park Service describes each flight as one manned underground launch control centre linked by underground cable to ten unmanned launch facilities, each containing one Minuteman missile in an underground silo. The wing was activated in 1962, its three strategic missile squadrons were fully activated by November 1963, and the facilities were upgraded from Minuteman IB to Minuteman II between 1971 and 1973.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/44th-missile-wing.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">Open source on nps.gov.</span></span></span>
 
-That geography matters because the Ellsworth accounts are set in the same operational world as the better-known Malmstrom and Minot stories: dispersed missile sites, remote roads, alarmed perimeters, underground launch-control crews and topside security teams sent out to investigate possible breaches. Ellsworth’s own base history says that by late 1963 there were 150 [silos]({{ 'silos/' | relative_url }}) spread across the South Dakota landscape, with one launch control facility for every ten silos; security police were stationed topside while two missileers worked in the underground capsule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ellsworth.af.mil/News/Features/Display/Article/217595/silent-sentinels-44th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ellsworth.af.mil">[ellsworth.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ellsworth.af.mil</span><span class="citation-popover-title">Silent sentinels: 44th Missile Wing &gt; Ellsworth Air Force Base &gt; Display</span><span class="citation-popover-snippet">Silent sentinels: 44th Missile Wing &gt; Ellsworth Air Force Base &gt; Display</span></span></span>
+That geography matters because the Ellsworth accounts are set in the same operational world as the better-known Malmstrom and Minot stories: dispersed missile sites, remote roads, alarmed perimeters, underground launch-control crews and topside security teams sent out to investigate possible breaches. Ellsworth’s own base history says that by late 1963 there were 150 [silos]({{ 'silos/' | relative_url }}) spread across the South Dakota landscape, with one launch control facility for every ten silos; security police were stationed topside while two missileers worked in the underground capsule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ellsworth.af.mil/News/Features/Display/Article/217595/silent-sentinels-44th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ellsworth.af.mil">[ellsworth.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ellsworth.af.mil</span><span class="citation-popover-title">Silent sentinels: 44th Missile Wing &gt; Ellsworth Air Force Base &gt; Display</span><span class="citation-popover-snippet">Silent sentinels: 44th Missile Wing &gt; Ellsworth Air Force Base &gt; Display</span></span></span>
 
 This makes the Ellsworth material more specific than a generic UFO sighting. A security alarm at a launch facility would have been a real operational event, not just a visual curiosity. It would normally involve launch officers, a flight security controller, wing security control, a dispatched security alert team and some form of logging or follow-up. That is exactly why the [corroboration]({{ 'corroboration/' | relative_url }}) gap is so important: the story describes a system that should have left traces, but the public domain has not yet produced enough of those traces to move the case beyond testimonial evidence.
 
@@ -508,19 +508,19 @@ This makes the Ellsworth material more specific than a generic UFO sighting. A s
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-1-dark.svg" | relative_url }}" alt="Ellsworth illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Former Personnel Reported
 
-The central modern Ellsworth account is associated with former USAF security policeman Mario A. Woods Jr. In Robert Hastings’s 2017 write-up, Woods is described as having been stationed at Ellsworth from 1975 to 1979 as a member of the 44th Security Police Squadron. Hastings says the account was provided by Woods and edited for brevity and clarity; he also says he had Woods’s DD-214 service record confirming Woods’s presence at Ellsworth and his missile-security role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
+The central modern Ellsworth account is associated with former USAF security policeman Mario A. Woods Jr. In Robert Hastings’s 2017 write-up, Woods is described as having been stationed at Ellsworth from 1975 to 1979 as a member of the 44th Security Police Squadron. Hastings says the account was provided by Woods and edited for brevity and clarity; he also says he had Woods’s DD-214 service record confirming Woods’s presence at Ellsworth and his missile-security role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
 
-In Woods’s account, the incident took place in November 1977 while he was assigned to the November Flight launch control facility on a night shift with another security alert team member. He first reported seeing an unusually bright, hovering light in the clear South Dakota sky, then later said a Situation-4 alarm came from Launch Facility November-5. In his explanation, a Situation-4 meant that the launch facility’s outer-zone antenna and underground support building had either been penetrated or had alarmed for an unknown reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
+In Woods’s account, the incident took place in November 1977 while he was assigned to the November Flight launch control facility on a night shift with another security alert team member. He first reported seeing an unusually bright, hovering light in the clear South Dakota sky, then later said a Situation-4 alarm came from Launch Facility November-5. In his explanation, a Situation-4 meant that the launch facility’s outer-zone antenna and underground support building had either been penetrated or had alarmed for an unknown reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
 
-The striking claim is what Woods says happened after the team drove towards November-5. He reported seeing a large reddish-orange spherical object hovering directly over or near the missile site, only 15 to 20 feet above the ground, followed by breathing difficulty, his partner becoming unresponsive, fragmentary memories, and then a later realisation that the vehicle was no longer at November-5 but near Newell Lake, several miles away. He also claimed that nearly four hours had passed, that other security teams had been searching for them, and that he filled out an AF Form 1000 UFO sighting report before being allowed to sleep. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
+The striking claim is what Woods says happened after the team drove towards November-5. He reported seeing a large reddish-orange spherical object hovering directly over or near the missile site, only 15 to 20 feet above the ground, followed by breathing difficulty, his partner becoming unresponsive, fragmentary memories, and then a later realisation that the vehicle was no longer at November-5 but near Newell Lake, several miles away. He also claimed that nearly four hours had passed, that other security teams had been searching for them, and that he filled out an AF Form 1000 UFO sighting report before being allowed to sleep.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
 
 The account has three features that make it memorable within the wider nuclear-UFO literature:
 
 * **It names a specific operating environment.** November Flight, November-5, launch-control procedures, wing security control and security alert team duties are all operationally specific rather than vague.
 * **It describes a security response, not only a sighting.** The event begins with an alleged launch-facility alarm, which would matter even if the object were ultimately misidentified.
-* **It includes missing-time and medical-follow-up claims.** Woods said he was later interviewed, ordered to provide a urine sample, and had skin samples taken because he appeared sunburnt. These are precisely the kinds of claims that would become far more significant if matching records surfaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
+* **It includes missing-time and medical-follow-up claims.** Woods said he was later interviewed, ordered to provide a urine sample, and had skin samples taken because he appeared sunburnt. These are precisely the kinds of claims that would become far more significant if matching records surfaced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
 
-The problem is that most of those details remain publicly unsupported by independent documents. Hastings himself framed the recollections as “credible if incomplete” and wrote that he was attempting to locate others who were present that night. He also mentioned arranging hypnotic regression, a controversial memory-recovery method that does not carry the same evidential weight as contemporaneous records or independently documented testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
+The problem is that most of those details remain publicly unsupported by independent documents. Hastings himself framed the recollections as “credible if incomplete” and wrote that he was attempting to locate others who were present that night. He also mentioned arranging hypnotic regression, a controversial memory-recovery method that does not carry the same evidential weight as contemporaneous records or independently documented testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">UF Os &amp; Nukes</span><span class="citation-popover-snippet">UF Os &amp; Nukes</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/svqDX2D2PS0" title="06-21-22 Ellsworth AFB Close Encounter, Sargent Mario Woods, (ret)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=svqDX2D2PS0" target="_blank" rel="noopener noreferrer">06-21-22 Ellsworth AFB Close Encounter, Sargent Mario Woods, (ret)</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 14.9K &middot; Uploaded: June 2022 &middot; Length: 1 hour 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=svqDX2D2PS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=svqDX2D2PS0">Open on YouTube</a></p></div></div></div>
@@ -542,21 +542,21 @@ The most important missing items are straightforward:
 
 </div>
 
-A separate warning sign comes from the history of dubious Ellsworth paperwork. Hastings has written about an alleged Air Force “report” concerning a supposed Ellsworth UFO-alien encounter, saying that former Minuteman missile targeting team member TSgt. John Mills identified numerous factual and [format]({{ 'format/' | relative_url }}) errors and called the document bogus; one example given was a launch-site and squadron mismatch involving Delta-4. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/storage/files/operation-bird-droppings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">operation bird droppings</span><span class="citation-popover-snippet">operation bird droppings</span></span></span> That does not disprove Woods’s account, but it shows why Ellsworth material needs careful authentication rather than acceptance on the basis of dramatic content.
+A separate warning sign comes from the history of dubious Ellsworth paperwork. Hastings has written about an alleged Air Force “report” concerning a supposed Ellsworth UFO-alien encounter, saying that former Minuteman missile targeting team member TSgt. John Mills identified numerous factual and [format]({{ 'format/' | relative_url }}) errors and called the document bogus; one example given was a launch-site and squadron mismatch involving Delta-4.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufohastings.com/storage/files/operation-bird-droppings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[ufohastings.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-title">operation bird droppings</span><span class="citation-popover-snippet">operation bird droppings</span></span></span> That does not disprove Woods’s account, but it shows why Ellsworth material needs careful authentication rather than acceptance on the basis of dramatic content.
 
-The public record also has a structural limitation. [Project Blue Book]({{ 'blue-book/' | relative_url }}), the old Air Force UFO programme, ended in 1969, and the National Archives notes that it has no information on sightings after that date. That means a 1977 Ellsworth case would not naturally appear in the Blue Book archive, even if it had been reported through some other Air Force channel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
+The public record also has a structural limitation. [Project Blue Book]({{ 'blue-book/' | relative_url }}), the old Air Force UFO programme, ended in 1969, and the National Archives notes that it has no information on sightings after that date. That means a 1977 Ellsworth case would not naturally appear in the Blue Book archive, even if it had been reported through some other Air Force channel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-2-dark.svg" | relative_url }}" alt="Ellsworth illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Ellsworth Compares With Malmstrom
 
-Malmstrom remains the centre of the nuclear-UFO debate because it has a documented missile-system failure as a hard anchor. A declassified command-history excerpt on the 1967 Echo Flight incident says all Echo Flight sites shut down with “No-Go” indications and lost strategic alert nearly simultaneously, while also stating that UFO rumours around the fault were disproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+Malmstrom remains the centre of the nuclear-UFO debate because it has a documented missile-system failure as a hard anchor. A declassified command-history excerpt on the 1967 Echo Flight incident says all Echo Flight sites shut down with “No-Go” indications and lost strategic alert nearly simultaneously, while also stating that UFO rumours around the fault were disproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 Ellsworth is different. The public Woods account is not anchored by a released missile shutdown report. It is anchored by a claimed security alarm, a claimed security-team response and a claimed subsequent debrief. That makes Ellsworth potentially important, but evidentially thinner. If Malmstrom’s evidential problem is the contested relationship between a real technical failure and disputed UFO testimony, Ellsworth’s evidential problem is more basic: the public still needs confirmation that the alleged alarm, search, medical follow-up and formal UFO report occurred as described.
 
 The two cases still resemble each other in the kinds of questions they raise. Both involve former personnel making claims years after the events. Both are set in dispersed ICBM fields where small teams operated under strict procedures. Both have claims of unusual objects near sensitive nuclear infrastructure. And both expose the same interpretive divide: UFO researchers see a recurring pattern around nuclear weapons; sceptics see late, fragmentary testimony, possible memory contamination, misidentification and missing records.
 
-AARO, the Pentagon’s All-domain Anomaly Resolution Office, has acknowledged the relevance of this category without endorsing the strongest claims. In its 2024 historical report, AARO said it had interviewed five former USAF members who served in or around ICBM silos at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977, and that some claimed UAP sightings near silos while others claimed disruptions to ICBM operations. The same report stressed that AARO could not simply rely on interviewee accounts alone because of the extraordinary nature of the claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+AARO, the Pentagon’s All-domain Anomaly Resolution Office, has acknowledged the relevance of this category without endorsing the strongest claims. In its 2024 historical report, AARO said it had interviewed five former USAF members who served in or around ICBM silos at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977, and that some claimed UAP sightings near silos while others claimed disruptions to ICBM operations. The same report stressed that AARO could not simply rely on interviewee accounts alone because of the extraordinary nature of the claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 That is a useful middle position. Ellsworth is not outside official awareness; it appears within the class of historical nuclear-related UAP cases now recognised as worth reviewing. But official interest in a claim is not the same thing as official validation of the claim.
 
@@ -569,7 +569,7 @@ The Ellsworth case would become much more important if even one or two contempor
 
 From there, stronger corroboration would change the case in stages. A recovered AF Form 1000 would show that the event was reported at the time rather than reconstructed decades later. A radio log or security-control entry would test the claimed timeline. Medical records would test the claimed physical aftermath. A statement from the second team member or another named responder would test whether Woods’s account was shared by others. Radar, optical, or command-post records would be stronger still, but those are less likely to exist or be publicly available.
 
-Even then, corroboration would not automatically prove an extraordinary cause. A verified alarm plus a verified sighting could still leave open possibilities such as aircraft, helicopter activity, astronomical misidentification, atmospheric effects, equipment malfunction, human error, prank activity, classified operations or memory distortion. AARO’s broader historical review notes that many resolved UFO cases have ordinary explanations, including astronomical sightings, balloons, aircraft, satellites, missiles, reflections, searchlights, false radar indications, fireworks, [flares]({{ 'flares/' | relative_url }}) and hoaxes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+Even then, corroboration would not automatically prove an extraordinary cause. A verified alarm plus a verified sighting could still leave open possibilities such as aircraft, helicopter activity, astronomical misidentification, atmospheric effects, equipment malfunction, human error, prank activity, classified operations or memory distortion. AARO’s broader historical review notes that many resolved UFO cases have ordinary explanations, including astronomical sightings, balloons, aircraft, satellites, missiles, reflections, searchlights, false radar indications, fireworks, [flares]({{ 'flares/' | relative_url }}) and hoaxes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 The real value of corroboration would be narrower but still significant: it would show that an unusual, operationally disruptive event occurred in the Ellsworth missile field and was treated seriously enough to be logged, investigated or medically followed up. That would move the case from “compelling but weakly corroborated testimony” to “documented security incident with unresolved witness claims”.
 
@@ -577,9 +577,9 @@ The real value of corroboration would be narrower but still significant: it woul
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-3-dark.svg" | relative_url }}" alt="Ellsworth illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Best Current Assessment
 
-Ellsworth belongs in the nuclear-UFO pattern because the account is tied to a real Cold War missile field, a plausible security-response structure and former personnel who describe events at or near Minuteman launch facilities. The South Dakota missile field was large, dispersed and operationally sensitive, and the Woods account uses details that align with how such facilities were organised and guarded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/44th-missile-wing.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">Open source on nps.gov.</span></span></span>
+Ellsworth belongs in the nuclear-UFO pattern because the account is tied to a real Cold War missile field, a plausible security-response structure and former personnel who describe events at or near Minuteman launch facilities. The South Dakota missile field was large, dispersed and operationally sensitive, and the Woods account uses details that align with how such facilities were organised and guarded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/44th-missile-wing.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">Open source on nps.gov.</span></span></span>
 
-But Ellsworth also shows why the nuclear-UFO subject remains unresolved. The most dramatic claims are still not matched in public by the kinds of documents that would normally strengthen a case: alarm logs, duty rosters, radio records, medical records, authenticated reports, photographs, radar data or multiple named witnesses speaking independently. AARO’s 2024 report reached a broad conclusion that no US government investigation, academic-sponsored research or official review had confirmed any UAP sighting as extraterrestrial, while also noting that some historical nuclear-related cases continue to be investigated because of their potential relevance to nuclear readiness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+But Ellsworth also shows why the nuclear-UFO subject remains unresolved. The most dramatic claims are still not matched in public by the kinds of documents that would normally strengthen a case: alarm logs, duty rosters, radio records, medical records, authenticated reports, photographs, radar data or multiple named witnesses speaking independently. AARO’s 2024 report reached a broad conclusion that no US government investigation, academic-sponsored research or official review had confirmed any UAP sighting as extraterrestrial, while also noting that some historical nuclear-related cases continue to be investigated because of their potential relevance to nuclear readiness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 That leaves Ellsworth in a careful middle category. It is too specific and operationally grounded to dismiss as just a campfire story, but too thinly documented to carry the weight sometimes placed on it. Its importance is not that it proves UFO interference with nuclear weapons. Its importance is that it widens the pattern beyond Malmstrom while making the evidence problem impossible to ignore.
 
@@ -588,194 +588,194 @@ That leaves Ellsworth in a careful middle category. It is too specific and opera
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ellsworth Belongs In The Pattern. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ellsworth Belongs In The Pattern. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Explains Minuteman missile systems and nuclear operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains Minuteman missile systems and nuclear operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides broader context for military UFO testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for military UFO testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores secrecy and military aerospace programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores secrecy and military aerospace programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly covers UFO reports linked to nuclear missile sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers UFO reports linked to nuclear missile sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print"><img src="{{ '/assets/images/marketplace-covers/dfddb1826e12bfcc8987.jpg' | relative_url }}" alt="Listing image for Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Washtington to New York, Vintage Aviation Poster - Archival Matte Paper Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/881a73d3e0d6a3b484b2.jpg' | relative_url }}" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="{{ '/assets/images/marketplace-covers/239d349040423b8bbe1d.jpg' | relative_url }}" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="ellsworth-why-ellsworth-belongs-in-the-pattern-ufos-and-nuclear-weapons-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -791,7 +791,7 @@ That leaves Ellsworth in a careful middle category. It is too specific and opera
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -811,7 +811,7 @@ That leaves Ellsworth in a careful middle category. It is too specific and opera
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -843,7 +843,7 @@ That leaves Ellsworth in a careful middle category. It is too specific and opera
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -895,7 +895,7 @@ That leaves Ellsworth in a careful middle category. It is too specific and opera
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -940,7 +940,7 @@ That leaves Ellsworth in a careful middle category. It is too specific and opera
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -981,135 +981,135 @@ That leaves Ellsworth in a careful middle category. It is too specific and opera
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ellsworth.af.mil  
    Title: Silent sentinels: 44th Missile Wing > Ellsworth Air Force Base > Display  
-   Link: <a href="https://www.ellsworth.af.mil/News/Features/Display/Article/217595/silent-sentinels-44th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.ellsworth.af.mil/News/Features/Display/Article/217595/silent-sentinels-44th-missile-wing/</a>  
+   Link:<a href="https://www.ellsworth.af.mil/News/Features/Display/Article/217595/silent-sentinels-44th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.ellsworth.af.mil/News/Features/Display/Article/217595/silent-sentinels-44th-missile-wing/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufohastings.com  
    Title: UF Os & Nukes  
-   Link: <a href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site</a>  
+   Link:<a href="https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/former-usaf-missile-security-policeman-tells-of-apparent-ufo-abduction-at-icbm-site</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufohastings.com  
    Title: operation bird droppings  
-   Link: <a href="https://www.ufohastings.com/storage/files/operation-bird-droppings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/storage/files/operation-bird-droppings.pdf</a>  
+   Link:<a href="https://www.ufohastings.com/storage/files/operation-bird-droppings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/storage/files/operation-bird-droppings.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects | National Archives...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - [Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;) Flying Objects | National Archives...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufohastings.com  
    Title: ufos are stalking and intercepting dummy nuclear warheads during test flights  
-   Link: <a href="https://www.ufohastings.com/articles/ufos-are-stalking-and-intercepting-dummy-nuclear-warheads-during-test-flights" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/ufos-are-stalking-and-intercepting-dummy-nuclear-warheads-during-test-flights</a>  
+   Link:<a href="https://www.ufohastings.com/articles/ufos-are-stalking-and-intercepting-dummy-nuclear-warheads-during-test-flights" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/ufos-are-stalking-and-intercepting-dummy-nuclear-warheads-during-test-flights</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufohastings.com  
-   Link: <a href="https://www.ufohastings.com/interviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/interviews</a>  
+   Link:<a href="https://www.ufohastings.com/interviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/interviews</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufohastings.com  
    Title: three former u s air force icbm launch officers speak out about ufos  
-   Link: <a href="https://www.ufohastings.com/articles/three-former-u-s-air-force-icbm-launch-officers-speak-out-about-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/three-former-u-s-air-force-icbm-launch-officers-speak-out-about-ufos</a>  
+   Link:<a href="https://www.ufohastings.com/articles/three-former-u-s-air-force-icbm-launch-officers-speak-out-about-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/three-former-u-s-air-force-icbm-launch-officers-speak-out-about-ufos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufohastings.com  
    Title: new revelations  
-   Link: <a href="https://www.ufohastings.com/articles/new-revelations" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/new-revelations</a>  
+   Link:<a href="https://www.ufohastings.com/articles/new-revelations" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/new-revelations</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufohastings.com  
    Title: telephonic interviews with colonel walter figel usaf ret  
-   Link: <a href="https://www.ufohastings.com/articles/telephonic-interviews-with-colonel-walter-figel-usaf-ret" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/telephonic-interviews-with-colonel-walter-figel-usaf-ret</a>  
+   Link:<a href="https://www.ufohastings.com/articles/telephonic-interviews-with-colonel-walter-figel-usaf-ret" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/telephonic-interviews-with-colonel-walter-figel-usaf-ret</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufohastings.com  
-   Link: <a href="https://www.ufohastings.com/articles/ufo-buzzes-icbm-launch-capsule-at-minot-afb" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/ufo-buzzes-icbm-launch-capsule-at-minot-afb</a>  
+   Link:<a href="https://www.ufohastings.com/articles/ufo-buzzes-icbm-launch-capsule-at-minot-afb" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/ufo-buzzes-icbm-launch-capsule-at-minot-afb</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufohastings.com  
-   Link: <a href="https://www.ufohastings.com/articles/im-not-a-ufo-expert-but-i-play-one-on-tv" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/im-not-a-ufo-expert-but-i-play-one-on-tv</a>  
+   Link:<a href="https://www.ufohastings.com/articles/im-not-a-ufo-expert-but-i-play-one-on-tv" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/im-not-a-ufo-expert-but-i-play-one-on-tv</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ellsworth.af.mil  
    Title: minuteman missile visitor center opens in philip sd  
-   Link: <a href="https://www.ellsworth.af.mil/News/Article-Display/Article/958896/minuteman-missile-visitor-center-opens-in-philip-sd/" target="_blank" rel="noopener noreferrer nofollow">https://www.ellsworth.af.mil/News/Article-Display/Article/958896/minuteman-missile-visitor-center-opens-in-philip-sd/</a>  
+   Link:<a href="https://www.ellsworth.af.mil/News/Article-Display/Article/958896/minuteman-missile-visitor-center-opens-in-philip-sd/" target="_blank" rel="noopener noreferrer nofollow">https://www.ellsworth.af.mil/News/Article-Display/Article/958896/minuteman-missile-visitor-center-opens-in-philip-sd/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/articles/44th-missile-wing.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/44th-missile-wing.htm</a>  
+   Link:<a href="https://www.nps.gov/articles/44th-missile-wing.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/44th-missile-wing.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nps.gov  
    Title: Oral Histories  
-   Link: <a href="https://www.nps.gov/mimi/learn/historyculture/oral-histories.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/mimi/learn/historyculture/oral-histories.htm</a>  
+   Link:<a href="https://www.nps.gov/mimi/learn/historyculture/oral-histories.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/mimi/learn/historyculture/oral-histories.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/media/video/view.htm?id=49FA147F-C633-1722-72F6D6FB1FCCCB63" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/media/video/view.htm?id=49FA147F-C633-1722-72F6D6FB1FCCCB63</a>  
+   Link:<a href="https://www.nps.gov/media/video/view.htm?id=49FA147F-C633-1722-72F6D6FB1FCCCB63" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/media/video/view.htm?id=49FA147F-C633-1722-72F6D6FB1FCCCB63</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: x.com  
-   Link: <a href="https://x.com/colmanjones/status/1771907677209157871" target="_blank" rel="noopener noreferrer nofollow">https://x.com/colmanjones/status/1771907677209157871</a>  
+   Link:<a href="https://x.com/colmanjones/status/1771907677209157871" target="_blank" rel="noopener noreferrer nofollow">https://x.com/colmanjones/status/1771907677209157871</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheUnXplainedZone/videos/terrifying-ufo-encounter-leaves-team-frozen-in-fear-unidentified-inside-americas/1027580253169857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/videos/terrifying-ufo-encounter-leaves-team-frozen-in-fear-unidentified-inside-americas/1027580253169857/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying UFO Encounter Leaves Team Frozen in FearFormer U.S. Air Force Sergeant Mario Woods shares his chilling encounter with a myster...</p></details>
+   Link:<a href="https://www.facebook.com/TheUnXplainedZone/videos/terrifying-ufo-encounter-leaves-team-frozen-in-fear-unidentified-inside-americas/1027580253169857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/videos/terrifying-ufo-encounter-leaves-team-frozen-in-fear-unidentified-inside-americas/1027580253169857/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying UFO Encounter Leaves Team Frozen in FearFormer U.S. Air Force Sergeant Mario Woods shares his chilling encounter with a myster...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFOs Over Nuclear Bases: Military Witness Accounts | George Knapp  
-   Link: <a href="http://www.youtube.com/watch?v=ogBxduxkopk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ogBxduxkopk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ellsworth Air Force Base UFO incident nuclear missile silo Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods) Jesse Michels...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ogBxduxkopk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ogBxduxkopk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ellsworth Air Force Base UFO incident nuclear missile silo Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods) Jesse Michels...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods)  
-   Link: <a href="https://www.youtube.com/watch?v=73YBwFvcmF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=73YBwFvcmF8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=73YBwFvcmF8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=73YBwFvcmF8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force captain says UFOs attacked a nuclear...In some accounts, unidentified objects allegedly hovered above missile silos...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-captain-says-ufos-attacked-a-nuclear-missile-base-in-the-196/2364275070449781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former US Air Force captain says UFOs attacked a nuclear...In some accounts, unidentified objects allegedly hovered above missile silos...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: 06-21-22 Ellsworth AFB Close Encounter, Sargent Mario Woods, (ret)  
-   Link: <a href="http://www.youtube.com/watch?v=svqDX2D2PS0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=svqDX2D2PS0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Nuclear Bases: Military Witness Accounts | George Knapp...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=svqDX2D2PS0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=svqDX2D2PS0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Nuclear Bases: Military Witness Accounts | George Knapp...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Missing Time Incident at Ellsworth Air Force Base | Somewhere in the Skies  
-   Link: <a href="http://www.youtube.com/watch?v=Ozvj1c5DvSE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ozvj1c5DvSE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1977 Nuke UAP Incident PART 1 - Mario Woods...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Ozvj1c5DvSE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ozvj1c5DvSE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1977 Nuke UAP Incident PART 1 - Mario Woods...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=mv2EBM3El1w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mv2EBM3El1w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>06-21-22 Ellsworth AFB Close Encounter, Sargent Mario Woods, (ret)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mv2EBM3El1w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mv2EBM3El1w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>06-21-22 Ellsworth AFB Close Encounter, Sargent Mario Woods, (ret)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: storytel.com  
-   Link: <a href="https://www.storytel.com/is/podcasts/podcast-ufo-120423/512-af-sargent-mario-woods-ret-ellsworth-afb-close-encounter-4795907" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/is/podcasts/podcast-ufo-120423/512-af-sargent-mario-woods-ret-ellsworth-afb-close-encounter-4795907</a>  
+   Link:<a href="https://www.storytel.com/is/podcasts/podcast-ufo-120423/512-af-sargent-mario-woods-ret-ellsworth-afb-close-encounter-4795907" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/is/podcasts/podcast-ufo-120423/512-af-sargent-mario-woods-ret-ellsworth-afb-close-encounter-4795907</a>  

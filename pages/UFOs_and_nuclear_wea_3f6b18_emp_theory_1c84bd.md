@@ -501,13 +501,13 @@ The important distinction is that “EMP” is often used loosely. In this conte
 
 ## What an EMP explanation would imply
 
-An electromagnetic pulse is a short burst of electromagnetic energy that can induce voltage and current in wires and electronic systems. In nuclear-weapons literature, EMP is usually associated with nuclear detonations, especially high-altitude bursts. But non-nuclear electromagnetic interference can also upset electronics, usually over a much smaller area and with a much more specific coupling path. The US Naval Institute’s overview of EMP describes the common mechanism plainly: electric and magnetic fields can couple with electrical or electronic systems and produce damaging or disruptive surges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">emp or solar incident could result blackout warfare</span><span class="citation-popover-snippet">Naval InstituteAn EMP or Solar Incident Could Result in Blackout WarfareFebruary 14, 2023 — An electromagnetic pulse (EMP) is the electro...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+An electromagnetic pulse is a short burst of electromagnetic energy that can induce voltage and current in wires and electronic systems. In nuclear-weapons literature, EMP is usually associated with nuclear detonations, especially high-altitude bursts. But non-nuclear electromagnetic interference can also upset electronics, usually over a much smaller area and with a much more specific coupling path. The US Naval Institute’s overview of EMP describes the common mechanism plainly: electric and magnetic fields can couple with electrical or electronic systems and produce damaging or disruptive surges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">emp or solar incident could result blackout warfare</span><span class="citation-popover-snippet">Naval InstituteAn EMP or Solar Incident Could Result in Blackout WarfareFebruary 14, 2023 — An electromagnetic pulse (EMP) is the electro...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
 Applied to Malmstrom, an EMP-style explanation would not require a beam visibly “zapping” individual missiles. It would require a pulse or surge to enter a shared command, communication or control pathway in a way that produced similar failure indications across one flight. That is why the technical discussion focuses less on the sky report and more on the Minuteman system’s wiring, launch-control communications and guidance-control interfaces.
 
-The declassified Air Force material on the Echo Flight incident states that on 16 March 1967 all Echo Flight launch facilities went into “No-Go” status almost simultaneously, while no other Wing I configuration lost strategic alert at that time. The same record says rumours of UFOs around Echo Flight during the fault were “disproven”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</span></span></span> That combination is central: it confirms a serious technical incident but also shows that the official record did not validate a UFO connection.
+The declassified Air Force material on the Echo Flight incident states that on 16 March 1967 all Echo Flight launch facilities went into “No-Go” status almost simultaneously, while no other Wing I configuration lost strategic alert at that time. The same record says rumours of UFOs around Echo Flight during the fault were “disproven”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</span></span></span> That combination is central: it confirms a serious technical incident but also shows that the official record did not validate a UFO connection.
 
-The EMP-related theory becomes stronger because later technical summaries and discussions of the Air Force ballistic missile history point to a vulnerability in the Minuteman guidance and control system. A frequently cited passage from Bernard Nalty’s Air Force missile history says tests at Malmstrom, Ogden Air Materiel Area and Boeing indicated that an electronic noise pulse had shut down the flight; the vulnerable component was the [logic coupler]({{ 'logic-coupler/' | relative_url }}) of the guidance and control system, and filters were later being installed to suppress electromagnetic effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/malmstrom-eagle-flight-was-this-an-emp-test.14272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Malmstrom &amp; Eagle Flight</span><span class="citation-popover-snippet">Malmstrom &amp; Eagle Flight - Was this an EMP Test?7 Jun 2025 — Extensive tests at Malmstrom, Ogden Air Materiel Area, and at the Bo...</span></span></span>
+The EMP-related theory becomes stronger because later technical summaries and discussions of the Air Force ballistic missile history point to a vulnerability in the Minuteman guidance and control system. A frequently cited passage from Bernard Nalty’s Air Force missile history says tests at Malmstrom, Ogden Air Materiel Area and Boeing indicated that an electronic noise pulse had shut down the flight; the vulnerable component was the [logic coupler]({{ 'logic-coupler/' | relative_url }}) of the guidance and control system, and filters were later being installed to suppress electromagnetic effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/malmstrom-eagle-flight-was-this-an-emp-test.14272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">Malmstrom &amp; Eagle Flight</span><span class="citation-popover-snippet">Malmstrom &amp; Eagle Flight - Was this an EMP Test?7 Jun 2025 — Extensive tests at Malmstrom, Ogden Air Materiel Area, and at the Bo...</span></span></span>
 
 That does not mean a dramatic external weapon is proven. It means the known failure mode sits comfortably inside ordinary engineering language: a sensitive component received or reacted to a transient signal that it should not have treated as valid. In practical terms, the EMP family of explanations asks whether the missile system was disrupted by an unwanted electrical event rather than by an unknown craft.
 
@@ -517,11 +517,11 @@ That does not mean a dramatic external weapon is proven. It means the known fail
 
 The Malmstrom story matters because an EMP explanation changes the case from a question about visitors in the sky into a question about strategic-system resilience. If ten missiles can be pushed off alert by a transient electronic effect, even temporarily, that is a nuclear command-and-control issue regardless of whether anyone saw unusual lights nearby.
 
-It also changes the standard of proof. UFO-linked versions often rely on recollections, affidavits and later interviews by former personnel, including [Robert Salas]({{ 'salas/' | relative_url }}) and other veterans whose claims were publicised at a 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event and covered by CBS News. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Ex-Air Force Personnel: UFOs Deactivated Nukes</span><span class="citation-popover-snippet">UFO Sightings at ICBM Sites and Nuclear Weapons Storage Areas&quot; by Robert HastingsRead more...</span></span></span> EMP explanations rely more heavily on the engineering record: what failed, what tests reproduced similar behaviour, and what changes were ordered afterwards.
+It also changes the standard of proof. UFO-linked versions often rely on recollections, affidavits and later interviews by former personnel, including [Robert Salas]({{ 'salas/' | relative_url }}) and other veterans whose claims were publicised at a 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event and covered by CBS News.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Ex-Air Force Personnel: UFOs Deactivated Nukes</span><span class="citation-popover-snippet">UFO Sightings at ICBM Sites and Nuclear Weapons Storage Areas&quot; by Robert HastingsRead more...</span></span></span> EMP explanations rely more heavily on the engineering record: what failed, what tests reproduced similar behaviour, and what changes were ordered afterwards.
 
-That difference is why the same case can appear persuasive to different readers for opposite reasons. UFO researchers see a rare overlap between trained [military witnesses]({{ 'witnesses/' | relative_url }}), nuclear weapons and unexplained missile failures. Sceptics see a documented technical malfunction later wrapped in inconsistent or retrospective UFO accounts. The Air Force’s broader Project Blue Book position also frames the cautious view: the Air Force concluded that no investigated UFO report showed a national-security threat, technology beyond scientific knowledge or evidence of extraterrestrial vehicles, even though some reports remained unidentified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and evaluated by the Air Force was ever...</span></span></span>
+That difference is why the same case can appear persuasive to different readers for opposite reasons. UFO researchers see a rare overlap between trained [military witnesses]({{ 'witnesses/' | relative_url }}), nuclear weapons and unexplained missile failures. Sceptics see a documented technical malfunction later wrapped in inconsistent or retrospective UFO accounts. The Air Force’s broader Project Blue Book position also frames the cautious view: the Air Force concluded that no investigated UFO report showed a national-security threat, technology beyond scientific knowledge or evidence of extraterrestrial vehicles, even though some reports remained unidentified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and evaluated by the Air Force was ever...</span></span></span>
 
-A more recent official frame points in the same direction. AARO’s 2024 historical report said it found no evidence that any US government investigation, academic-sponsored research or official review had confirmed a UAP sighting as extraterrestrial technology, and it judged that many [unresolved]({{ 'unresolved/' | relative_url }}) cases would probably be identified with better data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) That does not solve Malmstrom’s engineering details, but it argues against treating the case as established evidence of non-human intervention.
+A more recent official frame points in the same direction. AARO’s 2024 historical report said it found no evidence that any US government investigation, academic-sponsored research or official review had confirmed a UAP sighting as extraterrestrial technology, and it judged that many [unresolved]({{ 'unresolved/' | relative_url }}) cases would probably be identified with better data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF) That does not solve Malmstrom’s engineering details, but it argues against treating the case as established evidence of non-human intervention.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iOmM9PkTqpk" title="Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer">Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 11.3K &middot; Uploaded: July 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iOmM9PkTqpk">Open on YouTube</a></p></div></div></div>
@@ -532,15 +532,15 @@ The public debate usually compresses several different alternatives into one vag
 
 **1. Internal or site-linked electrical noise.**
 
-This is the most conservative version. A transformer fault, ground-current event, cabling issue or power transient could have introduced noise into a shared pathway. Some sceptical technical analyses have proposed routes through launch-control or intersite communication lines, while acknowledging that the exact initiating event remains disputed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[timhebert.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span> This explanation fits the engineering record better than a UFO claim, but it still leaves open the question of the original source of the pulse.
+This is the most conservative version. A transformer fault, ground-current event, cabling issue or power transient could have introduced noise into a shared pathway. Some sceptical technical analyses have proposed routes through launch-control or intersite communication lines, while acknowledging that the exact initiating event remains disputed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[timhebert.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-snippet">Open source on blogspot.com.</span></span></span> This explanation fits the engineering record better than a UFO claim, but it still leaves open the question of the original source of the pulse.
 
 **2. A system vulnerability discovered by the failure.**
 
-Another reading is that Malmstrom exposed a design weakness rather than a single exotic cause. The logic coupler and related guidance-control pathways may have been sensitive enough that later testing could reproduce similar shutdown responses. Publicly available summaries of the Air Force and Boeing work refer to EMP testing, noise-pulse susceptibility and later filtering or shielding changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</span></span></span> This is a powerful alternative because it explains why a flight-specific incident could occur without invoking an aircraft, a hoax or a space vehicle.
+Another reading is that Malmstrom exposed a design weakness rather than a single exotic cause. The logic coupler and related guidance-control pathways may have been sensitive enough that later testing could reproduce similar shutdown responses. Publicly available summaries of the Air Force and Boeing work refer to EMP testing, noise-pulse susceptibility and later filtering or shielding changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</span></span></span> This is a powerful alternative because it explains why a flight-specific incident could occur without invoking an aircraft, a hoax or a space vehicle.
 
 **3. A deliberate non-nuclear EMP test.**
 
-This is the most dramatic non-alien version. In 2025, the Wall Street Journal reported that the Air Force had developed an exotic electromagnetic generator to simulate nuclear-pulse effects without a nuclear detonation, and secondary reporting described the article as saying the Malmstrom incident was caused by a Pentagon-sanctioned EMP-generator test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">ufo us disinformation 45376f7e</span></span></span> The problem is that this claim, as publicly available, rests on journalistic and attributed reporting rather than a released test plan, after-action report or declassified technical package naming the device, location, operators and safety controls.
+This is the most dramatic non-alien version. In 2025, the Wall Street Journal reported that the Air Force had developed an exotic electromagnetic generator to simulate nuclear-pulse effects without a nuclear detonation, and secondary reporting described the article as saying the Malmstrom incident was caused by a Pentagon-sanctioned EMP-generator test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">ufo us disinformation 45376f7e</span></span></span> The problem is that this claim, as publicly available, rests on journalistic and attributed reporting rather than a released test plan, after-action report or declassified technical package naming the device, location, operators and safety controls.
 
 **4. Misidentified or unrelated aerial observations.**
 
@@ -550,7 +550,7 @@ The aerial side of the story can be separated from the missile failure. Even if 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd-Illustration-2-dark.svg" | relative_url }}" alt="EMP Claims illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits of public documentation
 
-The EMP alternative is useful precisely because it is testable in principle: investigators could look for pulse-source data, cabling paths, component susceptibility, maintenance logs, security reports and engineering-change orders. The difficulty is that the public record is incomplete. The released material confirms the Echo Flight failure and points towards a noise-pulse pathway, but it does not publicly establish a single, fully documented initiating cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</span></span></span>
+The EMP alternative is useful precisely because it is testable in principle: investigators could look for pulse-source data, cabling paths, component susceptibility, maintenance logs, security reports and engineering-change orders. The difficulty is that the public record is incomplete. The released material confirms the Echo Flight failure and points towards a noise-pulse pathway, but it does not publicly establish a single, fully documented initiating cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</span></span></span>
 
 The deliberate-test version has an even higher documentation burden. A sanctioned EMP test near live nuclear missiles would normally raise questions about authorisation, safety controls, notification, instrumentation and operational risk. Public summaries and journalism have not yet provided enough primary documentation to show exactly who conducted such a test, what device was used, where it was positioned, what power level it produced, and why launch crews or security personnel would have been left with a UFO-like story rather than a classified but internally coherent test record.
 
@@ -561,7 +561,7 @@ This is why the best current reading is cautious. EMP-related mechanisms are cre
 
 ## The most defensible takeaway
 
-The Malmstrom EMP debate does not need to be framed as “aliens versus nothing happened”. Something did happen at Echo Flight: multiple missiles lost alert status in a serious, documented malfunction. The stronger public engineering trail points towards an electronic noise-pulse problem affecting vulnerable Minuteman control hardware, not towards a verified UFO attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</span></span></span>
+The Malmstrom EMP debate does not need to be framed as “aliens versus nothing happened”. Something did happen at Echo Flight: multiple missiles lost alert status in a serious, documented malfunction. The stronger public engineering trail points towards an electronic noise-pulse problem affecting vulnerable Minuteman control hardware, not towards a verified UFO attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</span></span></span>
 
 At the same time, the public record remains too thin to turn every EMP claim into certainty. A broad electrical-transient explanation is more firmly grounded than a deliberate secret EMP-generator test, and both are better supported than an extraterrestrial mechanism. The honest conclusion is therefore narrow but important: EMP-related theories offer a plausible non-alien pathway for the [Malmstrom shutdown]({{ 'malmstrom/' | relative_url }}), while the available documentation still falls short of proving one complete, publicly auditable cause.
 
@@ -569,194 +569,194 @@ At the same time, the public record remains too thin to turn every EMP claim int
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd-Illustration-3-dark.svg" | relative_url }}" alt="EMP Claims illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could EMP Tests Explain Malmstrom?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could EMP Tests Explain Malmstrom?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Covers missile systems, accidents, command-and-control vulnerabilities and the engineering seriousness behind nuclear failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers missile systems, accidents, command-and-control vulnerabilities and the engineering seriousness behind nuclear failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuclear War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=40-MEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nuclear War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides accessible context on nuclear systems, escalation, missile warning and the stakes of technical failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible context on nuclear systems, escalation, missile warning and the stakes of technical failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Doomsday+Machine+by+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Doomsday Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V6kyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Doomsday Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Doomsday+Machine+by+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Doomsday Machine">The Doomsday Machine</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Ellsberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Doomsday+Machine+by+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Doomsday Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V6kyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Doomsday Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Doomsday+Machine+by+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Doomsday Machine">The Doomsday Machine</a>
+</h4>
+<p class="fr-book-author">By Daniel Ellsberg</p>
         
-        <p class="fr-book-desc">Explores nuclear command systems, hidden vulnerabilities and institutional secrecy around catastrophic weapons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Doomsday+Machine+by+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores nuclear command systems, hidden vulnerabilities and institutional secrecy around catastrophic weapons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Doomsday+Machine+by+Daniel+Ellsberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Discusses Malmstrom-style claims and the broader pattern of alleged UFO activity near nuclear missile sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses Malmstrom-style claims and the broader pattern of alleged UFO activity near nuclear missile sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Doomsday+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Doomsday Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuclear+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuclear War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Doomsday+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Doomsday Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed"><img src="{{ '/assets/images/marketplace-covers/d107e97c3b3e86d7f0a9.jpg' | relative_url }}" alt="Listing image for Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed"><img src="{{ '/assets/images/marketplace-covers/d107e97c3b3e86d7f0a9.jpg' | relative_url }}" alt="Listing image for Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Revell V-2 Rocket Model Kit Vintage Worlds First Ballistic Missile Unbuilt Boxed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98"><img src="{{ '/assets/images/marketplace-covers/f1a04f4305c676f99fc0.jpg' | relative_url }}" alt="Listing image for Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98"><img src="{{ '/assets/images/marketplace-covers/f1a04f4305c676f99fc0.jpg' | relative_url }}" alt="Listing image for Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Rare Vintage 1958 Monogram Authentic Missile Model Kit PD41-98</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit"><img src="{{ '/assets/images/marketplace-covers/fec0f388011e7bed43e8.jpg' | relative_url }}" alt="Listing image for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit"><img src="{{ '/assets/images/marketplace-covers/fec0f388011e7bed43e8.jpg' | relative_url }}" alt="Listing image for Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Academy M966 Tow Missile Carrier 1/35 Scale Military Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box"><img src="{{ '/assets/images/marketplace-covers/cfe570ccb342098cd30d.jpg' | relative_url }}" alt="Listing image for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box"><img src="{{ '/assets/images/marketplace-covers/cfe570ccb342098cd30d.jpg' | relative_url }}" alt="Listing image for Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix 00 Scale SAM-2 Missile Model Kit 1973 Original Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for missile model kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: missile model kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=missile+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="missile model kit" data-ebay-reference="emp-claims-could-emp-tests-explain-malmstrom-ufos-and-nuclear-weapons-missile-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -772,7 +772,7 @@ At the same time, the public record remains too thin to turn every EMP claim int
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -792,7 +792,7 @@ At the same time, the public record remains too thin to turn every EMP claim int
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -824,7 +824,7 @@ At the same time, the public record remains too thin to turn every EMP claim int
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -876,7 +876,7 @@ At the same time, the public record remains too thin to turn every EMP claim int
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -921,7 +921,7 @@ At the same time, the public record remains too thin to turn every EMP claim int
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -962,185 +962,185 @@ At the same time, the public record remains too thin to turn every EMP claim int
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: usni.org  
    Title: emp or solar incident could result blackout warfare  
-   Link: <a href="https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteAn EMP or Solar Incident Could Result in Blackout WarfareFebruary 14, 2023 — An electromagnetic pulse (EMP) is the electro...</p></details>
+   Link:<a href="https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/2023/february/emp-or-solar-incident-could-result-blackout-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteAn EMP or Solar Incident Could Result in Blackout WarfareFebruary 14, 2023 — An electromagnetic pulse (EMP) is the electro...</p></details>
    Published: February 14, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdf14 Jun 2001 — Rpt, (S) &quot;Report of Engineering Investigation of Echo Flight... Rumors of Unidentified Flying Objects (UFO) around the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
    Title: Malmstrom & Eagle Flight  
-   Link: <a href="https://www.metabunk.org/threads/malmstrom-eagle-flight-was-this-an-emp-test.14272/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/malmstrom-eagle-flight-was-this-an-emp-test.14272/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom &amp; Eagle Flight - Was this an EMP Test?7 Jun 2025 — Extensive tests at Malmstrom, Ogden Air Materiel Area, and at the Bo...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/malmstrom-eagle-flight-was-this-an-emp-test.14272/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/malmstrom-eagle-flight-was-this-an-emp-test.14272/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom &amp; Eagle Flight - Was this an EMP Test?7 Jun 2025 — Extensive tests at Malmstrom, Ogden Air Materiel Area, and at the Bo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and evaluated by the Air Force was ever...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and evaluated by the Air Force was ever...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: timhebert.blogspot.com  
-   Link: <a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
+   Link:<a href="https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2010/11/did-ufos-disable-minuteman-missiles-at.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
+   Link:<a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
+   Link:<a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
+   Link:<a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
+   Link:<a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Tag/260628/anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Tag/260628/anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/Tag/260628/anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Tag/260628/anomalous-phenomena/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: timhebert.blogspot.com  
    Title: two alternative ufo theories for echo  
-   Link: <a href="https://timhebert.blogspot.com/2011/07/two-alternative-ufo-theories-for-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/two-alternative-ufo-theories-for-echo.html</a>  
+   Link:<a href="https://timhebert.blogspot.com/2011/07/two-alternative-ufo-theories-for-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/two-alternative-ufo-theories-for-echo.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: military.com  
-   Link: <a href="https://www.military.com/base-guide/malmstrom-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/malmstrom-air-force-base</a>  
+   Link:<a href="https://www.military.com/base-guide/malmstrom-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/malmstrom-air-force-base</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles  
-   Link: <a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: “This UFO Shut Down 10 Nukes!”  
-   Link: <a href="https://www.youtube.com/watch?v=-0g3lLGxNfc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-0g3lLGxNfc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles - YouTube The Malmstrom Incident | Episode 6 | When UFOs Shut D...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-0g3lLGxNfc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-0g3lLGxNfc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles - YouTube The Malmstrom Incident | Episode 6 | When UFOs Shut D...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cbsnews.com  
    Title: CBS News Ex-Air Force Personnel: UFOs Deactivated Nukes  
-   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO Sightings at ICBM Sites and Nuclear Weapons Storage Areas&quot; by Robert HastingsRead more...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO Sightings at ICBM Sites and Nuclear Weapons Storage Areas&quot; by Robert HastingsRead more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wsj.com  
    Title: ufo us disinformation 45376f7e  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: history.defense.gov  
-   Link: <a href="https://history.defense.gov/Portals/70/Documents/acquisition_pub/CMH_51-2-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.defense.gov/Portals/70/Documents/acquisition_pub/CMH_51-2-1.pdf</a>  
+   Link:<a href="https://history.defense.gov/Portals/70/Documents/acquisition_pub/CMH_51-2-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.defense.gov/Portals/70/Documents/acquisition_pub/CMH_51-2-1.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unexplained-mysteries.com  
-   Link: <a href="https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/</a>  
+   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/274045-malmstrom-cant-refute-that-one/page/7/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: journals.ala.org  
-   Link: <a href="https://journals.ala.org/index.php/dttp/article/view/6568/8762" target="_blank" rel="noopener noreferrer nofollow">https://journals.ala.org/index.php/dttp/article/view/6568/8762</a>  
+   Link:<a href="https://journals.ala.org/index.php/dttp/article/view/6568/8762" target="_blank" rel="noopener noreferrer nofollow">https://journals.ala.org/index.php/dttp/article/view/6568/8762</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — Of a total of 12,618 sightings reported to Proje...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — Of a total of 12,618 sightings reported to Proje...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: veritauniversale.it  
    Title: Ex personale dellaeronautica gli UFO hanno disattivato le armi nucleari  
-   Link: <a href="https://www.veritauniversale.it/wp-content/uploads/2022/12/Ex-personale-dellaeronautica-gli-UFO-hanno-disattivato-le-armi-nucleari.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.veritauniversale.it/wp-content/uploads/2022/12/Ex-personale-dellaeronautica-gli-UFO-hanno-disattivato-le-armi-nucleari.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEPTEMBER 28... UFO researcher Robert Hastings of Albuquerque, N.M., who organized the.Read more...</p></details>
+   Link:<a href="https://www.veritauniversale.it/wp-content/uploads/2022/12/Ex-personale-dellaeronautica-gli-UFO-hanno-disattivato-le-armi-nucleari.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.veritauniversale.it/wp-content/uploads/2022/12/Ex-personale-dellaeronautica-gli-UFO-hanno-disattivato-le-armi-nucleari.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEPTEMBER 28... UFO researcher Robert Hastings of Albuquerque, N.M., who organized the.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened the Night UFOs Found Our Nuclear Weapons | Robert Salas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened the Night UFOs Found Our Nuclear Weapons | Robert Salas...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: What Happened the Night UFOs Found Our Nuclear Weapons | Robert Salas  
-   Link: <a href="https://www.youtube.com/watch?v=eazdcb5YmUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eazdcb5YmUw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Disabled Missiles at Malmstrom Air Force Base?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eazdcb5YmUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eazdcb5YmUw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Disabled Missiles at Malmstrom Air Force Base?...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: What Disabled Missiles at Malmstrom Air Force Base?  
-   Link: <a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“This UFO Shut Down 10 Nukes!” - Air Force Officer Robert Salas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“This UFO Shut Down 10 Nukes!” - Air Force Officer Robert Salas...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spsc.iba.mcqs/posts/629458491467271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spsc.iba.mcqs/posts/629458491467271/</a>  
+   Link:<a href="https://www.facebook.com/groups/spsc.iba.mcqs/posts/629458491467271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spsc.iba.mcqs/posts/629458491467271/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/</a>  

@@ -280,7 +280,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_w
 
 ## Introduction
 
-The Malmstrom missile shutdown story is often presented as a straightforward case of a UFO disabling nuclear weapons. The documentary record is more complicated. The strongest official evidence confirms that a serious missile-system failure occurred at Echo Flight on 16 March 1967, causing all ten missiles in that flight to drop from strategic alert status almost simultaneously. What the surviving Air Force records do not confirm is the later claim that a UFO was present and responsible. The debate therefore centres less on whether a failure occurred and more on the gap between contemporaneous documentation and witness narratives that emerged decades later. Understanding that gap is essential when evaluating claims about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) because it shows where the evidence is strong, where it is weak, and where the two do not align cleanly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
+The Malmstrom missile shutdown story is often presented as a straightforward case of a UFO disabling nuclear weapons. The documentary record is more complicated. The strongest official evidence confirms that a serious missile-system failure occurred at Echo Flight on 16 March 1967, causing all ten missiles in that flight to drop from strategic alert status almost simultaneously. What the surviving Air Force records do not confirm is the later claim that a UFO was present and responsible. The debate therefore centres less on whether a failure occurred and more on the gap between contemporaneous documentation and witness narratives that emerged decades later. Understanding that gap is essential when evaluating claims about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) because it shows where the evidence is strong, where it is weak, and where the two do not align cleanly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-1-dark.svg" | relative_url }}" alt="Record Gap illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,22 +288,22 @@ The Malmstrom missile shutdown story is often presented as a straightforward cas
 
 ### What the declassified Echo Flight record says
 
-The most important primary source is the declassified history of the 341st Strategic Missile Wing. It records that, at approximately 08:45 on 16 March 1967, all Echo Flight launch facilities went into “No-Go” status nearly simultaneously and lost strategic alert capability. The document treats the event as a significant technical malfunction requiring investigation and recovery efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
+The most important primary source is the declassified history of the 341st Strategic Missile Wing. It records that, at approximately 08:45 on 16 March 1967, all Echo Flight launch facilities went into “No-Go” status nearly simultaneously and lost strategic alert capability. The document treats the event as a significant technical malfunction requiring investigation and recovery efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
 
-Just as important is what the document says about UFO reports. The history states that rumours of UFOs in the Echo Flight area during the malfunction were investigated and “disproven”. It further notes that personnel who had inspected nearby facilities reported no unusual activity or sightings and that [radar]({{ 'radar/' | relative_url }}) personnel reported no related interference. In other words, the official record preserved both the missile failure and the conclusion that available evidence did not support a UFO connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
+Just as important is what the document says about UFO reports. The history states that rumours of UFOs in the Echo Flight area during the malfunction were investigated and “disproven”. It further notes that personnel who had inspected nearby facilities reported no unusual activity or sightings and that [radar]({{ 'radar/' | relative_url }}) personnel reported no related interference. In other words, the official record preserved both the missile failure and the conclusion that available evidence did not support a UFO connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
 
-This distinction is often lost in popular retellings. The Air Force document does not dismiss the missile outage; it confirms it. What it rejects is the assertion that the outage was accompanied by verified [unidentified]({{ 'unidentified/' | relative_url }}) aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
+This distinction is often lost in popular retellings. The Air Force document does not dismiss the missile outage; it confirms it. What it rejects is the assertion that the outage was accompanied by verified [unidentified]({{ 'unidentified/' | relative_url }}) aerial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X2c3_vG7yhs" title="Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer">Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 332.0K &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X2c3_vG7yhs">Open on YouTube</a></p></div></div></div>
 
 ### How later veteran accounts changed the public story
 
-The UFO-linked version of events became widely known decades after the incident, particularly through the testimony of former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) and later researchers such as Robert Hastings and James Klotz. Salas described receiving reports from security personnel about a glowing red object near a missile facility and argued that the appearance of the object was closely connected to the shutdown of multiple missiles. His account transformed a technical failure into one of the most famous UFO-and-nuclear-weapons cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The UFO-linked version of events became widely known decades after the incident, particularly through the testimony of former launch officer [Robert Salas]({{ 'salas/' | relative_url }}) and later researchers such as Robert Hastings and James Klotz. Salas described receiving reports from security personnel about a glowing red object near a missile facility and argued that the appearance of the object was closely connected to the shutdown of multiple missiles. His account transformed a technical failure into one of the most famous UFO-and-nuclear-weapons cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-A key difficulty is that the public story evolved over time. Early accounts, later interviews, affidavits and media appearances do not always agree on details such as dates, locations, flight designations and which personnel directly witnessed the reported object. Researchers have also debated whether some memories refer to Echo Flight, Oscar Flight, or separate incidents that occurred within days of each other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Malmstrom airbase UFO incident witness, Robert Salas not...July 18, 2023 — Malmstrom airbase UFO incident witness, Robert Salas no...</span><span class="citation-popover-meta">Published: July 18, 2023</span></span></span>
+A key difficulty is that the public story evolved over time. Early accounts, later interviews, affidavits and media appearances do not always agree on details such as dates, locations, flight designations and which personnel directly witnessed the reported object. Researchers have also debated whether some memories refer to Echo Flight, Oscar Flight, or separate incidents that occurred within days of each other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Malmstrom airbase UFO incident witness, Robert Salas not...July 18, 2023 — Malmstrom airbase UFO incident witness, Robert Salas no...</span><span class="citation-popover-meta">Published: July 18, 2023</span></span></span>
 
-The result is that the UFO narrative relies heavily on recollections recorded decades after the event, whereas the official documents were created at the time the incident occurred. That does not automatically make the witnesses wrong, but it creates a methodological problem. Historians generally give greater weight to contemporaneous records unless there is compelling evidence that those records were incomplete, altered or deliberately misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
+The result is that the UFO narrative relies heavily on recollections recorded decades after the event, whereas the official documents were created at the time the incident occurred. That does not automatically make the witnesses wrong, but it creates a methodological problem. Historians generally give greater weight to contemporaneous records unless there is compelling evidence that those records were incomplete, altered or deliberately misleading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-2-dark.svg" | relative_url }}" alt="Record Gap illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,10 +311,10 @@ The result is that the UFO narrative relies heavily on recollections recorded de
 
 Several factors help explain why the dispute never disappeared:
 
-* The missile failure itself was real and unusual, giving later interpretations a genuine event to attach to. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
-* The launch-control environment was highly classified, leaving gaps in public understanding and encouraging speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
-* Witnesses came forward long after the Cold War, when public interest in government [secrecy]({{ 'secrecy/' | relative_url }}) and UFO reports was growing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
-* Technical explanations involving electronic interference are less dramatic and therefore received less public attention than claims of unidentified craft over nuclear missiles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Echo Flights of Fantasythe cause of the missile failures was an electronic noise pulse that entered the Logic Coupler within the...</span></span></span>
+* The missile failure itself was real and unusual, giving later interpretations a genuine event to attach to.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
+* The launch-control environment was highly classified, leaving gaps in public understanding and encouraging speculation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+* Witnesses came forward long after the Cold War, when public interest in government [secrecy]({{ 'secrecy/' | relative_url }}) and UFO reports was growing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</span></span></span>
+* Technical explanations involving electronic interference are less dramatic and therefore received less public attention than claims of unidentified craft over nuclear missiles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Echo Flights of Fantasythe cause of the missile failures was an electronic noise pulse that entered the Logic Coupler within the...</span></span></span>
 
 These factors created a situation in which the documented malfunction and the UFO narrative became intertwined, even though they originated from different evidentiary foundations.
 
@@ -326,206 +326,206 @@ These factors created a situation in which the documented malfunction and the UF
 
 ## What the Gap Can and Cannot Prove
 
-The documentary gap does not prove that witnesses fabricated their experiences. Human memory can preserve genuine observations for decades, and some former personnel have consistently maintained that unusual aerial activity occurred around missile sites. Their testimony remains part of the historical record and explains why the Malmstrom case continues to attract attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</span></span></span>
+The documentary gap does not prove that witnesses fabricated their experiences. Human memory can preserve genuine observations for decades, and some former personnel have consistently maintained that unusual aerial activity occurred around missile sites. Their testimony remains part of the historical record and explains why the Malmstrom case continues to attract attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.com">[ufoevidence.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.com</span><span class="citation-popover-title">Malmstrom AFB “Echo Flight” Shutdown</span><span class="citation-popover-snippet">Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</span></span></span>
 
-However, the gap also does not prove that a UFO disabled the missiles. The declassified records establish the missile outage but do not establish a UFO cause. No contemporaneous document publicly released to date demonstrates that investigators concluded an unidentified craft was responsible for the shutdown. Instead, the available official record points toward a technical failure while explicitly rejecting the UFO rumours associated with the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
+However, the gap also does not prove that a UFO disabled the missiles. The declassified records establish the missile outage but do not establish a UFO cause. No contemporaneous document publicly released to date demonstrates that investigators concluded an unidentified craft was responsible for the shutdown. Instead, the available official record points toward a technical failure while explicitly rejecting the UFO rumours associated with the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
 
-This distinction matters when assessing electromagnetic-pulse and electronic-interference explanations. If the contemporaneous record confirms a missile-system anomaly but not a UFO presence, then the strongest evidence supports investigating technical mechanisms first. Later witness testimony may still raise questions about what personnel believed they saw, but it does not by itself overturn the documentary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Echo Flights of Fantasythe cause of the missile failures was an electronic noise pulse that entered the Logic Coupler within the...</span></span></span>
+This distinction matters when assessing electromagnetic-pulse and electronic-interference explanations. If the contemporaneous record confirms a missile-system anomaly but not a UFO presence, then the strongest evidence supports investigating technical mechanisms first. Later witness testimony may still raise questions about what personnel believed they saw, but it does not by itself overturn the documentary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Echo Flights of Fantasythe cause of the missile failures was an electronic noise pulse that entered the Logic Coupler within the...</span></span></span>
 
-The Malmstrom controversy therefore remains less a dispute about whether something happened and more a dispute about how much weight should be given to two different categories of evidence. On one side are records created during the event that document a missile failure and reject a UFO connection. On the other are later recollections that describe extraordinary aerial activity linked to that failure. The enduring significance of the case lies in the distance between those two narratives, not in any demonstrated resolution of the contradiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
+The Malmstrom controversy therefore remains less a dispute about whether something happened and more a dispute about how much weight should be given to two different categories of evidence. On one side are records created during the event that document a missile failure and reject a UFO connection. On the other are later recollections that describe extraordinary aerial activity linked to that failure. The enduring significance of the case lies in the distance between those two narratives, not in any demonstrated resolution of the contradiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... Rumors of Unidentified Flying Objects (UFO) around the area...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-3-dark.svg" | relative_url }}" alt="Record Gap illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where the Documents and Witnesses Diverge. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where the Documents and Witnesses Diverge. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances witness testimony with documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances witness testimony with documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on investigative standards and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigative standards and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches evidence-based evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evidence-based evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines witness accounts alongside official information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness accounts alongside official information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="record-gap-where-the-documents-and-witnesses-diverge-ufos-and-nuclear-weapons-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ The Malmstrom controversy therefore remains less a dispute about whether somethi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ The Malmstrom controversy therefore remains less a dispute about whether somethi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ The Malmstrom controversy therefore remains less a dispute about whether somethi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ The Malmstrom controversy therefore remains less a dispute about whether somethi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ The Malmstrom controversy therefore remains less a dispute about whether somethi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,109 +731,109 @@ The Malmstrom controversy therefore remains less a dispute about whether somethi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing the time of fault were disproven. A Mobile Strike Team...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing the time of fault were disproven. A Mobile Strike Team...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom airbase UFO incident witness, Robert Salas not...July 18, 2023 — Malmstrom airbase UFO incident witness, Robert Salas no...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom airbase UFO incident witness, Robert Salas not...July 18, 2023 — Malmstrom airbase UFO incident witness, Robert Salas no...</p></details>
    Published: July 18, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Flights of Fantasythe cause of the missile failures was an electronic noise pulse that entered the [Logic Coupler](&amp;#123;&amp;#123; &#x27;logic-coupler/&#x27; | relative_url &amp;#125;&amp;#125;) within the...</p></details>
+   Link:<a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Flights of Fantasythe cause of the missile failures was an electronic noise pulse that entered the [Logic Coupler](&amp;#123;&amp;#123; &#x27;logic-coupler/&#x27; | relative_url &amp;#125;&amp;#125;) within the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufoevidence.com  
    Title: Malmstrom AFB “Echo Flight” Shutdown  
-   Link: <a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</p></details>
+   Link:<a href="https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.com/case/malmstrom-afb-echo-flight-shutdown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple witnesses provided affidavits describing reported UAP activity and briefings about a UFO connection (formalized state...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ead more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ead more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: 967 malmstrom afb ufo incident how do i balance  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO in...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>967 Malmstrom AFB UFO Incident: How do I balance the...I&#x27;m currently writing a film MINUTEMAN centered around the mysterious 1967 UFO in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — I&#x27;ve never been one to believe in aliens or UFO&#x27;s, but I have to...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — I&#x27;ve never been one to believe in aliens or UFO&#x27;s, but I have to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Documentsmalmstromufo.pdf14 Jun 2001 — On 16!-2rch 1967... [Rumors](&amp;#123;&amp;#123; &#x27;rumors/&#x27; | relative_url &amp;#125;&amp;#125;) of Unidentified Flying Objects (UFO) around the area...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</p></details>
+   Link:<a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOs&quot;No UFO reported, investigated and evaluated by the Air Force was ever an indication of...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: envisioning.com  
-   Link: <a href="https://www.envisioning.com/research/xenotech/nuclear-weapons-interference" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/nuclear-weapons-interference</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons Systems Interference | Xenotech... event. Former USAF Captain Robert Salas and other witnesses have provided s...</p></details>
+   Link:<a href="https://www.envisioning.com/research/xenotech/nuclear-weapons-interference" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/nuclear-weapons-interference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons Systems Interference | Xenotech... event. Former USAF Captain Robert Salas and other witnesses have provided s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
+   Link:<a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
+   Link:<a href="https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/ufo-files-bombshell-aliens-jam-us-nuclear-missile-sites-pentagons-stunning-revea/1409664121207771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files bombshell: Aliens jam U.S. nuclear &amp; missile...UFO files bombshell: Aliens jam U.S. nuclear &amp; missile sites? Pentagon&#x27;s stunni...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the [Rendlesham](&amp;#123;&amp;#123; &#x27;rendlesham/&#x27; | relative_url &amp;#125;&amp;#125;) Forest incident · Documents on UFO policy and communi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the [Rendlesham](&amp;#123;&amp;#123; &#x27;rendlesham/&#x27; | relative_url &amp;#125;&amp;#125;) Forest incident · Documents on UFO policy and communi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/203412665109/posts/10164743352475110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203412665109/posts/10164743352475110/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s took contol of a flight of missiles at Malmstrom...Skeptics argue the UFO was likely the Planet Mars and entirely unrelated to the...</p></details>
+   Link:<a href="https://www.facebook.com/groups/203412665109/posts/10164743352475110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/203412665109/posts/10164743352475110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s took contol of a flight of missiles at Malmstrom...Skeptics argue the UFO was likely the Planet Mars and entirely unrelated to the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson</a>  
+   Link:<a href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: a new wall street journal investigation reveals that the us department of defens  
-   Link: <a href="https://www.facebook.com/HOT97OFFICIAL/posts/a-new-wall-street-journal-investigation-reveals-that-the-us-department-of-defens/1047246847539547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HOT97OFFICIAL/posts/a-new-wall-street-journal-investigation-reveals-that-the-us-department-of-defens/1047246847539547/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new Wall Street Journal investigation reveals...Among the revelations: a 1967 nuclear base incident once believed to be caused by a UF...</p></details>
+   Link:<a href="https://www.facebook.com/HOT97OFFICIAL/posts/a-new-wall-street-journal-investigation-reveals-that-the-us-department-of-defens/1047246847539547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HOT97OFFICIAL/posts/a-new-wall-street-journal-investigation-reveals-that-the-us-department-of-defens/1047246847539547/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A new Wall Street Journal investigation reveals...Among the revelations: a 1967 nuclear base incident once believed to be caused by a UF...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pod.wave.co  
    Title: when a ufo shutdown 10 nuclear missiles witness interview faf3df8d  
-   Link: <a href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying objects (UFOs) at Malmstrom Air Force Base in Montana.... There is NORAD report of UFO sightings again over Malmstrom missile bas...</p></details>
+   Link:<a href="https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/when-a-ufo-shutdown-10-nuclear-missiles-witness-interview-faf3df8d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying objects (UFOs) at Malmstrom Air Force Base in Montana.... There is NORAD report of UFO sightings again over Malmstrom missile bas...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: meer.com  
    Title: 75269 curse of the malmstrom nuclear ufo incident 1967  
-   Link: <a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
+   Link:<a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: meer.com  
    Title: 74766 the malmstrom nuclear ufo incident 1967 returns  
-   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returnsIn a breakthrough moment for those seeking UFO–UAP disclosure, Robert Bob Salas testifie...</p></details>
+   Link:<a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returnsIn a breakthrough moment for those seeking UFO–UAP disclosure, Robert Bob Salas testifie...</p></details>

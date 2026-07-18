@@ -280,35 +280,35 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_c
 
 ## Introduction
 
-The 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event on [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) was not notable primarily because of any new physical evidence. Its significance lay in the communication model it adopted. Organisers presented the issue through a carefully structured Washington press-conference format: credentialled witnesses, sworn statements, declassified documents, media packets and a direct call for government disclosure. The approach transformed a long-running UFO claim into a public-policy argument. Instead of asking journalists to believe extraordinary stories, the organisers asked them to evaluate testimony, records and demands for transparency. That format became one of the most influential mechanisms in later UFO and UAP disclosure campaigns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+The 2010 National [Press Club]({{ '2010-event/' | relative_url }}) event on [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}) was not notable primarily because of any new physical evidence. Its significance lay in the communication model it adopted. Organisers presented the issue through a carefully structured Washington press-conference format: credentialled witnesses, sworn statements, declassified documents, media packets and a direct call for government disclosure. The approach transformed a long-running UFO claim into a public-policy argument. Instead of asking journalists to believe extraordinary stories, the organisers asked them to evaluate testimony, records and demands for transparency. That format became one of the most influential mechanisms in later UFO and UAP disclosure campaigns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-1-dark.svg" | relative_url }}" alt="Format illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the venue changed the tone
 
-Holding the event at the National Press Club in Washington, DC, was itself part of the strategy. The venue has long been associated with political announcements, policy briefings and official communications. By using that setting, organisers framed the UFO–nuclear weapons issue as a matter for journalists, legislators and government oversight rather than as a subject confined to UFO conventions or specialist communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+Holding the event at the National Press Club in Washington, DC, was itself part of the strategy. The venue has long been associated with political announcements, policy briefings and official communications. By using that setting, organisers framed the UFO–nuclear weapons issue as a matter for journalists, legislators and government oversight rather than as a subject confined to UFO conventions or specialist communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
 
-The message was reinforced by the composition of the panel. Rather than leading with civilian researchers, the presentation foregrounded former military personnel connected to nuclear missile operations, weapons security and related Cold War activities. The implied argument was procedural rather than sensational: if trained [military witnesses]({{ 'witnesses/' | relative_url }}) reported unusual incidents near strategic nuclear assets, those reports deserved public examination regardless of what explanation ultimately proved correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+The message was reinforced by the composition of the panel. Rather than leading with civilian researchers, the presentation foregrounded former military personnel connected to nuclear missile operations, weapons security and related Cold War activities. The implied argument was procedural rather than sensational: if trained [military witnesses]({{ 'witnesses/' | relative_url }}) reported unusual incidents near strategic nuclear assets, those reports deserved public examination regardless of what explanation ultimately proved correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
 
-This represented a deliberate shift in advocacy. Earlier disclosure efforts in Washington, including the 2001 Disclosure Project briefing, had already demonstrated the value of assembling witnesses before the national press. The 2010 event adapted that model specifically to the nuclear-weapons question, narrowing the focus to a single theme that reporters could easily understand and cover. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.worldcat.org/title/The-Disclosure-Project-Witness-Panel-Press-Conference/oclc/52099533" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.worldcat.org">[WorldCat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.worldcat.org</span><span class="citation-popover-title">on Wednesday,</span><span class="citation-popover-snippet">The Disclosure Project Witness Panel Press ConferenceSummary: The complete unedited videotaping of a press conference which met i...</span></span></span>
+This represented a deliberate shift in advocacy. Earlier disclosure efforts in Washington, including the 2001 Disclosure Project briefing, had already demonstrated the value of assembling witnesses before the national press. The 2010 event adapted that model specifically to the nuclear-weapons question, narrowing the focus to a single theme that reporters could easily understand and cover.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.worldcat.org/title/The-Disclosure-Project-Witness-Panel-Press-Conference/oclc/52099533" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.worldcat.org">[WorldCat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.worldcat.org</span><span class="citation-popover-title">on Wednesday,</span><span class="citation-popover-snippet">The Disclosure Project Witness Panel Press ConferenceSummary: The complete unedited videotaping of a press conference which met i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X2c3_vG7yhs" title="Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer">Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 332.0K &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X2c3_vG7yhs">Open on YouTube</a></p></div></div></div>
 
 ## How witness testimony and documents worked together
 
-A central feature of the disclosure strategy was the pairing of personal testimony with documentary material. Organisers did not rely solely on witness recollections. They also distributed affidavits and declassified government documents that they argued were relevant to reported incidents at missile bases and other nuclear facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+A central feature of the disclosure strategy was the pairing of personal testimony with documentary material. Organisers did not rely solely on witness recollections. They also distributed affidavits and declassified government documents that they argued were relevant to reported incidents at missile bases and other nuclear facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
 
 This combination served several communication purposes:
 
-* **Witnesses supplied narrative detail.** Former personnel described what they claimed to have seen, heard or experienced during service at nuclear facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
-* **Documents supplied institutional context.** Declassified records were presented as evidence that unusual incidents and official concern had existed independently of later recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
-* **Affidavits signalled seriousness.** Written statements conveyed a legal and evidentiary tone, encouraging journalists to treat testimony as formal witness evidence rather than anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military Witness Affidavits...</span></span></span>
-* **The combination shifted the burden of debate.** Critics could challenge interpretations, but the organisers aimed to make the discussion about records and testimony rather than about whether witnesses should be dismissed outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
+* **Witnesses supplied narrative detail.** Former personnel described what they claimed to have seen, heard or experienced during service at nuclear facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+* **Documents supplied institutional context.** Declassified records were presented as evidence that unusual incidents and official concern had existed independently of later recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
+* **Affidavits signalled seriousness.** Written statements conveyed a legal and evidentiary tone, encouraging journalists to treat testimony as formal witness evidence rather than anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireThe UFO-Nukes Connection Press Conference14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military Witness Affidavits...</span></span></span>
+* **The combination shifted the burden of debate.** Critics could challenge interpretations, but the organisers aimed to make the discussion about records and testimony rather than about whether witnesses should be dismissed outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
 
-Importantly, the strategy did not require proving a specific explanation for the reported events. The disclosure argument was narrower. Organisers repeatedly emphasised that military witnesses and government records allegedly indicated unusual activity around nuclear weapons installations and that the public should have access to relevant information. In communication terms, transparency became the headline demand, while the ultimate nature of the phenomenon remained a secondary question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+Importantly, the strategy did not require proving a specific explanation for the reported events. The disclosure argument was narrower. Organisers repeatedly emphasised that military witnesses and government records allegedly indicated unusual activity around nuclear weapons installations and that the public should have access to relevant information. In communication terms, transparency became the headline demand, while the ultimate nature of the phenomenon remained a secondary question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
 
-This approach helped avoid a common problem in UFO advocacy. Claims about extraterrestrial origins often invite immediate debate over extraordinary conclusions. By contrast, calls for document release, hearings and official acknowledgement could be presented as governance issues. The request was not necessarily “accept the explanation” but “release the information”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker How the Pentagon Started Taking U.F.O.s Seriously</span><span class="citation-popover-snippet">people,” although she stands apart from the ufological mainstream. “It&#x27;s not necessarily...Read more...</span></span></span>
+This approach helped avoid a common problem in UFO advocacy. Claims about extraterrestrial origins often invite immediate debate over extraordinary conclusions. By contrast, calls for document release, hearings and official acknowledgement could be presented as governance issues. The request was not necessarily “accept the explanation” but “release the information”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker How the Pentagon Started Taking U.F.O.s Seriously</span><span class="citation-popover-snippet">people,” although she stands apart from the ufological mainstream. “It&#x27;s not necessarily...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-2-dark.svg" | relative_url }}" alt="Format illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,11 +316,11 @@ This approach helped avoid a common problem in UFO advocacy. Claims about extrat
 
 The event helped popularise a repeatable disclosure formula that later campaigns would use in various forms.
 
-First, identify witnesses with institutional credibility, particularly military, intelligence or government backgrounds. Second, assemble supporting documents that appear to place those accounts within an official record. Third, hold the presentation in a venue associated with mainstream journalism or government. Fourth, conclude with a request for hearings, investigations or disclosure rather than a demand that audiences accept a particular theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+First, identify witnesses with institutional credibility, particularly military, intelligence or government backgrounds. Second, assemble supporting documents that appear to place those accounts within an official record. Third, hold the presentation in a venue associated with mainstream journalism or government. Fourth, conclude with a request for hearings, investigations or disclosure rather than a demand that audiences accept a particular theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
 
-The strength of this formula was that it translated UFO advocacy into a language familiar to Washington. The structure resembled congressional testimony, investigative journalism and whistleblower presentations more than traditional UFO presentations. That did not resolve disputes about the underlying claims, but it changed how those claims were publicly packaged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.worldcat.org/title/The-Disclosure-Project-Witness-Panel-Press-Conference/oclc/52099533" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.worldcat.org">[WorldCat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.worldcat.org</span><span class="citation-popover-title">on Wednesday,</span><span class="citation-popover-snippet">The Disclosure Project Witness Panel Press ConferenceSummary: The complete unedited videotaping of a press conference which met i...</span></span></span>
+The strength of this formula was that it translated UFO advocacy into a language familiar to Washington. The structure resembled congressional testimony, investigative journalism and whistleblower presentations more than traditional UFO presentations. That did not resolve disputes about the underlying claims, but it changed how those claims were publicly packaged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://search.worldcat.org/title/The-Disclosure-Project-Witness-Panel-Press-Conference/oclc/52099533" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: search.worldcat.org">[WorldCat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">search.worldcat.org</span><span class="citation-popover-title">on Wednesday,</span><span class="citation-popover-snippet">The Disclosure Project Witness Panel Press ConferenceSummary: The complete unedited videotaping of a press conference which met i...</span></span></span>
 
-The model also encouraged extensive use of archived records. Organisers highlighted declassified documents and made materials available online after the event, allowing supporters, journalists and critics to examine the same source base. Whether one accepted the interpretations or not, the strategy emphasised documentary engagement rather than purely oral storytelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
+The model also encouraged extensive use of archived records. Organisers highlighted declassified documents and made materials available online after the event, allowing supporters, journalists and critics to examine the same source base. Whether one accepted the interpretations or not, the strategy emphasised documentary engagement rather than purely oral storytelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-snippet">Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IVEPzcCuq3U" title="The 2026 Press conference - 25th Anniversary of the 2001 Disclosure Press Conference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IVEPzcCuq3U" target="_blank" rel="noopener noreferrer">The 2026 Press conference - 25th Anniversary of the 2001 Disclosure Press Conference</a></p><p class="youtube-embed-meta">Channel: Dr. Steven Greer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IVEPzcCuq3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IVEPzcCuq3U">Open on YouTube</a></p></div></div></div>
@@ -330,204 +330,204 @@ The model also encouraged extensive use of archived records. Organisers highligh
 
 ## How the format foreshadowed later UAP campaigns
 
-Viewed in hindsight, the 2010 press conference anticipated many features of later UAP advocacy. Subsequent campaigns increasingly relied on witnesses with security clearances, references to official records, appeals for transparency and calls for congressional attention. The language also shifted from proving extraterrestrial visitation to arguing that governments should investigate and disclose information about [unresolved]({{ 'unresolved/' | relative_url }}) incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker How the Pentagon Started Taking U.F.O.s Seriously</span><span class="citation-popover-snippet">people,” although she stands apart from the ufological mainstream. “It&#x27;s not necessarily...Read more...</span></span></span>
+Viewed in hindsight, the 2010 press conference anticipated many features of later UAP advocacy. Subsequent campaigns increasingly relied on witnesses with security clearances, references to official records, appeals for transparency and calls for congressional attention. The language also shifted from proving extraterrestrial visitation to arguing that governments should investigate and disclose information about [unresolved]({{ 'unresolved/' | relative_url }}) incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker How the Pentagon Started Taking U.F.O.s Seriously</span><span class="citation-popover-snippet">people,” although she stands apart from the ufological mainstream. “It&#x27;s not necessarily...Read more...</span></span></span>
 
-The continuity is visible in later National Press Club events dealing with UAPs. Organisers continued to gather first-hand witnesses, present supporting evidence and frame transparency as the central objective. The recurring use of the same venue underscores how influential the Washington press-conference model became within disclosure efforts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/uap-ufo-press-conference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">uap ufo press conference</span><span class="citation-popover-snippet">UAP (UFO) Press Conference20 Jan 2026 —... Washington, DC, bringing together first-hand witnesses... UAP (UFO) Press Conference. Add to...</span></span></span>
+The continuity is visible in later National Press Club events dealing with UAPs. Organisers continued to gather first-hand witnesses, present supporting evidence and frame transparency as the central objective. The recurring use of the same venue underscores how influential the Washington press-conference model became within disclosure efforts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/uap-ufo-press-conference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2press.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">uap ufo press conference</span><span class="citation-popover-snippet">UAP (UFO) Press Conference20 Jan 2026 —... Washington, DC, bringing together first-hand witnesses... UAP (UFO) Press Conference. Add to...</span></span></span>
 
-For the UFO-and-nuclear-weapons narrative specifically, the lasting contribution of the 2010 event was not a decisive piece of proof. It was the creation of a public disclosure playbook. Witnesses provided human credibility, documents provided institutional context, and the National Press Club setting provided political legitimacy. Together, those elements offered a template for presenting controversial UFO claims as matters of public accountability and government transparency rather than solely as questions of belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
+For the UFO-and-nuclear-weapons narrative specifically, the lasting contribution of the 2010 event was not a decisive piece of proof. It was the creation of a public disclosure playbook. Witnesses provided human credibility, documents provided institutional context, and the National Press Club setting provided political legitimacy. Together, those elements offered a template for presenting controversial UFO claims as matters of public accountability and government transparency rather than solely as questions of belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.press.org/events/news-conferences/news-conference-unidentified-aerial-phenomenon-uap-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: press.org">[press.org+2PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">press.org</span><span class="citation-popover-title">The Unidentified Aerial Phenomenon (UAP) and Nuclear ...A panel of former US Air Force officers will discuss their involvement in UAP inc</span><span class="citation-popover-snippet">idents at nuclear missile bases and test sites during the Cold War era</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-3-dark.svg" | relative_url }}" alt="Format illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Disclosure Playbook the Event Popularised. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Disclosure Playbook the Event Popularised. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Mirrors the witness-plus-documents approach discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Mirrors the witness-plus-documents approach discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores disclosure campaigns and institutional transparency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores disclosure campaigns and institutional transparency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on official investigations and evidence presentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official investigations and evidence presentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Built around military testimony and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around military testimony and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia"><img src="{{ '/assets/images/marketplace-covers/eac320d5712486bb7128.jpg' | relative_url }}" alt="Listing image for Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia"><img src="{{ '/assets/images/marketplace-covers/eac320d5712486bb7128.jpg' | relative_url }}" alt="Listing image for Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot of Soviet Union Pins – USSR Collectible Badges, Vintage Cold War Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Operation Lionheart 1984 Pin Badge British Military Cold War Memorabilia"><img src="{{ '/assets/images/marketplace-covers/709e78c4f09f8b664cf9.jpg' | relative_url }}" alt="Listing image for Operation Lionheart 1984 Pin Badge British Military Cold War Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Operation Lionheart 1984 Pin Badge British Military Cold War Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Operation Lionheart 1984 Pin Badge British Military Cold War Memorabilia"><img src="{{ '/assets/images/marketplace-covers/709e78c4f09f8b664cf9.jpg' | relative_url }}" alt="Listing image for Operation Lionheart 1984 Pin Badge British Military Cold War Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Operation Lionheart 1984 Pin Badge British Military Cold War Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silver Bar Retro Cold War Vintage I Old II Unusual World Ukraine Eagle Vintage"><img src="{{ '/assets/images/marketplace-covers/c15197cffccec92c3d44.jpg' | relative_url }}" alt="Listing image for Silver Bar Retro Cold War Vintage I Old II Unusual World Ukraine Eagle Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Silver Bar Retro Cold War Vintage I Old II Unusual World Ukraine Eagle Vintage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silver Bar Retro Cold War Vintage I Old II Unusual World Ukraine Eagle Vintage"><img src="{{ '/assets/images/marketplace-covers/c15197cffccec92c3d44.jpg' | relative_url }}" alt="Listing image for Silver Bar Retro Cold War Vintage I Old II Unusual World Ukraine Eagle Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Silver Bar Retro Cold War Vintage I Old II Unusual World Ukraine Eagle Vintage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set"><img src="{{ '/assets/images/marketplace-covers/72b2e404367cb3b56822.jpg' | relative_url }}" alt="Listing image for The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set"><img src="{{ '/assets/images/marketplace-covers/72b2e404367cb3b56822.jpg' | relative_url }}" alt="Listing image for The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Cold War Experience 1945-1991 Norman Friedman DVD &amp; Memorabilia Box Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War memorabilia" data-ebay-reference="format-the-disclosure-playbook-the-event-popularised-ufos-and-nuclear-weapons-cold-war-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ For the UFO-and-nuclear-weapons narrative specifically, the lasting contribution
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ For the UFO-and-nuclear-weapons narrative specifically, the lasting contribution
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ For the UFO-and-nuclear-weapons narrative specifically, the lasting contribution
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ For the UFO-and-nuclear-weapons narrative specifically, the lasting contribution
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ For the UFO-and-nuclear-weapons narrative specifically, the lasting contribution
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,109 +733,109 @@ For the UFO-and-nuclear-weapons narrative specifically, the lasting contribution
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/news-conferences/news-conference-[unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-[unidentified</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era...</p></details>
+   Link:<a href="https://www.press.org/events/news-conferences/news-conference-[unidentified" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/news-conferences/news-conference-[unidentified</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idents at nuclear missile bases and test sites during the Cold War era...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: search.worldcat.org  
    Title: on Wednesday,  
-   Link: <a href="https://search.worldcat.org/title/The-Disclosure-Project-Witness-Panel-Press-Conference/oclc/52099533" target="_blank" rel="noopener noreferrer nofollow">https://search.worldcat.org/title/The-Disclosure-Project-Witness-Panel-Press-Conference/oclc/52099533</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Project Witness Panel Press ConferenceSummary: The complete unedited videotaping of a press conference which met i...</p></details>
+   Link:<a href="https://search.worldcat.org/title/The-Disclosure-Project-Witness-Panel-Press-Conference/oclc/52099533" target="_blank" rel="noopener noreferrer nofollow">https://search.worldcat.org/title/The-Disclosure-Project-Witness-Panel-Press-Conference/oclc/52099533</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Disclosure Project Witness Panel Press ConferenceSummary: The complete unedited videotaping of a press conference which met i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documentcloud.org  
-   Link: <a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</p></details>
+   Link:<a href="https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/9330-declassified-u-s-government-documents-on-the-ufo-nuclear-weapons-connection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified U.S. Government Documents on the UFO...The documents, released by UFO researcher Robert Hastings, purportedly...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: military.com  
    Title: air force veterans who are ufo true believers return newly attentive washington  
-   Link: <a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, But Says They&#x27;re Likely Real and Possibly a...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2021/10/19/air-force-veterans-who-are-ufo-true-believers-return-newly-attentive-washington.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, But Says They&#x27;re Likely Real and Possibly a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: press.org  
    Title: uap ufo press conference  
-   Link: <a href="https://www.press.org/events/uap-ufo-press-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/uap-ufo-press-conference</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP (UFO) Press Conference20 Jan 2026 —... Washington, DC, bringing together first-hand witnesses... UAP (UFO) Press Conference. Add to...</p></details>
+   Link:<a href="https://www.press.org/events/uap-ufo-press-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/uap-ufo-press-conference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP (UFO) Press Conference20 Jan 2026 —... Washington, DC, bringing together first-hand witnesses... UAP (UFO) Press Conference. Add to...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/ufouap-disclosure-press-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/ufouap-disclosure-press-conference</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Disclosure Press ConferenceDr. Steven Greer is the world&#x27;s leading authority on the subject of UFO&#x27;s/UAPs, advanced energy and pr...</p></details>
+   Link:<a href="https://www.press.org/events/ufouap-disclosure-press-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/ufouap-disclosure-press-conference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Disclosure Press ConferenceDr. Steven Greer is the world&#x27;s leading authority on the subject of UFO&#x27;s/UAPs, advanced energy and pr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireThe UFO-Nukes Connection Press Conference14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military Witness Affidavits...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/the-ufo-nukes-connection-press-conference-military-witness-affidavits-and-declassified-documents-are-now-available-online-104962889.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireThe UFO-Nukes Connection Press Conference14 Oct 2010 — The UFO-Nukes Connection Press Conference: Military Witness Affidavits...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: newyorker.com  
    Title: The New Yorker How the Pentagon Started Taking U.F.O.s Seriously  
-   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>people,” although she stands apart from the ufological mainstream. “It&#x27;s not necessarily...Read more...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>people,” although she stands apart from the ufological mainstream. “It&#x27;s not necessarily...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: prnewswire.com  
    Title: Former U.S  
-   Link: <a href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-[robert-salas" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news/former-u.s.-air-force-officer-[robert-salas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer Robert Salas, and Researcher...Oct 14, 2010, 02:00 ET The UFO-Nukes Connection Press Conference: Military Witness Affi...</p></details>
+   Link:<a href="https://www.prnewswire.com/news/former-u.s.-air-force-officer-[robert-salas" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news/former-u.s.-air-force-officer-[robert-salas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer Robert Salas, and Researcher...Oct 14, 2010, 02:00 ET The UFO-Nukes Connection Press Conference: Military Witness Affi...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uvureview.com  
-   Link: <a href="https://www.uvureview.com/news/declassified-robert-hastings-aliens-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.uvureview.com/news/declassified-robert-hastings-aliens-and-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified: Robert Hastings, aliens and UFOsThese UFOs are known to hover around U.S. missile sites, weapon storage facilities and nucl...</p></details>
+   Link:<a href="https://www.uvureview.com/news/declassified-robert-hastings-aliens-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.uvureview.com/news/declassified-robert-hastings-aliens-and-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified: Robert Hastings, aliens and UFOsThese UFOs are known to hover around U.S. missile sites, weapon storage facilities and nucl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox5sandiego/posts/mystery-wire-a-group-of-retired-military-men-told-reporters-tuesday-about-distur/10159871698194940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5sandiego/posts/mystery-wire-a-group-of-retired-military-men-told-reporters-tuesday-about-distur/10159871698194940/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire | A group of retired military men told reporters...UFO researcher Robert Hastings of Albuquerque, N.M., who organized the N...</p></details>
+   Link:<a href="https://www.facebook.com/fox5sandiego/posts/mystery-wire-a-group-of-retired-military-men-told-reporters-tuesday-about-distur/10159871698194940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5sandiego/posts/mystery-wire-a-group-of-retired-military-men-told-reporters-tuesday-about-distur/10159871698194940/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire | A group of retired military men told reporters...UFO researcher Robert Hastings of Albuquerque, N.M., who organized the N...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thewellnews.com  
-   Link: <a href="https://www.thewellnews.com/spotlight/pentagon-releases-large-tranche-of-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thewellnews.com/spotlight/pentagon-releases-large-tranche-of-ufo-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Greer, was scheduled to celebrate the 25th anniversary of the 2001 Disclosure Project Press Conference. A...Read more...</p></details>
+   Link:<a href="https://www.thewellnews.com/spotlight/pentagon-releases-large-tranche-of-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thewellnews.com/spotlight/pentagon-releases-large-tranche-of-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Greer, was scheduled to celebrate the 25th anniversary of the 2001 Disclosure Project Press Conference. A...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: docs.house.gov  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — And is it possible that whistleblowers are fabricating parts or all of thei...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — And is it possible that whistleblowers are fabricating parts or all of thei...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=IVEPzcCuq3U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IVEPzcCuq3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Press Club UAP UFO nuclear weapons 2010 press conference 2010 🇺🇸 #UFOB [PRESSCON] UFOs and Nuclear Weapons National Press Club m...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=IVEPzcCuq3U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=IVEPzcCuq3U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Press Club UAP UFO nuclear weapons 2010 press conference 2010 🇺🇸 #UFOB [PRESSCON] UFOs and Nuclear Weapons National Press Club m...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: timesofmalta.com  
    Title: aliens interfered with nuclear weapons.328884  
-   Link: <a href="https://timesofmalta.com/article/aliens-interfered-with-nuclear-weapons.328884" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/aliens-interfered-with-nuclear-weapons.328884</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens &#x27;interfered with nuclear weapons&#x27;28 Sept 2010 — Former members of the US Air Force yesterday claimed aliens had interfered with nu...</p></details>
+   Link:<a href="https://timesofmalta.com/article/aliens-interfered-with-nuclear-weapons.328884" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/aliens-interfered-with-nuclear-weapons.328884</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens &#x27;interfered with nuclear weapons&#x27;28 Sept 2010 — Former members of the US Air Force yesterday claimed aliens had interfered with nu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jimharold.com  
    Title: ufo press conference at national press club  
-   Link: <a href="https://jimharold.com/ufo-press-conference-at-national-press-club/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/ufo-press-conference-at-national-press-club/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Sept 2010 — A major press conference was held at the National Press Club regarding UFOs and members of the US military who have witnes...</p></details>
+   Link:<a href="https://jimharold.com/ufo-press-conference-at-national-press-club/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/ufo-press-conference-at-national-press-club/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 Sept 2010 — A major press conference was held at the National Press Club regarding UFOs and members of the US military who have witnes...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: realaliens.org  
    Title: uap nuclear weapons commanding testimony  
-   Link: <a href="https://realaliens.org/uap-nuclear-weapons-commanding-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://realaliens.org/uap-nuclear-weapons-commanding-testimony/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP and Nuclear Weapons: Commanding TestimonyOct 25, 2021 — A detailed time-stamp map of the October 19, 2021, Nuclear Weapons and the Un...</p></details>
+   Link:<a href="https://realaliens.org/uap-nuclear-weapons-commanding-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://realaliens.org/uap-nuclear-weapons-commanding-testimony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP and Nuclear Weapons: Commanding TestimonyOct 25, 2021 — A detailed time-stamp map of the October 19, 2021, Nuclear Weapons and the Un...</p></details>
    Published: October 19, 2021  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: state.gov  
    Title: 2020 Digest Complete  
-   Link: <a href="https://www.state.gov/wp-content/uploads/2021/08/2020-Digest-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/wp-content/uploads/2021/08/2020-Digest-Complete.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Alien Tort Statute for aiding-and- abetting international law violations (in... press release, available at [https://gh.usembassy.gov/sta...&quot;](https://gh.usembassy.gov/sta...&quot;)...</p></details>
+   Link:<a href="https://www.state.gov/wp-content/uploads/2021/08/2020-Digest-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/wp-content/uploads/2021/08/2020-Digest-Complete.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Alien Tort Statute for aiding-and- abetting international law violations (in... press release, available at [https://gh.usembassy.gov/sta...&quot;](https://gh.usembassy.gov/sta...&quot;)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dnaindia/posts/former-usaf-officers-to-present-evidence-of-aliens-tampering-with-nuclear-weapon/10165936053800441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dnaindia/posts/former-usaf-officers-to-present-evidence-of-aliens-tampering-with-nuclear-weapon/10165936053800441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Click to know #RobertSalas #USAirForce #NuclearBomb...</p></details>
+   Link:<a href="https://www.facebook.com/dnaindia/posts/former-usaf-officers-to-present-evidence-of-aliens-tampering-with-nuclear-weapon/10165936053800441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dnaindia/posts/former-usaf-officers-to-present-evidence-of-aliens-tampering-with-nuclear-weapon/10165936053800441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Click to know #RobertSalas #USAirForce #NuclearBomb...</p></details>

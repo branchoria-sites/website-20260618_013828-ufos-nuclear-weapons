@@ -268,7 +268,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_sepa
 
 ## Introduction
 
-In reports of unusual aerial events around nuclear facilities, one of the most important safeguards is also one of the simplest: take witness statements separately and quickly. Before security personnel, operators, guards, technicians or commanders begin comparing notes, each person should record what they personally observed. The reason is not that witnesses are dishonest. It is that memory is highly vulnerable to contamination from later conversations, rumours, briefings and media coverage. Research on eyewitness testimony consistently shows that people can absorb details from other observers and later remember those details as if they had seen them themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pjp.psychreg.org">[Psychreg Journal of Psychology+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pjp.psychreg.org</span><span class="citation-popover-snippet">Carlucci et al., 2010; Davis &amp; Meade, 2013; Paterson et al., 2012)...Read more...</span></span></span>
+In reports of unusual aerial events around nuclear facilities, one of the most important safeguards is also one of the simplest: take witness statements separately and quickly. Before security personnel, operators, guards, technicians or commanders begin comparing notes, each person should record what they personally observed. The reason is not that witnesses are dishonest. It is that memory is highly vulnerable to contamination from later conversations, rumours, briefings and media coverage. Research on eyewitness testimony consistently shows that people can absorb details from other observers and later remember those details as if they had seen them themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pjp.psychreg.org">[Psychreg Journal of Psychology+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pjp.psychreg.org</span><span class="citation-popover-snippet">Carlucci et al., 2010; Davis &amp; Meade, 2013; Paterson et al., 2012)...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de-Illustration-1-dark.svg" | relative_url }}" alt="Witness intake illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -276,7 +276,7 @@ This issue matters especially in nuclear-site UFO and UAP claims because many fa
 
 ## Stop the story before it blends
 
-The first hours after an unusual sighting are often the most valuable. Memory is freshest, and witnesses are less likely to have encountered alternative explanations or other people's interpretations. Research on eyewitness recall shows that delays increase susceptibility to post-event information and misinformation effects. Early interviews help preserve details before memories are reshaped by later inputs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 14 — As a witness&#x27; memory of the ev...</span></span></span>
+The first hours after an unusual sighting are often the most valuable. Memory is freshest, and witnesses are less likely to have encountered alternative explanations or other people's interpretations. Research on eyewitness recall shows that delays increase susceptibility to post-event information and misinformation effects. Early interviews help preserve details before memories are reshaped by later inputs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 14 — As a witness&#x27; memory of the ev...</span></span></span>
 
 In a nuclear-security environment, the risk is amplified because multiple people may be observing the same event from different locations. A security patrol may see lights near a perimeter. A missile crew may notice something from a control area. [Radar]({{ 'radar/' | relative_url }}) operators may receive ambiguous returns. Each witness possesses only a fragment of the event.
 
@@ -300,9 +300,9 @@ These benefits are valuable whether the final explanation turns out to be a dron
 
 ## Why memory and group discussion change reports
 
-Psychologists use terms such as *memory conformity* and *co-witness contamination* to describe what happens when witnesses discuss an event before formal interviews. Studies repeatedly show that people often adopt details supplied by other observers, even when those details are inaccurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Memory Conformity: Can Eyewitnesses Influence Each...The current study investigated memory conformity effects between indivi...</span></span></span>
+Psychologists use terms such as *memory conformity* and *co-witness contamination* to describe what happens when witnesses discuss an event before formal interviews. Studies repeatedly show that people often adopt details supplied by other observers, even when those details are inaccurate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Memory Conformity: Can Eyewitnesses Influence Each...The current study investigated memory conformity effects between indivi...</span></span></span>
 
-The mechanism is straightforward. A witness may hear another person's confident description and assume that person noticed something they missed. Later, the witness may no longer remember whether a detail came from direct observation or from conversation. Researchers refer to this as a source-monitoring problem: the memory remains, but its origin becomes confused. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2DigitalCommons UNL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident and then talk to each other...</span></span></span>
+The mechanism is straightforward. A witness may hear another person's confident description and assume that person noticed something they missed. Later, the witness may no longer remember whether a detail came from direct observation or from conversation. Researchers refer to this as a source-monitoring problem: the memory remains, but its origin becomes confused.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2DigitalCommons UNL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident and then talk to each other...</span></span></span>
 
 This is particularly relevant to UFO narratives because many reported characteristics are interpretive rather than directly measurable. Statements such as:
 
@@ -320,7 +320,7 @@ often involve interpretation layered onto observation.
 
 A witness who originally saw an unusual light may later absorb another witness's interpretation and gradually remember the interpretation as part of the original experience.
 
-Experimental research has demonstrated that witnesses who discuss events frequently report information they never directly observed. In some studies, a substantial proportion of participants incorporated details obtained from co-witnesses into their own accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-16-eyewitness-testimony-post-event-discussion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senecalearning.com">[Seneca Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senecalearning.com</span><span class="citation-popover-title">Seneca Learning Psychology</span><span class="citation-popover-snippet">60% said she was guilty despite not seeing her commit the crime.Read more...</span></span></span>
+Experimental research has demonstrated that witnesses who discuss events frequently report information they never directly observed. In some studies, a substantial proportion of participants incorporated details obtained from co-witnesses into their own accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-16-eyewitness-testimony-post-event-discussion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senecalearning.com">[Seneca Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senecalearning.com</span><span class="citation-popover-title">Seneca Learning Psychology</span><span class="citation-popover-snippet">60% said she was guilty despite not seeing her commit the crime.Read more...</span></span></span>
 
 For investigators examining nuclear-site anomalies, this means that agreement between witnesses is not automatically evidence of accuracy. If the witnesses spoke extensively beforehand, apparent [corroboration]({{ 'corroboration/' | relative_url }}) may simply reflect shared contamination.
 
@@ -362,7 +362,7 @@ More problematic are questions that introduce assumptions:
 
 Such wording can unintentionally suggest characteristics that the witness had not previously reported.
 
-Research behind cognitive interviewing methods shows that open-ended recall generally produces more complete and less contaminated accounts than highly directive questioning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web-archive.southampton.ac.uk">[web-archive.southampton.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web-archive.southampton.ac.uk</span><span class="citation-popover-snippet">questions relating to the Cognitive Interview (CI), which previous research has found to increase...</span></span></span>
+Research behind cognitive interviewing methods shows that open-ended recall generally produces more complete and less contaminated accounts than highly directive questioning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web-archive.southampton.ac.uk">[web-archive.southampton.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web-archive.southampton.ac.uk</span><span class="citation-popover-snippet">questions relating to the Cognitive Interview (CI), which previous research has found to increase...</span></span></span>
 
 For nuclear-site incidents, interviewers should also separate observation from inference. A witness may report:
 
@@ -395,7 +395,7 @@ Those three negative observations help constrain possible explanations. They may
 
 Separate witness intake preserves these negative observations before social pressure encourages witnesses to align with the dominant narrative.
 
-Research on social influence suggests that people may alter or suppress their own recollections when confronted with confident accounts from others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-title">Sauerland 2018 The effects of co witness discussion on confidence</span><span class="citation-popover-snippet">Maastricht UniversityThe effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — Memory conformity resu...</span></span></span>
+Research on social influence suggests that people may alter or suppress their own recollections when confronted with confident accounts from others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-title">Sauerland 2018 The effects of co witness discussion on confidence</span><span class="citation-popover-snippet">Maastricht UniversityThe effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — Memory conformity resu...</span></span></span>
 
 In a military or security setting, this pressure can be particularly strong. Personnel may hesitate to contradict colleagues, superiors or a rapidly developing incident narrative. Independent statements help ensure that silence, uncertainty and non-observation remain part of the evidentiary record.
 
@@ -423,7 +423,7 @@ Several warning signs commonly appear in delayed accounts:
 
 These patterns do not prove that a report is false. They simply reduce confidence that the final narrative accurately reflects the original observations.
 
-This is why aviation, policing and other investigative disciplines place such importance on obtaining early, independent accounts. Professional guidance on witness interviewing repeatedly warns about contamination from discussion, delay and external information. assets.college.police.uk+2College of Policing <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.college.police.uk">[assets.college.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.college.police.uk</span><span class="citation-popover-title">Obtaining initial accounts from victims and witnesses</span><span class="citation-popover-snippet">November 8, 2019 — Inconsistencies across repeated eyewitness interviews: supportive negative feedback can make witnesses change their me...</span><span class="citation-popover-meta">Published: November 8, 2019</span></span></span>
+This is why aviation, policing and other investigative disciplines place such importance on obtaining early, independent accounts. Professional guidance on witness interviewing repeatedly warns about contamination from discussion, delay and external information. assets.college.police.uk+2College of Policing<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.college.police.uk">[assets.college.police.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.college.police.uk</span><span class="citation-popover-title">Obtaining initial accounts from victims and witnesses</span><span class="citation-popover-snippet">November 8, 2019 — Inconsistencies across repeated eyewitness interviews: supportive negative feedback can make witnesses change their me...</span><span class="citation-popover-meta">Published: November 8, 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de-Illustration-3-dark.svg" | relative_url }}" alt="Witness intake illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -433,181 +433,181 @@ Separate witness intake is fundamentally a quality-control mechanism. It does no
 
 For nuclear-site anomaly [reporting]({{ 'reporting/' | relative_url }}), the strongest evidentiary foundation is not a dramatic story repeated by many people. It is a set of independent, time-stamped accounts collected before the witnesses have an opportunity to influence one another. When later comparisons reveal genuine agreement across those independent reports, that agreement carries far greater weight than consensus that emerged after discussion.
 
-The practical lesson is simple: capture each account first, compare them later. Once stories merge, investigators can no longer reliably recover what each witness originally saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227833948_Combating_Co-witness_contamination_Attempting_to_decrease_the_negative_effects_of_discussion_on_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Combating Co‐witness contaminationWitnesses who discuss an event with others often incorporate misinformation encountered dur...</span></span></span>
+The practical lesson is simple: capture each account first, compare them later. Once stories merge, investigators can no longer reliably recover what each witness originally saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227833948_Combating_Co-witness_contamination_Attempting_to_decrease_the_negative_effects_of_discussion_on_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Combating Co‐witness contaminationWitnesses who discuss an event with others often incorporate misinformation encountered dur...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Stop the story before it blends. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Stop the story before it blends. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Dr Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Dr Julia Shaw</p>
         
-        <p class="fr-book-desc">Explains false memories, witness contamination, and recall errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains false memories, witness contamination, and recall errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Foundational work on preserving accurate witness accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational work on preserving accurate witness accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows how people reshape memories and beliefs after events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how people reshape memories and beliefs after events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gladwell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gladwell</p>
         
-        <p class="fr-book-desc">Explores misunderstandings, testimony, and interpretation of events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores misunderstandings, testimony, and interpretation of events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="witness-intake-stop-the-story-before-it-blends-ufos-and-nuclear-weapons-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ The practical lesson is simple: capture each account first, compare them later. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ The practical lesson is simple: capture each account first, compare them later. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ The practical lesson is simple: capture each account first, compare them later. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -727,7 +727,7 @@ The practical lesson is simple: capture each account first, compare them later. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -772,7 +772,7 @@ The practical lesson is simple: capture each account first, compare them later. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -813,171 +813,171 @@ The practical lesson is simple: capture each account first, compare them later. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pjp.psychreg.org  
-   Link: <a href="https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Carlucci et al., 2010; Davis &amp; Meade, 2013; Paterson et al., 2012)...Read more...</p></details>
+   Link:<a href="https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pjp.psychreg.org/wp-content/uploads/4-2-1-7.mojtahedi.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Carlucci et al., 2010; Davis &amp; Meade, 2013; Paterson et al., 2012)...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOnline misinformation can distort witnesses' memories  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident and then talk to each other...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident and then talk to each other...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 14 — As a witness&#x27; memory of the ev...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 14 — As a witness&#x27; memory of the ev...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchportal.port.ac.uk  
    Title: witness interviewing and crime investigation  
-   Link: <a href="https://researchportal.port.ac.uk/en/publications/witness-interviewing-and-crime-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/witness-interviewing-and-crime-investigation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses...</p></details>
+   Link:<a href="https://researchportal.port.ac.uk/en/publications/witness-interviewing-and-crime-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/witness-interviewing-and-crime-investigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Conformity: Can Eyewitnesses Influence Each...The current study investigated memory conformity effects between indivi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/39064700_Memory_Conformity_Can_Eyewitnesses_Influence_Each_Other%27s_Memories_for_an_Event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory Conformity: Can Eyewitnesses Influence Each...The current study investigated memory conformity effects between indivi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227833948_Combating_Co-witness_contamination_Attempting_to_decrease_the_negative_effects_of_discussion_on_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227833948_Combating_Co-witness_contamination_Attempting_to_decrease_the_negative_effects_of_discussion_on_eyewitness_memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating Co‐witness contaminationWitnesses who discuss an event with others often incorporate misinformation encountered dur...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227833948_Combating_Co-witness_contamination_Attempting_to_decrease_the_negative_effects_of_discussion_on_eyewitness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227833948_Combating_Co-witness_contamination_Attempting_to_decrease_the_negative_effects_of_discussion_on_eyewitness_memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combating Co‐witness contaminationWitnesses who discuss an event with others often incorporate misinformation encountered dur...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1640" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1640</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCombating Co‐witness contamination: Attempting to...by HM Paterson · 2011 · Cited by 87 — Witnesses who discuss an e...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1640" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/acp.1640</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryCombating Co‐witness contamination: Attempting to...by HM Paterson · 2011 · Cited by 87 — Witnesses who discuss an e...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>People&#x27;s memory can be influenced by information encountered after an inci-.Read more...</p></details>
+   Link:<a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1385&amp;context=ajacourtreview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People&#x27;s memory can be influenced by information encountered after an inci-.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: web-archive.southampton.ac.uk  
-   Link: <a href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>questions relating to the Cognitive Interview (CI), which previous research has found to increase...</p></details>
+   Link:<a href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>questions relating to the Cognitive Interview (CI), which previous research has found to increase...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.college.police.uk  
    Title: Obtaining initial accounts from victims and witnesses  
-   Link: <a href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow">https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 8, 2019 — Inconsistencies across repeated eyewitness interviews: supportive negative feedback can make witnesses change their me...</p></details>
+   Link:<a href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow">https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 8, 2019 — Inconsistencies across repeated eyewitness interviews: supportive negative feedback can make witnesses change their me...</p></details>
    Published: November 8, 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: college.police.uk  
    Title: initial accounts references  
-   Link: <a href="https://www.college.police.uk/guidance/obtaining-initial-accounts/initial-accounts-references" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/obtaining-initial-accounts/initial-accounts-references</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>College of PolicingInitial accounts – references24 Nov 2020 —... witness contamination: Attempting to decrease the negative effects of d...</p></details>
+   Link:<a href="https://www.college.police.uk/guidance/obtaining-initial-accounts/initial-accounts-references" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/obtaining-initial-accounts/initial-accounts-references</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>College of PolicingInitial accounts – references24 Nov 2020 —... witness contamination: Attempting to decrease the negative effects of d...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: college.police.uk  
-   Link: <a href="https://www.college.police.uk/print/pdf/node/292" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/print/pdf/node/292</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>View PDF24 Nov 2020 — witness contamination: Attempting to decrease the negative effects of discussion on eyewitness memory. Applied Cogn...</p></details>
+   Link:<a href="https://www.college.police.uk/print/pdf/node/292" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/print/pdf/node/292</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>View PDF24 Nov 2020 — witness contamination: Attempting to decrease the negative effects of discussion on eyewitness memory. Applied Cogn...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333200115_Can_the_Cognitive_Interview_Reduce_Memory_Conformity_in_an_Interview_Context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333200115_Can_the_Cognitive_Interview_Reduce_Memory_Conformity_in_an_Interview_Context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MCI protocol on the damaging effects of prior co-witness discussions are examined.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/333200115_Can_the_Cognitive_Interview_Reduce_Memory_Conformity_in_an_Interview_Context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333200115_Can_the_Cognitive_Interview_Reduce_Memory_Conformity_in_an_Interview_Context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MCI protocol on the damaging effects of prior co-witness discussions are examined.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: Recommendations to reduce memory  
-   Link: <a href="https://www.researchgate.net/publication/355020432_Investigative_interviewing_exploring_the_contamination_timeline_of_witness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355020432_Investigative_interviewing_exploring_the_contamination_timeline_of_witness_memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>exploring the contamination timeline of witness memoryFinally, this chapter will summarize the contamination points across the interview...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355020432_Investigative_interviewing_exploring_the_contamination_timeline_of_witness_memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355020432_Investigative_interviewing_exploring_the_contamination_timeline_of_witness_memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>exploring the contamination timeline of witness memoryFinally, this chapter will summarize the contamination points across the interview...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.12097" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.12097</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>discussion between eyewitnesses helps memory - 201724 Jun 2016 — Purpose Police interviewers are typically instructed to prevent eyewitne...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.12097" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.12097</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>discussion between eyewitnesses helps memory - 201724 Jun 2016 — Purpose Police interviewers are typically instructed to prevent eyewitne...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: senecalearning.com  
    Title: Seneca Learning Psychology  
-   Link: <a href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-16-eyewitness-testimony-post-event-discussion" target="_blank" rel="noopener noreferrer nofollow">https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-16-eyewitness-testimony-post-event-discussion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>60% said she was guilty despite not seeing her commit the crime.Read more...</p></details>
+   Link:<a href="https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-16-eyewitness-testimony-post-event-discussion" target="_blank" rel="noopener noreferrer nofollow">https://senecalearning.com/en-GB/revision-notes/a-level/psychology/aqa/2-1-16-eyewitness-testimony-post-event-discussion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>60% said she was guilty despite not seeing her commit the crime.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: Sauerland 2018 The effects of co witness discussion on confidence  
-   Link: <a href="https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maastricht UniversityThe effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — Memory conformity resu...</p></details>
+   Link:<a href="https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/64063698/Sauerland_2018_The_effects_of_co_witness_discussion_on_confidence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maastricht UniversityThe effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — Memory conformity resu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29534645/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29534645/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — These results indicate that receiving social co...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29534645/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29534645/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects of co-witness discussion on confidence and...by J Rechdan · 2018 · Cited by 17 — These results indicate that receiving social co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: quizlet.com  
    Title: Memory conformity  
-   Link: <a href="https://quizlet.com/gb/670072755/aqa-psychology-a-level-memory-eyewitness-testimony-mem7-9-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/670072755/aqa-psychology-a-level-memory-eyewitness-testimony-mem7-9-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AQA Psychology A-Level: Memory - Eyewitness Testimony...Memory contamination: Memories become altered or distorted because they combine...</p></details>
+   Link:<a href="https://quizlet.com/gb/670072755/aqa-psychology-a-level-memory-eyewitness-testimony-mem7-9-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/670072755/aqa-psychology-a-level-memory-eyewitness-testimony-mem7-9-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AQA Psychology A-Level: Memory - Eyewitness Testimony...Memory contamination: Memories become altered or distorted because they combine...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/group" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya number of people or things that are put together or considered as a unit: group of I&#x27;m meeting...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/group" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya number of people or things that are put together or considered as a unit: group of I&#x27;m meeting...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mathsgenie.co.uk  
    Title: The original memory is actually  
-   Link: <a href="https://www.mathsgenie.co.uk/as-level/psychology/aqa/as-eyewitness-testimony/revision-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.mathsgenie.co.uk/as-level/psychology/aqa/as-eyewitness-testimony/revision-guides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness testimony - AS Level Psychology Revision GuideMemory contamination: When co-witnesses discuss a crime, they mix (mis)informati...</p></details>
+   Link:<a href="https://www.mathsgenie.co.uk/as-level/psychology/aqa/as-eyewitness-testimony/revision-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.mathsgenie.co.uk/as-level/psychology/aqa/as-eyewitness-testimony/revision-guides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness testimony - AS Level Psychology Revision GuideMemory contamination: When co-witnesses discuss a crime, they mix (mis)informati...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/thesaurus/group" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GROUP Synonyms: 232 Similar and Opposite WordsSynonyms for GROUP: cluster, batch, bunch, collection, array, grouping, lot, assemblage; An...</p></details>
+   Link:<a href="https://www.merriam-webster.com/thesaurus/group" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GROUP Synonyms: 232 Similar and Opposite WordsSynonyms for GROUP: cluster, batch, bunch, collection, array, grouping, lot, assemblage; An...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesSo when they communicate about the crime later, they not only reinforce common memories for the eve...</p></details>
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesSo when they communicate about the crime later, they not only reinforce common memories for the eve...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theunconsciouscurriculum.com  
-   Link: <a href="https://theunconsciouscurriculum.com/wp-content/uploads/2016/05/eye-witness-testimony-questions.docx" target="_blank" rel="noopener noreferrer nofollow">https://theunconsciouscurriculum.com/wp-content/uploads/2016/05/eye-witness-testimony-questions.docx</a>  
+   Link:<a href="https://theunconsciouscurriculum.com/wp-content/uploads/2016/05/eye-witness-testimony-questions.docx" target="_blank" rel="noopener noreferrer nofollow">https://theunconsciouscurriculum.com/wp-content/uploads/2016/05/eye-witness-testimony-questions.docx</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: shortcutstv.com  
-   Link: <a href="https://www.shortcutstv.com/wp-content/uploads/2019/03/Eyewitness-testimony_-Misleading-Information-1.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.shortcutstv.com/wp-content/uploads/2019/03/Eyewitness-testimony_-Misleading-Information-1.docx</a>  
+   Link:<a href="https://www.shortcutstv.com/wp-content/uploads/2019/03/Eyewitness-testimony_-Misleading-Information-1.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.shortcutstv.com/wp-content/uploads/2019/03/Eyewitness-testimony_-Misleading-Information-1.docx</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pure.hud.ac.uk  
    Title: memory conformity during co witness discussions issues and consid  
-   Link: <a href="https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/" target="_blank" rel="noopener noreferrer nofollow">https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dersfield Research PortalMemory conformity during co-witness discussionsby D Mojtahedi · 2020 — Witnesses can assist investigators by...</p></details>
+   Link:<a href="https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/" target="_blank" rel="noopener noreferrer nofollow">https://pure.hud.ac.uk/en/publications/memory-conformity-during-co-witness-discussions-issues-and-consid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dersfield Research PortalMemory conformity during co-witness discussionsby D Mojtahedi · 2020 — Witnesses can assist investigators by...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: frontiersin.org  
    Title: Online misinformation can distort witnesses' memories  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident, then talk to each other about...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239139/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident, then talk to each other about...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ [Robert Salas](&amp;#123;&amp;#123; &#x27;salas/&#x27; | relative_url &amp;#125;&amp;#125;) - We Are Not Alone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ [Robert Salas](&amp;#123;&amp;#123; &#x27;salas/&#x27; | relative_url &amp;#125;&amp;#125;) - We Are Not Alone...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News as a form of post-event information: the effect of...by Z Crittenden · 2026 — Media is a form of post-event information (PEI) that...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News as a form of post-event information: the effect of...by Z Crittenden · 2026 — Media is a form of post-event information (PEI) that...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thesaurus.com  
    Title: GROU P Synonyms & Antonyms  
-   Link: <a href="https://www.thesaurus.com/browse/group" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GROUP Synonyms &amp; Antonyms - 205 wordsFind 205 different ways to say GROUP, along with antonyms, related words, and example sentences at T...</p></details>
+   Link:<a href="https://www.thesaurus.com/browse/group" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GROUP Synonyms &amp; Antonyms - 205 wordsFind 205 different ways to say GROUP, along with antonyms, related words, and example sentences at T...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: evawintl.org  
    Title: The cognitive interview  
-   Link: <a href="https://evawintl.org/wp-content/uploads/InterviewingVictimsandWitnessesofCrime-NIJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://evawintl.org/wp-content/uploads/InterviewingVictimsandWitnessesofCrime-NIJ.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EVAWIInterviewing Victims and Witnesses of Crimeby RE Geiselman · 1985 · Cited by 43 — In practice, eyewitness memory can be enhanced onl...</p></details>
+   Link:<a href="https://evawintl.org/wp-content/uploads/InterviewingVictimsandWitnessesofCrime-NIJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://evawintl.org/wp-content/uploads/InterviewingVictimsandWitnessesofCrime-NIJ.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EVAWIInterviewing Victims and Witnesses of Crimeby RE Geiselman · 1985 · Cited by 43 — In practice, eyewitness memory can be enhanced onl...</p></details>

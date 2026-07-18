@@ -272,14 +272,14 @@ In nuclear-base UFO cases, a radarscope photograph is often treated as a dramati
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617-Illustration-1-dark.svg" | relative_url }}" alt="Radar Photos illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The best-known example is the October 1968 Minot Air Force Base incident, where a B-52 crew photographed radar displays during a reported UFO encounter. The surviving record includes thirteen radarscope photographs and associated operational documents, making it one of the few nuclear-related UFO cases with preserved radar imagery rather than mere recollections of radar detections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...September 9, 2023 — 7 Sept 2024 — Following the UFO events in the early...</span><span class="citation-popover-meta">Published: September 9, 2023</span></span></span>
+The best-known example is the October 1968 Minot Air Force Base incident, where a B-52 crew photographed radar displays during a reported UFO encounter. The surviving record includes thirteen radarscope photographs and associated operational documents, making it one of the few nuclear-related UFO cases with preserved radar imagery rather than mere recollections of radar detections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...September 9, 2023 — 7 Sept 2024 — Following the UFO events in the early...</span><span class="citation-popover-meta">Published: September 9, 2023</span></span></span>
 
 What Can a Radarscope Photo Prove?
 
 A radarscope photograph captures the appearance of a radar display at a particular moment. Depending on the system, it may show bearing, range, terrain returns, aircraft echoes, timing information and instrument markings. It can demonstrate that a radar operator or crew observed a particular display pattern and considered it important enough to photograph. It can also preserve details that might otherwise be lost from handwritten reports.
 ## Academia
 
-What it cannot do on its own is identify the nature of the target. Radar images are not photographs of physical objects. They are visual representations of reflected radio energy processed by a radar system. Even when a distinct echo appears on a display, investigators still need to determine whether it originated from an aircraft, terrain reflection, weather effect, equipment behaviour, signal-processing artefact or something genuinely unusual. The limitations of radar imagery are particularly important because many historical military radars produced relatively coarse displays in which shape and size could be misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timeandnavigation.si.edu/multimedia-asset/radar-scope-image" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeandnavigation.si.edu">[timeandnavigation.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeandnavigation.si.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+What it cannot do on its own is identify the nature of the target. Radar images are not photographs of physical objects. They are visual representations of reflected radio energy processed by a radar system. Even when a distinct echo appears on a display, investigators still need to determine whether it originated from an aircraft, terrain reflection, weather effect, equipment behaviour, signal-processing artefact or something genuinely unusual. The limitations of radar imagery are particularly important because many historical military radars produced relatively coarse displays in which shape and size could be misleading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timeandnavigation.si.edu/multimedia-asset/radar-scope-image" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeandnavigation.si.edu">[timeandnavigation.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeandnavigation.si.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The Minot photographs illustrate this distinction. Researchers analysing the images have attempted to measure echo positions, movement and apparent dimensions from the surviving photographs. Such work can reconstruct aspects of the event, but it remains dependent on assumptions about radar geometry, aircraft position and equipment settings. The photographs preserve data points; they do not automatically settle interpretation.
 ## Academia
@@ -317,7 +317,7 @@ Conversely, an undated radar photograph with no preserved settings may reveal li
 
 ## How Custody Gaps Weaken Later Claims
 
-[Chain of custody]({{ 'custody/' | relative_url }}) refers to the documented history of an item from its creation through every stage of handling, storage, copying and analysis. In evidential fields, the purpose is simple: later investigators must be able to show that the material being examined is the same material originally collected and that it has not been altered or selectively edited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1807.10359" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">B-CoC: A Blockchain-based Chain of Custody for Evidences Management in Digital ForensicsJuly 26, 2018...</span><span class="citation-popover-meta">Published: July 26, 2018</span></span></span>
+[Chain of custody]({{ 'custody/' | relative_url }}) refers to the documented history of an item from its creation through every stage of handling, storage, copying and analysis. In evidential fields, the purpose is simple: later investigators must be able to show that the material being examined is the same material originally collected and that it has not been altered or selectively edited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1807.10359" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">B-CoC: A Blockchain-based Chain of Custody for Evidences Management in Digital ForensicsJuly 26, 2018...</span><span class="citation-popover-meta">Published: July 26, 2018</span></span></span>
 
 For historical UFO investigations, custody problems are common. Original negatives may disappear. Copies may be made without documentation. Captions may be rewritten decades later. Supporting logs can become separated from photographs. Witness recollections may evolve after the fact.
 
@@ -337,14 +337,14 @@ Can the image be matched to contemporaneous logs?
 
 Is there documentation showing who possessed the material over time?
 
-The importance of these questions becomes clear when comparing different UFO cases. Many reports mention radar confirmation, yet no original radar records survive. In those situations, researchers must rely largely on testimony. The Minot case remains comparatively valuable because multiple documentary elements survived together, including the radarscope photographs themselves. Even so, analysts continue to debate interpretation because preservation of records does not eliminate ambiguity about what generated the radar echoes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...September 9, 2023 — 7 Sept 2024 — Following the UFO events in the early...</span><span class="citation-popover-meta">Published: September 9, 2023</span></span></span>
+The importance of these questions becomes clear when comparing different UFO cases. Many reports mention radar confirmation, yet no original radar records survive. In those situations, researchers must rely largely on testimony. The Minot case remains comparatively valuable because multiple documentary elements survived together, including the radarscope photographs themselves. Even so, analysts continue to debate interpretation because preservation of records does not eliminate ambiguity about what generated the radar echoes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...September 9, 2023 — 7 Sept 2024 — Following the UFO events in the early...</span><span class="citation-popover-meta">Published: September 9, 2023</span></span></span>
 ## Academia
 
 ## The Minot Photographs as a Case Study in Evidential Strength
 
 The Minot radar photographs occupy an unusual middle ground between weak and strong evidence.
 
-They are stronger than second-hand claims that radar operators once observed an unknown target because actual images survive. Researchers can inspect the sequence, compare frames and test interpretations against operational records. The photographs also exist within a broader documentary archive produced during an official investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...September 9, 2023 — 7 Sept 2024 — Following the UFO events in the early...</span><span class="citation-popover-meta">Published: September 9, 2023</span></span></span>
+They are stronger than second-hand claims that radar operators once observed an unknown target because actual images survive. Researchers can inspect the sequence, compare frames and test interpretations against operational records. The photographs also exist within a broader documentary archive produced during an official investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">The Investigation of UFO Events at Minot Air Force Base,</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...September 9, 2023 — 7 Sept 2024 — Following the UFO events in the early...</span><span class="citation-popover-meta">Published: September 9, 2023</span></span></span>
 
 At the same time, the photographs do not function like a modern digital sensor package. They do not provide a complete audit trail of every radar parameter. They record only what appeared on the display at the instant of exposure. As a result, analysts can debate whether specific echoes represent discrete objects, radar artefacts, processing effects or other phenomena. Some later studies have attempted detailed geometric reconstructions, but those efforts inevitably depend on assumptions that cannot always be independently verified.
 
@@ -375,200 +375,200 @@ Is the original sequence available?
 
 Is there an unbroken documentary trail linking the photograph to the event?
 
-A photograph that shows an unusual [radar return]({{ 'radar-return/' | relative_url }}) but lacks provenance may generate curiosity. A photograph supported by logs, timestamps, witness testimony and documented handling becomes a much stronger historical record. In practice, chain of custody often contributes more to the credibility of a radar image than the appearance of the radar target itself. The photograph may show the echo, but the surrounding documentation determines how much confidence investigators can place in what the image represents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lumethic.com/en/articles/forensic-photography-legal-cases-chain-of-custody-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lumethic.com">[Lumethic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lumethic.com</span><span class="citation-popover-title">forensic photography legal cases chain of custody guide</span><span class="citation-popover-snippet">Chain of Custody for Photographic Evidence: A Legal Guide24 Aug 2025 — How to establish chain of custody for digital photographs...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1807.10359" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">B-CoC: A Blockchain-based Chain of Custody for Evidences Management in Digital ForensicsJuly 26, 2018...</span><span class="citation-popover-meta">Published: July 26, 2018</span></span></span>
+A photograph that shows an unusual [radar return]({{ 'radar-return/' | relative_url }}) but lacks provenance may generate curiosity. A photograph supported by logs, timestamps, witness testimony and documented handling becomes a much stronger historical record. In practice, chain of custody often contributes more to the credibility of a radar image than the appearance of the radar target itself. The photograph may show the echo, but the surrounding documentation determines how much confidence investigators can place in what the image represents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lumethic.com/en/articles/forensic-photography-legal-cases-chain-of-custody-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lumethic.com">[Lumethic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lumethic.com</span><span class="citation-popover-title">forensic photography legal cases chain of custody guide</span><span class="citation-popover-snippet">Chain of Custody for Photographic Evidence: A Legal Guide24 Aug 2025 — How to establish chain of custody for digital photographs...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1807.10359" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">B-CoC: A Blockchain-based Chain of Custody for Evidences Management in Digital ForensicsJuly 26, 2018...</span><span class="citation-popover-meta">Published: July 26, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617-Illustration-3-dark.svg" | relative_url }}" alt="Radar Photos illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Can a Radarscope Photo Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Can a Radarscope Photo Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses documentation, radar evidence and corroboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses documentation, radar evidence and corroboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs &amp; Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11984946-M.jpg" alt="Cover for UFOs &amp; Nukes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs &amp; Nukes">UFOs &amp; Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs &amp; Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11984946-M.jpg" alt="Cover for UFOs &amp; Nukes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs &amp; Nukes">UFOs &amp; Nukes</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Includes discussion of preserved radar materials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of preserved radar materials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Emphasises documentation and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documentation and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Includes discussion of preserved radar materials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of preserved radar materials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs &amp; Nukes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs &amp; Nukes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="radar-photos-b9e53f-what-can-a-radarscope-photo-prove-ufos-and-nuclear-weapons-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ A photograph that shows an unusual [radar return]({{ 'radar-return/' | relative_
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ A photograph that shows an unusual [radar return]({{ 'radar-return/' | relative_
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ A photograph that shows an unusual [radar return]({{ 'radar-return/' | relative_
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ A photograph that shows an unusual [radar return]({{ 'radar-return/' | relative_
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ A photograph that shows an unusual [radar return]({{ 'radar-return/' | relative_
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,103 +774,103 @@ A photograph that shows an unusual [radar return]({{ 'radar-return/' | relative_
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: zenodo.org  
    Title: The Investigation of UFO Events at Minot Air Force Base,  
-   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...September 9, 2023 — 7 Sept 2024 — Following the UFO events in the early...</p></details>
+   Link:<a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...September 9, 2023 — 7 Sept 2024 — Following the UFO events in the early...</p></details>
    Published: September 9, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative of UFO Events at Minot Air Force Base, North...The B-52 Radarscope Photographs The B-52 radarscope consists of an il...</p></details>
+   Link:<a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative of UFO Events at Minot Air Force Base, North...The B-52 Radarscope Photographs The B-52 radarscope consists of an il...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: timeandnavigation.si.edu  
-   Link: <a href="https://timeandnavigation.si.edu/multimedia-asset/radar-scope-image" target="_blank" rel="noopener noreferrer nofollow">https://timeandnavigation.si.edu/multimedia-asset/radar-scope-image</a>  
+   Link:<a href="https://timeandnavigation.si.edu/multimedia-asset/radar-scope-image" target="_blank" rel="noopener noreferrer nofollow">https://timeandnavigation.si.edu/multimedia-asset/radar-scope-image</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3: 2-Dimensional Analysis of the Photos. Part 4: 3-Dimensional Analysis of the Photos, with a...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part 3: 2-Dimensional Analysis of the Photos. Part 4: 3-Dimensional Analysis of the Photos, with a...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1807.10359" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.10359</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>B-CoC: A Blockchain-based Chain of Custody for Evidences Management in Digital ForensicsJuly 26, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1807.10359" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.10359</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B-CoC: A Blockchain-based Chain of Custody for Evidences Management in Digital ForensicsJuly 26, 2018...</p></details>
    Published: July 26, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lumethic.com  
    Title: forensic photography legal cases chain of custody guide  
-   Link: <a href="https://www.lumethic.com/en/articles/forensic-photography-legal-cases-chain-of-custody-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.lumethic.com/en/articles/forensic-photography-legal-cases-chain-of-custody-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for Photographic Evidence: A Legal Guide24 Aug 2025 — How to establish chain of custody for digital photographs...</p></details>
+   Link:<a href="https://www.lumethic.com/en/articles/forensic-photography-legal-cases-chain-of-custody-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.lumethic.com/en/articles/forensic-photography-legal-cases-chain-of-custody-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for Photographic Evidence: A Legal Guide24 Aug 2025 — How to establish chain of custody for digital photographs...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: Full text of "Scientific Study Of [Unidentified](&#123;&#123; 'unidentified/' | relative_url &#125;&#125;) Flying Objects  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Old UFO Cases The project acquired copies of [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) and NICAP reports of UFO cases which had been discussed in popular UFO wri...</p></details>
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Old UFO Cases The project acquired copies of [Project Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) and NICAP reports of UFO cases which had been discussed in popular UFO wri...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...RADAR UFO SIGHTINGS Unidentified targets have been detected by radar on numerous occasions. A...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...RADAR UFO SIGHTINGS Unidentified targets have been detected by radar on numerous occasions. A...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: minutemanmissile.com  
-   Link: <a href="https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Legacy Resource Management ProgramThe Department of Defense (DOD) Legacy Resource Management Program was establishe...</p></details>
+   Link:<a href="https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/DefendAndDeterLegacyOfTheColdWar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Legacy Resource Management ProgramThe Department of Defense (DOD) Legacy Resource Management Program was establishe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportInterest in UFOs climaxed during the summer, when multiple sightings of such objects occurred. RICHARD P. HALLION. Air Forc...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell ReportInterest in UFOs climaxed during the summer, when multiple sightings of such objects occurred. RICHARD P. HALLION. Air Forc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nara.getarchive.net  
-   Link: <a href="https://nara.getarchive.net/topics/radar%2Bscope/radar%2Bequipment" target="_blank" rel="noopener noreferrer nofollow">https://nara.getarchive.net/topics/radar%2Bscope/radar%2Bequipment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>getarchive.net40 Radar scope, Radar equipment ImagesDownload Images of Radar scope, Radar equipment - Free for commercial use, no attribu...</p></details>
+   Link:<a href="https://nara.getarchive.net/topics/radar%2Bscope/radar%2Bequipment" target="_blank" rel="noopener noreferrer nofollow">https://nara.getarchive.net/topics/radar%2Bscope/radar%2Bequipment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>getarchive.net40 Radar scope, Radar equipment ImagesDownload Images of Radar scope, Radar equipment - Free for commercial use, no attribu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: the trump administrations transparency campaign has led to the release of about  
-   Link: <a href="https://www.facebook.com/zimcelebsofficial/posts/the-trump-administrations-transparency-campaign-has-led-to-the-release-of-about-/1570513881107571/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zimcelebsofficial/posts/the-trump-administrations-transparency-campaign-has-led-to-the-release-of-about-/1570513881107571/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ZimCelebs OfficialThe Trump administration’s transparency campaign has led to the release of about 300 files dating to the 1940s, some br...</p></details>
+   Link:<a href="https://www.facebook.com/zimcelebsofficial/posts/the-trump-administrations-transparency-campaign-has-led-to-the-release-of-about-/1570513881107571/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zimcelebsofficial/posts/the-trump-administrations-transparency-campaign-has-led-to-the-release-of-about-/1570513881107571/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ZimCelebs OfficialThe Trump administration’s transparency campaign has led to the release of about 300 files dating to the 1940s, some br...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dokumen.pub  
    Title: chrome dome 196068 the b52s high stakes cold war nuclear operation  
-   Link: <a href="https://dokumen.pub/chrome-dome-196068-the-b52s-high-stakes-cold-war-nuclear-operation.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/chrome-dome-196068-the-b52s-high-stakes-cold-war-nuclear-operation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chrome Dome 1960–68: The B–52s&#x27; High-Stakes Cold...A B-52H from Minot AFB launching a Hound Dog By 1963, SAC&#x27;s Big Four (or Modification...</p></details>
+   Link:<a href="https://dokumen.pub/chrome-dome-196068-the-b52s-high-stakes-cold-war-nuclear-operation.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/chrome-dome-196068-the-b52s-high-stakes-cold-war-nuclear-operation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chrome Dome 1960–68: The B–52s&#x27; High-Stakes Cold...A B-52H from Minot AFB launching a Hound Dog By 1963, SAC&#x27;s Big Four (or Modification...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/pentagon-files-reveal-agents-reports-100020000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/pentagon-files-reveal-agents-reports-100020000.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>even audio files, and 51 videos of UFOs, or unidentified anomalous phenomena (UAPs)...Read more...</p></details>
+   Link:<a href="https://www.aol.com/articles/pentagon-files-reveal-agents-reports-100020000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/pentagon-files-reveal-agents-reports-100020000.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>even audio files, and 51 videos of UFOs, or unidentified anomalous phenomena (UAPs)...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: picryl.com  
    Title: From: Space Defense Operations Computation Center, NORAD,  
-   Link: <a href="https://picryl.com/topics/radar%2Bscreen%2Bdisplays" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/topics/radar%2Bscreen%2Bdisplays</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar screen displays Images — Public Domain Photos &amp;...Download Images of Radar screen displays - Free for commercial use, no attributi...</p></details>
+   Link:<a href="https://picryl.com/topics/radar%2Bscreen%2Bdisplays" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/topics/radar%2Bscreen%2Bdisplays</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar screen displays Images — Public Domain Photos &amp;...Download Images of Radar screen displays - Free for commercial use, no attributi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/483799006667395/posts/1536265898087362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/483799006667395/posts/1536265898087362/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 12, 2026, the Pentagon released its third batch of declassified records regarding unidentified anomalous phenomena, commonly known...</p></details>
+   Link:<a href="https://www.facebook.com/groups/483799006667395/posts/1536265898087362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/483799006667395/posts/1536265898087362/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 12, 2026, the Pentagon released its third batch of declassified records regarding unidentified anomalous phenomena, commonly known...</p></details>
    Published: June 12, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
    Title: New files on UFOs were released by the Pentagon  
-   Link: <a href="https://www.instagram.com/p/DYFbqT4lnfI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFbqT4lnfI/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon released 162 files related to UFOs and UAPs on Friday, including eyewitness testimony, photos, videos and reports of...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYFbqT4lnfI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFbqT4lnfI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon released 162 files related to UFOs and UAPs on Friday, including eyewitness testimony, photos, videos and reports of...</p></details>

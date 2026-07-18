@@ -274,7 +274,7 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_n
 
 ## Introduction
 
-Among the various UFO reports associated with [Ellsworth]({{ 'ellsworth/' | relative_url }}) Air Force Base, the account given by former security policeman Mario A. Woods Jr. stands out because it is tied to a specific operational event: an alarm at Launch Facility November-5 in November 1977. Rather than beginning with a sighting alone, the story starts with a named missile-site security alert that allegedly required an armed response. That detail matters because missile-field alarms were part of a documented security system and, in principle, should have generated records, communications and follow-up actions. The November-5 episode therefore serves as a key test case in assessing the broader claim that unusual aerial phenomena were encountered around nuclear weapons sites. At the same time, it illustrates the central problem of the Ellsworth evidence: the public narrative is detailed, but the supporting documentation remains limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee+2docs.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
+Among the various UFO reports associated with [Ellsworth]({{ 'ellsworth/' | relative_url }}) Air Force Base, the account given by former security policeman Mario A. Woods Jr. stands out because it is tied to a specific operational event: an alarm at Launch Facility November-5 in November 1977. Rather than beginning with a sighting alone, the story starts with a named missile-site security alert that allegedly required an armed response. That detail matters because missile-field alarms were part of a documented security system and, in principle, should have generated records, communications and follow-up actions. The November-5 episode therefore serves as a key test case in assessing the broader claim that unusual aerial phenomena were encountered around nuclear weapons sites. At the same time, it illustrates the central problem of the Ellsworth evidence: the public narrative is detailed, but the supporting documentation remains limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee+2docs.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-1-dark.svg" | relative_url }}" alt="Woods account illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,13 +282,13 @@ Among the various UFO reports associated with [Ellsworth]({{ 'ellsworth/' | rela
 
 ### The night-shift account in sequence
 
-According to Woods's later testimony and interviews, he was serving with the 44th Security Police Squadron at Ellsworth and was assigned to missile-field security duties in November 1977. He has consistently stated that he and another security policeman were on duty in the November Flight area when an alarm was reported at Launch Facility November-5. Woods described the alert as indicating a possible penetration or disturbance of the site's outer security zone, requiring investigation by a Security Alert Team. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
+According to Woods's later testimony and interviews, he was serving with the 44th Security Police Squadron at Ellsworth and was assigned to missile-field security duties in November 1977. He has consistently stated that he and another security policeman were on duty in the November Flight area when an alarm was reported at Launch Facility November-5. Woods described the alert as indicating a possible penetration or disturbance of the site's outer security zone, requiring investigation by a Security Alert Team.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
 
-Woods has also said that unusual lights had already attracted attention earlier in the shift. After the alarm was received, he and his partner drove toward November-5 to determine whether an intrusion or equipment malfunction had occurred. As they approached the launch facility, Woods later claimed they observed a large luminous object positioned near or above the missile site. In subsequent retellings he described it as a red-orange spherical object with a constantly changing appearance rather than a conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee+2docs.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
+Woods has also said that unusual lights had already attracted attention earlier in the shift. After the alarm was received, he and his partner drove toward November-5 to determine whether an intrusion or equipment malfunction had occurred. As they approached the launch facility, Woods later claimed they observed a large luminous object positioned near or above the missile site. In subsequent retellings he described it as a red-orange spherical object with a constantly changing appearance rather than a conventional aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee+2docs.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
 
-The most controversial portion of the story begins at this point. Woods has stated that as the team approached the object, both men experienced unusual physical effects and a break in conscious memory. He later reported finding himself at a different location several miles away, with a period of time unaccounted for. Various interviews and later presentations expanded on these claims, including descriptions of disorientation, missing time and an incapacitated partner. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weirddarkness.com/ufos-nuclear-weapons-military-witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weirddarkness.com">[Weird Darkness+2theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weirddarkness.com</span><span class="citation-popover-title">ufos nuclear weapons military witnesses</span><span class="citation-popover-snippet">Weird DarknessWhen UFOs Came for Our Nukes9 Jul 2025 — Another compelling case involved Mario Woods, a security policeman at Ellsworth Ai...</span></span></span>
+The most controversial portion of the story begins at this point. Woods has stated that as the team approached the object, both men experienced unusual physical effects and a break in conscious memory. He later reported finding himself at a different location several miles away, with a period of time unaccounted for. Various interviews and later presentations expanded on these claims, including descriptions of disorientation, missing time and an incapacitated partner.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weirddarkness.com/ufos-nuclear-weapons-military-witnesses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weirddarkness.com">[Weird Darkness+2theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weirddarkness.com</span><span class="citation-popover-title">ufos nuclear weapons military witnesses</span><span class="citation-popover-snippet">Weird DarknessWhen UFOs Came for Our Nukes9 Jul 2025 — Another compelling case involved Mario Woods, a security policeman at Ellsworth Ai...</span></span></span>
 
-Importantly, these details come primarily from Woods's retrospective testimony. Publicly available accounts were recorded decades after the alleged event rather than through contemporaneous military documents released to researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
+Importantly, these details come primarily from Woods's retrospective testimony. Publicly available accounts were recorded decades after the alleged event rather than through contemporaneous military documents released to researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pAnRORuCUFE" title="UFO Abduction at the Missile Silo: The Lost Witness Finally Confirmed | #50 Mario Woods" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pAnRORuCUFE" target="_blank" rel="noopener noreferrer">UFO Abduction at the Missile Silo: The Lost Witness Finally Confirmed | #50 Mario Woods</a></p><p class="youtube-embed-meta">Channel: Matt Beall Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pAnRORuCUFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pAnRORuCUFE">Open on YouTube</a></p></div></div></div>
@@ -297,17 +297,17 @@ Importantly, these details come primarily from Woods's retrospective testimony. 
 
 The significance of November-5 is not that it was allegedly the location of a UFO. It is that the encounter is anchored to a specific missile facility and a specific security trigger.
 
-Cold War Minuteman facilities operated under established security procedures. Launch facilities were protected by alarmed perimeters, communications links and response protocols. A penetration alarm at a launch facility was not a casual occurrence. It would normally initiate [reporting]({{ 'reporting/' | relative_url }}) and investigation procedures involving controllers, security personnel and command channels. Documentation of such events would be expected somewhere within the operational system, even if only as routine security paperwork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tile Viewer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</span></span></span>
+Cold War Minuteman facilities operated under established security procedures. Launch facilities were protected by alarmed perimeters, communications links and response protocols. A penetration alarm at a launch facility was not a casual occurrence. It would normally initiate [reporting]({{ 'reporting/' | relative_url }}) and investigation procedures involving controllers, security personnel and command channels. Documentation of such events would be expected somewhere within the operational system, even if only as routine security paperwork.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tile Viewer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</span></span></span>
 
 That feature distinguishes the November-5 story from many UFO reports. Woods is not simply describing a light seen over rural South Dakota. He is describing an event that allegedly intersected with a functioning nuclear-security network. Because the alarm is attached to a named launch facility, researchers can ask a concrete question: did a security event occur at November-5 that night, and if so, what records survive?
 
-This is why the alarm itself occupies a central place in discussions of Ellsworth. If independent documentation of the alert were found, it would not automatically validate Woods's UFO interpretation, but it would establish that a real security incident occurred at the time and location he identified. Conversely, the absence of corroborating records leaves the most important operational element of the story unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tile Viewer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</span></span></span>
+This is why the alarm itself occupies a central place in discussions of Ellsworth. If independent documentation of the alert were found, it would not automatically validate Woods's UFO interpretation, but it would establish that a real security incident occurred at the time and location he identified. Conversely, the absence of corroborating records leaves the most important operational element of the story unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tile Viewer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-2-dark.svg" | relative_url }}" alt="Woods account illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unsupported publicly
 
-The strongest aspect of the November-5 account is that Woods has provided a detailed and relatively consistent narrative over many years and that his military service at Ellsworth in a missile-security role has been publicly asserted by researchers who examined his service records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
+The strongest aspect of the November-5 account is that Woods has provided a detailed and relatively consistent narrative over many years and that his military service at Ellsworth in a missile-security role has been publicly asserted by researchers who examined his service records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
 
 The weakest aspect is the lack of publicly available contemporaneous evidence. Several categories of potentially important [corroboration]({{ 'corroboration/' | relative_url }}) remain unavailable or have not been publicly produced:
 
@@ -319,13 +319,13 @@ The weakest aspect is the lack of publicly available contemporaneous evidence. S
 * Official incident reports describing the alarm investigation.
 * Maintenance records indicating whether the alarm was caused by equipment malfunction.
 * Medical records supporting later claims of physical effects.
-* Statements from all personnel allegedly involved in the response chain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tile Viewer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</span></span></span>
+* Statements from all personnel allegedly involved in the response chain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tile Viewer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</span></span></span>
 
 </div>
 
-Some later summaries and UFO researchers have asserted that additional personnel became involved after the event and that military authorities conducted debriefings. However, most of these claims derive from witness testimony, secondary accounts or later compilations rather than publicly released primary records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) UFO Curated Landmark Cases and Analysis</span><span class="citation-popover-snippet">November-5 and Woods becoming aware again next to Newell. Lake. Military Response and Corroboration. •Wing Security Control at Ellsworth...</span></span></span>
+Some later summaries and UFO researchers have asserted that additional personnel became involved after the event and that military authorities conducted debriefings. However, most of these claims derive from witness testimony, secondary accounts or later compilations rather than publicly released primary records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) UFO Curated Landmark Cases and Analysis</span><span class="citation-popover-snippet">November-5 and Woods becoming aware again next to Newell. Lake. Military Response and Corroboration. •Wing Security Control at Ellsworth...</span></span></span>
 
-A further complication is that the story evolved over time. Early discussions focused heavily on the [alarm response]({{ 'alarm-response/' | relative_url }}) and unusual object. Later interviews incorporated broader claims involving missing time, possible abduction-related experiences and interactions with investigators. Whether these additions represent recovered memories, expanded recollections or later interpretations is a matter of debate. What can be established with confidence is that the evidential foundation becomes thinner as the account moves away from the original alarm response and toward extraordinary personal experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2020/08/unidentifieds-extraterrestrial.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">unidentifieds extraterrestrial</span><span class="citation-popover-snippet">Unidentified&#x27;s &#x27;Extraterrestrial Encounters&#x27; Episode: Robert...30 Aug 2020 — In Mario Woods&#x27; case, when I first interviewed him in Augus...</span></span></span>
+A further complication is that the story evolved over time. Early discussions focused heavily on the [alarm response]({{ 'alarm-response/' | relative_url }}) and unusual object. Later interviews incorporated broader claims involving missing time, possible abduction-related experiences and interactions with investigators. Whether these additions represent recovered memories, expanded recollections or later interpretations is a matter of debate. What can be established with confidence is that the evidential foundation becomes thinner as the account moves away from the original alarm response and toward extraordinary personal experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theufochronicles.com/2020/08/unidentifieds-extraterrestrial.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">unidentifieds extraterrestrial</span><span class="citation-popover-snippet">Unidentified&#x27;s &#x27;Extraterrestrial Encounters&#x27; Episode: Robert...30 Aug 2020 — In Mario Woods&#x27; case, when I first interviewed him in Augus...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FVpWXxneti4" title="What the Wall Street Journal isn&#x27;t telling you about UFOs | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FVpWXxneti4" target="_blank" rel="noopener noreferrer">What the Wall Street Journal isn&#x27;t telling you about UFOs | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FVpWXxneti4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FVpWXxneti4">Open on YouTube</a></p></div></div></div>
@@ -337,202 +337,202 @@ A further complication is that the story evolved over time. Early discussions fo
 
 Within the Ellsworth missile-field narratives, the November-5 alarm is the most concrete element because it points to a potentially verifiable operational event. The case's importance therefore does not rest primarily on the reported UFO description. It rests on whether an identifiable security incident occurred at a named nuclear missile facility and whether surviving records can confirm key portions of Woods's account.
 
-At present, the public record supports only part of the story. Woods's service in missile security and his long-standing account are matters of record in interviews and testimony. The alleged alarm, response and extraordinary encounter remain largely supported by witness recollection rather than independently released military documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee+2docs.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
+At present, the public record supports only part of the story. Woods's service in missile security and his long-standing account are matters of record in interviews and testimony. The alleged alarm, response and extraordinary encounter remain largely supported by witness recollection rather than independently released military documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee+2docs.house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Written Testimony Shellenberger</span><span class="citation-popover-snippet">Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</span></span></span>
 
-For that reason, the November-5 incident remains one of the most discussed Ellsworth cases and simultaneously one of the clearest examples of the corroboration gap that runs through much of the UFO-and-nuclear-weapons debate. The alarm provides a specific point of investigation, but the evidence needed to move the case from testimony to documented historical event has not yet emerged publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tile Viewer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</span></span></span>
+For that reason, the November-5 incident remains one of the most discussed Ellsworth cases and simultaneously one of the clearest examples of the corroboration gap that runs through much of the UFO-and-nuclear-weapons debate. The alarm provides a specific point of investigation, but the evidence needed to move the case from testimony to documented historical event has not yet emerged publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tile Viewer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-3-dark.svg" | relative_url }}" alt="Woods account illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_woods_november5_alar_26545f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened at November 5?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened at November 5?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Deals with official witnesses, credibility, testimony and the problem of public documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Deals with official witnesses, credibility, testimony and the problem of public documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Explains the nuclear missile environment in which a launch-facility alarm would have mattered.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the nuclear missile environment in which a launch-facility alarm would have mattered.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Connects classified military culture, aerial mystery claims and the challenge of separating records from lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects classified military culture, aerial mystery claims and the challenge of separating records from lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly covers UFO reports involving nuclear weapons sites and witness accounts from military personnel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers UFO reports involving nuclear weapons sites and witness accounts from military personnel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage U.S. Air Force Memorabilia Lot 1950 Airman’s Handbook Patches"><img src="{{ '/assets/images/marketplace-covers/043feadcac0fe30ebab5.jpg' | relative_url }}" alt="Listing image for Vintage U.S. Air Force Memorabilia Lot 1950 Airman’s Handbook Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage U.S. Air Force Memorabilia Lot 1950 Airman’s Handbook Patches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage U.S. Air Force Memorabilia Lot 1950 Airman’s Handbook Patches"><img src="{{ '/assets/images/marketplace-covers/043feadcac0fe30ebab5.jpg' | relative_url }}" alt="Listing image for Vintage U.S. Air Force Memorabilia Lot 1950 Airman’s Handbook Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage U.S. Air Force Memorabilia Lot 1950 Airman’s Handbook Patches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Memorabilia Various Pieces"><img src="{{ '/assets/images/marketplace-covers/47516f6d0166da035b47.jpg' | relative_url }}" alt="Listing image for Royal Air Force Memorabilia Various Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Memorabilia Various Pieces</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Memorabilia Various Pieces"><img src="{{ '/assets/images/marketplace-covers/47516f6d0166da035b47.jpg' | relative_url }}" alt="Listing image for Royal Air Force Memorabilia Various Pieces" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Memorabilia Various Pieces</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Royal Air Force Memorabilia Collection Special Edition Hardcover Igloobooks"><img src="{{ '/assets/images/marketplace-covers/bf00812e9d5abec5294b.jpg' | relative_url }}" alt="Listing image for The Royal Air Force Memorabilia Collection Special Edition Hardcover Igloobooks" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Royal Air Force Memorabilia Collection Special Edition Hardcover Igloobooks</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Royal Air Force Memorabilia Collection Special Edition Hardcover Igloobooks"><img src="{{ '/assets/images/marketplace-covers/bf00812e9d5abec5294b.jpg' | relative_url }}" alt="Listing image for The Royal Air Force Memorabilia Collection Special Edition Hardcover Igloobooks" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Royal Air Force Memorabilia Collection Special Edition Hardcover Igloobooks</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Royal Air Force, RAF Medals and Memorabilia Box"><img src="{{ '/assets/images/marketplace-covers/56cd422f7afc124ec64d.jpg' | relative_url }}" alt="Listing image for Personalised Royal Air Force, RAF Medals and Memorabilia Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Personalised Royal Air Force, RAF Medals and Memorabilia Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: Air Force memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Royal Air Force, RAF Medals and Memorabilia Box"><img src="{{ '/assets/images/marketplace-covers/56cd422f7afc124ec64d.jpg' | relative_url }}" alt="Listing image for Personalised Royal Air Force, RAF Medals and Memorabilia Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Personalised Royal Air Force, RAF Medals and Memorabilia Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Air Force memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: Air Force memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Air+Force+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Air Force memorabilia" data-ebay-reference="woods-account-what-happened-at-november-5-ufos-and-nuclear-weapons-air-force-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For that reason, the November-5 incident remains one of the most discussed Ellsw
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For that reason, the November-5 incident remains one of the most discussed Ellsw
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For that reason, the November-5 incident remains one of the most discussed Ellsw
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For that reason, the November-5 incident remains one of the most discussed Ellsw
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For that reason, the November-5 incident remains one of the most discussed Ellsw
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,94 +738,94 @@ For that reason, the November-5 incident remains one of the most discussed Ellsw
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeWritten-Testimony-Shellenberger.pdf13 Nov 2023 — Woods Jr., stationed at Ellsworth AFB, SD, Woods and his team partner...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>site/marcia sm ith story.htm. (PUBLIC DOMAIN) - November 1977 — USAF Security Alert Team member Mario A. Woods Jr., stationed at Ellswort...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>site/marcia sm ith story.htm. (PUBLIC DOMAIN) - November 1977 — USAF Security Alert Team member Mario A. Woods Jr., stationed at Ellswort...</p></details>
    Published: November 1977  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theufochronicles.com  
    Title: unidentifieds extraterrestrial  
-   Link: <a href="https://www.theufochronicles.com/2020/08/unidentifieds-extraterrestrial.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2020/08/unidentifieds-extraterrestrial.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s &#x27;Extraterrestrial Encounters&#x27; Episode: Robert...30 Aug 2020 — In Mario Woods&#x27; case, when I first interviewed him in Augus...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2020/08/unidentifieds-extraterrestrial.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2020/08/unidentifieds-extraterrestrial.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified](&amp;#123;&amp;#123; &#x27;unidentified/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s &#x27;Extraterrestrial Encounters&#x27; Episode: Robert...30 Aug 2020 — In Mario Woods&#x27; case, when I first interviewed him in Augus...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) UFO Curated Landmark Cases and Analysis  
-   Link: <a href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November-5 and Woods becoming aware again next to Newell. Lake. Military Response and Corroboration. •Wing Security Control at Ellsworth...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November-5 and Woods becoming aware again next to Newell. Lake. Military Response and Corroboration. •Wing Security Control at Ellsworth...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tile.loc.gov  
-   Link: <a href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</p></details>
+   Link:<a href="https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/pnp/habshaer/sd/sd0000/sd0074/data/sd0074data.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Library of Congress Tile ViewerEllsworth Air Force Base, Delta Flight, Launch Control...Two officers were stationed in the underground l...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weirddarkness.com  
    Title: ufos nuclear weapons [military witnesses](&#123;&#123; 'witnesses/' | relative_url &#125;&#125;)  
-   Link: <a href="https://weirddarkness.com/ufos-nuclear-weapons-military-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/ufos-nuclear-weapons-military-witnesses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird DarknessWhen UFOs Came for Our Nukes9 Jul 2025 — Another compelling case involved Mario Woods, a security policeman at Ellsworth Ai...</p></details>
+   Link:<a href="https://weirddarkness.com/ufos-nuclear-weapons-military-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/ufos-nuclear-weapons-military-witnesses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird DarknessWhen UFOs Came for Our Nukes9 Jul 2025 — Another compelling case involved Mario Woods, a security policeman at Ellsworth Ai...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nro.gov  
-   Link: <a href="https://www.nro.gov/Portals/65/documents/history/csnr/corona/StarCatchersWeb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nro.gov/Portals/65/documents/history/csnr/corona/StarCatchersWeb.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CORONA Star CatchersThe Center for the Study of National Reconnaissance (CSNR) is an independent National. Reconnaissance Office (NRO) re...</p></details>
+   Link:<a href="https://www.nro.gov/Portals/65/documents/history/csnr/corona/StarCatchersWeb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nro.gov/Portals/65/documents/history/csnr/corona/StarCatchersWeb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CORONA Star CatchersThe Center for the Study of National Reconnaissance (CSNR) is an independent National. Reconnaissance Office (NRO) re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Official Speed Records: Aircraft 10,000. November 5, 1957; Gulf of Mexico Just after 5:00 a.m...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Official Speed Records: Aircraft 10,000. November 5, 1957; Gulf of Mexico Just after 5:00 a.m...</p></details>
    Published: November 5, 1957  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: minutemanmissile.com  
-   Link: <a href="https://minutemanmissile.com/documents/TheMissilePlainsFrontlineOfAmericasColdWar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/TheMissilePlainsFrontlineOfAmericasColdWar.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Missile Plains: Frontline of America&#x27;s Cold WarEllsworth Air Force Base, Launch Control Center, Launch Control Facility and Minuteman...</p></details>
+   Link:<a href="https://minutemanmissile.com/documents/TheMissilePlainsFrontlineOfAmericasColdWar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/documents/TheMissilePlainsFrontlineOfAmericasColdWar.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Missile Plains: Frontline of America&#x27;s Cold WarEllsworth Air Force Base, Launch Control Center, Launch Control Facility and Minuteman...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 1964 during a routine test launch of an Atlas D missile from Vandenberg Air Force Base in California, a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 14, 1964 during a routine test launch of an Atlas D missile from Vandenberg Air Force Base in California, a...Read more...</p></details>
    Published: September 14, 1964  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=85roqz-GCvs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85roqz-GCvs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounter Freezes Team in Time (Season 2) | History... Mario Woods, shares his frightening encounter with an unidentified object exhi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=85roqz-GCvs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85roqz-GCvs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounter Freezes Team in Time (Season 2) | History... Mario Woods, shares his frightening encounter with an unidentified object exhi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dnaindia/posts/former-usaf-officers-to-present-evidence-of-aliens-tampering-with-nuclear-weapon/10165936053800441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dnaindia/posts/former-usaf-officers-to-present-evidence-of-aliens-tampering-with-nuclear-weapon/10165936053800441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>own, his service record proving he was Launch Officer that day...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/dnaindia/posts/former-usaf-officers-to-present-evidence-of-aliens-tampering-with-nuclear-weapon/10165936053800441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dnaindia/posts/former-usaf-officers-to-present-evidence-of-aliens-tampering-with-nuclear-weapon/10165936053800441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>own, his service record proving he was Launch Officer that day...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thedailystar/posts/for-whatever-reason-those-piloting-the-ufos-appeared-to-be-very-interested-in-th/958341139668139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedailystar/posts/for-whatever-reason-those-piloting-the-ufos-appeared-to-be-very-interested-in-th/958341139668139/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ounters, documented multiple cases where UFOs disabled nuclear...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/thedailystar/posts/for-whatever-reason-those-piloting-the-ufos-appeared-to-be-very-interested-in-th/958341139668139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedailystar/posts/for-whatever-reason-those-piloting-the-ufos-appeared-to-be-very-interested-in-th/958341139668139/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ounters, documented multiple cases where UFOs disabled nuclear...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: meet the nuclear base employee abducted by aliens  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i312cz/meet_the_nuclear_base_employee_abducted_by_aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i312cz/meet_the_nuclear_base_employee_abducted_by_aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I sat down with Mario Woods a former US Air Force Security responder in 1977 he was stationed at Ellsworth Air Force Base in South Dakota...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1i312cz/meet_the_nuclear_base_employee_abducted_by_aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i312cz/meet_the_nuclear_base_employee_abducted_by_aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I sat down with Mario Woods a former US Air Force Security responder in 1977 he was stationed at Ellsworth Air Force Base in South Dakota...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/663806609/MARIO-WOODS-RICK-DOTY-Experiencer-AFOSI-Interview-Disclosure-Tonight-With-Thomas-Fessler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/663806609/MARIO-WOODS-RICK-DOTY-Experiencer-AFOSI-Interview-Disclosure-Tonight-With-Thomas-Fessler</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mario Woods &amp; Rick Doty: UFO Encounter | PDFMario Woods summarizes his UFO encounter in November 1971 at a missile site in South Dakota...</p></details>
+   Link:<a href="https://www.scribd.com/document/663806609/MARIO-WOODS-RICK-DOTY-Experiencer-AFOSI-Interview-Disclosure-Tonight-With-Thomas-Fessler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/663806609/MARIO-WOODS-RICK-DOTY-Experiencer-AFOSI-Interview-Disclosure-Tonight-With-Thomas-Fessler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mario Woods &amp; Rick Doty: UFO Encounter | PDFMario Woods summarizes his UFO encounter in November 1971 at a missile site in South Dakota...</p></details>
    Published: November 1971  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pAnRORuCUFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pAnRORuCUFE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Nukes: Whistleblower Mario Woods (USAF Retired) testifies to Pentagon&#x27;s UFO Program [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pAnRORuCUFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pAnRORuCUFE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Nukes: Whistleblower Mario Woods (USAF Retired) testifies to Pentagon&#x27;s UFO Program [AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>

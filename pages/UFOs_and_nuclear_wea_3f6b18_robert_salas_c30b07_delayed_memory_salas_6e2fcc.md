@@ -280,32 +280,32 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_delayed_me
 
 ## Introduction
 
-One of the most important questions in assessing [Robert Salas]({{ 'salas/' | relative_url }})'s claims about a UFO-related missile shutdown at Malmstrom Air Force Base is not whether he appears sincere, but how much weight should be given to a recollection that became public decades after the event. The alleged incident occurred in March 1967, yet Salas's account only emerged publicly in the mid-1990s and expanded further in subsequent years. That gap matters because memory is not a recording device. Psychological research consistently shows that recollections can be reshaped by later experiences, conversations, documents and interpretations, even when a witness is completely honest. At the same time, a delayed account is not automatically false. The central issue is therefore not [sincerity]({{ 'sincerity/' | relative_url }}) versus dishonesty, but how decades of memory reconstruction affect the evidential value of Salas's testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
+One of the most important questions in assessing [Robert Salas]({{ 'salas/' | relative_url }})'s claims about a UFO-related missile shutdown at Malmstrom Air Force Base is not whether he appears sincere, but how much weight should be given to a recollection that became public decades after the event. The alleged incident occurred in March 1967, yet Salas's account only emerged publicly in the mid-1990s and expanded further in subsequent years. That gap matters because memory is not a recording device. Psychological research consistently shows that recollections can be reshaped by later experiences, conversations, documents and interpretations, even when a witness is completely honest. At the same time, a delayed account is not automatically false. The central issue is therefore not [sincerity]({{ 'sincerity/' | relative_url }}) versus dishonesty, but how decades of memory reconstruction affect the evidential value of Salas's testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_delayed_memory_salas_6e2fcc-Illustration-1-dark.svg" | relative_url }}" alt="Memory Gap illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_delayed_memory_salas_6e2fcc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_robert_salas_c30b07_delayed_memory_salas_6e2fcc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Did the Account Surface So Much Later?
 
-The most commonly cited explanation comes from Salas himself. In a 2011 autobiographical account, he wrote that he remained silent for many years and only revisited the incident after encountering Timothy Good's UFO book *Above Top Secret* in 1994. According to Salas, the book contained a description of a Malmstrom-related UFO event that resembled what he remembered from 1967. He then began seeking records and contacting investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+The most commonly cited explanation comes from Salas himself. In a 2011 autobiographical account, he wrote that he remained silent for many years and only revisited the incident after encountering Timothy Good's UFO book *Above Top Secret* in 1994. According to Salas, the book contained a description of a Malmstrom-related UFO event that resembled what he remembered from 1967. He then began seeking records and contacting investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
-This chronology is important because it establishes that the public narrative did not develop immediately after the alleged event. Instead, there was roughly a twenty-seven-year period during which Salas was not publicly promoting the story. For some observers, that delay supports his credibility because it reduces the appearance of seeking publicity at the time. For others, it raises concerns because memories recalled after such a long interval are generally more vulnerable to reconstruction and reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+This chronology is important because it establishes that the public narrative did not develop immediately after the alleged event. Instead, there was roughly a twenty-seven-year period during which Salas was not publicly promoting the story. For some observers, that delay supports his credibility because it reduces the appearance of seeking publicity at the time. For others, it raises concerns because memories recalled after such a long interval are generally more vulnerable to reconstruction and reinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
-The timing also means that Salas's memory was reactivated within an environment where UFO literature, previous claims and emerging narratives about nuclear weapons and [unidentified]({{ 'unidentified/' | relative_url }}) objects were already circulating. Even if those materials did not create the memory, they could have influenced how it was organised and understood when recalled decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+The timing also means that Salas's memory was reactivated within an environment where UFO literature, previous claims and emerging narratives about nuclear weapons and [unidentified]({{ 'unidentified/' | relative_url }}) objects were already circulating. Even if those materials did not create the memory, they could have influenced how it was organised and understood when recalled decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
 ## How Later Reading Can Reshape Recollection
 
-Memory researchers generally distinguish between an original experience and the later stories people tell about it. Every act of remembering involves reconstruction. Details may be reinforced, forgotten, merged with other information or assigned new meaning over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
+Memory researchers generally distinguish between an original experience and the later stories people tell about it. Every act of remembering involves reconstruction. Details may be reinforced, forgotten, merged with other information or assigned new meaning over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
 
 Applied to the Salas case, several mechanisms are relevant:
 
 * **Narrative consolidation:** A witness may gradually organise scattered memories into a more coherent story than existed immediately after the event.
 * **Source confusion:** Information learned later can become difficult to distinguish from what was personally witnessed.
 * **Interpretive change:** The remembered facts may remain similar while the explanation attached to them changes dramatically.
-* **Repeated retelling:** Public interviews, books and lectures can stabilise a version of events, making it feel increasingly certain regardless of whether every detail originated in the original experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
+* **Repeated retelling:** Public interviews, books and lectures can stabilise a version of events, making it feel increasingly certain regardless of whether every detail originated in the original experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
 
-A notable feature of Salas's own chronology is that his renewed interest followed exposure to published UFO material. He explicitly described reading Good's book and recognising similarities to what he remembered. That does not demonstrate contamination of memory, but it identifies a plausible pathway through which later information entered the reconstruction process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+A notable feature of Salas's own chronology is that his renewed interest followed exposure to published UFO material. He explicitly described reading Good's book and recognising similarities to what he remembered. That does not demonstrate contamination of memory, but it identifies a plausible pathway through which later information entered the reconstruction process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
-Critics therefore argue that one cannot simply treat Salas's later testimony as a direct transcript of a 1967 memory. Instead, it should be understood as a recollection filtered through decades of reflection, discussion and exposure to related narratives. Supporters respond that the core elements of his story remained recognisable over time and that delayed recollection does not automatically invalidate an experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+Critics therefore argue that one cannot simply treat Salas's later testimony as a direct transcript of a 1967 memory. Instead, it should be understood as a recollection filtered through decades of reflection, discussion and exposure to related narratives. Supporters respond that the core elements of his story remained recognisable over time and that delayed recollection does not automatically invalidate an experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8bJZJzjwj70" title="The Air Force Officer Who Saw UFOs Disable Nuclear Weapons | Robert Salas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8bJZJzjwj70" target="_blank" rel="noopener noreferrer">The Air Force Officer Who Saw UFOs Disable Nuclear Weapons | Robert Salas</a></p><p class="youtube-embed-meta">Channel: Best of Danny Jones</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8bJZJzjwj70" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8bJZJzjwj70">Open on YouTube</a></p></div></div></div>
@@ -314,9 +314,9 @@ Critics therefore argue that one cannot simply treat Salas's later testimony as 
 
 A useful distinction in the Salas debate is between remembering that something unusual happened and remembering exactly what caused it.
 
-Salas has consistently maintained that a missile shutdown occurred and that security personnel reported an unusual object. However, the interpretation of those events evolved within a broader UFO framework over the years. According to accounts of his own recollections, reading UFO literature in the 1990s helped connect his experience to a larger pattern of alleged nuclear-weapons encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+Salas has consistently maintained that a missile shutdown occurred and that security personnel reported an unusual object. However, the interpretation of those events evolved within a broader UFO framework over the years. According to accounts of his own recollections, reading UFO literature in the 1990s helped connect his experience to a larger pattern of alleged nuclear-weapons encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
-This matters because memories often preserve the broad outline of an event better than its explanation. A person may accurately remember alarms, confusion, conversations and operational disruptions while becoming less certain about what external factor caused them. In evidential terms, the passage of time generally affects causal interpretations more than it affects the recollection that an unusual incident occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
+This matters because memories often preserve the broad outline of an event better than its explanation. A person may accurately remember alarms, confusion, conversations and operational disruptions while becoming less certain about what external factor caused them. In evidential terms, the passage of time generally affects causal interpretations more than it affects the recollection that an unusual incident occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
 
 The challenge for investigators is therefore separating:
 
@@ -338,11 +338,11 @@ These categories are not always easy to disentangle in retrospective testimony.
 
 Sceptical assessments frequently place the delay at the centre of the credibility question.
 
-One reason is that there are few contemporaneous public records documenting the specific UFO narrative that later became associated with Salas's account. The longer the interval between an event and a testimony, the harder it becomes to compare memory against documentation created at the time. This leaves investigators relying more heavily on recollection than on records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
+One reason is that there are few contemporaneous public records documenting the specific UFO narrative that later became associated with Salas's account. The longer the interval between an event and a testimony, the harder it becomes to compare memory against documentation created at the time. This leaves investigators relying more heavily on recollection than on records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
 
-A second concern is that the story expanded within a changing cultural environment. During the 1990s and 2000s, public interest in UFOs, government [secrecy]({{ 'secrecy/' | relative_url }}) and nuclear-weapons incidents increased substantially. Critics argue that such environments can encourage witnesses to reinterpret old experiences through new explanatory frameworks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
+A second concern is that the story expanded within a changing cultural environment. During the 1990s and 2000s, public interest in UFOs, government [secrecy]({{ 'secrecy/' | relative_url }}) and nuclear-weapons incidents increased substantially. Critics argue that such environments can encourage witnesses to reinterpret old experiences through new explanatory frameworks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robert Salas</span><span class="citation-popover-snippet">Robert Salas</span></span></span>
 
-More recently, investigations by the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), as reported by *The Wall Street Journal*, examined historical claims involving missile facilities and concluded that some incidents had conventional explanations connected to classified military activities, including electromagnetic testing. Whether one accepts those conclusions or not, they illustrate why memory-based testimony decades after the fact remains subject to re-evaluation when new documentary evidence emerges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
+More recently, investigations by the Pentagon's All-domain Anomaly Resolution Office ([AARO]({{ 'aaro/' | relative_url }})), as reported by *The Wall Street Journal*, examined historical claims involving missile facilities and concluded that some incidents had conventional explanations connected to classified military activities, including electromagnetic testing. Whether one accepts those conclusions or not, they illustrate why memory-based testimony decades after the fact remains subject to re-evaluation when new documentary evidence emerges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tx_8ZQIgLv8" title="U.S. Air Force Weapons Controller Bob Salas on UAP Visitations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tx_8ZQIgLv8" target="_blank" rel="noopener noreferrer">U.S. Air Force Weapons Controller Bob Salas on UAP Visitations</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tx_8ZQIgLv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tx_8ZQIgLv8">Open on YouTube</a></p></div></div></div>
@@ -351,9 +351,9 @@ More recently, investigations by the Pentagon's All-domain Anomaly Resolution Of
 
 The existence of a long memory gap should not be overstated.
 
-A delayed report does not prove fabrication. Many historical events become public only years or decades later because participants were constrained by secrecy rules, believed an event was classified, assumed nobody would believe them, or simply saw no reason to discuss it publicly. The fact that Salas waited until the 1990s does not by itself demonstrate dishonesty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+A delayed report does not prove fabrication. Many historical events become public only years or decades later because participants were constrained by secrecy rules, believed an event was classified, assumed nobody would believe them, or simply saw no reason to discuss it publicly. The fact that Salas waited until the 1990s does not by itself demonstrate dishonesty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
-Likewise, memory research does not show that all long-term memories are unreliable. People often retain vivid recollections of unusual or emotionally significant experiences for decades. The problem is not necessarily remembering that something happened; it is determining which details remained stable and which may have been altered through reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
+Likewise, memory research does not show that all long-term memories are unreliable. People often retain vivid recollections of unusual or emotionally significant experiences for decades. The problem is not necessarily remembering that something happened; it is determining which details remained stable and which may have been altered through reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methods.sagepub.com">[SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methods.sagepub.com</span><span class="citation-popover-snippet">SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</span></span></span>
 
 For that reason, historians and investigators typically treat delayed testimony as evidence that must be weighed alongside contemporaneous documents, technical records and independent witnesses rather than as a standalone proof of what occurred.
 
@@ -363,203 +363,203 @@ For that reason, historians and investigators typically treat delayed testimony 
 
 The long interval between the 1967 incident and Salas's public testimony ultimately changes the kind of evidence his account represents.
 
-It can support the conclusion that Salas genuinely remembers an unusual and significant event connected to missile operations. It can also provide insight into how participants understood the incident years later. What it cannot do on its own is conclusively establish the precise cause of the missile shutdown, verify the existence of an unidentified craft above the facility, or resolve competing technical explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+It can support the conclusion that Salas genuinely remembers an unusual and significant event connected to missile operations. It can also provide insight into how participants understood the incident years later. What it cannot do on its own is conclusively establish the precise cause of the missile shutdown, verify the existence of an unidentified craft above the facility, or resolve competing technical explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
-In the broader debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), the memory gap is therefore neither a decisive refutation nor a decisive validation. It is a mechanism that affects evidential strength. The longer the delay, the more important independent records become. Salas's testimony remains significant because of who he was and what he claims to have experienced, but the decades between the event and its public retelling inevitably shape how historians, investigators and readers assess its reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes+2SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
+In the broader debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}), the memory gap is therefore neither a decisive refutation nor a decisive validation. It is a mechanism that affects evidential strength. The longer the delay, the more important independent records become. Salas's testimony remains significant because of who he was and what he claims to have experienced, but the decades between the event and its public retelling inevitably shape how historians, investigators and readers assess its reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[USAFA Classes+2SAGE Methods]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFJehKkZOVU" title="UFOs Revisited: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer">UFOs Revisited: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 488 &middot; Uploaded: October 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFJehKkZOVU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Does the Long Delay Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Does the Long Delay Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains how sincere people can become more confident in reconstructed beliefs over time, directly relevant to evaluating decades-later t...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sincere people can become more confident in reconstructed beliefs over time, directly relevant to evaluating decades-later t...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Demonstrates limits of perception and memory, helping readers understand why recollections are not perfect recordings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates limits of perception and memory, helping readers understand why recollections are not perfect recordings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Dr Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Dr Julia Shaw</p>
         
-        <p class="fr-book-desc">Directly addresses how memories can change through suggestion, later information, and repeated retelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how memories can change through suggestion, later information, and repeated retelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for readers exploring UFO witness testimony and how such claims are evaluated in public discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for readers exploring UFO witness testimony and how such claims are evaluated in public discourse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot"><img src="{{ '/assets/images/marketplace-covers/ed1b5d7e1f22da1d82b7.jpg' | relative_url }}" alt="Listing image for Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot"><img src="{{ '/assets/images/marketplace-covers/ed1b5d7e1f22da1d82b7.jpg' | relative_url }}" alt="Listing image for Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Space Poster Original 1981 - Propaganda USSR Race NASA Cold War Cosmonaut Pilot</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art"><img src="{{ '/assets/images/marketplace-covers/54beab8584e8aa1d12e5.jpg' | relative_url }}" alt="Listing image for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art"><img src="{{ '/assets/images/marketplace-covers/54beab8584e8aa1d12e5.jpg' | relative_url }}" alt="Listing image for Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage USSR Aviation Poster DOSAAF Soviet Pilots Goggles Cold War Military Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art"><img src="{{ '/assets/images/marketplace-covers/866c218a51ab745bd1a2.jpg' | relative_url }}" alt="Listing image for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art"><img src="{{ '/assets/images/marketplace-covers/866c218a51ab745bd1a2.jpg' | relative_url }}" alt="Listing image for Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Soviet magazine Cold War Anti Nazi Wehrmacht Adenauer Bonn aviation Poster art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art"><img src="{{ '/assets/images/marketplace-covers/22488c4c57d926cd04b8.jpg' | relative_url }}" alt="Listing image for McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">McDonnell Douglas F-4 Phantom II Bomber Print - Cold War Aviation Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aviation poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War aviation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aviation poster" data-ebay-reference="memory-gap-how-much-does-the-long-delay-matter-ufos-and-nuclear-weapons-cold-war-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ In the broader debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ In the broader debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ In the broader debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ In the broader debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ In the broader debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,85 +765,85 @@ In the broader debate over [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Robert Salas  
-   Link: <a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robert_Salas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Salas</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Age of Disclosure  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Age_of_Disclosure</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of DisclosureFarah described &quot;disclosure&quot; as when governments could reveal withheld information about alien life, as described...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Age_of_Disclosure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of DisclosureFarah described &quot;disclosure&quot; as when governments could reveal withheld information about alien life, as described...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: methods.sagepub.com  
-   Link: <a href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</p></details>
+   Link:<a href="https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/hnbk/edvol/sage-handbook-of-historical-theory/chpt/22-memory-witness-experience-collective-meaning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE MethodsMemory: Witness, Experience, Collective MeaningRecovery of these repressed memories was the surest route to self-knowledge. I...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usafaclasses.org  
-   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</p></details>
+   Link:<a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USAFA ClassesBob&#x27;s HistoryOh, yes, to continue my UFO story – In 1994 I was in a bookstore and picked up a book called “Above Top Secret”...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military deliberately spread disinformation about UFOs, contributing to decades of conspiracy theories. The probe, prompted by congressio...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2021/10/21/former-air-force-chief-claims-he-once-saw-ufo-firing-at-nuke-missiles-launched-from-secret-base/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2021/10/21/former-air-force-chief-claims-he-once-saw-ufo-firing-at-nuke-missiles-launched-from-secret-base/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO firing four beams of light at a nuclear missile undergoing testing. Ex-US Air Force First lieutenant Robert Jacobs alleged a craft...</p></details>
+   Link:<a href="https://nypost.com/2021/10/21/former-air-force-chief-claims-he-once-saw-ufo-firing-at-nuke-missiles-launched-from-secret-base/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2021/10/21/former-air-force-chief-claims-he-once-saw-ufo-firing-at-nuke-missiles-launched-from-secret-base/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO firing four beams of light at a nuclear missile undergoing testing. Ex-US Air Force First lieutenant Robert Jacobs alleged a craft...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/199711/16/simonetto-shalloe-2023-uprising-on-the-dance-floor-new-chilean-pop-and-protest-in-postdictatorship-chile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/199711/16/simonetto-shalloe-2023-uprising-on-the-dance-floor-new-chilean-pop-and-protest-in-postdictatorship-chile.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Pop and Protest in Postdictatorship Chileby P Simonetto · 2023 — In the post-dictatorship context of the 1990s, the LGTBIQ+ movem...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/199711/16/simonetto-shalloe-2023-uprising-on-the-dance-floor-new-chilean-pop-and-protest-in-postdictatorship-chile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/199711/16/simonetto-shalloe-2023-uprising-on-the-dance-floor-new-chilean-pop-and-protest-in-postdictatorship-chile.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Pop and Protest in Postdictatorship Chileby P Simonetto · 2023 — In the post-dictatorship context of the 1990s, the LGTBIQ+ movem...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Tx_8ZQIgLv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tx_8ZQIgLv8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force Weapons Controller Bob Salas on UAP VisitationsU.S. Air Force Weapons Controller Bob Salas on UAP Visitations Here&#x27;s a lin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Tx_8ZQIgLv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tx_8ZQIgLv8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force Weapons Controller Bob Salas on UAP VisitationsU.S. Air Force Weapons Controller Bob Salas on UAP Visitations Here&#x27;s a lin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: courtauld.ac.uk  
    Title: Courtauld projects involving an array of outstanding scholars  
-   Link: <a href="https://courtauld.ac.uk/wp-content/uploads/2021/04/Gothic-Architecture-in-Spain-Double-page-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://courtauld.ac.uk/wp-content/uploads/2021/04/Gothic-Architecture-in-Spain-Double-page-Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gothic Architecture in Spain: Invention and ImitationThe series includes research publications that emerge from Courtauld Research Forum...</p></details>
+   Link:<a href="https://courtauld.ac.uk/wp-content/uploads/2021/04/Gothic-Architecture-in-Spain-Double-page-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://courtauld.ac.uk/wp-content/uploads/2021/04/Gothic-Architecture-in-Spain-Double-page-Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gothic Architecture in Spain: Invention and ImitationThe series includes research publications that emerge from Courtauld Research Forum...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/HSA.Archive/posts/821772954868497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/HSA.Archive/posts/821772954868497/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sala&#x27;s later years when she finally gifted the collection to her grown daughter Ann. It is a valuable record of life in the labor camps...</p></details>
+   Link:<a href="https://www.facebook.com/groups/HSA.Archive/posts/821772954868497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/HSA.Archive/posts/821772954868497/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sala&#x27;s later years when she finally gifted the collection to her grown daughter Ann. It is a valuable record of life in the labor camps...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: meer.com  
    Title: 75269 curse of the malmstrom nuclear ufo incident 1967  
-   Link: <a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
+   Link:<a href="https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/75269-curse-of-the-malmstrom-nuclear-ufo-incident-1967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of the Malmstrom Nuclear UFO incident (1967)23 Aug 2023 — Robert Bob Salas not only witnessed the Malmstrom Nuclear UFO incident (1...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — information was “still classified above Top Secret” at the time.... Robert Sal...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>house.govWritten-Testimony-Shellenberger.pdf13 Nov 2023 — information was “still classified above Top Secret” at the time.... Robert Sal...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ufos-what-is-the-government-really-covering-up-1532003005-9781532003004.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-what-is-the-government-really-covering-up-1532003005-9781532003004.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Up? is not just another book about the 1947 Roswell crash.Read more...</p></details>
+   Link:<a href="https://dokumen.pub/ufos-what-is-the-government-really-covering-up-1532003005-9781532003004.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-what-is-the-government-really-covering-up-1532003005-9781532003004.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Up? is not just another book about the 1947 Roswell crash.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: yahoo.com  
    Title: wtf retired usaf captain recalls 234440482  
-   Link: <a href="https://www.yahoo.com/news/wtf-retired-usaf-captain-recalls-234440482.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/wtf-retired-usaf-captain-recalls-234440482.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UFOs) were seen near nuclear facilities around the world. UFO encounter. According to Salas, these UFO sightings did not inflict any ser...</p></details>
+   Link:<a href="https://www.yahoo.com/news/wtf-retired-usaf-captain-recalls-234440482.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/wtf-retired-usaf-captain-recalls-234440482.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(UFOs) were seen near nuclear facilities around the world. UFO encounter. According to Salas, these UFO sightings did not inflict any ser...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: Former US Air Force officer Robert Salas  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1leitre/former_us_air_force_officer_robert_salas_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1leitre/former_us_air_force_officer_robert_salas_who/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>who claims to...Former US Air Force officer Robert Salas - who claims to have seen UFOs disable 10 warheads at a base - said it was &#x27;not...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1leitre/former_us_air_force_officer_robert_salas_who/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1leitre/former_us_air_force_officer_robert_salas_who/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>who claims to...Former US Air Force officer Robert Salas - who claims to have seen UFOs disable 10 warheads at a base - said it was &#x27;not...</p></details>

@@ -280,256 +280,256 @@ image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_rob
 
 ## Introduction
 
-The 1953 [Robertson]({{ 'robertson/' | relative_url }}) Panel occupies a pivotal place in the history of UFO policy because it reframed the question officials believed they needed to answer. Rather than asking whether UFO reports proved extraterrestrial visitors, the panel focused on whether the phenomenon created a national-security problem. Its answer was narrow but influential: the available evidence did not demonstrate a direct threat from the reported objects themselves, yet the growing volume of reports, public excitement and potential for confusion could create security risks in their own right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The 1953 [Robertson]({{ 'robertson/' | relative_url }}) Panel occupies a pivotal place in the history of UFO policy because it reframed the question officials believed they needed to answer. Rather than asking whether UFO reports proved extraterrestrial visitors, the panel focused on whether the phenomenon created a national-security problem. Its answer was narrow but influential: the available evidence did not demonstrate a direct threat from the reported objects themselves, yet the growing volume of reports, public excitement and potential for confusion could create security risks in their own right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-1-dark.svg" | relative_url }}" alt="Robertson Panel illustration 1" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction became especially important in later debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}). Witnesses at sensitive military facilities often argued that unusual incidents deserved deeper attention. The Robertson Panel's logic, however, established an evidentiary framework in which unexplained sightings were not automatically treated as hostile or extraordinary threats. Understanding that framework helps explain why official conclusions and witness concerns frequently diverged during the Cold War and afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+This distinction became especially important in later debates about [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapons/' | relative_url }}). Witnesses at sensitive military facilities often argued that unusual incidents deserved deeper attention. The Robertson Panel's logic, however, established an evidentiary framework in which unexplained sightings were not automatically treated as hostile or extraordinary threats. Understanding that framework helps explain why official conclusions and witness concerns frequently diverged during the Cold War and afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IDM90oTE2Fw" title="The Full Dr. J. Allen Hynek Interview | The Robertson Panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IDM90oTE2Fw" target="_blank" rel="noopener noreferrer">The Full Dr. J. Allen Hynek Interview | The Robertson Panel</a></p><p class="youtube-embed-meta">Channel: UAP Files Podcast 🛸 &middot; Views: 1.2K &middot; Uploaded: January 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IDM90oTE2Fw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IDM90oTE2Fw">Open on YouTube</a></p></div></div></div>
 
 ## What the panel was asked to judge
 
-The Robertson Panel was convened by the Central Intelligence Agency in January 1953 after a surge of UFO reports, including the highly publicised Washington, D.C. sightings of 1952. Intelligence officials were concerned enough to seek scientific review, but their concern was broader than the possibility of alien craft. They wanted to know whether the reports represented a genuine defence threat, a foreign technological development, or a problem for military warning systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The Robertson Panel was convened by the Central Intelligence Agency in January 1953 after a surge of UFO reports, including the highly publicised Washington, D.C. sightings of 1952. Intelligence officials were concerned enough to seek scientific review, but their concern was broader than the possibility of alien craft. They wanted to know whether the reports represented a genuine defence threat, a foreign technological development, or a problem for military warning systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-After reviewing selected Air Force cases and intelligence briefings, the panel concluded unanimously that it found no evidence of a direct threat to national security in the reported objects. It also rejected the idea that the cases reviewed demonstrated extraterrestrial technology. Importantly, the panel did not claim that every sighting had been explained; rather, it judged that the available evidence did not justify extraordinary conclusions. Raw reports, eyewitness testimony and [unresolved]({{ 'unresolved/' | relative_url }}) cases were not considered sufficient proof of a hostile or non-human presence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+After reviewing selected Air Force cases and intelligence briefings, the panel concluded unanimously that it found no evidence of a direct threat to national security in the reported objects. It also rejected the idea that the cases reviewed demonstrated extraterrestrial technology. Importantly, the panel did not claim that every sighting had been explained; rather, it judged that the available evidence did not justify extraordinary conclusions. Raw reports, eyewitness testimony and [unresolved]({{ 'unresolved/' | relative_url }}) cases were not considered sufficient proof of a hostile or non-human presence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-This approach created a high evidentiary threshold. For officials, an [unidentified]({{ 'unidentified/' | relative_url }}) sighting remained merely unidentified unless corroborated by stronger technical evidence. That standard later shaped how military institutions evaluated reports associated with strategic facilities, including nuclear sites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+This approach created a high evidentiary threshold. For officials, an [unidentified]({{ 'unidentified/' | relative_url }}) sighting remained merely unidentified unless corroborated by stronger technical evidence. That standard later shaped how military institutions evaluated reports associated with strategic facilities, including nuclear sites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J8wEpSNLGIU" title="The Robertson Panel: The CIA&#x27;s Secret 1953 Masterplan to Debunk UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J8wEpSNLGIU" target="_blank" rel="noopener noreferrer">The Robertson Panel: The CIA&#x27;s Secret 1953 Masterplan to Debunk UFOs</a></p><p class="youtube-embed-meta">Channel: The Future Past</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J8wEpSNLGIU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J8wEpSNLGIU">Open on YouTube</a></p></div></div></div>
 
 ## Why public alarm mattered more than alien proof
 
-One of the most revealing aspects of the Robertson Panel was that it identified the public reaction to UFOs as a larger security concern than the objects themselves. The panel warned that mass [reporting]({{ 'reporting/' | relative_url }}) of unusual lights and aerial events could clog military communications and reporting networks during a genuine emergency. In Cold War conditions, distinguishing a real Soviet attack from waves of mistaken reports was considered a practical defence problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">REPORT OF MEETING OF SCIENTIFIC ADVISORY...Subjectivity of public to mass hysteria and greater vul- verability to possible enemy psyc...</span></span></span>
+One of the most revealing aspects of the Robertson Panel was that it identified the public reaction to UFOs as a larger security concern than the objects themselves. The panel warned that mass [reporting]({{ 'reporting/' | relative_url }}) of unusual lights and aerial events could clog military communications and reporting networks during a genuine emergency. In Cold War conditions, distinguishing a real Soviet attack from waves of mistaken reports was considered a practical defence problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">REPORT OF MEETING OF SCIENTIFIC ADVISORY...Subjectivity of public to mass hysteria and greater vul- verability to possible enemy psyc...</span></span></span>
 
 The panel specifically highlighted three indirect dangers:
 
 * [Misidentification]({{ 'misidentification/' | relative_url }}) of actual enemy aircraft or weapons.
 * Overloading reporting and warning channels with false or mistaken information.
-* Public susceptibility to mass hysteria or psychological warfare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">REPORT OF MEETING OF SCIENTIFIC ADVISORY...Subjectivity of public to mass hysteria and greater vul- verability to possible enemy psyc...</span></span></span>
+* Public susceptibility to mass hysteria or psychological warfare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">REPORT OF MEETING OF SCIENTIFIC ADVISORY...Subjectivity of public to mass hysteria and greater vul- verability to possible enemy psyc...</span></span></span>
 
-This logic reflected the strategic anxieties of the early Cold War. Intelligence officials worried that an adversary might exploit widespread UFO interest to create confusion, panic or reporting overload. In that framework, the key threat was not necessarily an unknown craft in the sky but the possibility that the phenomenon could interfere with air-defence decision-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[FAS Project on Government Secrecy+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">ciaufo</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the my...</span></span></span>
+This logic reflected the strategic anxieties of the early Cold War. Intelligence officials worried that an adversary might exploit widespread UFO interest to create confusion, panic or reporting overload. In that framework, the key threat was not necessarily an unknown craft in the sky but the possibility that the phenomenon could interfere with air-defence decision-making.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[FAS Project on Government Secrecy+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">ciaufo</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the my...</span></span></span>
 
-As a result, the panel recommended a public education effort designed to reduce the aura of mystery surrounding UFO reports. The goal was not simply scientific clarification. It was also to lower public alarm, improve identification skills and decrease the volume of reports entering security channels. Recommendations included using mass media and educational outreach to explain common misidentifications and encourage a more sceptical public response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+As a result, the panel recommended a public education effort designed to reduce the aura of mystery surrounding UFO reports. The goal was not simply scientific clarification. It was also to lower public alarm, improve identification skills and decrease the volume of reports entering security channels. Recommendations included using mass media and educational outreach to explain common misidentifications and encourage a more sceptical public response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-2-dark.svg" | relative_url }}" alt="Robertson Panel illustration 2" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the panel's logic shaped later nuclear-UFO debates
 
-The Robertson Panel's influence extended far beyond its brief meetings in 1953. Its conclusions helped establish a policy culture in which unexplained sightings were treated primarily as an intelligence and reporting problem rather than evidence of a novel external threat. Subsequent investigations often began from the assumption that a report required substantial [corroboration]({{ 'corroboration/' | relative_url }}) before it could justify security conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The Robertson Panel's influence extended far beyond its brief meetings in 1953. Its conclusions helped establish a policy culture in which unexplained sightings were treated primarily as an intelligence and reporting problem rather than evidence of a novel external threat. Subsequent investigations often began from the assumption that a report required substantial [corroboration]({{ 'corroboration/' | relative_url }}) before it could justify security conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-This became significant in later controversies involving nuclear installations. Witnesses sometimes described unusual aerial objects near [missile fields]({{ 'missile-fields/' | relative_url }}), weapons depots or strategic bases. Many believed the events demonstrated an unknown capability operating around sensitive military assets. Official reviews, however, generally applied the Robertson Panel's evidentiary logic: unusual observations alone did not establish causation, hostile intent or technological superiority. A missile malfunction and a UFO report occurring in the same period were not considered proof that one caused the other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+This became significant in later controversies involving nuclear installations. Witnesses sometimes described unusual aerial objects near [missile fields]({{ 'missile-fields/' | relative_url }}), weapons depots or strategic bases. Many believed the events demonstrated an unknown capability operating around sensitive military assets. Official reviews, however, generally applied the Robertson Panel's evidentiary logic: unusual observations alone did not establish causation, hostile intent or technological superiority. A missile malfunction and a UFO report occurring in the same period were not considered proof that one caused the other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 The result was a recurring disagreement between two different standards of judgement:
 
 * **Witness-centred reasoning:** Credible military personnel reported extraordinary events near strategic systems, so the reports deserved serious security consideration.
-* **Institutional threat reasoning:** Credibility of witnesses was important, but conclusions about threats required independent technical evidence, repeatable data and demonstrated causal links. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+* **Institutional threat reasoning:** Credibility of witnesses was important, but conclusions about threats required independent technical evidence, repeatable data and demonstrated causal links.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-Because the Robertson Panel had already defined the central issue as one of evidence and security management rather than alien visitation, later official investigations often evaluated nuclear-UFO claims through that same lens. The question became not whether something unusual had been observed, but whether the available evidence proved a threat that military planners could reliably act upon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+Because the Robertson Panel had already defined the central issue as one of evidence and security management rather than alien visitation, later official investigations often evaluated nuclear-UFO claims through that same lens. The question became not whether something unusual had been observed, but whether the available evidence proved a threat that military planners could reliably act upon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xuTgayiSdns" title="The CIA Cover-Up of the “UFO Problem” During the Cold War" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xuTgayiSdns" target="_blank" rel="noopener noreferrer">The CIA Cover-Up of the “UFO Problem” During the Cold War</a></p><p class="youtube-embed-meta">Channel: THE ULYSSES FILES</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xuTgayiSdns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xuTgayiSdns">Open on YouTube</a></p></div></div></div>
 
 ## Why the Robertson Panel remains controversial
 
-The panel remains controversial because supporters and critics focus on different parts of its legacy. Supporters argue that it applied scientific scepticism during a period of intense public speculation and helped prevent defence systems from being distracted by unreliable reports. Critics argue that its emphasis on debunking and reducing public interest encouraged a culture of dismissal that discouraged serious investigation of difficult cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+The panel remains controversial because supporters and critics focus on different parts of its legacy. Supporters argue that it applied scientific scepticism during a period of intense public speculation and helped prevent defence systems from being distracted by unreliable reports. Critics argue that its emphasis on debunking and reducing public interest encouraged a culture of dismissal that discouraged serious investigation of difficult cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-For the specific debate over UFOs and nuclear weapons, the panel's lasting importance lies less in any particular sighting than in the framework it established. It separated the existence of unexplained reports from the conclusion that those reports represented a proven hostile, extraterrestrial or strategically significant threat. That distinction became a defining feature of official UFO assessments for decades and remains central to understanding why government conclusions often differed from witness interpretations of events around nuclear facilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
+For the specific debate over UFOs and nuclear weapons, the panel's lasting importance lies less in any particular sighting than in the framework it established. It separated the existence of unexplained reports from the conclusion that those reports represented a proven hostile, extraterrestrial or strategically significant threat. That distinction became a defining feature of official UFO assessments for decades and remains central to understanding why government conclusions often differed from witness interpretations of events around nuclear facilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
 
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-3-dark.svg" | relative_url }}" alt="Robertson Panel illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Robertson Panel narrowed UFO threat claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Robertson Panel narrowed UFO threat claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how official approaches shaped later debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official approaches shaped later debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines official and unofficial interpretations of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official and unofficial interpretations of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides direct Cold War context around official policy development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides direct Cold War context around official policy development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Shows the long-term influence of threat-assessment frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the long-term influence of threat-assessment frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="robertson-panel-why-the-robertson-panel-narrowed-ufo-threat-claims-ufos-and-nuclear-weapons-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ For the specific debate over UFOs and nuclear weapons, the panel's lasting impor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ For the specific debate over UFOs and nuclear weapons, the panel's lasting impor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ For the specific debate over UFOs and nuclear weapons, the panel's lasting impor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ For the specific debate over UFOs and nuclear weapons, the panel's lasting impor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ For the specific debate over UFOs and nuclear weapons, the panel's lasting impor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,110 +735,110 @@ For the specific debate over UFOs and nuclear weapons, the panel's lasting impor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF MEETING OF SCIENTIFIC ADVISORY...Subjectivity of public to mass hysteria and greater vul- verability to possible enemy psyc...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF MEETING OF SCIENTIFIC ADVISORY...Subjectivity of public to mass hysteria and greater vul- verability to possible enemy psyc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the my...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the my...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n solving this problem of signal identification before service...Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n solving this problem of signal identification before service...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
    Title: DOC 0005516124  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED...This report was prepared by a panel convened in January. 1953 at the direction of the f...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF THE SCIENTIFIC PANEL ON UNIDENTIFIED...This report was prepared by a panel convened in January. 1953 at the direction of the f...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: cias role in the study of ufos 194790 by gerald k  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;S ROLE IN THE STUDY OF UFO&#x27;S, 1947-90, BY...The group believed that the Soviets could use UFO reports to touch off mass hysteria and...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;S ROLE IN THE STUDY OF UFO&#x27;S, 1947-90, BY...The group believed that the Soviets could use UFO reports to touch off mass hysteria and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/articles/ufo-sightings-cia-robertson-condon" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-cia-robertson-condon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the CIA Tried to Quell UFO Panic During the Cold WarJan 6, 2020 — The Robertson panel met for a few days in January 1953 to re...</p></details>
+   Link:<a href="https://www.history.com/articles/ufo-sightings-cia-robertson-condon" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-cia-robertson-condon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the CIA Tried to Quell UFO Panic During the Cold WarJan 6, 2020 — The Robertson panel met for a few days in January 1953 to re...</p></details>
    Published: January 1953  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
    Title: how ufo sightings became an american obsession  
-   Link: <a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
+   Link:<a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1k6hdsj/the_robertson_panel_was_a_committee_established/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1k6hdsj/the_robertson_panel_was_a_committee_established/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>owever, in the U.S., they had a marked impact on the public...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1k6hdsj/the_robertson_panel_was_a_committee_established/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1k6hdsj/the_robertson_panel_was_a_committee_established/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>owever, in the U.S., they had a marked impact on the public...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>light 1ntensi&#x27;t7 ot...Read more...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>light 1ntensi&#x27;t7 ot...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: writebrightstation.com  
-   Link: <a href="https://writebrightstation.com/wp-content/plugins/wonderplugin-pdf-embed/pdfjslight/web/viewer.html?disabledoc=1&amp;disabledownload=1&amp;disabletext=1&amp;file=https%3A%2F%2Fwritebrightstation.com%2Fwp-content%2Fuploads%2F2023%2F06%2FUFOs.pdf&amp;v=2" target="_blank" rel="noopener noreferrer nofollow">https://writebrightstation.com/wp-content/plugins/wonderplugin-pdf-embed/pdfjslight/web/viewer.html?disabledoc=1&amp;disabledownload=1&amp;disabletext=1&amp;file=https%3A%2F%2Fwritebrightstation.com%2Fwp-content%2Fuploads%2F2023%2F06%2FUFOs.pdf&amp;v=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings have been reported throughout history in many parts of the world. It makes people wonder if extraterrestrials have ever visited...</p></details>
+   Link:<a href="https://writebrightstation.com/wp-content/plugins/wonderplugin-pdf-embed/pdfjslight/web/viewer.html?disabledoc=1&amp;disabledownload=1&amp;disabletext=1&amp;file=https%3A%2F%2Fwritebrightstation.com%2Fwp-content%2Fuploads%2F2023%2F06%2FUFOs.pdf&amp;v=2" target="_blank" rel="noopener noreferrer nofollow">https://writebrightstation.com/wp-content/plugins/wonderplugin-pdf-embed/pdfjslight/web/viewer.html?disabledoc=1&amp;disabledownload=1&amp;disabletext=1&amp;file=https%3A%2F%2Fwritebrightstation.com%2Fwp-content%2Fuploads%2F2023%2F06%2FUFOs.pdf&amp;v=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings have been reported throughout history in many parts of the world. It makes people wonder if extraterrestrials have ever visited...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: espace.library.uq.edu.au  
-   Link: <a href="https://espace.library.uq.edu.au/view/UQ%3A144778/UQ144778_OA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://espace.library.uq.edu.au/view/UQ%3A144778/UQ144778_OA.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UQ eSpaceMaking It Unpopular:by A Dodd · Cited by 6 — The general aim of the Robertson Panel&#x27;s recommendations, then, was to not only sto...</p></details>
+   Link:<a href="https://espace.library.uq.edu.au/view/UQ%3A144778/UQ144778_OA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://espace.library.uq.edu.au/view/UQ%3A144778/UQ144778_OA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UQ eSpaceMaking It Unpopular:by A Dodd · Cited by 6 — The general aim of the Robertson Panel&#x27;s recommendations, then, was to not only sto...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xuTgayiSdns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xuTgayiSdns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Cover-Up of the “UFO Problem” During the Cold WarThe CIA Cover-Up of the “UFO Problem” During the Cold War... Schoolyard witness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xuTgayiSdns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xuTgayiSdns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Cover-Up of the “UFO Problem” During the Cold WarThe CIA Cover-Up of the “UFO Problem” During the Cold War... Schoolyard witness...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the Historical Record of US Government...10 May 2024 — Results: The committee&#x27;s report stated that UFOs did not thre...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on the Historical Record of US Government...10 May 2024 — Results: The committee&#x27;s report stated that UFOs did not thre...</p></details>
    Published: May 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/question/How-have-governments-and-scientists-investigated-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/How-have-governments-and-scientists-investigated-UFO-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first widely publicized UFO sighting occurred in 1947, when...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/question/How-have-governments-and-scientists-investigated-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/How-have-governments-and-scientists-investigated-UFO-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first widely publicized UFO sighting occurred in 1947, when...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372849804_UFO_Sagas_and_Legends_from_Trinity_July_1945_Until_the_Robertson_Panel_January_1953" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372849804_UFO_Sagas_and_Legends_from_Trinity_July_1945_Until_the_Robertson_Panel_January_1953</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 2023. DOI:10.1007/978-3-031-34398-8_2. In book: UFOs (pp.15-38)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/372849804_UFO_Sagas_and_Legends_from_Trinity_July_1945_Until_the_Robertson_Panel_January_1953" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372849804_UFO_Sagas_and_Legends_from_Trinity_July_1945_Until_the_Robertson_Panel_January_1953</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 2023. DOI:10.1007/978-3-031-34398-8_2. In book: UFOs (pp.15-38)...</p></details>
    Published: July 1945  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vetshistoryproject/posts/its-a-bird-its-a-plane-its-dyk-that-from-1952-1970-the-united-states-air-force-l/2319143141485192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vetshistoryproject/posts/its-a-bird-its-a-plane-its-dyk-that-from-1952-1970-the-united-states-air-force-l/2319143141485192/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>obertson Panel, which recommended that UFOs needed debunking.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/vetshistoryproject/posts/its-a-bird-its-a-plane-its-dyk-that-from-1952-1970-the-united-states-air-force-l/2319143141485192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vetshistoryproject/posts/its-a-bird-its-a-plane-its-dyk-that-from-1952-1970-the-united-states-air-force-l/2319143141485192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>obertson Panel, which recommended that UFOs needed debunking.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bleedingheartland.com  
    Title: notes on 75 years of flying saucers  
-   Link: <a href="https://www.bleedingheartland.com/2022/06/18/notes-on-75-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.bleedingheartland.com/2022/06/18/notes-on-75-years-of-flying-saucers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jun 2022 — CIA representatives at panel meetings voiced concern that panic or other public reactions to flying saucer reports might se...</p></details>
+   Link:<a href="https://www.bleedingheartland.com/2022/06/18/notes-on-75-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.bleedingheartland.com/2022/06/18/notes-on-75-years-of-flying-saucers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jun 2022 — CIA representatives at panel meetings voiced concern that panic or other public reactions to flying saucer reports might se...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: File:Robertson panel report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARobertson_panel_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARobertson_panel_report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Robertson panel report.pdfEnglish: Robertson panel report. Date, 1...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3ARobertson_panel_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARobertson_panel_report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Robertson panel report.pdfEnglish: Robertson panel report. Date, 1...</p></details>
 
 9
 
@@ -847,7 +847,7 @@ For the specific debate over UFOs and nuclear weapons, the panel's lasting impor
 3. Source, [https://documents.theblackvault.com/docu](https://documents.theblackvault.com/docu)
 
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=J8wEpSNLGIU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=J8wEpSNLGIU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 7: The Robertson Panel | Chadwell, the CIA, and the Four Days That Classified UFOs for Sixteen Years...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=J8wEpSNLGIU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=J8wEpSNLGIU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 7: The Robertson Panel | Chadwell, the CIA, and the Four Days That Classified UFOs for Sixteen Years...</p></details>
