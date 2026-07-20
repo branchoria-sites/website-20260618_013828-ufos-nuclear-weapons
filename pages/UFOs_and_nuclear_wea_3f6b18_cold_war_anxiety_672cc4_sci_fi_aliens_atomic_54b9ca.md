@@ -509,89 +509,89 @@ By presenting radiation, atomic weapons and flying saucers within the same imagi
 <img src="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca-Illustration-3-dark.svg" | relative_url }}" alt="Sci Fi Links illustration 3" data-theme-src-dark="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_sci_fi_aliens_atomic_54b9ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How aliens learned to fear the bomb. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How aliens learned to fear the bomb. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Childhood’s End on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/210200-M.jpg" alt="Cover for Childhood’s End" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Childhood’s End">Childhood’s End</a>
-</h4>
-<p class="fr-book-author">By Arthur C. Clarke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astounding+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astounding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8786049-M.jpg" alt="Cover for Astounding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Astounding+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astounding">Astounding</a>
+        </h4>
+        <p class="fr-book-author">By Alec Nevala-Lee, Sean Runnette</p>
         
-<p class="fr-book-desc">First published 1952. Subjects: Human-alien encounters, Fiction, Science fiction, Long Now Manual for Civilization, Human evolution.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for how mid-century speculative ideas influenced UFO culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Astounding+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction+George+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mammoth encyclopedia of science fiction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8690481-M.jpg" alt="Cover for The mammoth encyclopedia of science fiction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction+George+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth encyclopedia of science fiction">The mammoth encyclopedia of science fiction</a>
-</h4>
-<p class="fr-book-author">By George Mann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Childhood’s End on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/210200-M.jpg" alt="Cover for Childhood’s End" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Childhood’s End">Childhood’s End</a>
+        </h4>
+        <p class="fr-book-author">By Arthur C. Clarke</p>
         
-<p class="fr-book-desc">First published 2001. Subjects: literature, Catalogs, Encyclopedias, Reference, Mammoth Books.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction+George+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Represents influential post-war alien-contact themes that informed public expectations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day the Earth Stood Still &amp; Other Sf Classics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10531222-M.jpg" alt="Cover for The Day the Earth Stood Still &amp; Other Sf Classics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day the Earth Stood Still &amp; Other Sf Classics">The Day the Earth Stood Still &amp; Other Sf Classics</a>
-</h4>
-<p class="fr-book-author">By Harry Bates</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction+George+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mammoth encyclopedia of science fiction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8690481-M.jpg" alt="Cover for The mammoth encyclopedia of science fiction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction+George+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth encyclopedia of science fiction">The mammoth encyclopedia of science fiction</a>
+        </h4>
+        <p class="fr-book-author">By George Mann</p>
         
-<p class="fr-book-desc">First published 2008.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers major atomic-age and alien-invasion themes that shaped public imagination.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction+George+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astounding+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astounding on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8786049-M.jpg" alt="Cover for Astounding" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Astounding+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astounding">Astounding</a>
-</h4>
-<p class="fr-book-author">By Alec Nevala-Lee, Sean Runnette</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Day the Earth Stood Still &amp; Other Sf Classics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10531222-M.jpg" alt="Cover for The Day the Earth Stood Still &amp; Other Sf Classics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day the Earth Stood Still &amp; Other Sf Classics">The Day the Earth Stood Still &amp; Other Sf Classics</a>
+        </h4>
+        <p class="fr-book-author">By Harry Bates</p>
         
-<p class="fr-book-desc">First published 2018. Subjects: Science fiction, History and criticism, Science fiction, history and criticism, American Science fiction,...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Astounding+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2008.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Childhood’s End</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mammoth encyclopedia of science fiction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still &amp; Other Sf Classics</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Astounding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astounding</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Childhood’s End</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The mammoth encyclopedia of science fiction</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
