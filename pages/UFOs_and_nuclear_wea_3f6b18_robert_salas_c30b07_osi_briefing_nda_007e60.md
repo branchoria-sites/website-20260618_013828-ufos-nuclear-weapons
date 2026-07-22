@@ -421,16 +421,16 @@ As a result, the claim occupies an intermediate position. It is neither conclusi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs for the 21st Century Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs for the 21st Century Mind">UFOs for the 21st Century Mind</a>
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
         </h4>
-        <p class="fr-book-author">By Mr. Richard Dolan</p>
+        <p class="fr-book-author">By Leslie Kean</p>
 
-        <p class="fr-book-desc">Provides broader context on military reports, intelligence issues, witness testimony, and claims of official secrecy that frame the Salas...</p>
+        <p class="fr-book-desc">Directly addresses military witness testimony, government handling of UFO reports, and credibility questions surrounding secrecy claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+for+the+21st+Century+Mind+Mr.+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
