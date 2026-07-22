@@ -368,7 +368,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
 <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
 </h4>
 <p class="fr-book-author">By Michael J. Boyle</p>
-        
+
 <p class="fr-book-desc">Examines legal and governmental responses to drone threats.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Drone+Age+by+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
 <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
 </h4>
 <p class="fr-book-author">By Medea Benjamin</p>
-        
+
 <p class="fr-book-desc">Discusses policy and authority questions surrounding drones.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
 <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
 </h4>
 <p class="fr-book-author">By Peter Hennessy</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Geschichte 1940-1970, Military planning, Nuclear weapons, Cold War, Kernoorlog.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ This dynamic feeds uncertainty. A sighting can begin as a straightforward securi
 <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age Lib/E">The Drone Age Lib/E</a>
 </h4>
 <p class="fr-book-author">By Michael J Boyle, Mike Lenz</p>
-        
+
 <p class="fr-book-desc">First published 2020.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

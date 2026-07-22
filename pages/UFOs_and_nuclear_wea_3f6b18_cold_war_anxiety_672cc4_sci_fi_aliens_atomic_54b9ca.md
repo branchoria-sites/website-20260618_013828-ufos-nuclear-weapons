@@ -526,7 +526,7 @@ By presenting radiation, atomic weapons and flying saucers within the same imagi
           <a href="https://www.amazon.com/s?k=Astounding+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astounding">Astounding</a>
         </h4>
         <p class="fr-book-author">By Alec Nevala-Lee, Sean Runnette</p>
-        
+
         <p class="fr-book-desc">Provides context for how mid-century speculative ideas influenced UFO culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Astounding+Alec+Nevala-Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -543,7 +543,7 @@ By presenting radiation, atomic weapons and flying saucers within the same imagi
           <a href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Childhood’s End">Childhood’s End</a>
         </h4>
         <p class="fr-book-author">By Arthur C. Clarke</p>
-        
+
         <p class="fr-book-desc">Represents influential post-war alien-contact themes that informed public expectations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Childhood%E2%80%99s+End+Arthur+C.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -560,7 +560,7 @@ By presenting radiation, atomic weapons and flying saucers within the same imagi
           <a href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction+George+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mammoth encyclopedia of science fiction">The mammoth encyclopedia of science fiction</a>
         </h4>
         <p class="fr-book-author">By George Mann</p>
-        
+
         <p class="fr-book-desc">Covers major atomic-age and alien-invasion themes that shaped public imagination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+mammoth+encyclopedia+of+science+fiction+George+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -577,7 +577,7 @@ By presenting radiation, atomic weapons and flying saucers within the same imagi
           <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Day the Earth Stood Still &amp; Other Sf Classics">The Day the Earth Stood Still &amp; Other Sf Classics</a>
         </h4>
         <p class="fr-book-author">By Harry Bates</p>
-        
+
         <p class="fr-book-desc">First published 2008.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Day+the+Earth+Stood+Still+%26+Other+Sf+Classics+Harry+Bates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

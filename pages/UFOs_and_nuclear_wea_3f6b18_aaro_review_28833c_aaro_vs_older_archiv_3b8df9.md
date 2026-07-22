@@ -383,7 +383,7 @@ As a result, many nuclear-related UFO cases occupy an unusual middle ground. The
           <a href="https://www.amazon.co.uk/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
         </h4>
         <p class="fr-book-author">By Ross Coulthart</p>
-        
+
         <p class="fr-book-desc">Examines contemporary evidence standards, whistleblower claims, and official reviews relevant to understanding AARO&#x27;s approach.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ As a result, many nuclear-related UFO cases occupy an unusual middle ground. The
           <a href="https://www.amazon.co.uk/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs &amp; Nukes">UFOs &amp; Nukes</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Directly covers the witness archives, missile-base cases, and evidentiary claims that AARO re-evaluated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=UFOs+%26+Nukes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ As a result, many nuclear-related UFO cases occupy an unusual middle ground. The
           <a href="https://www.amazon.co.uk/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Provides historical context for how UFO cases were cataloged and assessed before modern evidence-audit frameworks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ As a result, many nuclear-related UFO cases occupy an unusual middle ground. The
           <a href="https://www.amazon.co.uk/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
+
         <p class="fr-book-desc">Focuses on documented cases, government records, and witness testimony, mirroring the archive-versus-evidence debate central to AARO.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.co.uk/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -405,7 +405,7 @@ The key distinction is between evidence that a story circulated and evidence tha
 <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
 </h4>
 <p class="fr-book-author">By Dr Julia Shaw</p>
-        
+
 <p class="fr-book-desc">Directly addresses memory distortion through social influence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The key distinction is between evidence that a story circulated and evidence tha
 <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
 </h4>
 <p class="fr-book-author">By Malcolm Gladwell</p>
-        
+
 <p class="fr-book-desc">Explores communication failures and interpretation of evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ The key distinction is between evidence that a story circulated and evidence tha
 <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
 </h4>
 <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
-        
+
 <p class="fr-book-desc">Highly relevant to retelling and memory contamination.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ The key distinction is between evidence that a story circulated and evidence tha
 <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Watch the Skies!">Watch the Skies!</a>
 </h4>
 <p class="fr-book-author">By Curtis Peebles</p>
-        
+
 <p class="fr-book-desc">Shows how stories evolve into folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Watch+the+Skies%21+by+Curtis+Peebles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

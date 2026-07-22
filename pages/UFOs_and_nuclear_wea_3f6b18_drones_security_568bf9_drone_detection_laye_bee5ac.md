@@ -381,7 +381,7 @@ For security professionals, however, the primary challenge is not solving a myst
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
         </h4>
         <p class="fr-book-author">By Michael J. Boyle</p>
-        
+
         <p class="fr-book-desc">Covers the operational realities of drones and counter-drone challenges.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For security professionals, however, the primary challenge is not solving a myst
           <a href="https://www.amazon.com/s?k=Introduction+to+UAV+Systems+Paul+G.+Fahlstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to UAV Systems">Introduction to UAV Systems</a>
         </h4>
         <p class="fr-book-author">By Paul G. Fahlstrom, Thomas J. Gleason</p>
-        
+
         <p class="fr-book-desc">Explains drone design factors affecting detection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+UAV+Systems+Paul+G.+Fahlstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For security professionals, however, the primary challenge is not solving a myst
           <a href="https://www.amazon.com/s?k=Eyes+in+the+Sky+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyes in the Sky">Eyes in the Sky</a>
         </h4>
         <p class="fr-book-author">By Arthur Holland Michel, L.J. Ganser</p>
-        
+
         <p class="fr-book-desc">Discusses surveillance systems and sensing technologies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Eyes+in+the+Sky+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ For security professionals, however, the primary challenge is not solving a myst
           <a href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
         </h4>
         <p class="fr-book-author">By Medea Benjamin</p>
-        
+
         <p class="fr-book-desc">Provides broader understanding of drone operations and limitations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

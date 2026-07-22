@@ -390,7 +390,7 @@ For students of nuclear-security scares, the enduring lesson is straightforward.
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
         </h4>
         <p class="fr-book-author">By Michael J. Boyle</p>
-        
+
         <p class="fr-book-desc">Addresses strategic implications of unexplained drone activity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For students of nuclear-security scares, the enduring lesson is straightforward.
           <a href="https://www.amazon.com/s?k=Eyes+in+the+Sky+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyes in the Sky">Eyes in the Sky</a>
         </h4>
         <p class="fr-book-author">By Arthur Holland Michel, L.J. Ganser</p>
-        
+
         <p class="fr-book-desc">Explains surveillance and attribution challenges.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Eyes+in+the+Sky+Arthur+Holland+Michel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ For students of nuclear-security scares, the enduring lesson is straightforward.
           <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret state">The secret state</a>
         </h4>
         <p class="fr-book-author">By Peter Hennessy</p>
-        
+
         <p class="fr-book-desc">Useful for understanding state responses to security incidents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+secret+state+Peter+Hennessy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ For students of nuclear-security scares, the enduring lesson is straightforward.
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age Lib/E">The Drone Age Lib/E</a>
         </h4>
         <p class="fr-book-author">By Michael J Boyle, Mike Lenz</p>
-        
+
         <p class="fr-book-desc">First published 2020.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

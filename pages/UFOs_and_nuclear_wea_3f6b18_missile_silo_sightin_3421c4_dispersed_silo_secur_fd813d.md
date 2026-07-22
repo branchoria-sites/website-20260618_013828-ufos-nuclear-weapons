@@ -389,7 +389,7 @@ For discussions of UFO reports near nuclear installations, this distinction is i
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
         </h4>
         <p class="fr-book-author">By Eric Schlosser</p>
-        
+
         <p class="fr-book-desc">Explains missile fields, silo operations and security realities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ For discussions of UFO reports near nuclear installations, this distinction is i
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides useful context for military operations and remote facilities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ For discussions of UFO reports near nuclear installations, this distinction is i
           <a href="https://www.amazon.com/s?k=The+Dead+Hand+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Hand">The Dead Hand</a>
         </h4>
         <p class="fr-book-author">By David Hoffman</p>
-        
+
         <p class="fr-book-desc">Explains nuclear-force survivability and security concerns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dead+Hand+David+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ For discussions of UFO reports near nuclear installations, this distinction is i
           <a href="https://www.amazon.com/s?k=Raven+Rock+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raven Rock">Raven Rock</a>
         </h4>
         <p class="fr-book-author">By Garrett M. Graff</p>
-        
+
         <p class="fr-book-desc">Provides context for dispersed strategic facilities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Raven+Rock+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
