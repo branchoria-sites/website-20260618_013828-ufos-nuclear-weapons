@@ -3985,6 +3985,93 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">The books behind the reports on this site — nuclear-ufos.branchoria.com — extraordinary encounters at nuclear weapons sites and the Cold War radar nexus. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%26+Nukes%3A+Extraordinary+Encounters+at+Nuclear+Weapons+Sites+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs &amp; Nukes: Extraordinary Encounters at Nuclear Weapons Sites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11984946-M.jpg" alt="Cover for UFOs &amp; Nukes: Extraordinary Encounters at Nuclear Weapons Sites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=UFOs+%26+Nukes%3A+Extraordinary+Encounters+at+Nuclear+Weapons+Sites+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs &amp; Nukes: Extraordinary Encounters at Nuclear Weapons Sites">UFOs &amp; Nukes: Extraordinary Encounters at Nuclear Weapons Sites</a>
+            </h4>
+            <p class="fr-book-author">By Robert Lambert Hastings</p>
+
+            <p class="fr-book-desc">Frequently discusses records, logs, and military documentation.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=UFOs+%26+Nukes%3A+Extraordinary+Encounters+at+Nuclear+Weapons+Sites+Robert+Lambert+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs: Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+            </h4>
+            <p class="fr-book-author">By Leslie Kean</p>
+
+            <p class="fr-book-desc">Emphasizes documentary support and corroboration.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+            </h4>
+            <p class="fr-book-author">By Ross Coulthart</p>
+
+            <p class="fr-book-desc">Useful for understanding how complex military stories evolve over time.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    <article class="fr-book-card">
+          <a class="fr-book-cover" href="https://www.amazon.com/s?k=Left+at+East+Gate+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Left at East Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fyP0wAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Left at East Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+          <div class="fr-book-info">
+            <h4 class="fr-book-title">
+              <a href="https://www.amazon.com/s?k=Left+at+East+Gate+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left at East Gate">Left at East Gate</a>
+            </h4>
+            <p class="fr-book-author">By Larry Warren, Peter Robbins</p>
+
+            <p class="fr-book-desc">Discusses events across multiple locations within the twin-base area.</p>
+            <div class="fr-book-actions">
+              <a href="https://www.amazon.com/s?k=Left+at+East+Gate+Larry+Warren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+                See on Amazon
+              </a>
+            </div>
+          </div>
+        </article>
+
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=ufos+and+nukes+hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs &amp; Nukes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=cold+war+ufo+encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cold War UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=ufos+military+records&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Military records</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
+
 </div>
 </section>
 
