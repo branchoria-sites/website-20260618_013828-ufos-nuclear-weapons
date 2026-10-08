@@ -272,6 +272,7 @@ next_link:
   short_title: Jacobs vs George
   heading_title: Two witnesses, one disputed missile film
 date: '2026-06-18 00:25:24 '
+last_modified_at: '2026-06-18 00:25:24 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_classified_film_hand_ebe9be-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_classified_film_hand_ebe9be-Illustration-1.webp

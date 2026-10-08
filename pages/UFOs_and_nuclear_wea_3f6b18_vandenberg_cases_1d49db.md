@@ -482,6 +482,7 @@ next_link:
   short_title: Witnesses
   heading_title: How Much Should Military Witnesses Count?
 date: '2026-06-17 22:40:34 '
+last_modified_at: '2026-06-17 22:40:34 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db-overview.webp

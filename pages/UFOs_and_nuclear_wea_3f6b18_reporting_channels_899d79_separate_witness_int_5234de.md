@@ -260,6 +260,7 @@ prev_link:
   short_title: Four hour rule
   heading_title: Why the first four hours matter
 date: '2026-06-18 00:50:58 '
+last_modified_at: '2026-06-18 00:50:58 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_separate_witness_int_5234de-Illustration-1.webp

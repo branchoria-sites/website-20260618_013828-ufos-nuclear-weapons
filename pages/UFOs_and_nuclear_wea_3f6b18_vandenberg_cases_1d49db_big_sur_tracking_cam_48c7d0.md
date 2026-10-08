@@ -266,6 +266,7 @@ next_link:
   short_title: Buzzing Bee
   heading_title: Could decoys explain the Big Sur film?
 date: '2026-06-18 00:24:49 '
+last_modified_at: '2026-06-18 00:24:49 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_big_sur_tracking_cam_48c7d0-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_big_sur_tracking_cam_48c7d0-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Twin Bases
   heading_title: Why Twin Bases Make UFO Claims Messy
 date: '2026-06-18 01:33:04 '
+last_modified_at: '2026-06-18 01:33:04 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_storage_security_log_671c19-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_storage_security_log_671c19-Illustration-1.webp

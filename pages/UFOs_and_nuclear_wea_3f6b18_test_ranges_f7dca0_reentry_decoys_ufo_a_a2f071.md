@@ -266,6 +266,7 @@ next_link:
   short_title: Green fireballs
   heading_title: What were the Los Alamos green fireballs?
 date: '2026-06-17 23:23:44 '
+last_modified_at: '2026-06-17 23:23:44 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_reentry_decoys_ufo_a_a2f071-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_reentry_decoys_ufo_a_a2f071-Illustration-1.webp

@@ -476,6 +476,7 @@ next_link:
   short_title: Rendlesham
   heading_title: Was Rendlesham Really A Nuclear Case?
 date: '2026-06-17 22:35:23 '
+last_modified_at: '2026-06-17 22:35:23 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528-overview.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: Base Gossip
   heading_title: When Base Gossip Helps and Hurts
 date: '2026-06-17 23:34:49 '
+last_modified_at: '2026-06-17 23:34:49 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_malmstrom_affidavits_68b41e-Illustration-1.webp

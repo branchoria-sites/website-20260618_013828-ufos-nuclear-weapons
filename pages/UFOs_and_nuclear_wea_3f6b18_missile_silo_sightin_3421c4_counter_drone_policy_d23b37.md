@@ -266,6 +266,7 @@ next_link:
   short_title: Dispersed silos
   heading_title: Why Missile Fields Are So Hard to Guard
 date: '2026-06-18 01:25:45 '
+last_modified_at: '2026-06-18 01:25:45 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_counter_drone_policy_d23b37-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_counter_drone_policy_d23b37-Illustration-1.webp

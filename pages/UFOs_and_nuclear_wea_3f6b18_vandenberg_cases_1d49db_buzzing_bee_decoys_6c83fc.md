@@ -272,6 +272,7 @@ next_link:
   short_title: Film handling
   heading_title: Was the missing film evidence or routine secrecy?
 date: '2026-06-17 23:47:27 '
+last_modified_at: '2026-06-17 23:47:27 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_buzzing_bee_decoys_6c83fc-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_buzzing_bee_decoys_6c83fc-Illustration-1.webp

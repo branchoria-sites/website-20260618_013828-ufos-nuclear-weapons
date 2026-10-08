@@ -482,6 +482,7 @@ next_link:
   short_title: Ellsworth
   heading_title: Why Ellsworth Belongs In The Pattern
 date: '2026-06-17 22:31:47 '
+last_modified_at: '2026-06-17 22:31:47 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9-overview.webp

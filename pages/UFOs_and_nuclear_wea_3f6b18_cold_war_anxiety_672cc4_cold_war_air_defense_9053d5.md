@@ -444,6 +444,7 @@ next_link:
   short_title: Airspace
   heading_title: How Should Bases Handle Unknown Objects?
 date: '2026-06-18 00:21:05 '
+last_modified_at: '2026-06-18 00:21:05 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_cold_war_air_defense_9053d5-Illustration-1.webp

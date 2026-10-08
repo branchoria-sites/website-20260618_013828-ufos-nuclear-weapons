@@ -266,6 +266,7 @@ next_link:
   short_title: Rendlesham Layers
   heading_title: How Rendlesham Became a Bigger Story
 date: '2026-06-17 23:34:40 '
+last_modified_at: '2026-06-17 23:34:40 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_fabricated_ufo_brief_8b2361-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_fabricated_ufo_brief_8b2361-Illustration-1.webp

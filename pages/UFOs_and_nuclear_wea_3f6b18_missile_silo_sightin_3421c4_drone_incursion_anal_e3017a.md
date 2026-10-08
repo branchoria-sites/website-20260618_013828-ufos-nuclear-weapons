@@ -272,6 +272,7 @@ next_link:
   short_title: Malmstrom dispute
   heading_title: What Really Happened at Echo Flight?
 date: '2026-06-18 01:28:10 '
+last_modified_at: '2026-06-18 01:28:10 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_drone_incursion_anal_e3017a-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_drone_incursion_anal_e3017a-Illustration-1.webp

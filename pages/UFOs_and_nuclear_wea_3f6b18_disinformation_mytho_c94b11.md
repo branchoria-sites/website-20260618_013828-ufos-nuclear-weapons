@@ -464,6 +464,7 @@ next_link:
   short_title: Documents
   heading_title: What UFO Documents Can Actually Prove
 date: '2026-06-17 22:54:05 '
+last_modified_at: '2026-06-17 22:54:05 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11-overview.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Witness Bar
   heading_title: Why trusted witnesses are not enough
 date: '2026-06-18 01:07:05 '
+last_modified_at: '2026-06-18 01:07:05 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_robertson_panel_thre_8b53b6-Illustration-1.webp

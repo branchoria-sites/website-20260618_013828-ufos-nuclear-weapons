@@ -260,6 +260,7 @@ next_link:
   short_title: Mogul
   heading_title: When nuclear spy gear became a UFO story
 date: '2026-06-18 00:16:09 '
+last_modified_at: '2026-06-18 00:16:09 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_operation_dominic_uf_cbe90d-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_operation_dominic_uf_cbe90d-Illustration-1.webp

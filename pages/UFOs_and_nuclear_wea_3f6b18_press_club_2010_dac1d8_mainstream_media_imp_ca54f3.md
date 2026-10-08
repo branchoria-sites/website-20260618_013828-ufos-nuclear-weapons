@@ -272,6 +272,7 @@ next_link:
   short_title: Sceptics
   heading_title: Why Sceptics Pushed Back So Hard
 date: '2026-06-18 00:02:43 '
+last_modified_at: '2026-06-18 00:02:43 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_mainstream_media_imp_ca54f3-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_mainstream_media_imp_ca54f3-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Robertson Panel
   heading_title: Why the Robertson Panel narrowed UFO threat claims
 date: '2026-06-18 01:07:31 '
+last_modified_at: '2026-06-18 01:07:31 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_missing_records_clai_86d714-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_missing_records_clai_86d714-Illustration-1.webp

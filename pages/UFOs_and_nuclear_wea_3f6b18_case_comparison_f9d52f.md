@@ -482,6 +482,7 @@ next_link:
   short_title: CIA Concern
   heading_title: Could UFO reports jam a crisis response?
 date: '2026-06-17 22:27:52 '
+last_modified_at: '2026-06-17 22:27:52 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f-overview.webp

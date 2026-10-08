@@ -272,6 +272,7 @@ next_link:
   short_title: Partial Proof
   heading_title: The Evidence Gap in Nuclear UFO Files
 date: '2026-06-18 01:16:51 '
+last_modified_at: '2026-06-18 01:16:51 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_declassified_missing_9ae0c7-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_declassified_missing_9ae0c7-Illustration-1.webp

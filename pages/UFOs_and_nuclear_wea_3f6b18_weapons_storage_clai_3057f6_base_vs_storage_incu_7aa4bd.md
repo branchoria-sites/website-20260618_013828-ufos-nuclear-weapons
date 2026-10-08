@@ -272,6 +272,7 @@ next_link:
   short_title: Rendlesham Map
   heading_title: How Close Was Rendlesham to the Bomb Store?
 date: '2026-06-18 01:30:20 '
+last_modified_at: '2026-06-18 01:30:20 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_base_vs_storage_incu_7aa4bd-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_base_vs_storage_incu_7aa4bd-Illustration-1.webp

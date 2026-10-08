@@ -254,6 +254,7 @@ next_link:
   short_title: Dominic
   heading_title: Could nuclear test launches look like UFOs?
 date: '2026-06-18 00:14:15 '
+last_modified_at: '2026-06-18 00:14:15 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_area51_aircraft_myth_af5462-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_area51_aircraft_myth_af5462-Illustration-1.webp

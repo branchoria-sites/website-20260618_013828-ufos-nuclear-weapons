@@ -260,6 +260,7 @@ next_link:
   short_title: Radar Photos
   heading_title: What Can a Radarscope Photo Prove?
 date: '2026-06-17 23:14:44 '
+last_modified_at: '2026-06-17 23:14:44 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_minot_radar_test_1a6a6d-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_minot_radar_test_1a6a6d-Illustration-1.webp

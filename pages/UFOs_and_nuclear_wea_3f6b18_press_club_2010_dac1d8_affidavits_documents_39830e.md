@@ -266,6 +266,7 @@ next_link:
   short_title: Format
   heading_title: The Disclosure Playbook the Event Popularised
 date: '2026-06-18 00:01:06 '
+last_modified_at: '2026-06-18 00:01:06 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_affidavits_documents_39830e-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_affidavits_documents_39830e-Illustration-1.webp

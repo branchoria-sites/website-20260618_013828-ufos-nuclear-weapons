@@ -272,6 +272,7 @@ next_link:
   short_title: Malmstrom contrast
   heading_title: Why Malmstrom Is the Harder Benchmark
 date: '2026-06-17 23:57:32 '
+last_modified_at: '2026-06-17 23:57:32 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_bogus_ellsworth_pape_600a26-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_bogus_ellsworth_pape_600a26-Illustration-1.webp

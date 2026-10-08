@@ -272,6 +272,7 @@ next_link:
   short_title: UFO or drone
   heading_title: When is a UFO just a drone?
 date: '2026-06-17 23:56:17 '
+last_modified_at: '2026-06-17 23:56:17 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_weapons_no_drone_zon_6d9189-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_weapons_no_drone_zon_6d9189-Illustration-1.webp

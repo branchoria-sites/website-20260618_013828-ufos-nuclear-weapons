@@ -260,6 +260,7 @@ next_link:
   short_title: Stress Memory
   heading_title: When confidence makes UFO testimony risky
 date: '2026-06-18 00:44:12 '
+last_modified_at: '2026-06-18 00:44:12 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_rendlesham_witness_d_1c1efd-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_rendlesham_witness_d_1c1efd-Illustration-1.webp

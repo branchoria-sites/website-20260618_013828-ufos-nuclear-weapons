@@ -470,6 +470,7 @@ next_link:
   short_title: Silos
   heading_title: Why Missile Silo Sightings Raise Stakes
 date: '2026-06-17 22:38:55 '
+last_modified_at: '2026-06-17 22:38:55 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca-overview.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Woods account
   heading_title: What Happened at November 5?
 date: '2026-06-17 23:58:13 '
+last_modified_at: '2026-06-17 23:58:13 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_af_form1000_reportin_f2a07b-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_af_form1000_reportin_f2a07b-Illustration-1.webp

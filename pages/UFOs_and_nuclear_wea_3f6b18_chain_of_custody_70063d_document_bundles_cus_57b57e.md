@@ -248,6 +248,7 @@ next_link:
   short_title: Fault Links
   heading_title: When the incident survives but the UFO link does not
 date: '2026-06-18 00:12:34 '
+last_modified_at: '2026-06-18 00:12:34 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_document_bundles_cus_57b57e-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_document_bundles_cus_57b57e-Illustration-1.webp

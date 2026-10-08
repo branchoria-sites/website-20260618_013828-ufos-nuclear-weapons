@@ -476,6 +476,7 @@ next_link:
   short_title: Threat Claims
   heading_title: Why Official Conclusions Do Not End Debate
 date: '2026-06-17 22:20:30 '
+last_modified_at: '2026-06-17 22:20:30 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0-overview.webp

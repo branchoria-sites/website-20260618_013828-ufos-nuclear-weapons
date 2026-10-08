@@ -266,6 +266,7 @@ prev_link:
   short_title: Shutdown Claims
   heading_title: When Is a Missile Really Shut Down?
 date: '2026-06-18 00:37:17 '
+last_modified_at: '2026-06-18 00:37:17 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_witness_engineering_16c587-Illustration-1.webp

@@ -444,6 +444,7 @@ next_link:
   short_title: Secret Tests
   heading_title: When Secret Tests Look Like UFOs
 date: '2026-06-17 23:54:08 '
+last_modified_at: '2026-06-17 23:54:08 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_nuclear_secrecy_ufo_0da175-Illustration-1.webp

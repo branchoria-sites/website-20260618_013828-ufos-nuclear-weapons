@@ -272,6 +272,7 @@ next_link:
   short_title: Missing Records
   heading_title: Can absent records prove anything?
 date: '2026-06-18 01:03:55 '
+last_modified_at: '2026-06-18 01:03:55 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_condon_science_vs_te_7b5238-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_condon_science_vs_te_7b5238-Illustration-1.webp

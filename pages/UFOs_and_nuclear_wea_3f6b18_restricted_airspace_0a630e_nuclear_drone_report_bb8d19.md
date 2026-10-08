@@ -254,6 +254,7 @@ next_link:
   short_title: FAA Rules
   heading_title: Where Drones Are Barred From Sensitive Sites
 date: '2026-06-18 01:12:04 '
+last_modified_at: '2026-06-18 01:12:04 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_nuclear_drone_report_bb8d19-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_nuclear_drone_report_bb8d19-Illustration-1.webp

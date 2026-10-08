@@ -470,6 +470,7 @@ next_link:
   short_title: Blue Book
   heading_title: What Project Blue Book Actually Said
 date: '2026-06-17 22:56:32 '
+last_modified_at: '2026-06-17 22:56:32 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e-overview.webp

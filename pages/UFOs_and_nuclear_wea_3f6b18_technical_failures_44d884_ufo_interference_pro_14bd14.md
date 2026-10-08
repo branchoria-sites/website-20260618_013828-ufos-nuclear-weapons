@@ -272,6 +272,7 @@ next_link:
   short_title: Secret Tests
   heading_title: Could Secret Tests Look Like UFO Attacks?
 date: '2026-06-18 00:55:19 '
+last_modified_at: '2026-06-18 00:55:19 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_ufo_interference_pro_14bd14-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_ufo_interference_pro_14bd14-Illustration-1.webp

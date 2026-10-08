@@ -482,6 +482,7 @@ next_link:
   short_title: Failures
   heading_title: Did UFOs Cause Nuclear System Failures?
 date: '2026-06-17 22:15:41 '
+last_modified_at: '2026-06-17 22:15:41 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd-overview.webp

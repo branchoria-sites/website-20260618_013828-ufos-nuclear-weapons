@@ -266,6 +266,7 @@ next_link:
   short_title: Bogus papers
   heading_title: How Fake Papers Muddy Ellsworth
 date: '2026-06-17 23:39:55 '
+last_modified_at: '2026-06-17 23:39:55 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_situation4_security_16dfe8-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_situation4_security_16dfe8-Illustration-1.webp

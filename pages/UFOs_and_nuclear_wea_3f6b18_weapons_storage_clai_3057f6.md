@@ -482,6 +482,7 @@ next_link:
   short_title: Test Ranges
   heading_title: Why Test Ranges Generate UFO Stories
 date: '2026-06-17 23:02:28 '
+last_modified_at: '2026-06-17 23:02:28 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6-overview.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Drone analogue
   heading_title: Drones Changed the UFO and Silo Debate
 date: '2026-06-18 01:26:54 '
+last_modified_at: '2026-06-18 01:26:54 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_dispersed_silo_secur_fd813d-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_dispersed_silo_secur_fd813d-Illustration-1.webp

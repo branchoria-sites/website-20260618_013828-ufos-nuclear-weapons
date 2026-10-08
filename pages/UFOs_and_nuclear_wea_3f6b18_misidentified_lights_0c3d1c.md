@@ -458,6 +458,7 @@ next_link:
   short_title: Missile Fields
   heading_title: Why missile fields made UFOs matter more
 date: '2026-06-17 22:59:17 '
+last_modified_at: '2026-06-17 22:59:17 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c-overview.webp

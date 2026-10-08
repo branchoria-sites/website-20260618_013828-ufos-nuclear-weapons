@@ -266,6 +266,7 @@ next_link:
   short_title: Halt memo
   heading_title: What did the Halt memo actually record?
 date: '2026-06-18 00:45:55 '
+last_modified_at: '2026-06-18 00:45:55 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_bentwaters_nuclear_c_a232cb-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_bentwaters_nuclear_c_a232cb-Illustration-1.webp

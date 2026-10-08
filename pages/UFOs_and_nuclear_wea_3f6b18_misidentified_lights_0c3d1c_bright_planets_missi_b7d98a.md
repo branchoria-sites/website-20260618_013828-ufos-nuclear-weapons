@@ -242,6 +242,7 @@ next_link:
   short_title: Flares
   heading_title: Why Flares Can Look Like UFOs
 date: '2026-06-18 01:25:08 '
+last_modified_at: '2026-06-18 01:25:08 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c_bright_planets_missi_b7d98a-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c_bright_planets_missi_b7d98a-Illustration-1.webp
