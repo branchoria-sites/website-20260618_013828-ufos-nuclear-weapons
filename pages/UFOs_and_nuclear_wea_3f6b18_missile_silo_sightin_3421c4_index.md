@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-missile/
 description: Focused pages that expand on Silos.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4
 parent_title: Silos

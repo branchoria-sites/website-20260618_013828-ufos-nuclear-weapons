@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-nuclear-wea-3f6b18-military/
 description: Focused pages that expand on Witnesses.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20
 parent_title: Witnesses
