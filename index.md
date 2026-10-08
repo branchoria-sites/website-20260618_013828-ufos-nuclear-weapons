@@ -220,7 +220,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Veterans Brought The Claims Public | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-press-club-2010-dac1d8"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ '2010-event/' | relative_url }}" title="How Veterans Brought The Claims Public | UFOs and nuclear wea" aria-label="Read more about How Veterans Brought The Claims Public | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '2010-event/' | relative_url }}" title="How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?" aria-label="Read more about How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -240,7 +240,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'media-impact/' | relative_url }}" title="How a UFO Nukes Claim Went Mainstream | UFOs and nuclear wea 3 f6 b18 press club" aria-label="Read more about How a UFO Nukes Claim Went Mainstream | UFOs and nuclear wea 3 f6 b18 press club">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'media-impact/' | relative_url }}" title="How a UFO Nukes Claim Went Mainstream | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?" aria-label="Read more about How a UFO Nukes Claim Went Mainstream | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -260,7 +260,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'then-and-later/' | relative_url }}" title="The Bridge Between Blue Book and UAP Hearings | UFOs and nuclear wea 3 f6 b18 press club" aria-label="Read more about The Bridge Between Blue Book and UAP Hearings | UFOs and nuclear wea 3 f6 b18 press club">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'then-and-later/' | relative_url }}" title="The Bridge Between Blue Book and UAP Hearings | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?" aria-label="Read more about The Bridge Between Blue Book and UAP Hearings | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -280,7 +280,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'format/' | relative_url }}" title="The Disclosure Playbook the Event Popularised | UFOs and nuclear wea 3 f6 b18 press club" aria-label="Read more about The Disclosure Playbook the Event Popularised | UFOs and nuclear wea 3 f6 b18 press club">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'format/' | relative_url }}" title="The Disclosure Playbook the Event Popularised | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?" aria-label="Read more about The Disclosure Playbook the Event Popularised | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -300,7 +300,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'documents-321c80/' | relative_url }}" title="What the Released Documents Could Prove | UFOs and nuclear wea 3 f6 b18 press club" aria-label="Read more about What the Released Documents Could Prove | UFOs and nuclear wea 3 f6 b18 press club">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'documents-321c80/' | relative_url }}" title="What the Released Documents Could Prove | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?" aria-label="Read more about What the Released Documents Could Prove | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -320,7 +320,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sceptics/' | relative_url }}" title="Why Sceptics Pushed Back So Hard | UFOs and nuclear wea 3 f6 b18 press club" aria-label="Read more about Why Sceptics Pushed Back So Hard | UFOs and nuclear wea 3 f6 b18 press club">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sceptics/' | relative_url }}" title="Why Sceptics Pushed Back So Hard | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?" aria-label="Read more about Why Sceptics Pushed Back So Hard | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -340,7 +340,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witnesses-6d2fbd/' | relative_url }}" title="Why the Veterans Made Reporters Listen | UFOs and nuclear wea 3 f6 b18 press club" aria-label="Read more about Why the Veterans Made Reporters Listen | UFOs and nuclear wea 3 f6 b18 press club">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witnesses-6d2fbd/' | relative_url }}" title="Why the Veterans Made Reporters Listen | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?" aria-label="Read more about Why the Veterans Made Reporters Listen | How Veterans Brought The Claims Public | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -364,7 +364,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What AARO Found In Nuclear UFO Cases | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-aaro-review-28833c"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro/' | relative_url }}" title="What AARO Found In Nuclear UFO Cases | UFOs and nuclear wea" aria-label="Read more about What AARO Found In Nuclear UFO Cases | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro/' | relative_url }}" title="What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?" aria-label="Read more about What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -384,7 +384,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'test-link/' | relative_url }}" title="Could a missile test explain the story? | UFOs and nuclear wea 3 f6 b18 AARO review" aria-label="Read more about Could a missile test explain the story? | UFOs and nuclear wea 3 f6 b18 AARO review">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'test-link/' | relative_url }}" title="Could a missile test explain the story? | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?" aria-label="Read more about Could a missile test explain the story? | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -404,7 +404,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'old-vs-new/' | relative_url }}" title="How AARO changed the old UFO file | UFOs and nuclear wea 3 f6 b18 AARO review" aria-label="Read more about How AARO changed the old UFO file | UFOs and nuclear wea 3 f6 b18 AARO review">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'old-vs-new/' | relative_url }}" title="How AARO changed the old UFO file | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?" aria-label="Read more about How AARO changed the old UFO file | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -424,7 +424,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witnesses-f071a5/' | relative_url }}" title="What did former missile personnel tell AARO? | UFOs and nuclear wea 3 f6 b18 AARO review" aria-label="Read more about What did former missile personnel tell AARO? | UFOs and nuclear wea 3 f6 b18 AARO review">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witnesses-f071a5/' | relative_url }}" title="What did former missile personnel tell AARO? | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?" aria-label="Read more about What did former missile personnel tell AARO? | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -444,7 +444,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unresolved/' | relative_url }}" title="What does unresolved really mean here? | UFOs and nuclear wea 3 f6 b18 AARO review" aria-label="Read more about What does unresolved really mean here? | UFOs and nuclear wea 3 f6 b18 AARO review">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unresolved/' | relative_url }}" title="What does unresolved really mean here? | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?" aria-label="Read more about What does unresolved really mean here? | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -464,7 +464,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'readiness-b2cf50/' | relative_url }}" title="Why nuclear readiness changes the stakes | UFOs and nuclear wea 3 f6 b18 AARO review" aria-label="Read more about Why nuclear readiness changes the stakes | UFOs and nuclear wea 3 f6 b18 AARO review">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'readiness-b2cf50/' | relative_url }}" title="Why nuclear readiness changes the stakes | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?" aria-label="Read more about Why nuclear readiness changes the stakes | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -484,7 +484,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-film/' | relative_url }}" title="Why the Vandenberg film still matters | UFOs and nuclear wea 3 f6 b18 AARO review" aria-label="Read more about Why the Vandenberg film still matters | UFOs and nuclear wea 3 f6 b18 AARO review">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-film/' | relative_url }}" title="Why the Vandenberg film still matters | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?" aria-label="Read more about Why the Vandenberg film still matters | What AARO Found In Nuclear UFO Cases | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -506,7 +506,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'air-defense/' | relative_url }}" title="When the sky became a warning screen | UFOs and nuclear wea" aria-label="Read more about When the sky became a warning screen | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'air-defense/' | relative_url }}" title="When the sky became a warning screen | What Really Links UFOs And Nukes?" aria-label="Read more about When the sky became a warning screen | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -528,7 +528,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="5 pages" aria-label="5 pages" aria-expanded="false">5 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Should Bases Handle Unknown Objects? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-restricted-airspace-0a630e"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'airspace/' | relative_url }}" title="How Should Bases Handle Unknown Objects? | UFOs and nuclear wea" aria-label="Read more about How Should Bases Handle Unknown Objects? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'airspace/' | relative_url }}" title="How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?" aria-label="Read more about How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -548,7 +548,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-zones/' | relative_url }}" title="How Britain Restricts Flights Near Nuclear Sites | UFOs and nuclear wea 3 f6 b18 restricted airspace" aria-label="Read more about How Britain Restricts Flights Near Nuclear Sites | UFOs and nuclear wea 3 f6 b18 restricted airspace">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-zones/' | relative_url }}" title="How Britain Restricts Flights Near Nuclear Sites | How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?" aria-label="Read more about How Britain Restricts Flights Near Nuclear Sites | How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -568,7 +568,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'faa-rules/' | relative_url }}" title="Where Drones Are Barred From Sensitive Sites | UFOs and nuclear wea 3 f6 b18 restricted airspace" aria-label="Read more about Where Drones Are Barred From Sensitive Sites | UFOs and nuclear wea 3 f6 b18 restricted airspace">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'faa-rules/' | relative_url }}" title="Where Drones Are Barred From Sensitive Sites | How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?" aria-label="Read more about Where Drones Are Barred From Sensitive Sites | How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -588,7 +588,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-reports-fee8b2/' | relative_url }}" title="Who Gets Called When Drones Cross Nuclear Sites? | UFOs and nuclear wea 3 f6 b18 restricted airspace" aria-label="Read more about Who Gets Called When Drones Cross Nuclear Sites? | UFOs and nuclear wea 3 f6 b18 restricted airspace">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-reports-fee8b2/' | relative_url }}" title="Who Gets Called When Drones Cross Nuclear Sites? | How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?" aria-label="Read more about Who Gets Called When Drones Cross Nuclear Sites? | How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -608,7 +608,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-shootdown/' | relative_url }}" title="Why Security Guards May Not Shoot Down Drones | UFOs and nuclear wea 3 f6 b18 restricted airspace" aria-label="Read more about Why Security Guards May Not Shoot Down Drones | UFOs and nuclear wea 3 f6 b18 restricted airspace">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-shootdown/' | relative_url }}" title="Why Security Guards May Not Shoot Down Drones | How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?" aria-label="Read more about Why Security Guards May Not Shoot Down Drones | How Should Bases Handle Unknown Objects? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -630,7 +630,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-335ee0/' | relative_url }}" title="Why official UFO files satisfied nobody | UFOs and nuclear wea" aria-label="Read more about Why official UFO files satisfied nobody | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-335ee0/' | relative_url }}" title="Why official UFO files satisfied nobody | What Really Links UFOs And Nukes?" aria-label="Read more about Why official UFO files satisfied nobody | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -650,7 +650,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-2170e0/' | relative_url }}" title="Blue Book&#x27;s Lesson on Unknown Cases | UFOs and nuclear wea" aria-label="Read more about Blue Book&#x27;s Lesson on Unknown Cases | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-2170e0/' | relative_url }}" title="Blue Book's Lesson on Unknown Cases | What Really Links UFOs And Nukes?" aria-label="Read more about Blue Book's Lesson on Unknown Cases | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -672,7 +672,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Project Blue Book Actually Said | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-project-blue-book-07c262"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book/' | relative_url }}" title="What Project Blue Book Actually Said | UFOs and nuclear wea" aria-label="Read more about What Project Blue Book Actually Said | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book/' | relative_url }}" title="What Project Blue Book Actually Said | What Really Links UFOs And Nukes?" aria-label="Read more about What Project Blue Book Actually Said | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -692,7 +692,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom-2ab870/' | relative_url }}" title="Did Malmstrom Records Prove a UFO Shutdown? | UFOs and nuclear wea 3 f6 b18 project blue book" aria-label="Read more about Did Malmstrom Records Prove a UFO Shutdown? | UFOs and nuclear wea 3 f6 b18 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom-2ab870/' | relative_url }}" title="Did Malmstrom Records Prove a UFO Shutdown? | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?" aria-label="Read more about Did Malmstrom Records Prove a UFO Shutdown? | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -712,7 +712,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-595fbb/' | relative_url }}" title="What Blue Book Could Leave Out | UFOs and nuclear wea 3 f6 b18 project blue book" aria-label="Read more about What Blue Book Could Leave Out | UFOs and nuclear wea 3 f6 b18 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-595fbb/' | relative_url }}" title="What Blue Book Could Leave Out | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?" aria-label="Read more about What Blue Book Could Leave Out | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -732,7 +732,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'unidentified/' | relative_url }}" title="What Did Unidentified Really Mean? | UFOs and nuclear wea 3 f6 b18 project blue book" aria-label="Read more about What Did Unidentified Really Mean? | UFOs and nuclear wea 3 f6 b18 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'unidentified/' | relative_url }}" title="What Did Unidentified Really Mean? | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?" aria-label="Read more about What Did Unidentified Really Mean? | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -752,7 +752,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'report-chain/' | relative_url }}" title="Who Handled UFO Reports at Bases? | UFOs and nuclear wea 3 f6 b18 project blue book" aria-label="Read more about Who Handled UFO Reports at Bases? | UFOs and nuclear wea 3 f6 b18 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'report-chain/' | relative_url }}" title="Who Handled UFO Reports at Bases? | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?" aria-label="Read more about Who Handled UFO Reports at Bases? | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -772,7 +772,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'minot-150756/' | relative_url }}" title="Why Minot Became the Stronger Archive Case | UFOs and nuclear wea 3 f6 b18 project blue book" aria-label="Read more about Why Minot Became the Stronger Archive Case | UFOs and nuclear wea 3 f6 b18 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'minot-150756/' | relative_url }}" title="Why Minot Became the Stronger Archive Case | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?" aria-label="Read more about Why Minot Became the Stronger Archive Case | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -792,7 +792,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'official-dispute/' | relative_url }}" title="Why Researchers Still Challenge Blue Book | UFOs and nuclear wea 3 f6 b18 project blue book" aria-label="Read more about Why Researchers Still Challenge Blue Book | UFOs and nuclear wea 3 f6 b18 project blue book">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'official-dispute/' | relative_url }}" title="Why Researchers Still Challenge Blue Book | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?" aria-label="Read more about Why Researchers Still Challenge Blue Book | What Project Blue Book Actually Said | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -816,7 +816,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Which Nuclear UFO Cases Are Strongest? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-case-comparison-f9d52f"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'case-compare/' | relative_url }}" title="Which Nuclear UFO Cases Are Strongest? | UFOs and nuclear wea" aria-label="Read more about Which Nuclear UFO Cases Are Strongest? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'case-compare/' | relative_url }}" title="Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?" aria-label="Read more about Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -836,7 +836,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'incursion-test/' | relative_url }}" title="A Serious Incursion Is Not Always Exotic | UFOs and nuclear wea 3 f6 b18 case comparison" aria-label="Read more about A Serious Incursion Is Not Always Exotic | UFOs and nuclear wea 3 f6 b18 case comparison">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'incursion-test/' | relative_url }}" title="A Serious Incursion Is Not Always Exotic | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?" aria-label="Read more about A Serious Incursion Is Not Always Exotic | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -856,7 +856,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proximity-gap/' | relative_url }}" title="Near Nuclear Weapons Is Not the Same as Interference | UFOs and nuclear wea 3 f6 b18 case comparison" aria-label="Read more about Near Nuclear Weapons Is Not the Same as Interference | UFOs and nuclear wea 3 f6 b18 case comparison">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proximity-gap/' | relative_url }}" title="Near Nuclear Weapons Is Not the Same as Interference | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?" aria-label="Read more about Near Nuclear Weapons Is Not the Same as Interference | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -876,7 +876,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-vs-failure/' | relative_url }}" title="Radar Tracks or Missile Failures: Which Matters More? | UFOs and nuclear wea 3 f6 b18 case comparison" aria-label="Read more about Radar Tracks or Missile Failures: Which Matters More? | UFOs and nuclear wea 3 f6 b18 case comparison">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-vs-failure/' | relative_url }}" title="Radar Tracks or Missile Failures: Which Matters More? | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?" aria-label="Read more about Radar Tracks or Missile Failures: Which Matters More? | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -896,7 +896,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ '1975-cluster/' | relative_url }}" title="Were the 1975 Base Incursions Really UFOs? | UFOs and nuclear wea 3 f6 b18 case comparison" aria-label="Read more about Were the 1975 Base Incursions Really UFOs? | UFOs and nuclear wea 3 f6 b18 case comparison">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ '1975-cluster/' | relative_url }}" title="Were the 1975 Base Incursions Really UFOs? | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?" aria-label="Read more about Were the 1975 Base Incursions Really UFOs? | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -916,7 +916,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gap-3a1533/' | relative_url }}" title="When Later Testimony Changes the Case | UFOs and nuclear wea 3 f6 b18 case comparison" aria-label="Read more about When Later Testimony Changes the Case | UFOs and nuclear wea 3 f6 b18 case comparison">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gap-3a1533/' | relative_url }}" title="When Later Testimony Changes the Case | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?" aria-label="Read more about When Later Testimony Changes the Case | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -936,7 +936,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham-fit/' | relative_url }}" title="Why Rendlesham Is Hard to Compare | UFOs and nuclear wea 3 f6 b18 case comparison" aria-label="Read more about Why Rendlesham Is Hard to Compare | UFOs and nuclear wea 3 f6 b18 case comparison">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham-fit/' | relative_url }}" title="Why Rendlesham Is Hard to Compare | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?" aria-label="Read more about Why Rendlesham Is Hard to Compare | Which Nuclear UFO Cases Are Strongest? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -958,7 +958,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-concern/' | relative_url }}" title="Could UFO reports jam a crisis response? | UFOs and nuclear wea" aria-label="Read more about Could UFO reports jam a crisis response? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cia-concern/' | relative_url }}" title="Could UFO reports jam a crisis response? | What Really Links UFOs And Nukes?" aria-label="Read more about Could UFO reports jam a crisis response? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -980,7 +980,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Missing Records Matter So Much | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-chain-of-custody-70063d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'custody/' | relative_url }}" title="Why Missing Records Matter So Much | UFOs and nuclear wea" aria-label="Read more about Why Missing Records Matter So Much | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'custody/' | relative_url }}" title="Why Missing Records Matter So Much | What Really Links UFOs And Nukes?" aria-label="Read more about Why Missing Records Matter So Much | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1000,7 +1000,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-bundles/' | relative_url }}" title="Can a document bundle prove a nuclear UFO case? | UFOs and nuclear wea 3 f6 b18 chain of custody" aria-label="Read more about Can a document bundle prove a nuclear UFO case? | UFOs and nuclear wea 3 f6 b18 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-bundles/' | relative_url }}" title="Can a document bundle prove a nuclear UFO case? | Why Missing Records Matter So Much | What Really Links UFOs And Nukes?" aria-label="Read more about Can a document bundle prove a nuclear UFO case? | Why Missing Records Matter So Much | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1020,7 +1020,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fault-links/' | relative_url }}" title="When the incident survives but the UFO link does not | UFOs and nuclear wea 3 f6 b18 chain of custody" aria-label="Read more about When the incident survives but the UFO link does not | UFOs and nuclear wea 3 f6 b18 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fault-links/' | relative_url }}" title="When the incident survives but the UFO link does not | Why Missing Records Matter So Much | What Really Links UFOs And Nukes?" aria-label="Read more about When the incident survives but the UFO link does not | Why Missing Records Matter So Much | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1040,7 +1040,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lost-film/' | relative_url }}" title="Why missing film keeps UFO cases alive | UFOs and nuclear wea 3 f6 b18 chain of custody" aria-label="Read more about Why missing film keeps UFO cases alive | UFOs and nuclear wea 3 f6 b18 chain of custody">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lost-film/' | relative_url }}" title="Why missing film keeps UFO cases alive | Why Missing Records Matter So Much | What Really Links UFOs And Nukes?" aria-label="Read more about Why missing film keeps UFO cases alive | Why Missing Records Matter So Much | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1064,7 +1064,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did Disinformation Build The Nuclear UFO Myth? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-disinformation-mytho-c94b11"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'disinfo/' | relative_url }}" title="Did Disinformation Build The Nuclear UFO Myth? | UFOs and nuclear wea" aria-label="Read more about Did Disinformation Build The Nuclear UFO Myth? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'disinfo/' | relative_url }}" title="Did Disinformation Build The Nuclear UFO Myth? | What Really Links UFOs And Nukes?" aria-label="Read more about Did Disinformation Build The Nuclear UFO Myth? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1084,7 +1084,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-tests-7ef421/' | relative_url }}" title="How Secret Projects Feed UFO Belief | UFOs and nuclear wea 3 f6 b18 disinformation mytho" aria-label="Read more about How Secret Projects Feed UFO Belief | UFOs and nuclear wea 3 f6 b18 disinformation mytho">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-tests-7ef421/' | relative_url }}" title="How Secret Projects Feed UFO Belief | Did Disinformation Build The Nuclear UFO Myth? | What Really Links UFOs And Nukes?" aria-label="Read more about How Secret Projects Feed UFO Belief | Did Disinformation Build The Nuclear UFO Myth? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1104,7 +1104,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'robertson/' | relative_url }}" title="When Debunking Became Part of the Mystery | UFOs and nuclear wea 3 f6 b18 disinformation mytho" aria-label="Read more about When Debunking Became Part of the Mystery | UFOs and nuclear wea 3 f6 b18 disinformation mytho">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'robertson/' | relative_url }}" title="When Debunking Became Part of the Mystery | Did Disinformation Build The Nuclear UFO Myth? | What Really Links UFOs And Nukes?" aria-label="Read more about When Debunking Became Part of the Mystery | Did Disinformation Build The Nuclear UFO Myth? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1124,7 +1124,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'insiders/' | relative_url }}" title="Why Insider UFO Claims Are So Powerful | UFOs and nuclear wea 3 f6 b18 disinformation mytho" aria-label="Read more about Why Insider UFO Claims Are So Powerful | UFOs and nuclear wea 3 f6 b18 disinformation mytho">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'insiders/' | relative_url }}" title="Why Insider UFO Claims Are So Powerful | Did Disinformation Build The Nuclear UFO Myth? | What Really Links UFOs And Nukes?" aria-label="Read more about Why Insider UFO Claims Are So Powerful | Did Disinformation Build The Nuclear UFO Myth? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1148,7 +1148,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What UFO Documents Can Actually Prove | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-documents-affidavits-b0967d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'documents/' | relative_url }}" title="What UFO Documents Can Actually Prove | UFOs and nuclear wea" aria-label="Read more about What UFO Documents Can Actually Prove | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'documents/' | relative_url }}" title="What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?" aria-label="Read more about What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1168,7 +1168,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-tests-14ef74/' | relative_url }}" title="Can Secret Tests Create UFO Mysteries? | UFOs and nuclear wea 3 f6 b18 documents affidavits" aria-label="Read more about Can Secret Tests Create UFO Mysteries? | UFOs and nuclear wea 3 f6 b18 documents affidavits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-tests-14ef74/' | relative_url }}" title="Can Secret Tests Create UFO Mysteries? | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?" aria-label="Read more about Can Secret Tests Create UFO Mysteries? | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1188,7 +1188,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'partial-proof/' | relative_url }}" title="The Evidence Gap in Nuclear UFO Files | UFOs and nuclear wea 3 f6 b18 documents affidavits" aria-label="Read more about The Evidence Gap in Nuclear UFO Files | UFOs and nuclear wea 3 f6 b18 documents affidavits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'partial-proof/' | relative_url }}" title="The Evidence Gap in Nuclear UFO Files | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?" aria-label="Read more about The Evidence Gap in Nuclear UFO Files | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1208,7 +1208,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'affidavits-e86da3/' | relative_url }}" title="What Does a Sworn UFO Affidavit Prove? | UFOs and nuclear wea 3 f6 b18 documents affidavits" aria-label="Read more about What Does a Sworn UFO Affidavit Prove? | UFOs and nuclear wea 3 f6 b18 documents affidavits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'affidavits-e86da3/' | relative_url }}" title="What Does a Sworn UFO Affidavit Prove? | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?" aria-label="Read more about What Does a Sworn UFO Affidavit Prove? | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1228,7 +1228,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-records/' | relative_url }}" title="When Missile Records Do Not Prove UFO Cause | UFOs and nuclear wea 3 f6 b18 documents affidavits" aria-label="Read more about When Missile Records Do Not Prove UFO Cause | UFOs and nuclear wea 3 f6 b18 documents affidavits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-records/' | relative_url }}" title="When Missile Records Do Not Prove UFO Cause | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?" aria-label="Read more about When Missile Records Do Not Prove UFO Cause | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1248,7 +1248,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-context/' | relative_url }}" title="Why Declassified UFO Files Can Mislead | UFOs and nuclear wea 3 f6 b18 documents affidavits" aria-label="Read more about Why Declassified UFO Files Can Mislead | UFOs and nuclear wea 3 f6 b18 documents affidavits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-context/' | relative_url }}" title="Why Declassified UFO Files Can Mislead | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?" aria-label="Read more about Why Declassified UFO Files Can Mislead | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1268,7 +1268,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-timing/' | relative_url }}" title="Why Timing Changes UFO Evidence | UFOs and nuclear wea 3 f6 b18 documents affidavits" aria-label="Read more about Why Timing Changes UFO Evidence | UFOs and nuclear wea 3 f6 b18 documents affidavits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-timing/' | relative_url }}" title="Why Timing Changes UFO Evidence | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?" aria-label="Read more about Why Timing Changes UFO Evidence | What UFO Documents Can Actually Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1292,7 +1292,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Could Drones Explain Modern UFO Alarms? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-drones-security-568bf9"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drones/' | relative_url }}" title="Could Drones Explain Modern UFO Alarms? | UFOs and nuclear wea" aria-label="Read more about Could Drones Explain Modern UFO Alarms? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drones/' | relative_url }}" title="Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?" aria-label="Read more about Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1312,7 +1312,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bugey-stunt/' | relative_url }}" title="What a Superman drone proved at Bugey | UFOs and nuclear wea 3 f6 b18 drones security" aria-label="Read more about What a Superman drone proved at Bugey | UFOs and nuclear wea 3 f6 b18 drones security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bugey-stunt/' | relative_url }}" title="What a Superman drone proved at Bugey | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?" aria-label="Read more about What a Superman drone proved at Bugey | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1332,7 +1332,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-or-drone/' | relative_url }}" title="When is a UFO just a drone? | UFOs and nuclear wea 3 f6 b18 drones security" aria-label="Read more about When is a UFO just a drone? | UFOs and nuclear wea 3 f6 b18 drones security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ufo-or-drone/' | relative_url }}" title="When is a UFO just a drone? | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?" aria-label="Read more about When is a UFO just a drone? | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1352,7 +1352,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-gap/' | relative_url }}" title="Who can actually stop the drone? | UFOs and nuclear wea 3 f6 b18 drones security" aria-label="Read more about Who can actually stop the drone? | UFOs and nuclear wea 3 f6 b18 drones security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'authority-gap/' | relative_url }}" title="Who can actually stop the drone? | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?" aria-label="Read more about Who can actually stop the drone? | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1372,7 +1372,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'detection/' | relative_url }}" title="Why drones are so hard to spot | UFOs and nuclear wea 3 f6 b18 drones security" aria-label="Read more about Why drones are so hard to spot | UFOs and nuclear wea 3 f6 b18 drones security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'detection/' | relative_url }}" title="Why drones are so hard to spot | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?" aria-label="Read more about Why drones are so hard to spot | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1392,7 +1392,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'french-wave/' | relative_url }}" title="Why France&#x27;s drone wave still matters | UFOs and nuclear wea 3 f6 b18 drones security" aria-label="Read more about Why France&#x27;s drone wave still matters | UFOs and nuclear wea 3 f6 b18 drones security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'french-wave/' | relative_url }}" title="Why France's drone wave still matters | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?" aria-label="Read more about Why France's drone wave still matters | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1412,7 +1412,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'no-drone-zones/' | relative_url }}" title="Why weapons sites reveal so little | UFOs and nuclear wea 3 f6 b18 drones security" aria-label="Read more about Why weapons sites reveal so little | UFOs and nuclear wea 3 f6 b18 drones security">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'no-drone-zones/' | relative_url }}" title="Why weapons sites reveal so little | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?" aria-label="Read more about Why weapons sites reveal so little | Could Drones Explain Modern UFO Alarms? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1436,7 +1436,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Ellsworth Belongs In The Pattern | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-ellsworth-silos-d7361a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ellsworth/' | relative_url }}" title="Why Ellsworth Belongs In The Pattern | UFOs and nuclear wea" aria-label="Read more about Why Ellsworth Belongs In The Pattern | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ellsworth/' | relative_url }}" title="Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?" aria-label="Read more about Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1456,7 +1456,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bogus-papers/' | relative_url }}" title="How Fake Papers Muddy Ellsworth | UFOs and nuclear wea 3 f6 b18 ellsworth silos" aria-label="Read more about How Fake Papers Muddy Ellsworth | UFOs and nuclear wea 3 f6 b18 ellsworth silos">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bogus-papers/' | relative_url }}" title="How Fake Papers Muddy Ellsworth | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?" aria-label="Read more about How Fake Papers Muddy Ellsworth | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1476,7 +1476,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'woods-account/' | relative_url }}" title="What Happened at November 5? | UFOs and nuclear wea 3 f6 b18 ellsworth silos" aria-label="Read more about What Happened at November 5? | UFOs and nuclear wea 3 f6 b18 ellsworth silos">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'woods-account/' | relative_url }}" title="What Happened at November 5? | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?" aria-label="Read more about What Happened at November 5? | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1496,7 +1496,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'report-channels/' | relative_url }}" title="Where Would a 1977 UFO Report Go? | UFOs and nuclear wea 3 f6 b18 ellsworth silos" aria-label="Read more about Where Would a 1977 UFO Report Go? | UFOs and nuclear wea 3 f6 b18 ellsworth silos">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'report-channels/' | relative_url }}" title="Where Would a 1977 UFO Report Go? | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?" aria-label="Read more about Where Would a 1977 UFO Report Go? | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1516,7 +1516,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records/' | relative_url }}" title="Which Records Would Actually Matter? | UFOs and nuclear wea 3 f6 b18 ellsworth silos" aria-label="Read more about Which Records Would Actually Matter? | UFOs and nuclear wea 3 f6 b18 ellsworth silos">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records/' | relative_url }}" title="Which Records Would Actually Matter? | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?" aria-label="Read more about Which Records Would Actually Matter? | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1536,7 +1536,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom-contrast/' | relative_url }}" title="Why Malmstrom Is the Harder Benchmark | UFOs and nuclear wea 3 f6 b18 ellsworth silos" aria-label="Read more about Why Malmstrom Is the Harder Benchmark | UFOs and nuclear wea 3 f6 b18 ellsworth silos">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom-contrast/' | relative_url }}" title="Why Malmstrom Is the Harder Benchmark | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?" aria-label="Read more about Why Malmstrom Is the Harder Benchmark | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1556,7 +1556,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'alarm-response/' | relative_url }}" title="Why One Alarm Changes the Case | UFOs and nuclear wea 3 f6 b18 ellsworth silos" aria-label="Read more about Why One Alarm Changes the Case | UFOs and nuclear wea 3 f6 b18 ellsworth silos">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'alarm-response/' | relative_url }}" title="Why One Alarm Changes the Case | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?" aria-label="Read more about Why One Alarm Changes the Case | Why Ellsworth Belongs In The Pattern | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1580,7 +1580,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Could EMP Tests Explain Malmstrom? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-emp-theory-1c84bd"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emp-claims/' | relative_url }}" title="Could EMP Tests Explain Malmstrom? | UFOs and nuclear wea" aria-label="Read more about Could EMP Tests Explain Malmstrom? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emp-claims/' | relative_url }}" title="Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?" aria-label="Read more about Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1600,7 +1600,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'noise-pulse/' | relative_url }}" title="Could One Pulse Drop Ten Missiles? | UFOs and nuclear wea 3 f6 b18 emp theory" aria-label="Read more about Could One Pulse Drop Ten Missiles? | UFOs and nuclear wea 3 f6 b18 emp theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'noise-pulse/' | relative_url }}" title="Could One Pulse Drop Ten Missiles? | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?" aria-label="Read more about Could One Pulse Drop Ten Missiles? | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1620,7 +1620,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'separate-claims/' | relative_url }}" title="Do the Lights Explain the Shutdown? | UFOs and nuclear wea 3 f6 b18 emp theory" aria-label="Read more about Do the Lights Explain the Shutdown? | UFOs and nuclear wea 3 f6 b18 emp theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'separate-claims/' | relative_url }}" title="Do the Lights Explain the Shutdown? | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?" aria-label="Read more about Do the Lights Explain the Shutdown? | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1640,7 +1640,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'logic-coupler/' | relative_url }}" title="The Small Component Behind a Big Failure | UFOs and nuclear wea 3 f6 b18 emp theory" aria-label="Read more about The Small Component Behind a Big Failure | UFOs and nuclear wea 3 f6 b18 emp theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'logic-coupler/' | relative_url }}" title="The Small Component Behind a Big Failure | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?" aria-label="Read more about The Small Component Behind a Big Failure | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1660,7 +1660,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emp-test/' | relative_url }}" title="Was Malmstrom Really an EMP Test? | UFOs and nuclear wea 3 f6 b18 emp theory" aria-label="Read more about Was Malmstrom Really an EMP Test? | UFOs and nuclear wea 3 f6 b18 emp theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emp-test/' | relative_url }}" title="Was Malmstrom Really an EMP Test? | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?" aria-label="Read more about Was Malmstrom Really an EMP Test? | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1680,7 +1680,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'system-fixes/' | relative_url }}" title="What the Fixes Reveal About the Failure | UFOs and nuclear wea 3 f6 b18 emp theory" aria-label="Read more about What the Fixes Reveal About the Failure | UFOs and nuclear wea 3 f6 b18 emp theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'system-fixes/' | relative_url }}" title="What the Fixes Reveal About the Failure | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?" aria-label="Read more about What the Fixes Reveal About the Failure | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1700,7 +1700,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gap/' | relative_url }}" title="Where the Documents and Witnesses Diverge | UFOs and nuclear wea 3 f6 b18 emp theory" aria-label="Read more about Where the Documents and Witnesses Diverge | UFOs and nuclear wea 3 f6 b18 emp theory">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'record-gap/' | relative_url }}" title="Where the Documents and Witnesses Diverge | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?" aria-label="Read more about Where the Documents and Witnesses Diverge | Could EMP Tests Explain Malmstrom? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1724,7 +1724,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Did UFOs Cause Nuclear System Failures? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-technical-failures-44d884"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'failures/' | relative_url }}" title="Did UFOs Cause Nuclear System Failures? | UFOs and nuclear wea" aria-label="Read more about Did UFOs Cause Nuclear System Failures? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'failures/' | relative_url }}" title="Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?" aria-label="Read more about Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1744,7 +1744,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-tests-414c63/' | relative_url }}" title="Could Secret Tests Look Like UFO Attacks? | UFOs and nuclear wea 3 f6 b18 technical failures" aria-label="Read more about Could Secret Tests Look Like UFO Attacks? | UFOs and nuclear wea 3 f6 b18 technical failures">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-tests-414c63/' | relative_url }}" title="Could Secret Tests Look Like UFO Attacks? | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?" aria-label="Read more about Could Secret Tests Look Like UFO Attacks? | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1764,7 +1764,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'timeline-tests/' | relative_url }}" title="Do Witness Reports Match the Fault Timeline? | UFOs and nuclear wea 3 f6 b18 technical failures" aria-label="Read more about Do Witness Reports Match the Fault Timeline? | UFOs and nuclear wea 3 f6 b18 technical failures">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'timeline-tests/' | relative_url }}" title="Do Witness Reports Match the Fault Timeline? | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?" aria-label="Read more about Do Witness Reports Match the Fault Timeline? | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1784,7 +1784,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'power-faults/' | relative_url }}" title="The Ordinary Faults Behind Alarming Missile Failures | UFOs and nuclear wea 3 f6 b18 technical failures" aria-label="Read more about The Ordinary Faults Behind Alarming Missile Failures | UFOs and nuclear wea 3 f6 b18 technical failures">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'power-faults/' | relative_url }}" title="The Ordinary Faults Behind Alarming Missile Failures | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?" aria-label="Read more about The Ordinary Faults Behind Alarming Missile Failures | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1804,7 +1804,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-standard/' | relative_url }}" title="What Would Actually Prove UFO Interference? | UFOs and nuclear wea 3 f6 b18 technical failures" aria-label="Read more about What Would Actually Prove UFO Interference? | UFOs and nuclear wea 3 f6 b18 technical failures">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-standard/' | relative_url }}" title="What Would Actually Prove UFO Interference? | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?" aria-label="Read more about What Would Actually Prove UFO Interference? | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1824,7 +1824,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shutdown-claims-2c3964/' | relative_url }}" title="When Is a Missile Really Shut Down? | UFOs and nuclear wea 3 f6 b18 technical failures" aria-label="Read more about When Is a Missile Really Shut Down? | UFOs and nuclear wea 3 f6 b18 technical failures">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shutdown-claims-2c3964/' | relative_url }}" title="When Is a Missile Really Shut Down? | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?" aria-label="Read more about When Is a Missile Really Shut Down? | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1844,7 +1844,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'monitorability/' | relative_url }}" title="Why Losing Site Monitorability Is a Big Deal | UFOs and nuclear wea 3 f6 b18 technical failures" aria-label="Read more about Why Losing Site Monitorability Is a Big Deal | UFOs and nuclear wea 3 f6 b18 technical failures">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'monitorability/' | relative_url }}" title="Why Losing Site Monitorability Is a Big Deal | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?" aria-label="Read more about Why Losing Site Monitorability Is a Big Deal | Did UFOs Cause Nuclear System Failures? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1866,7 +1866,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom-f9f0d5/' | relative_url }}" title="Did a UFO Cause the Missile Fault? | UFOs and nuclear wea" aria-label="Read more about Did a UFO Cause the Missile Fault? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom-f9f0d5/' | relative_url }}" title="Did a UFO Cause the Missile Fault? | What Really Links UFOs And Nukes?" aria-label="Read more about Did a UFO Cause the Missile Fault? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1888,7 +1888,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Happened At Malmstrom In 1967? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-malmstrom-shutdown-a0e8bf"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom/' | relative_url }}" title="What Happened At Malmstrom In 1967? | UFOs and nuclear wea" aria-label="Read more about What Happened At Malmstrom In 1967? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom/' | relative_url }}" title="What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?" aria-label="Read more about What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1908,7 +1908,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'electrical-fault/' | relative_url }}" title="Could electrical noise explain the shutdown? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown" aria-label="Read more about Could electrical noise explain the shutdown? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'electrical-fault/' | relative_url }}" title="Could electrical noise explain the shutdown? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?" aria-label="Read more about Could electrical noise explain the shutdown? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1928,7 +1928,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-review/' | relative_url }}" title="Did AARO validate the Malmstrom claims? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown" aria-label="Read more about Did AARO validate the Malmstrom claims? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-review/' | relative_url }}" title="Did AARO validate the Malmstrom claims? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?" aria-label="Read more about Did AARO validate the Malmstrom claims? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1948,7 +1948,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'salas-account/' | relative_url }}" title="Does the Salas story match Echo Flight? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown" aria-label="Read more about Does the Salas story match Echo Flight? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'salas-account/' | relative_url }}" title="Does the Salas story match Echo Flight? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?" aria-label="Read more about Does the Salas story match Echo Flight? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1968,7 +1968,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'echo-timeline/' | relative_url }}" title="What actually happened at Echo Flight? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown" aria-label="Read more about What actually happened at Echo Flight? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'echo-timeline/' | relative_url }}" title="What actually happened at Echo Flight? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?" aria-label="Read more about What actually happened at Echo Flight? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -1988,7 +1988,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-checks/' | relative_url }}" title="What did radar and guards report? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown" aria-label="Read more about What did radar and guards report? | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-checks/' | relative_url }}" title="What did radar and guards report? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?" aria-label="Read more about What did radar and guards report? | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2008,7 +2008,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'records-vs-claims/' | relative_url }}" title="Why the Malmstrom evidence splits readers | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown" aria-label="Read more about Why the Malmstrom evidence splits readers | UFOs and nuclear wea 3 f6 b18 malmstrom shutdown">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'records-vs-claims/' | relative_url }}" title="Why the Malmstrom evidence splits readers | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?" aria-label="Read more about Why the Malmstrom evidence splits readers | What Happened At Malmstrom In 1967? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2032,7 +2032,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why The Minot Case Still Matters | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-minot-b52-case-11d4a1"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'minot/' | relative_url }}" title="Why The Minot Case Still Matters | UFOs and nuclear wea" aria-label="Read more about Why The Minot Case Still Matters | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'minot/' | relative_url }}" title="Why The Minot Case Still Matters | What Really Links UFOs And Nukes?" aria-label="Read more about Why The Minot Case Still Matters | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2052,7 +2052,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'comms-gap/' | relative_url }}" title="Did communications fail during the closest approach? | UFOs and nuclear wea 3 f6 b18 minot b52 case" aria-label="Read more about Did communications fail during the closest approach? | UFOs and nuclear wea 3 f6 b18 minot b52 case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'comms-gap/' | relative_url }}" title="Did communications fail during the closest approach? | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?" aria-label="Read more about Did communications fail during the closest approach? | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2072,7 +2072,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'oscar-7-alarms/' | relative_url }}" title="Did Oscar 7 turn a sighting into a security case? | UFOs and nuclear wea 3 f6 b18 minot b52 case" aria-label="Read more about Did Oscar 7 turn a sighting into a security case? | UFOs and nuclear wea 3 f6 b18 minot b52 case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'oscar-7-alarms/' | relative_url }}" title="Did Oscar 7 turn a sighting into a security case? | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?" aria-label="Read more about Did Oscar 7 turn a sighting into a security case? | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2092,7 +2092,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-puzzle/' | relative_url }}" title="Do the Minot witnesses describe the same thing? | UFOs and nuclear wea 3 f6 b18 minot b52 case" aria-label="Read more about Do the Minot witnesses describe the same thing? | UFOs and nuclear wea 3 f6 b18 minot b52 case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-puzzle/' | relative_url }}" title="Do the Minot witnesses describe the same thing? | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?" aria-label="Read more about Do the Minot witnesses describe the same thing? | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2112,7 +2112,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-return/' | relative_url }}" title="Was the B 52 radar contact a real object? | UFOs and nuclear wea 3 f6 b18 minot b52 case" aria-label="Read more about Was the B 52 radar contact a real object? | UFOs and nuclear wea 3 f6 b18 minot b52 case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-return/' | relative_url }}" title="Was the B 52 radar contact a real object? | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?" aria-label="Read more about Was the B 52 radar contact a real object? | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2132,7 +2132,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-photos/' | relative_url }}" title="What Minot&#x27;s radar photos can and cannot prove | UFOs and nuclear wea 3 f6 b18 minot b52 case" aria-label="Read more about What Minot&#x27;s radar photos can and cannot prove | UFOs and nuclear wea 3 f6 b18 minot b52 case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-photos/' | relative_url }}" title="What Minot's radar photos can and cannot prove | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?" aria-label="Read more about What Minot's radar photos can and cannot prove | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2152,7 +2152,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'oscar-6-alert/' | relative_url }}" title="Why the Oscar 6 sighting mattered first | UFOs and nuclear wea 3 f6 b18 minot b52 case" aria-label="Read more about Why the Oscar 6 sighting mattered first | UFOs and nuclear wea 3 f6 b18 minot b52 case">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'oscar-6-alert/' | relative_url }}" title="Why the Oscar 6 sighting mattered first | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?" aria-label="Read more about Why the Oscar 6 sighting mattered first | Why The Minot Case Still Matters | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2176,7 +2176,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="3 pages" aria-label="3 pages" aria-expanded="false">3 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Ordinary Lights Become Nuclear UFOs | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-misidentified-lights-0c3d1c"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'misidentification/' | relative_url }}" title="When Ordinary Lights Become Nuclear UFOs | UFOs and nuclear wea" aria-label="Read more about When Ordinary Lights Become Nuclear UFOs | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'misidentification/' | relative_url }}" title="When Ordinary Lights Become Nuclear UFOs | What Really Links UFOs And Nukes?" aria-label="Read more about When Ordinary Lights Become Nuclear UFOs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2196,7 +2196,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bright-planets/' | relative_url }}" title="When Venus Looks Like a Base Intruder | UFOs and nuclear wea 3 f6 b18 misidentified lights" aria-label="Read more about When Venus Looks Like a Base Intruder | UFOs and nuclear wea 3 f6 b18 misidentified lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bright-planets/' | relative_url }}" title="When Venus Looks Like a Base Intruder | When Ordinary Lights Become Nuclear UFOs | What Really Links UFOs And Nukes?" aria-label="Read more about When Venus Looks Like a Base Intruder | When Ordinary Lights Become Nuclear UFOs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2216,7 +2216,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flares/' | relative_url }}" title="Why Flares Can Look Like UFOs | UFOs and nuclear wea 3 f6 b18 misidentified lights" aria-label="Read more about Why Flares Can Look Like UFOs | UFOs and nuclear wea 3 f6 b18 misidentified lights">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flares/' | relative_url }}" title="Why Flares Can Look Like UFOs | When Ordinary Lights Become Nuclear UFOs | What Really Links UFOs And Nukes?" aria-label="Read more about Why Flares Can Look Like UFOs | When Ordinary Lights Become Nuclear UFOs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2238,7 +2238,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-fields/' | relative_url }}" title="Why missile fields made UFOs matter more | UFOs and nuclear wea" aria-label="Read more about Why missile fields made UFOs matter more | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-fields/' | relative_url }}" title="Why missile fields made UFOs matter more | What Really Links UFOs And Nukes?" aria-label="Read more about Why missile fields made UFOs matter more | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2258,7 +2258,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-threshold/' | relative_url }}" title="What Evidence Would Actually Prove It? | UFOs and nuclear wea" aria-label="Read more about What Evidence Would Actually Prove It? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proof-threshold/' | relative_url }}" title="What Evidence Would Actually Prove It? | What Really Links UFOs And Nukes?" aria-label="Read more about What Evidence Would Actually Prove It? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2280,7 +2280,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="5 pages" aria-label="5 pages" aria-expanded="false">5 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Radar Helps A UFO Case | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-radar-evidence-977bd6"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar/' | relative_url }}" title="When Radar Helps A UFO Case | UFOs and nuclear wea" aria-label="Read more about When Radar Helps A UFO Case | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar/' | relative_url }}" title="When Radar Helps A UFO Case | What Really Links UFOs And Nukes?" aria-label="Read more about When Radar Helps A UFO Case | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2300,7 +2300,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-photos-b9e53f/' | relative_url }}" title="What Can a Radarscope Photo Prove? | UFOs and nuclear wea 3 f6 b18 radar evidence" aria-label="Read more about What Can a Radarscope Photo Prove? | UFOs and nuclear wea 3 f6 b18 radar evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-photos-b9e53f/' | relative_url }}" title="What Can a Radarscope Photo Prove? | When Radar Helps A UFO Case | What Really Links UFOs And Nukes?" aria-label="Read more about What Can a Radarscope Photo Prove? | When Radar Helps A UFO Case | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2320,7 +2320,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'response-line/' | relative_url }}" title="When Should a Radar Unknown Trigger Security? | UFOs and nuclear wea 3 f6 b18 radar evidence" aria-label="Read more about When Should a Radar Unknown Trigger Security? | UFOs and nuclear wea 3 f6 b18 radar evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'response-line/' | relative_url }}" title="When Should a Radar Unknown Trigger Security? | When Radar Helps A UFO Case | What Really Links UFOs And Nukes?" aria-label="Read more about When Should a Radar Unknown Trigger Security? | When Radar Helps A UFO Case | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2340,7 +2340,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'minot-test/' | relative_url }}" title="Why Minot Is More Than a UFO Story | UFOs and nuclear wea 3 f6 b18 radar evidence" aria-label="Read more about Why Minot Is More Than a UFO Story | UFOs and nuclear wea 3 f6 b18 radar evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'minot-test/' | relative_url }}" title="Why Minot Is More Than a UFO Story | When Radar Helps A UFO Case | What Really Links UFOs And Nukes?" aria-label="Read more about Why Minot Is More Than a UFO Story | When Radar Helps A UFO Case | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2360,7 +2360,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-targets/' | relative_url }}" title="Why Radar Blips Can Fool Investigators | UFOs and nuclear wea 3 f6 b18 radar evidence" aria-label="Read more about Why Radar Blips Can Fool Investigators | UFOs and nuclear wea 3 f6 b18 radar evidence">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-targets/' | relative_url }}" title="Why Radar Blips Can Fool Investigators | When Radar Helps A UFO Case | What Really Links UFOs And Nukes?" aria-label="Read more about Why Radar Blips Can Fool Investigators | When Radar Helps A UFO Case | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2384,7 +2384,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Mundane UFOs Can Still Matter | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-readiness-risks-6ea528"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'readiness/' | relative_url }}" title="Why Mundane UFOs Can Still Matter | UFOs and nuclear wea" aria-label="Read more about Why Mundane UFOs Can Still Matter | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'readiness/' | relative_url }}" title="Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?" aria-label="Read more about Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2404,7 +2404,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'surety-rules/' | relative_url }}" title="How Unknown Reports Stress Nuclear Control Rules | UFOs and nuclear wea 3 f6 b18 readiness risks" aria-label="Read more about How Unknown Reports Stress Nuclear Control Rules | UFOs and nuclear wea 3 f6 b18 readiness risks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'surety-rules/' | relative_url }}" title="How Unknown Reports Stress Nuclear Control Rules | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?" aria-label="Read more about How Unknown Reports Stress Nuclear Control Rules | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2424,7 +2424,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'echo-logs/' | relative_url }}" title="The Missile Failure That Became a UFO Argument | UFOs and nuclear wea 3 f6 b18 readiness risks" aria-label="Read more about The Missile Failure That Became a UFO Argument | UFOs and nuclear wea 3 f6 b18 readiness risks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'echo-logs/' | relative_url }}" title="The Missile Failure That Became a UFO Argument | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?" aria-label="Read more about The Missile Failure That Became a UFO Argument | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2444,7 +2444,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-probes/' | relative_url }}" title="What a Drone Can Learn Near a Nuclear Site | UFOs and nuclear wea 3 f6 b18 readiness risks" aria-label="Read more about What a Drone Can Learn Near a Nuclear Site | UFOs and nuclear wea 3 f6 b18 readiness risks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-probes/' | relative_url }}" title="What a Drone Can Learn Near a Nuclear Site | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?" aria-label="Read more about What a Drone Can Learn Near a Nuclear Site | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2464,7 +2464,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-data/' | relative_url }}" title="Why Bad Data Can Be a Readiness Problem | UFOs and nuclear wea 3 f6 b18 readiness risks" aria-label="Read more about Why Bad Data Can Be a Readiness Problem | UFOs and nuclear wea 3 f6 b18 readiness risks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bad-data/' | relative_url }}" title="Why Bad Data Can Be a Readiness Problem | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?" aria-label="Read more about Why Bad Data Can Be a Readiness Problem | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2484,7 +2484,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'palo-verde/' | relative_url }}" title="Why Palo Verde Was More Than a Drone Sighting | UFOs and nuclear wea 3 f6 b18 readiness risks" aria-label="Read more about Why Palo Verde Was More Than a Drone Sighting | UFOs and nuclear wea 3 f6 b18 readiness risks">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'palo-verde/' | relative_url }}" title="Why Palo Verde Was More Than a Drone Sighting | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?" aria-label="Read more about Why Palo Verde Was More Than a Drone Sighting | Why Mundane UFOs Can Still Matter | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2508,7 +2508,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Was Rendlesham Really A Nuclear Case? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-rendlesham-nuclear-042e57"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham/' | relative_url }}" title="Was Rendlesham Really A Nuclear Case? | UFOs and nuclear wea" aria-label="Read more about Was Rendlesham Really A Nuclear Case? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham/' | relative_url }}" title="Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?" aria-label="Read more about Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2528,7 +2528,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'beam-claims/' | relative_url }}" title="Did beams really target nuclear weapons? | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear" aria-label="Read more about Did beams really target nuclear weapons? | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'beam-claims/' | relative_url }}" title="Did beams really target nuclear weapons? | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?" aria-label="Read more about Did beams really target nuclear weapons? | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2548,7 +2548,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation/' | relative_url }}" title="Were the radiation readings really unusual? | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear" aria-label="Read more about Were the radiation readings really unusual? | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radiation/' | relative_url }}" title="Were the radiation readings really unusual? | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?" aria-label="Read more about Were the radiation readings really unusual? | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2568,7 +2568,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo/' | relative_url }}" title="What did the Halt memo actually record? | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear" aria-label="Read more about What did the Halt memo actually record? | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'halt-memo/' | relative_url }}" title="What did the Halt memo actually record? | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?" aria-label="Read more about What did the Halt memo actually record? | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2588,7 +2588,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'parliament/' | relative_url }}" title="What Parliament revealed and avoided | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear" aria-label="Read more about What Parliament revealed and avoided | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'parliament/' | relative_url }}" title="What Parliament revealed and avoided | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?" aria-label="Read more about What Parliament revealed and avoided | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2608,7 +2608,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bentwaters/' | relative_url }}" title="Why Bentwaters changed the stakes | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear" aria-label="Read more about Why Bentwaters changed the stakes | UFOs and nuclear wea 3 f6 b18 rendlesham nuclear">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bentwaters/' | relative_url }}" title="Why Bentwaters changed the stakes | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?" aria-label="Read more about Why Bentwaters changed the stakes | Was Rendlesham Really A Nuclear Case? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2632,7 +2632,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What A Useful UFO Report Needs | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-reporting-channels-899d79"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reporting/' | relative_url }}" title="What A Useful UFO Report Needs | UFOs and nuclear wea" aria-label="Read more about What A Useful UFO Report Needs | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reporting/' | relative_url }}" title="What A Useful UFO Report Needs | What Really Links UFOs And Nukes?" aria-label="Read more about What A Useful UFO Report Needs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2652,7 +2652,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-intake/' | relative_url }}" title="Stop the story before it blends | UFOs and nuclear wea 3 f6 b18 reporting channels" aria-label="Read more about Stop the story before it blends | UFOs and nuclear wea 3 f6 b18 reporting channels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-intake/' | relative_url }}" title="Stop the story before it blends | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?" aria-label="Read more about Stop the story before it blends | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2672,7 +2672,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-gap/' | relative_url }}" title="The old lesson about late UFO reports | UFOs and nuclear wea 3 f6 b18 reporting channels" aria-label="Read more about The old lesson about late UFO reports | UFOs and nuclear wea 3 f6 b18 reporting channels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-gap/' | relative_url }}" title="The old lesson about late UFO reports | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?" aria-label="Read more about The old lesson about late UFO reports | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2692,7 +2692,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'boundary-errors/' | relative_url }}" title="Was it over the site or nearby? | UFOs and nuclear wea 3 f6 b18 reporting channels" aria-label="Read more about Was it over the site or nearby? | UFOs and nuclear wea 3 f6 b18 reporting channels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'boundary-errors/' | relative_url }}" title="Was it over the site or nearby? | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?" aria-label="Read more about Was it over the site or nearby? | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2712,7 +2712,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-reports/' | relative_url }}" title="Who gets called when drones appear? | UFOs and nuclear wea 3 f6 b18 reporting channels" aria-label="Read more about Who gets called when drones appear? | UFOs and nuclear wea 3 f6 b18 reporting channels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-reports/' | relative_url }}" title="Who gets called when drones appear? | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?" aria-label="Read more about Who gets called when drones appear? | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2732,7 +2732,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'four-hour-rule/' | relative_url }}" title="Why the first four hours matter | UFOs and nuclear wea 3 f6 b18 reporting channels" aria-label="Read more about Why the first four hours matter | UFOs and nuclear wea 3 f6 b18 reporting channels">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'four-hour-rule/' | relative_url }}" title="Why the first four hours matter | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?" aria-label="Read more about Why the first four hours matter | What A Useful UFO Report Needs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2756,7 +2756,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Rumors Grow Around Real Incidents | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-rumors-hoaxes-9c3dc3"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rumors/' | relative_url }}" title="How Rumors Grow Around Real Incidents | UFOs and nuclear wea" aria-label="Read more about How Rumors Grow Around Real Incidents | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rumors/' | relative_url }}" title="How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?" aria-label="Read more about How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2776,7 +2776,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'affidavits/' | relative_url }}" title="Can Late Affidavits Rebuild Malmstrom? | UFOs and nuclear wea 3 f6 b18 rumors hoaxes" aria-label="Read more about Can Late Affidavits Rebuild Malmstrom? | UFOs and nuclear wea 3 f6 b18 rumors hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'affidavits/' | relative_url }}" title="Can Late Affidavits Rebuild Malmstrom? | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?" aria-label="Read more about Can Late Affidavits Rebuild Malmstrom? | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2796,7 +2796,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shutdown-claims/' | relative_url }}" title="How Missile Faults Become UFO Shutdown Stories | UFOs and nuclear wea 3 f6 b18 rumors hoaxes" aria-label="Read more about How Missile Faults Become UFO Shutdown Stories | UFOs and nuclear wea 3 f6 b18 rumors hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shutdown-claims/' | relative_url }}" title="How Missile Faults Become UFO Shutdown Stories | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?" aria-label="Read more about How Missile Faults Become UFO Shutdown Stories | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2816,7 +2816,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham-layers/' | relative_url }}" title="How Rendlesham Became a Bigger Story | UFOs and nuclear wea 3 f6 b18 rumors hoaxes" aria-label="Read more about How Rendlesham Became a Bigger Story | UFOs and nuclear wea 3 f6 b18 rumors hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham-layers/' | relative_url }}" title="How Rendlesham Became a Bigger Story | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?" aria-label="Read more about How Rendlesham Became a Bigger Story | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2836,7 +2836,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'base-gossip/' | relative_url }}" title="When Base Gossip Helps and Hurts | UFOs and nuclear wea 3 f6 b18 rumors hoaxes" aria-label="Read more about When Base Gossip Helps and Hurts | UFOs and nuclear wea 3 f6 b18 rumors hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'base-gossip/' | relative_url }}" title="When Base Gossip Helps and Hurts | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?" aria-label="Read more about When Base Gossip Helps and Hurts | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2856,7 +2856,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-briefings/' | relative_url }}" title="When Fake Briefings Become UFO Evidence | UFOs and nuclear wea 3 f6 b18 rumors hoaxes" aria-label="Read more about When Fake Briefings Become UFO Evidence | UFOs and nuclear wea 3 f6 b18 rumors hoaxes">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-briefings/' | relative_url }}" title="When Fake Briefings Become UFO Evidence | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?" aria-label="Read more about When Fake Briefings Become UFO Evidence | How Rumors Grow Around Real Incidents | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2880,7 +2880,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Robert Salas Became A Key Witness | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-robert-salas-c30b07"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'salas/' | relative_url }}" title="Why Robert Salas Became A Key Witness | UFOs and nuclear wea" aria-label="Read more about Why Robert Salas Became A Key Witness | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'salas/' | relative_url }}" title="Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?" aria-label="Read more about Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2900,7 +2900,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sincerity/' | relative_url }}" title="Can a Sincere Witness Still Be Wrong? | UFOs and nuclear wea 3 f6 b18 robert salas" aria-label="Read more about Can a Sincere Witness Still Be Wrong? | UFOs and nuclear wea 3 f6 b18 robert salas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sincerity/' | relative_url }}" title="Can a Sincere Witness Still Be Wrong? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?" aria-label="Read more about Can a Sincere Witness Still Be Wrong? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2920,7 +2920,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-gap/' | relative_url }}" title="How Much Does the Long Delay Matter? | UFOs and nuclear wea 3 f6 b18 robert salas" aria-label="Read more about How Much Does the Long Delay Matter? | UFOs and nuclear wea 3 f6 b18 robert salas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'memory-gap/' | relative_url }}" title="How Much Does the Long Delay Matter? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?" aria-label="Read more about How Much Does the Long Delay Matter? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2940,7 +2940,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'public-stage/' | relative_url }}" title="How Salas Became a Public UFO Witness | UFOs and nuclear wea 3 f6 b18 robert salas" aria-label="Read more about How Salas Became a Public UFO Witness | UFOs and nuclear wea 3 f6 b18 robert salas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'public-stage/' | relative_url }}" title="How Salas Became a Public UFO Witness | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?" aria-label="Read more about How Salas Became a Public UFO Witness | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2960,7 +2960,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'osi-briefing/' | relative_url }}" title="Was There a Secret Debriefing After Oscar? | UFOs and nuclear wea 3 f6 b18 robert salas" aria-label="Read more about Was There a Secret Debriefing After Oscar? | UFOs and nuclear wea 3 f6 b18 robert salas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'osi-briefing/' | relative_url }}" title="Was There a Secret Debriefing After Oscar? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?" aria-label="Read more about Was There a Secret Debriefing After Oscar? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -2980,7 +2980,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'meiwald/' | relative_url }}" title="What Did Fred Meiwald Add to the Story? | UFOs and nuclear wea 3 f6 b18 robert salas" aria-label="Read more about What Did Fred Meiwald Add to the Story? | UFOs and nuclear wea 3 f6 b18 robert salas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'meiwald/' | relative_url }}" title="What Did Fred Meiwald Add to the Story? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?" aria-label="Read more about What Did Fred Meiwald Add to the Story? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3000,7 +3000,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'guard-calls/' | relative_url }}" title="Who Actually Saw the Object at Oscar? | UFOs and nuclear wea 3 f6 b18 robert salas" aria-label="Read more about Who Actually Saw the Object at Oscar? | UFOs and nuclear wea 3 f6 b18 robert salas">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'guard-calls/' | relative_url }}" title="Who Actually Saw the Object at Oscar? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?" aria-label="Read more about Who Actually Saw the Object at Oscar? | Why Robert Salas Became A Key Witness | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3022,7 +3022,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sci-fi-links/' | relative_url }}" title="How aliens learned to fear the bomb | UFOs and nuclear wea" aria-label="Read more about How aliens learned to fear the bomb | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sci-fi-links/' | relative_url }}" title="How aliens learned to fear the bomb | What Really Links UFOs And Nukes?" aria-label="Read more about How aliens learned to fear the bomb | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3042,7 +3042,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy/' | relative_url }}" title="Why no comment sounded like confirmation | UFOs and nuclear wea" aria-label="Read more about Why no comment sounded like confirmation | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secrecy/' | relative_url }}" title="Why no comment sounded like confirmation | What Really Links UFOs And Nukes?" aria-label="Read more about Why no comment sounded like confirmation | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3064,7 +3064,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="5 pages" aria-label="5 pages" aria-expanded="false">5 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Secret Tests Look Like UFOs | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-classified-tests-67adca"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-tests/' | relative_url }}" title="When Secret Tests Look Like UFOs | UFOs and nuclear wea" aria-label="Read more about When Secret Tests Look Like UFOs | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'secret-tests/' | relative_url }}" title="When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?" aria-label="Read more about When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3084,7 +3084,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dominic/' | relative_url }}" title="Could nuclear test launches look like UFOs? | UFOs and nuclear wea 3 f6 b18 classified tests" aria-label="Read more about Could nuclear test launches look like UFOs? | UFOs and nuclear wea 3 f6 b18 classified tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dominic/' | relative_url }}" title="Could nuclear test launches look like UFOs? | When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?" aria-label="Read more about Could nuclear test launches look like UFOs? | When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3104,7 +3104,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'area-51/' | relative_url }}" title="How secret aircraft made Area 51 legendary | UFOs and nuclear wea 3 f6 b18 classified tests" aria-label="Read more about How secret aircraft made Area 51 legendary | UFOs and nuclear wea 3 f6 b18 classified tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'area-51/' | relative_url }}" title="How secret aircraft made Area 51 legendary | When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?" aria-label="Read more about How secret aircraft made Area 51 legendary | When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3124,7 +3124,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul/' | relative_url }}" title="When nuclear spy gear became a UFO story | UFOs and nuclear wea 3 f6 b18 classified tests" aria-label="Read more about When nuclear spy gear became a UFO story | UFOs and nuclear wea 3 f6 b18 classified tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mogul/' | relative_url }}" title="When nuclear spy gear became a UFO story | When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?" aria-label="Read more about When nuclear spy gear became a UFO story | When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3144,7 +3144,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'u-2-reports/' | relative_url }}" title="Why U 2 flights looked impossible from below | UFOs and nuclear wea 3 f6 b18 classified tests" aria-label="Read more about Why U 2 flights looked impossible from below | UFOs and nuclear wea 3 f6 b18 classified tests">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'u-2-reports/' | relative_url }}" title="Why U 2 flights looked impossible from below | When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?" aria-label="Read more about Why U 2 flights looked impossible from below | When Secret Tests Look Like UFOs | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3168,7 +3168,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Missile Silo Sightings Raise Stakes | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-missile-silo-sightin-3421c4"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'silos/' | relative_url }}" title="Why Missile Silo Sightings Raise Stakes | UFOs and nuclear wea" aria-label="Read more about Why Missile Silo Sightings Raise Stakes | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'silos/' | relative_url }}" title="Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?" aria-label="Read more about Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3188,7 +3188,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'counter-drone-rules/' | relative_url }}" title="Do Bases Have Clear Drone Defences? | UFOs and nuclear wea 3 f6 b18 missile silo sightin" aria-label="Read more about Do Bases Have Clear Drone Defences? | UFOs and nuclear wea 3 f6 b18 missile silo sightin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'counter-drone-rules/' | relative_url }}" title="Do Bases Have Clear Drone Defences? | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?" aria-label="Read more about Do Bases Have Clear Drone Defences? | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3208,7 +3208,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-analogue/' | relative_url }}" title="Drones Changed the UFO and Silo Debate | UFOs and nuclear wea 3 f6 b18 missile silo sightin" aria-label="Read more about Drones Changed the UFO and Silo Debate | UFOs and nuclear wea 3 f6 b18 missile silo sightin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-analogue/' | relative_url }}" title="Drones Changed the UFO and Silo Debate | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?" aria-label="Read more about Drones Changed the UFO and Silo Debate | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3228,7 +3228,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom-dispute/' | relative_url }}" title="What Really Happened at Echo Flight? | UFOs and nuclear wea 3 f6 b18 missile silo sightin" aria-label="Read more about What Really Happened at Echo Flight? | UFOs and nuclear wea 3 f6 b18 missile silo sightin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'malmstrom-dispute/' | relative_url }}" title="What Really Happened at Echo Flight? | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?" aria-label="Read more about What Really Happened at Echo Flight? | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3248,7 +3248,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'readiness-confusion/' | relative_url }}" title="When a Sighting Makes Readiness Harder to Read | UFOs and nuclear wea 3 f6 b18 missile silo sightin" aria-label="Read more about When a Sighting Makes Readiness Harder to Read | UFOs and nuclear wea 3 f6 b18 missile silo sightin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'readiness-confusion/' | relative_url }}" title="When a Sighting Makes Readiness Harder to Read | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?" aria-label="Read more about When a Sighting Makes Readiness Harder to Read | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3268,7 +3268,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dispersed-silos/' | relative_url }}" title="Why Missile Fields Are So Hard to Guard | UFOs and nuclear wea 3 f6 b18 missile silo sightin" aria-label="Read more about Why Missile Fields Are So Hard to Guard | UFOs and nuclear wea 3 f6 b18 missile silo sightin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dispersed-silos/' | relative_url }}" title="Why Missile Fields Are So Hard to Guard | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?" aria-label="Read more about Why Missile Fields Are So Hard to Guard | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3288,7 +3288,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'records-vs-witnesses/' | relative_url }}" title="Why Silo UFO Evidence Is So Uneven | UFOs and nuclear wea 3 f6 b18 missile silo sightin" aria-label="Read more about Why Silo UFO Evidence Is So Uneven | UFOs and nuclear wea 3 f6 b18 missile silo sightin">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'records-vs-witnesses/' | relative_url }}" title="Why Silo UFO Evidence Is So Uneven | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?" aria-label="Read more about Why Silo UFO Evidence Is So Uneven | Why Missile Silo Sightings Raise Stakes | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3312,7 +3312,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Weapons Storage Claims Are So Hard To Prove | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-weapons-storage-clai-3057f6"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'storage-sites/' | relative_url }}" title="Why Weapons Storage Claims Are So Hard To Prove | UFOs and nuclear wea" aria-label="Read more about Why Weapons Storage Claims Are So Hard To Prove | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'storage-sites/' | relative_url }}" title="Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?" aria-label="Read more about Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3332,7 +3332,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham-map/' | relative_url }}" title="How Close Was Rendlesham to the Bomb Store? | UFOs and nuclear wea 3 f6 b18 weapons storage clai" aria-label="Read more about How Close Was Rendlesham to the Bomb Store? | UFOs and nuclear wea 3 f6 b18 weapons storage clai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham-map/' | relative_url }}" title="How Close Was Rendlesham to the Bomb Store? | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?" aria-label="Read more about How Close Was Rendlesham to the Bomb Store? | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3352,7 +3352,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'near-or-inside/' | relative_url }}" title="Was It Really Over the Weapons Area? | UFOs and nuclear wea 3 f6 b18 weapons storage clai" aria-label="Read more about Was It Really Over the Weapons Area? | UFOs and nuclear wea 3 f6 b18 weapons storage clai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'near-or-inside/' | relative_url }}" title="Was It Really Over the Weapons Area? | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?" aria-label="Read more about Was It Really Over the Weapons Area? | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3372,7 +3372,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'security-logs/' | relative_url }}" title="What Records Would Prove an Incursion? | UFOs and nuclear wea 3 f6 b18 weapons storage clai" aria-label="Read more about What Records Would Prove an Incursion? | UFOs and nuclear wea 3 f6 b18 weapons storage clai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'security-logs/' | relative_url }}" title="What Records Would Prove an Incursion? | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?" aria-label="Read more about What Records Would Prove an Incursion? | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3392,7 +3392,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-claims/' | relative_url }}" title="When Military Witnesses Say Nukes Were Involved | UFOs and nuclear wea 3 f6 b18 weapons storage clai" aria-label="Read more about When Military Witnesses Say Nukes Were Involved | UFOs and nuclear wea 3 f6 b18 weapons storage clai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-claims/' | relative_url }}" title="When Military Witnesses Say Nukes Were Involved | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?" aria-label="Read more about When Military Witnesses Say Nukes Were Involved | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3412,7 +3412,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ncnd-policy/' | relative_url }}" title="Why Officials Would Not Say Where Nukes Were | UFOs and nuclear wea 3 f6 b18 weapons storage clai" aria-label="Read more about Why Officials Would Not Say Where Nukes Were | UFOs and nuclear wea 3 f6 b18 weapons storage clai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ncnd-policy/' | relative_url }}" title="Why Officials Would Not Say Where Nukes Were | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?" aria-label="Read more about Why Officials Would Not Say Where Nukes Were | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3432,7 +3432,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-bases/' | relative_url }}" title="Why Twin Bases Make UFO Claims Messy | UFOs and nuclear wea 3 f6 b18 weapons storage clai" aria-label="Read more about Why Twin Bases Make UFO Claims Messy | UFOs and nuclear wea 3 f6 b18 weapons storage clai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'twin-bases/' | relative_url }}" title="Why Twin Bases Make UFO Claims Messy | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?" aria-label="Read more about Why Twin Bases Make UFO Claims Messy | Why Weapons Storage Claims Are So Hard To Prove | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3456,7 +3456,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Test Ranges Generate UFO Stories | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-test-ranges-f7dca0"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'test-ranges/' | relative_url }}" title="Why Test Ranges Generate UFO Stories | UFOs and nuclear wea" aria-label="Read more about Why Test Ranges Generate UFO Stories | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'test-ranges/' | relative_url }}" title="Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?" aria-label="Read more about Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3476,7 +3476,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'decoys/' | relative_url }}" title="Can missile decoys look like UFO attacks? | UFOs and nuclear wea 3 f6 b18 test ranges" aria-label="Read more about Can missile decoys look like UFO attacks? | UFOs and nuclear wea 3 f6 b18 test ranges">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'decoys/' | relative_url }}" title="Can missile decoys look like UFO attacks? | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?" aria-label="Read more about Can missile decoys look like UFO attacks? | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3496,7 +3496,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'white-sands/' | relative_url }}" title="How White Sands became a UFO factory | UFOs and nuclear wea 3 f6 b18 test ranges" aria-label="Read more about How White Sands became a UFO factory | UFOs and nuclear wea 3 f6 b18 test ranges">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'white-sands/' | relative_url }}" title="How White Sands became a UFO factory | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?" aria-label="Read more about How White Sands became a UFO factory | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3516,7 +3516,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-96e492/' | relative_url }}" title="What Blue Book could not prove | UFOs and nuclear wea 3 f6 b18 test ranges" aria-label="Read more about What Blue Book could not prove | UFOs and nuclear wea 3 f6 b18 test ranges">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blue-book-96e492/' | relative_url }}" title="What Blue Book could not prove | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?" aria-label="Read more about What Blue Book could not prove | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3536,7 +3536,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'green-fireballs/' | relative_url }}" title="What were the Los Alamos green fireballs? | UFOs and nuclear wea 3 f6 b18 test ranges" aria-label="Read more about What were the Los Alamos green fireballs? | UFOs and nuclear wea 3 f6 b18 test ranges">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'green-fireballs/' | relative_url }}" title="What were the Los Alamos green fireballs? | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?" aria-label="Read more about What were the Los Alamos green fireballs? | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3556,7 +3556,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vandenberg-7ba6f3/' | relative_url }}" title="Why Vandenberg launches spark UFO scares | UFOs and nuclear wea 3 f6 b18 test ranges" aria-label="Read more about Why Vandenberg launches spark UFO scares | UFOs and nuclear wea 3 f6 b18 test ranges">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vandenberg-7ba6f3/' | relative_url }}" title="Why Vandenberg launches spark UFO scares | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?" aria-label="Read more about Why Vandenberg launches spark UFO scares | Why Test Ranges Generate UFO Stories | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3580,7 +3580,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Official Conclusions Do Not End Debate | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-official-vs-witness-a38d25"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-claims/' | relative_url }}" title="Why Official Conclusions Do Not End Debate | UFOs and nuclear wea" aria-label="Read more about Why Official Conclusions Do Not End Debate | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-claims/' | relative_url }}" title="Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?" aria-label="Read more about Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3600,7 +3600,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-1e1b64/' | relative_url }}" title="Can absent records prove anything? | UFOs and nuclear wea 3 f6 b18 official vs witness" aria-label="Read more about Can absent records prove anything? | UFOs and nuclear wea 3 f6 b18 official vs witness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-1e1b64/' | relative_url }}" title="Can absent records prove anything? | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?" aria-label="Read more about Can absent records prove anything? | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3620,7 +3620,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'causation-gap/' | relative_url }}" title="Did the sighting cause the missile fault? | UFOs and nuclear wea 3 f6 b18 official vs witness" aria-label="Read more about Did the sighting cause the missile fault? | UFOs and nuclear wea 3 f6 b18 official vs witness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'causation-gap/' | relative_url }}" title="Did the sighting cause the missile fault? | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?" aria-label="Read more about Did the sighting cause the missile fault? | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3640,7 +3640,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-contrast/' | relative_url }}" title="What AARO changes and what it does not | UFOs and nuclear wea 3 f6 b18 official vs witness" aria-label="Read more about What AARO changes and what it does not | UFOs and nuclear wea 3 f6 b18 official vs witness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'aaro-contrast/' | relative_url }}" title="What AARO changes and what it does not | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?" aria-label="Read more about What AARO changes and what it does not | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3660,7 +3660,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'condon-standard/' | relative_url }}" title="When science standards miss security concerns | UFOs and nuclear wea 3 f6 b18 official vs witness" aria-label="Read more about When science standards miss security concerns | UFOs and nuclear wea 3 f6 b18 official vs witness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'condon-standard/' | relative_url }}" title="When science standards miss security concerns | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?" aria-label="Read more about When science standards miss security concerns | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3680,7 +3680,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'robertson-panel/' | relative_url }}" title="Why the Robertson Panel narrowed UFO threat claims | UFOs and nuclear wea 3 f6 b18 official vs witness" aria-label="Read more about Why the Robertson Panel narrowed UFO threat claims | UFOs and nuclear wea 3 f6 b18 official vs witness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'robertson-panel/' | relative_url }}" title="Why the Robertson Panel narrowed UFO threat claims | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?" aria-label="Read more about Why the Robertson Panel narrowed UFO threat claims | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3700,7 +3700,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-bar/' | relative_url }}" title="Why trusted witnesses are not enough | UFOs and nuclear wea 3 f6 b18 official vs witness" aria-label="Read more about Why trusted witnesses are not enough | UFOs and nuclear wea 3 f6 b18 official vs witness">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witness-bar/' | relative_url }}" title="Why trusted witnesses are not enough | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?" aria-label="Read more about Why trusted witnesses are not enough | Why Official Conclusions Do Not End Debate | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3724,7 +3724,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What The Vandenberg Missile Stories Need | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-vandenberg-cases-1d49db"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vandenberg/' | relative_url }}" title="What The Vandenberg Missile Stories Need | UFOs and nuclear wea" aria-label="Read more about What The Vandenberg Missile Stories Need | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vandenberg/' | relative_url }}" title="What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?" aria-label="Read more about What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3744,7 +3744,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'buzzing-bee/' | relative_url }}" title="Could decoys explain the Big Sur film? | UFOs and nuclear wea 3 f6 b18 vandenberg cases" aria-label="Read more about Could decoys explain the Big Sur film? | UFOs and nuclear wea 3 f6 b18 vandenberg cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'buzzing-bee/' | relative_url }}" title="Could decoys explain the Big Sur film? | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?" aria-label="Read more about Could decoys explain the Big Sur film? | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3764,7 +3764,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'light-glints/' | relative_url }}" title="Could sunlight glints look like a UFO attack? | UFOs and nuclear wea 3 f6 b18 vandenberg cases" aria-label="Read more about Could sunlight glints look like a UFO attack? | UFOs and nuclear wea 3 f6 b18 vandenberg cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'light-glints/' | relative_url }}" title="Could sunlight glints look like a UFO attack? | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?" aria-label="Read more about Could sunlight glints look like a UFO attack? | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3784,7 +3784,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'jacobs-vs-george/' | relative_url }}" title="Two witnesses, one disputed missile film | UFOs and nuclear wea 3 f6 b18 vandenberg cases" aria-label="Read more about Two witnesses, one disputed missile film | UFOs and nuclear wea 3 f6 b18 vandenberg cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'jacobs-vs-george/' | relative_url }}" title="Two witnesses, one disputed missile film | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?" aria-label="Read more about Two witnesses, one disputed missile film | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3804,7 +3804,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'film-handling/' | relative_url }}" title="Was the missing film evidence or routine secrecy? | UFOs and nuclear wea 3 f6 b18 vandenberg cases" aria-label="Read more about Was the missing film evidence or routine secrecy? | UFOs and nuclear wea 3 f6 b18 vandenberg cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'film-handling/' | relative_url }}" title="Was the missing film evidence or routine secrecy? | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?" aria-label="Read more about Was the missing film evidence or routine secrecy? | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3824,7 +3824,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-de28d6/' | relative_url }}" title="What records could settle the Vandenberg case? | UFOs and nuclear wea 3 f6 b18 vandenberg cases" aria-label="Read more about What records could settle the Vandenberg case? | UFOs and nuclear wea 3 f6 b18 vandenberg cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missing-records-de28d6/' | relative_url }}" title="What records could settle the Vandenberg case? | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?" aria-label="Read more about What records could settle the Vandenberg case? | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3844,7 +3844,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'big-sur-camera/' | relative_url }}" title="Why the Big Sur camera mattered | UFOs and nuclear wea 3 f6 b18 vandenberg cases" aria-label="Read more about Why the Big Sur camera mattered | UFOs and nuclear wea 3 f6 b18 vandenberg cases">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'big-sur-camera/' | relative_url }}" title="Why the Big Sur camera mattered | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?" aria-label="Read more about Why the Big Sur camera mattered | What The Vandenberg Missile Stories Need | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3868,7 +3868,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="5 pages" aria-label="5 pages" aria-expanded="false">5 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Much Should Military Witnesses Count? | UFOs and nuclear wea" aria-expanded="false" aria-controls="home-vertical-children-node-ufos-and-nuclear-wea-3f6b18-military-witnesses-464c20"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'witnesses/' | relative_url }}" title="How Much Should Military Witnesses Count? | UFOs and nuclear wea" aria-label="Read more about How Much Should Military Witnesses Count? | UFOs and nuclear wea">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'witnesses/' | relative_url }}" title="How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?" aria-label="Read more about How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3888,7 +3888,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham-drift/' | relative_url }}" title="How Rendlesham changed after the first reports | UFOs and nuclear wea 3 f6 b18 military witnesses" aria-label="Read more about How Rendlesham changed after the first reports | UFOs and nuclear wea 3 f6 b18 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rendlesham-drift/' | relative_url }}" title="How Rendlesham changed after the first reports | How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?" aria-label="Read more about How Rendlesham changed after the first reports | How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3908,7 +3908,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'corroboration/' | relative_url }}" title="What would prove a missile field UFO link? | UFOs and nuclear wea 3 f6 b18 military witnesses" aria-label="Read more about What would prove a missile field UFO link? | UFOs and nuclear wea 3 f6 b18 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'corroboration/' | relative_url }}" title="What would prove a missile field UFO link? | How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?" aria-label="Read more about What would prove a missile field UFO link? | How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3928,7 +3928,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stress-memory/' | relative_url }}" title="When confidence makes UFO testimony risky | UFOs and nuclear wea 3 f6 b18 military witnesses" aria-label="Read more about When confidence makes UFO testimony risky | UFOs and nuclear wea 3 f6 b18 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stress-memory/' | relative_url }}" title="When confidence makes UFO testimony risky | How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?" aria-label="Read more about When confidence makes UFO testimony risky | How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
@@ -3948,7 +3948,7 @@ site_image_description: A guarded missile-field fence at night with distant runw
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'late-accounts/' | relative_url }}" title="Why old UFO memories become harder to test | UFOs and nuclear wea 3 f6 b18 military witnesses" aria-label="Read more about Why old UFO memories become harder to test | UFOs and nuclear wea 3 f6 b18 military witnesses">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'late-accounts/' | relative_url }}" title="Why old UFO memories become harder to test | How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?" aria-label="Read more about Why old UFO memories become harder to test | How Much Should Military Witnesses Count? | What Really Links UFOs And Nukes?">Read more</a>
 </div>
 </div>
 </div>
