@@ -272,6 +272,7 @@ next_link:
   short_title: Separate Claims
   heading_title: Do the Lights Explain the Shutdown?
 date: '2026-06-17 23:11:16 '
+last_modified_at: '2026-06-17 23:11:16 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_records_vs_witness_c_2f67d6-Illustration-1.webp

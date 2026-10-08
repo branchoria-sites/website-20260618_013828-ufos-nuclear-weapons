@@ -266,6 +266,7 @@ next_link:
   short_title: White Sands
   heading_title: How White Sands became a UFO factory
 date: '2026-06-17 23:24:52 '
+last_modified_at: '2026-06-17 23:24:52 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_vandenberg_launch_sc_26cbef-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_vandenberg_launch_sc_26cbef-Illustration-1.webp

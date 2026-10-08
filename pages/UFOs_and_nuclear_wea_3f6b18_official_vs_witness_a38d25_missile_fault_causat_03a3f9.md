@@ -272,6 +272,7 @@ next_link:
   short_title: Condon Standard
   heading_title: When science standards miss security concerns
 date: '2026-06-18 01:05:11 '
+last_modified_at: '2026-06-18 01:05:11 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_missile_fault_causat_03a3f9-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_missile_fault_causat_03a3f9-Illustration-1.webp

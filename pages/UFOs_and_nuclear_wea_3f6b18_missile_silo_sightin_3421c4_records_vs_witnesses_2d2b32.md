@@ -266,6 +266,7 @@ prev_link:
   short_title: Readiness confusion
   heading_title: When a Sighting Makes Readiness Harder to Read
 date: '2026-06-18 01:28:58 '
+last_modified_at: '2026-06-18 01:28:58 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_records_vs_witnesses_2d2b32-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4_records_vs_witnesses_2d2b32-Illustration-1.webp

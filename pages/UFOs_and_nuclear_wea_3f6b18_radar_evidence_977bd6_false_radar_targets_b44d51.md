@@ -254,6 +254,7 @@ next_link:
   short_title: Minot Test
   heading_title: Why Minot Is More Than a UFO Story
 date: '2026-06-17 23:32:34 '
+last_modified_at: '2026-06-17 23:32:34 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_false_radar_targets_b44d51-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_false_radar_targets_b44d51-Illustration-1.webp

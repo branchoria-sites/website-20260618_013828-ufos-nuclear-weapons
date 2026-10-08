@@ -266,6 +266,7 @@ next_link:
   short_title: Echo Logs
   heading_title: The Missile Failure That Became a UFO Argument
 date: '2026-06-18 00:05:59 '
+last_modified_at: '2026-06-18 00:05:59 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_drone_overflight_wea_d0dc91-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_drone_overflight_wea_d0dc91-Illustration-1.webp

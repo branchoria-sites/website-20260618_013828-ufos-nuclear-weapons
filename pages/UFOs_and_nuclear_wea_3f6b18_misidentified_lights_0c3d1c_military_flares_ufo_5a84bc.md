@@ -242,6 +242,7 @@ prev_link:
   short_title: Bright Planets
   heading_title: When Venus Looks Like a Base Intruder
 date: '2026-06-18 00:59:57 '
+last_modified_at: '2026-06-18 00:59:57 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c_military_flares_ufo_5a84bc-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_misidentified_lights_0c3d1c_military_flares_ufo_5a84bc-Illustration-1.webp

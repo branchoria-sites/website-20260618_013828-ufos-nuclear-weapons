@@ -260,6 +260,7 @@ next_link:
   short_title: No Shootdown
   heading_title: Why Security Guards May Not Shoot Down Drones
 date: '2026-06-18 01:09:55 '
+last_modified_at: '2026-06-18 01:09:55 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_faa_drone_restrictio_338935-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_faa_drone_restrictio_338935-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Proof Standard
   heading_title: What Would Actually Prove UFO Interference?
 date: '2026-06-18 00:54:23 '
+last_modified_at: '2026-06-18 00:54:23 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_power_fault_explanat_dc0658-Illustration-1.webp

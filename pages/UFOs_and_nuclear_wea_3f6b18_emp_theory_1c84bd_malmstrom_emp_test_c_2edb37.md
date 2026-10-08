@@ -266,6 +266,7 @@ next_link:
   short_title: Logic Coupler
   heading_title: The Small Component Behind a Big Failure
 date: '2026-06-17 23:10:52 '
+last_modified_at: '2026-06-17 23:10:52 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_malmstrom_emp_test_c_2edb37-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_malmstrom_emp_test_c_2edb37-Illustration-1.webp

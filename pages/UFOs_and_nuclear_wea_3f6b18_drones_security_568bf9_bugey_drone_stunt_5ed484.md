@@ -272,6 +272,7 @@ next_link:
   short_title: Detection
   heading_title: Why drones are so hard to spot
 date: '2026-06-17 23:26:35 '
+last_modified_at: '2026-06-17 23:26:35 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_bugey_drone_stunt_5ed484-Illustration-1.webp

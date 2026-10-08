@@ -444,6 +444,7 @@ next_link:
   short_title: Proof Threshold
   heading_title: What Evidence Would Actually Prove It?
 date: '2026-06-18 00:20:15 '
+last_modified_at: '2026-06-18 00:20:15 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_cold_war_anxiety_672cc4_missile_fields_ufo_s_e004bb-Illustration-1.webp

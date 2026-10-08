@@ -272,6 +272,7 @@ next_link:
   short_title: Missing Context
   heading_title: Why Declassified UFO Files Can Mislead
 date: '2026-06-18 01:18:15 '
+last_modified_at: '2026-06-18 01:18:15 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_missile_records_vs_c_eef043-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_missile_records_vs_c_eef043-Illustration-1.webp

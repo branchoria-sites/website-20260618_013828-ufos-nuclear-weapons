@@ -266,6 +266,7 @@ next_link:
   short_title: Causation Gap
   heading_title: Did the sighting cause the missile fault?
 date: '2026-06-18 01:03:25 '
+last_modified_at: '2026-06-18 01:03:25 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_aaro_findings_witnes_01010c-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_official_vs_witness_a38d25_aaro_findings_witnes_01010c-Illustration-1.webp

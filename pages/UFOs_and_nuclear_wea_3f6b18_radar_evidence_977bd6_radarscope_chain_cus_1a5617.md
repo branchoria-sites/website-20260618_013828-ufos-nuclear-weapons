@@ -260,6 +260,7 @@ next_link:
   short_title: Response Line
   heading_title: When Should a Radar Unknown Trigger Security?
 date: '2026-06-17 23:43:44 '
+last_modified_at: '2026-06-17 23:43:44 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6_radarscope_chain_cus_1a5617-Illustration-1.webp

@@ -482,6 +482,7 @@ next_link:
   short_title: Drones
   heading_title: Could Drones Explain Modern UFO Alarms?
 date: '2026-06-17 22:58:36 '
+last_modified_at: '2026-06-17 22:58:36 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d-overview.webp

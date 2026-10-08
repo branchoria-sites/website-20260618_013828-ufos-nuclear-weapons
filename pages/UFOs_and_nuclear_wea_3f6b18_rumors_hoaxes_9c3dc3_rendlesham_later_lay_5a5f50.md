@@ -266,6 +266,7 @@ next_link:
   short_title: Shutdown Claims
   heading_title: How Missile Faults Become UFO Shutdown Stories
 date: '2026-06-17 23:36:29 '
+last_modified_at: '2026-06-17 23:36:29 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_rendlesham_later_lay_5a5f50-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_rendlesham_later_lay_5a5f50-Illustration-1.webp

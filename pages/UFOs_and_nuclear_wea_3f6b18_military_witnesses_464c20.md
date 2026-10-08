@@ -464,6 +464,7 @@ prev_link:
   short_title: Vandenberg
   heading_title: What The Vandenberg Missile Stories Need
 date: '2026-06-17 22:44:11 '
+last_modified_at: '2026-06-17 22:44:11 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20-overview.webp

@@ -266,6 +266,7 @@ next_link:
   short_title: False Briefings
   heading_title: When Fake Briefings Become UFO Evidence
 date: '2026-06-17 23:33:34 '
+last_modified_at: '2026-06-17 23:33:34 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_base_gossip_evidence_d9b81b-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rumors_hoaxes_9c3dc3_base_gossip_evidence_d9b81b-Illustration-1.webp

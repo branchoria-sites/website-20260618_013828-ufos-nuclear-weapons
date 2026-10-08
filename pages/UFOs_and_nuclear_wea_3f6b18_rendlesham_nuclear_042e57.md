@@ -476,6 +476,7 @@ next_link:
   short_title: Reporting
   heading_title: What A Useful UFO Report Needs
 date: '2026-06-17 22:47:27 '
+last_modified_at: '2026-06-17 22:47:27 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57-overview.webp

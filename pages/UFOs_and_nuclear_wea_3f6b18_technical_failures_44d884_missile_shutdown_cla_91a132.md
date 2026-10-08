@@ -272,6 +272,7 @@ next_link:
   short_title: Timeline Tests
   heading_title: Do Witness Reports Match the Fault Timeline?
 date: '2026-06-18 00:53:43 '
+last_modified_at: '2026-06-18 00:53:43 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_missile_shutdown_cla_91a132-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_missile_shutdown_cla_91a132-Illustration-1.webp

@@ -260,6 +260,7 @@ next_link:
   short_title: UK Zones
   heading_title: How Britain Restricts Flights Near Nuclear Sites
 date: '2026-06-18 01:09:53 '
+last_modified_at: '2026-06-18 01:09:53 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_nuclear_drone_interd_379329-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_restricted_airspace_0a630e_nuclear_drone_interd_379329-Illustration-1.webp

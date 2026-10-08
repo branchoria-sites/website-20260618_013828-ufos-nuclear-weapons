@@ -444,6 +444,7 @@ next_link:
   short_title: Radar
   heading_title: When Radar Helps A UFO Case
 date: '2026-06-18 01:22:46 '
+last_modified_at: '2026-06-18 01:22:46 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_alien_claim_proof_th_a1831a-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_alien_claim_proof_th_a1831a-Illustration-1.webp

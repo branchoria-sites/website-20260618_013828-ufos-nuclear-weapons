@@ -266,6 +266,7 @@ prev_link:
   short_title: Light glints
   heading_title: Could sunlight glints look like a UFO attack?
 date: '2026-06-18 00:27:17 '
+last_modified_at: '2026-06-18 00:27:17 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_launch_logs_telemetr_4257ac-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_launch_logs_telemetr_4257ac-Illustration-1.webp

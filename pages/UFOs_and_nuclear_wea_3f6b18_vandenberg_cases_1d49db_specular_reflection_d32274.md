@@ -272,6 +272,7 @@ next_link:
   short_title: Missing records
   heading_title: What records could settle the Vandenberg case?
 date: '2026-06-18 00:10:34 '
+last_modified_at: '2026-06-18 00:10:34 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_vandenberg_cases_1d49db_specular_reflection_d32274-Illustration-1.webp

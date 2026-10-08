@@ -272,6 +272,7 @@ next_link:
   short_title: Report channels
   heading_title: Where Would a 1977 UFO Report Go?
 date: '2026-06-17 23:59:25 '
+last_modified_at: '2026-06-17 23:59:25 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_ellsworth_missing_re_6b90ca-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_ellsworth_missing_re_6b90ca-Illustration-1.webp

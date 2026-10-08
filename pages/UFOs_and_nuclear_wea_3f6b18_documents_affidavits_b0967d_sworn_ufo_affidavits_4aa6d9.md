@@ -266,6 +266,7 @@ next_link:
   short_title: Missile Records
   heading_title: When Missile Records Do Not Prove UFO Cause
 date: '2026-06-18 01:20:56 '
+last_modified_at: '2026-06-18 01:20:56 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_sworn_ufo_affidavits_4aa6d9-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_sworn_ufo_affidavits_4aa6d9-Illustration-1.webp

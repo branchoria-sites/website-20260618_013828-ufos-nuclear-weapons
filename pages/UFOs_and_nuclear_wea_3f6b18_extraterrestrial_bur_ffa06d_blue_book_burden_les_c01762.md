@@ -444,6 +444,7 @@ next_link:
   short_title: Case Compare
   heading_title: Which Nuclear UFO Cases Are Strongest?
 date: '2026-06-18 01:23:05 '
+last_modified_at: '2026-06-18 01:23:05 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_blue_book_burden_les_c01762-Illustration-1.webp

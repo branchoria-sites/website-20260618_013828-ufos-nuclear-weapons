@@ -266,6 +266,7 @@ next_link:
   short_title: Bugey stunt
   heading_title: What a Superman drone proved at Bugey
 date: '2026-06-17 23:55:59 '
+last_modified_at: '2026-06-17 23:55:59 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_response_authority_g_ae5a4c-Illustration-1.webp

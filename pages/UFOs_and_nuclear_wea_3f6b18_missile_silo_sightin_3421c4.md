@@ -482,6 +482,7 @@ next_link:
   short_title: Storage Sites
   heading_title: Why Weapons Storage Claims Are So Hard To Prove
 date: '2026-06-17 23:01:41 '
+last_modified_at: '2026-06-17 23:01:41 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_missile_silo_sightin_3421c4-overview.webp

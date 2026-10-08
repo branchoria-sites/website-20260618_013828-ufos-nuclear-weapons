@@ -260,6 +260,7 @@ next_link:
   short_title: Drone Probes
   heading_title: What a Drone Can Learn Near a Nuclear Site
 date: '2026-06-18 00:08:15 '
+last_modified_at: '2026-06-18 00:08:15 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_poor_uap_data_readin_8ca51d-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_poor_uap_data_readin_8ca51d-Illustration-1.webp

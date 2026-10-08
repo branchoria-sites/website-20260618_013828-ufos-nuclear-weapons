@@ -260,6 +260,7 @@ next_link:
   short_title: U 2 reports
   heading_title: Why U 2 flights looked impossible from below
 date: '2026-06-18 00:14:34 '
+last_modified_at: '2026-06-18 00:14:34 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_mogul_roswell_confus_cd23d6-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_classified_tests_67adca_mogul_roswell_confus_cd23d6-Illustration-1.webp

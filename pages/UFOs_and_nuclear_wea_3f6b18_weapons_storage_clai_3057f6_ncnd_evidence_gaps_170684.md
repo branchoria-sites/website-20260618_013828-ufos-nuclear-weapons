@@ -266,6 +266,7 @@ next_link:
   short_title: Near or Inside
   heading_title: Was It Really Over the Weapons Area?
 date: '2026-06-18 00:57:04 '
+last_modified_at: '2026-06-18 00:57:04 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_ncnd_evidence_gaps_170684-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_ncnd_evidence_gaps_170684-Illustration-1.webp

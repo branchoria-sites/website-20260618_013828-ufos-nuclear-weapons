@@ -266,6 +266,7 @@ prev_link:
   short_title: No Drone Zones
   heading_title: Why weapons sites reveal so little
 date: '2026-06-17 23:05:01 '
+last_modified_at: '2026-06-17 23:05:01 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_ufo_or_drone_3423b7-Illustration-1.webp

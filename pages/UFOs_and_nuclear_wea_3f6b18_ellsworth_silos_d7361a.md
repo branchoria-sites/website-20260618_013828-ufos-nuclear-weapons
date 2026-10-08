@@ -482,6 +482,7 @@ next_link:
   short_title: EMP Claims
   heading_title: Could EMP Tests Explain Malmstrom?
 date: '2026-06-17 22:30:17 '
+last_modified_at: '2026-06-17 22:30:17 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a-overview.webp

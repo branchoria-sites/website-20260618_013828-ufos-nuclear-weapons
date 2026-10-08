@@ -266,6 +266,7 @@ prev_link:
   short_title: Record Gap
   heading_title: When Later Testimony Changes the Case
 date: '2026-06-17 23:51:56 '
+last_modified_at: '2026-06-17 23:51:56 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_rendlesham_compariso_3f462f-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_rendlesham_compariso_3f462f-Illustration-1.webp

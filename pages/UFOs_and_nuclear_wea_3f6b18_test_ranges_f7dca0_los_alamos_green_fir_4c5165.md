@@ -266,6 +266,7 @@ next_link:
   short_title: Vandenberg
   heading_title: Why Vandenberg launches spark UFO scares
 date: '2026-06-17 23:21:40 '
+last_modified_at: '2026-06-17 23:21:40 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_los_alamos_green_fir_4c5165-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_los_alamos_green_fir_4c5165-Illustration-1.webp

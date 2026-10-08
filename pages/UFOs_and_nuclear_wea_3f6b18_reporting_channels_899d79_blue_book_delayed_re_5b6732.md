@@ -260,6 +260,7 @@ next_link:
   short_title: Boundary errors
   heading_title: Was it over the site or nearby?
 date: '2026-06-18 00:47:59 '
+last_modified_at: '2026-06-18 00:47:59 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_blue_book_delayed_re_5b6732-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79_blue_book_delayed_re_5b6732-Illustration-1.webp

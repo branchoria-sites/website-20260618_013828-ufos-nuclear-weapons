@@ -248,6 +248,7 @@ prev_link:
   short_title: Robertson
   heading_title: When Debunking Became Part of the Mystery
 date: '2026-06-18 00:58:05 '
+last_modified_at: '2026-06-18 00:58:05 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11_classified_projects_c6b822-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_disinformation_mytho_c94b11_classified_projects_c6b822-Illustration-1.webp

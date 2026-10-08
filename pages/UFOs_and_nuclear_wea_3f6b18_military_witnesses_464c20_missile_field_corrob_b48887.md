@@ -254,6 +254,7 @@ next_link:
   short_title: Late Accounts
   heading_title: Why old UFO memories become harder to test
 date: '2026-06-18 00:42:09 '
+last_modified_at: '2026-06-18 00:42:09 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_missile_field_corrob_b48887-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_missile_field_corrob_b48887-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Witness Claims
   heading_title: When Military Witnesses Say Nukes Were Involved
 date: '2026-06-18 01:11:58 '
+last_modified_at: '2026-06-18 01:11:58 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_twin_base_confusion_bace41-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_weapons_storage_clai_3057f6_twin_base_confusion_bace41-Illustration-1.webp

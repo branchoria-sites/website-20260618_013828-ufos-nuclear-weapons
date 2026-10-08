@@ -266,6 +266,7 @@ next_link:
   short_title: Power Faults
   heading_title: The Ordinary Faults Behind Alarming Missile Failures
 date: '2026-06-18 00:35:38 '
+last_modified_at: '2026-06-18 00:35:38 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884_site_monitorability_d52a2a-Illustration-1.webp

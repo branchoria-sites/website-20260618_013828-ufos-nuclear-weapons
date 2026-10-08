@@ -272,6 +272,7 @@ next_link:
   short_title: Proximity Gap
   heading_title: Near Nuclear Weapons Is Not the Same as Interference
 date: '2026-06-17 23:47:53 '
+last_modified_at: '2026-06-17 23:47:53 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_incursion_not_exotic_b79d4a-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_incursion_not_exotic_b79d4a-Illustration-1.webp

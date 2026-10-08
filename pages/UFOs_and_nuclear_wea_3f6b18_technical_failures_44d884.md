@@ -482,6 +482,7 @@ next_link:
   short_title: Malmstrom
   heading_title: What Happened At Malmstrom In 1967?
 date: '2026-06-17 22:50:45 '
+last_modified_at: '2026-06-17 22:50:45 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_technical_failures_44d884-overview.webp

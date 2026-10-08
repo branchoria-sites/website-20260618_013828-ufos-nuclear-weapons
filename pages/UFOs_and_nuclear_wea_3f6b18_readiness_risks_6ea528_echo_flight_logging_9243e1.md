@@ -266,6 +266,7 @@ next_link:
   short_title: Palo Verde
   heading_title: Why Palo Verde Was More Than a Drone Sighting
 date: '2026-06-17 23:45:46 '
+last_modified_at: '2026-06-17 23:45:46 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_readiness_risks_6ea528_echo_flight_logging_9243e1-Illustration-1.webp

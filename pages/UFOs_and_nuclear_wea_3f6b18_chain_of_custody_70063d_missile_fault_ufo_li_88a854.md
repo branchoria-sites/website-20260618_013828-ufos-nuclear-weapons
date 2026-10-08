@@ -254,6 +254,7 @@ next_link:
   short_title: Lost Film
   heading_title: Why missing film keeps UFO cases alive
 date: '2026-06-18 00:12:21 '
+last_modified_at: '2026-06-18 00:12:21 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_missile_fault_ufo_li_88a854-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_chain_of_custody_70063d_missile_fault_ufo_li_88a854-Illustration-1.webp

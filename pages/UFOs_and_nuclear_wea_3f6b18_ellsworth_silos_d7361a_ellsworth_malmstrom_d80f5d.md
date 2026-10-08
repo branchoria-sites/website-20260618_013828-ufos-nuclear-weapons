@@ -272,6 +272,7 @@ next_link:
   short_title: Missing records
   heading_title: Which Records Would Actually Matter?
 date: '2026-06-17 23:38:23 '
+last_modified_at: '2026-06-17 23:38:23 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_ellsworth_malmstrom_d80f5d-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_ellsworth_silos_d7361a_ellsworth_malmstrom_d80f5d-Illustration-1.webp

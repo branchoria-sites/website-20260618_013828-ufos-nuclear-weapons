@@ -444,6 +444,7 @@ next_link:
   short_title: Minot
   heading_title: Why The Minot Case Still Matters
 date: '2026-06-18 00:58:47 '
+last_modified_at: '2026-06-18 00:58:47 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_malmstrom_causation_fae75e-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_extraterrestrial_bur_ffa06d_malmstrom_causation_fae75e-Illustration-1.webp

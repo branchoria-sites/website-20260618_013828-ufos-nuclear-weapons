@@ -260,6 +260,7 @@ next_link:
   short_title: Bentwaters
   heading_title: Why Bentwaters changed the stakes
 date: '2026-06-18 00:10:09 '
+last_modified_at: '2026-06-18 00:10:09 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_light_beam_claims_1351b3-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_rendlesham_nuclear_042e57_light_beam_claims_1351b3-Illustration-1.webp

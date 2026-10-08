@@ -476,6 +476,7 @@ next_link:
   short_title: Rumors
   heading_title: How Rumors Grow Around Real Incidents
 date: '2026-06-17 22:47:47 '
+last_modified_at: '2026-06-17 22:47:47 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_reporting_channels_899d79-overview.webp

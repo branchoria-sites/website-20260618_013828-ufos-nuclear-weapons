@@ -272,6 +272,7 @@ next_link:
   short_title: Record Timing
   heading_title: Why Timing Changes UFO Evidence
 date: '2026-06-18 01:18:49 '
+last_modified_at: '2026-06-18 01:18:49 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_partial_confirmation_d46b9c-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_documents_affidavits_b0967d_partial_confirmation_d46b9c-Illustration-1.webp

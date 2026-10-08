@@ -272,6 +272,7 @@ next_link:
   short_title: Witnesses
   heading_title: Why the Veterans Made Reporters Listen
 date: '2026-06-18 00:01:59 '
+last_modified_at: '2026-06-18 00:01:59 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_blue_book_to_uap_deb_f02f21-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_blue_book_to_uap_deb_f02f21-Illustration-1.webp

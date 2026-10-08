@@ -470,6 +470,7 @@ next_link:
   short_title: Readiness
   heading_title: Why Mundane UFOs Can Still Matter
 date: '2026-06-17 22:27:04 '
+last_modified_at: '2026-06-17 22:27:04 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6-overview-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_radar_evidence_977bd6-overview.webp

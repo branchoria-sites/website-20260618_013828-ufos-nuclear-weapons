@@ -260,6 +260,7 @@ next_link:
   short_title: Decoys
   heading_title: Can missile decoys look like UFO attacks?
 date: '2026-06-17 23:22:01 '
+last_modified_at: '2026-06-17 23:22:01 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_blue_book_range_limi_16297c-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_test_ranges_f7dca0_blue_book_range_limi_16297c-Illustration-1.webp

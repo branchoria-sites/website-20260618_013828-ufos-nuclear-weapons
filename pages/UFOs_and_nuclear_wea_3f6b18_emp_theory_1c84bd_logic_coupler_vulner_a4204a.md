@@ -272,6 +272,7 @@ next_link:
   short_title: Noise Pulse
   heading_title: Could One Pulse Drop Ten Missiles?
 date: '2026-06-17 23:09:44 '
+last_modified_at: '2026-06-17 23:09:44 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_logic_coupler_vulner_a4204a-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Media Impact
   heading_title: How a UFO Nukes Claim Went Mainstream
 date: '2026-06-18 00:03:32 '
+last_modified_at: '2026-06-18 00:03:32 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_press_club_disclosur_03c994-Illustration-1.webp

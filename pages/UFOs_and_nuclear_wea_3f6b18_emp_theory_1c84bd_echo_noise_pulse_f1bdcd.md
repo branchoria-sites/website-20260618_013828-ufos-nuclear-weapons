@@ -272,6 +272,7 @@ next_link:
   short_title: Record Gap
   heading_title: Where the Documents and Witnesses Diverge
 date: '2026-06-17 23:03:01 '
+last_modified_at: '2026-06-17 23:03:01 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_echo_noise_pulse_f1bdcd-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_echo_noise_pulse_f1bdcd-Illustration-1.webp

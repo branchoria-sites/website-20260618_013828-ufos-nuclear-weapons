@@ -266,6 +266,7 @@ next_link:
   short_title: Incursion Test
   heading_title: A Serious Incursion Is Not Always Exotic
 date: '2026-06-17 23:38:08 '
+last_modified_at: '2026-06-17 23:38:08 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_case_comparison_f9d52f_1975_sac_incursions_197ac9-Illustration-1.webp

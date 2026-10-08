@@ -272,6 +272,7 @@ next_link:
   short_title: French wave
   heading_title: Why France's drone wave still matters
 date: '2026-06-17 23:54:16 '
+last_modified_at: '2026-06-17 23:54:16 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_drone_detection_laye_bee5ac-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_drones_security_568bf9_drone_detection_laye_bee5ac-Illustration-1.webp

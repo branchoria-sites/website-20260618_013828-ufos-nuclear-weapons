@@ -254,6 +254,7 @@ prev_link:
   short_title: Rendlesham Drift
   heading_title: How Rendlesham changed after the first reports
 date: '2026-06-18 00:45:12 '
+last_modified_at: '2026-06-18 00:45:12 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_stress_confidence_me_40c337-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_military_witnesses_464c20_stress_confidence_me_40c337-Illustration-1.webp

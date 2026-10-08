@@ -266,6 +266,7 @@ prev_link:
   short_title: Then and Later
   heading_title: The Bridge Between Blue Book and UAP Hearings
 date: '2026-06-18 00:04:37 '
+last_modified_at: '2026-06-18 00:04:37 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_press_club_2010_dac1d8_veteran_witness_cred_8ca087-Illustration-1.webp

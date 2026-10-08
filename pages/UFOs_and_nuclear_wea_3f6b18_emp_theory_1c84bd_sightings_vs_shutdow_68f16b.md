@@ -272,6 +272,7 @@ next_link:
   short_title: System Fixes
   heading_title: What the Fixes Reveal About the Failure
 date: '2026-06-17 23:12:46 '
+last_modified_at: '2026-06-17 23:12:46 '
 header:
   og_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b-Illustration-1-social.jpg
   preview_image: /assets/images/UFOs_and_nuclear_wea_3f6b18_emp_theory_1c84bd_sightings_vs_shutdow_68f16b-Illustration-1.webp
