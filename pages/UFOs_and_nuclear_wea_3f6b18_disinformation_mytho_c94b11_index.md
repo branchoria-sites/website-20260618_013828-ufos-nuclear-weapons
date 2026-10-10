@@ -4,7 +4,7 @@ title_full: Disinfo Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufos-and-nuclear-wea-3f6b18/
+permalink: /ufos-and-nuclear-wea-3f6b18-disinfo/
 description: Focused pages that expand on Disinfo.
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
