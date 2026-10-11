@@ -809,7 +809,7 @@ For researchers examining [UFOs and nuclear weapons]({{ 'ufos-and-nuclear-weapon
 
 17.<a id="endnote-17"></a>
    Source: nypost.com  
-   Link:<a href="https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51</a>  
+   Link:https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>According to an investigation reviewed by the Wall Street Journal, a retired Air Force colonel admitted to spreading doctored UFO photos...</p></details>
 
 18.<a id="endnote-18"></a>

@@ -1197,7 +1197,7 @@ The most balanced conclusion is that rumours neither prove nor disprove the UFO-
 
 39.<a id="endnote-39"></a>
    Source: nypost.com  
-   Link:<a href="https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51</a>  
+   Link:https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>According to an investigation reviewed by the Wall Street Journal, a retired Air Force colonel admitted to spreading doctored UFO photos...</p></details>
 
 40.<a id="endnote-40"></a>

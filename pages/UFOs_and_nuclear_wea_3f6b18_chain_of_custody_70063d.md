@@ -520,7 +520,7 @@ The lesson for UFOs and nuclear weapons is direct. A [missing film]({{ 'missing-
 
 Missing records are often used in opposite ways. Believers may treat absence as evidence of concealment. Sceptics may treat absence as evidence that nothing important happened. Both moves can be too quick.
 
-Rendlesham Forest shows why. The 1980 incident occurred near RAF Woodbridge and RAF Bentwaters, bases used by the US Air Force, and later became linked in public discussion to Cold War security and alleged nuclear storage. The UK National Archives holds the Halt memorandum and Ministry of Defence correspondence, and its own guide describes the case as involving US Air Force personnel who reported lights in the forest, alleged landing traces and radiation readings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">defe 241948</span></span></span>
+Rendlesham Forest shows why. The 1980 incident occurred near RAF Woodbridge and RAF Bentwaters, bases used by the US Air Force, and later became linked in public discussion to Cold War security and alleged nuclear storage. The UK National Archives holds the Halt memorandum and Ministry of Defence correspondence, and its own guide describes the case as involving US Air Force personnel who reported lights in the forest, alleged landing traces and radiation readings.<span class="citation-link-wrap">[The National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">defe 241948</span></span></span>
 
 Yet the surviving record is uneven. There is the Halt memo. There is the Halt tape transcript. There are witness statements and later interviews. There are police observations and sceptical reconstructions, including the argument that some lights corresponded with Orfordness Lighthouse and stars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianridpath.com">[Ian Ridpath]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianridpath.com</span><span class="citation-popover-snippet">Open source on ianridpath.com.</span></span></span>
 
@@ -1006,7 +1006,7 @@ The most credible approach is neither reflexive dismissal nor automatic belief. 
 6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
