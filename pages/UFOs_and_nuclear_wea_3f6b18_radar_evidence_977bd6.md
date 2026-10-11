@@ -1032,7 +1032,6 @@ For the nuclear-weapons branch of the UFO subject, radar evidence is therefore b
 13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 14.<a id="endnote-14"></a>
    Source: war.gov  
