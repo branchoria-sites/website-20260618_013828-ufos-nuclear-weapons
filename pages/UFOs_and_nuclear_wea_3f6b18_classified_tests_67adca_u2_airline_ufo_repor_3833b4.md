@@ -760,7 +760,7 @@ For historians of UFOs and nuclear weapons, the U-2 demonstrates how classified 
 4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: Section 8  
-   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified</a>  
+   Link:https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_[Unidentified  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on US Government Involvement with UAP, Volume I10 May 2024 — The report noted that UFO reports would spike when the U-2...</p></details>
    Published: May 2024  
 

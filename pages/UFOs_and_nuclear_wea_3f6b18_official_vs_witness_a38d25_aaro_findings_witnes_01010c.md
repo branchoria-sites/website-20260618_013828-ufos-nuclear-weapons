@@ -907,7 +907,7 @@ The result is a narrower but still active controversy. The debate is no longer p
 
 26.<a id="endnote-26"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report, Volume I, 2024, DoD / All...8 May 2026 — AARO&#x27;s February 2024 mandated historical record report finds no...</p></details>
    Published: May 2026  
 
