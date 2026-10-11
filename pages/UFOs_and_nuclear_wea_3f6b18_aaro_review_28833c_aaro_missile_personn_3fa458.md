@@ -812,7 +812,6 @@ As a result, the interviews serve as investigative starting points rather than f
 
 10.<a id="endnote-10"></a>
    Source: nypost.com  
-   Link:https://nypost.com/2025/06/08/us-news/pentagon-secretly-planted-[area-51  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>According to an investigation reviewed by the Wall Street Journal, a retired Air Force colonel admitted to spreading doctored UFO photos...</p></details>
 
 11.<a id="endnote-11"></a>

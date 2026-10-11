@@ -1006,7 +1006,6 @@ The most credible approach is neither reflexive dismissal nor automatic belief. 
 6.<a id="endnote-6"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  

@@ -1051,7 +1051,6 @@ By that standard, the nuclear-UFO field contains serious historical cases worth 
 33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 34.<a id="endnote-34"></a>
    Source: cdn.nationalarchives.gov.uk  
